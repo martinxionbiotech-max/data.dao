@@ -1,0 +1,28 @@
+site_name: Dao Data
+site_description: Structured data hub for the Dao knowledge base — entities, relationships, sources and schemas
+site_url: https://example.com/
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+markdown_extensions:
+  - tables
+  - admonition
+nav:
+  - Home: index.md
+  - Entities:
+      - Concepts: entities/concepts.md
+      - Practices: entities/practices.md
+      - People: entities/people.md
+      - Texts: entities/texts.md
+  - Experience System:
+      - Experiences: experiences/index.md
+      - Patterns: experiences/patterns.md
+      - Questions: experiences/questions.md
+  - Knowledge Graph:
+      - Relationships: graph/relationships.md
+      - Sources Registry: graph/sources.md
+  - Schemas:
+      - Data Schema: schemas/data-schema.md
+      - Evidence System: schemas/evidence-system.md
