@@ -1,24 +1,24 @@
 # Relationship Registry
 
-Knowledge-graph edges — 626 total. Top-level key: `items` in
+Knowledge-graph edges — 668 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
 
 | relation | count |
 |---|---|
-| associated_with | 33 |
+| associated_with | 34 |
 | authored | 2 |
-| concerns | 183 |
+| concerns | 187 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 94 |
+| described_in | 97 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 268 |
-| translated_as | 22 |
+| related_to | 301 |
+| translated_as | 23 |
 
 ## All edges
 
@@ -54,6 +54,13 @@ Knowledge-graph edges — 626 total. Top-level key: `items` in
 | boatman | xinzhai-passage | related_to |
 | boatman | zhuangzi | described_in |
 | boatman | zuowang | concerns |
+| boshun-archer | artisan-qing | related_to |
+| boshun-archer | boatman | related_to |
+| boshun-archer | cicada-catcher | related_to |
+| boshun-archer | liezi | related_to |
+| boshun-archer | wooden-rooster | related_to |
+| boshun-archer | zhuangzi | described_in |
+| boshun-archer | zuochi | related_to |
 | breath-stopping-anxiety | exp-008-breath-stopping | concerns |
 | breath-stopping-anxiety | taixi | concerns |
 | breath-stopping-anxiety | tiaoxi | concerns |
@@ -165,6 +172,13 @@ Knowledge-graph edges — 626 total. Top-level key: `items` in
 | daodejing-63 | daodejing-22 | related_to |
 | daodejing-63 | de | concerns |
 | daodejing-63 | wuwei | concerns |
+| daodejing-64 | daodejing | translated_as |
+| daodejing-64 | daodejing-48 | related_to |
+| daodejing-64 | daodejing-63 | related_to |
+| daodejing-64 | how-long-should-i-sit | related_to |
+| daodejing-64 | i-feel-nothing-when-i-sit | related_to |
+| daodejing-64 | wuwei | concerns |
+| daodejing-64 | ziran | concerns |
 | daoshu-neiguan-zuowang | daoshu | described_in |
 | daoshu-neiguan-zuowang | neiguan | concerns |
 | daoshu-neiguan-zuowang | zuowang | concerns |
@@ -235,6 +249,11 @@ Knowledge-graph edges — 626 total. Top-level key: `items` in
 | exp-021-prostrations-channel-circuit | exp-016-nine-dhyanas-map | related_to |
 | exp-021-prostrations-channel-circuit | exp-018-halflotus-to-full-lotus | related_to |
 | exp-021-prostrations-channel-circuit | exp-019-one-remedy-body | related_to |
+| exp-022-its-all-theatre | breath-stopping-anxiety | related_to |
+| exp-022-its-all-theatre | exp-008-breath-stopping | related_to |
+| exp-022-its-all-theatre | exp-016-nine-dhyanas-map | related_to |
+| exp-022-its-all-theatre | exp-018-halflotus-to-full-lotus | related_to |
+| exp-022-its-all-theatre | how-long-should-i-sit | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -259,6 +278,12 @@ Knowledge-graph edges — 626 total. Top-level key: `items` in
 | guangchengzi | jingzuo | concerns |
 | guangchengzi | shouyi | concerns |
 | guangchengzi | zhuangzi | described_in |
+| guo-xiang | da-kuai | related_to |
+| guo-xiang | does-daoism-believe-in-a-creator | related_to |
+| guo-xiang | wang-bi | related_to |
+| guo-xiang | zhen-zai | related_to |
+| guo-xiang | zhuang-zhou | related_to |
+| guo-xiang | zhuangzi | associated_with |
 | handan-walk | combine-zuowang-mindfulness | concerns |
 | handan-walk | fish-happiness | related_to |
 | handan-walk | zhuangzi | described_in |
@@ -301,6 +326,11 @@ Knowledge-graph edges — 626 total. Top-level key: `items` in
 | ji-ren | sanghu-friends | related_to |
 | ji-ren | zhuangzi | described_in |
 | ji-ren | ziran | concerns |
+| ji-xin | bao-weng-guan-qi | related_to |
+| ji-xin | xinzhai | concerns |
+| ji-xin | xushi-sheng-bai | related_to |
+| ji-xin | zhuangzi | described_in |
+| ji-xin | zuochi | related_to |
 | jiafuzuo | jingzuo | concerns |
 | jiafuzuo | sitting-protocol | related_to |
 | jian-du | dao | concerns |
@@ -427,6 +457,13 @@ Knowledge-graph edges — 626 total. Top-level key: `items` in
 | shangqing-revelations | kou-qianzhi-reform | related_to |
 | shangqing-revelations | yang-xi | associated_with |
 | shen | jing-qi-shen | concerns |
+| should-i-meditate-when-sick | baopuzi | related_to |
+| should-i-meditate-when-sick | can-meditation-cure-illness | related_to |
+| should-i-meditate-when-sick | daodejing-64 | related_to |
+| should-i-meditate-when-sick | exp-019-one-remedy-body | related_to |
+| should-i-meditate-when-sick | exp-021-prostrations-channel-circuit | related_to |
+| should-i-meditate-when-sick | mindfulness-meta-analysis-2014 | related_to |
+| should-i-meditate-when-sick | taiping-jing | related_to |
 | shouyi | baopuzi-shouyi | described_in |
 | shouyi | daodejing | described_in |
 | shouyi | daodejing-10-shouyi | translated_as |
@@ -620,6 +657,11 @@ Knowledge-graph edges — 626 total. Top-level key: `items` in
 | zhen-zai | ziran | concerns |
 | zhi-shui | jing | concerns |
 | zhi-shui | zhuangzi | described_in |
+| zhili-shu | liang-wang | related_to |
+| zhili-shu | mountain-tree-goose | related_to |
+| zhili-shu | useless-gourd | related_to |
+| zhili-shu | zhuangzi | described_in |
+| zhili-shu | zuowang | concerns |
 | zhiyi | xiao-zhiguan | authored |
 | zhuang-zhou | zhuangzi | associated_with |
 | zhuangzi-compilation | zhuang-zhou | concerns |

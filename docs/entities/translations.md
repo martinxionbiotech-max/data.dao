@@ -1,6 +1,6 @@
 # Translations
 
-translation records from the translations content collection — 23 records.
+translation records from the translations content collection — 24 records.
 
 | id | title | sourceText | chapter |
 |---|---|---|
@@ -18,6 +18,7 @@ translation records from the translations content collection — 23 records.
 | daodejing-45 | The Great Accomplishment Looks Unfinished (Daodejing 45) | daodejing | Ch. 45 |
 | daodejing-48 | Learning Adds, the Way Pairs Away (Daodejing 48) | daodejing | Ch. 48 |
 | daodejing-63 | Planning the Hard in Its Easy Stage (Daodejing 63) | daodejing | Ch. 63 |
+| daodejing-64 | A Journey of a Thousand Li Begins Under the Foot (Daodejing 64) | daodejing | Ch. 64 |
 | drumming-basin-passage | Drumming on the Basin: The Four Transformations (Word by Word) | zhuangzi | Ch. 18 (Zhile), the basin scene |
 | qingjing-jing-opening | Qingjing Jing Opening and Core: Full Translation | qingjing-jing |  |
 | qiwulun-wu-sang-wo | 'I Have Lost Myself' — the Qiwulun's Opening (Zhuangzi 2) | zhuangzi |  |

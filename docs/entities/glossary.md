@@ -1,6 +1,6 @@
 # Glossary
 
-term records from the glossary content collection — 35 records.
+term records from the glossary content collection — 36 records.
 
 | id | title | chinese | pinyin | literalMeaning | recommended |
 |---|---|---|---|---|
@@ -11,6 +11,7 @@ term records from the glossary content collection — 35 records.
 | de | De | 德 | dé | virtue, power, inner potency | keep romanized as De/dé where technical; 'virtue/power' gloss on first use |
 | guan | Guan | 观 | guān | to observe; to watch; to look deeply into | observation (inner observation where the target is the interior); 'contemplation' only with Buddhist contexts flagged |
 | ji-ren | Jiren (畸人) | 畸人 | jīrén |  |  |
+| ji-xin | Jixin (机心) | 机心 | jīxīn |  |  |
 | jiafuzuo | Jiafuzuo | 结跏趺坐 | jiéjiāfūzuò | bound sitting with folded soles: 结 tie/bind, 跏 cross, 趺 instep/sole, 坐 sit — the ankles and insteps crossed and settled on the thighs | 'full-lotus posture' when the double-crossed form is meant; 'cross-legged sitting' for the general family (and never just 'lotus,' which is a flower loan) |
 | jian-du | Jiandu (见独) | 见独 | jiàndú |  |  |
 | jing-qi-shen | Jing-Qi-Shen | 精气神 | jīng-qì-shén | essence–vitality–spirit | the three treasures (jing, qi, shen), glossed once; never 'body-fluids-energy-mind' literally |

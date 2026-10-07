@@ -1,6 +1,6 @@
 # Questions
 
-The question collection — 14 records, with answer states.
+The question collection — 15 records, with answer states.
 
 | id | answer state | question | page |
 |---|---|---|---|
@@ -14,6 +14,7 @@ The question collection — 14 records, with answer states.
 | i-feel-nothing-when-i-sit | answered | I sit and feel nothing. No warmth, no tingling, no peace — just quiet boredom. Am I doing it wrong? | /questions/i-feel-nothing-when-i-sit/ |
 | must-i-sit-cross-legged | answered | Do I have to sit in full lotus (cross-legged) for meditation to 'count'? My legs hurt badly when I try. | /questions/must-i-sit-cross-legged/ |
 | qi-belief-necessary | open | Do I need to believe in qi to benefit from Daoist sitting practices? | /questions/qi-belief-necessary/ |
+| should-i-meditate-when-sick | answered | Should I keep up my sitting practice when I'm sick? The classical texts claim these practices heal — and some teachers say medical rules don't apply to practitioners. | /questions/should-i-meditate-when-sick/ |
 | warmth-tingling-when-sitting | answered | When I sit, I sometimes feel warmth spreading, or tingling and small movements. Is this normal, and should I do anything about it? | /questions/warmth-tingling-when-sitting/ |
 | what-is-stillness | answered | What is 'stillness' (静 jing) in the Daoist sense — just being quiet, or something more? | /questions/what-is-stillness/ |
 | zuowang-safety-without-teacher | open | Can I practice Daoist sitting (zuowang / jingzuo) without a teacher? | /questions/zuowang-safety-without-teacher/ |

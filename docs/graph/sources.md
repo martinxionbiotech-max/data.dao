@@ -1,6 +1,6 @@
 # Sources Registry
 
-All sources used on the site — 114 total. Registry file:
+All sources used on the site — 119 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
@@ -9,11 +9,11 @@ All sources used on the site — 114 total. Registry file:
 |---|---|
 | academic_study | 2 |
 | commentary | 2 |
-| community | 18 |
-| historical | 4 |
+| community | 19 |
+| historical | 5 |
 | historical_record | 1 |
 | historical_text | 1 |
-| primary_text | 61 |
+| primary_text | 64 |
 | reference | 1 |
 | reference_work | 1 |
 | research | 4 |
@@ -35,6 +35,7 @@ All sources used on the site — 114 total. Registry file:
 | 163-taishi-42 | Taishi cultivation Q&A no. 42 (163.com community column): solving body problems through practice — breath practice as the one remedy | community | /experiences/exp-019-one-remedy-body/ |
 | 163-taishi-46 | Taishi cultivation Q&A no. 46 (163.com community column): the channel circuit, the 864-prostration regime, the thermostat explanation, and the anti-display joke | community | /experiences/exp-021-prostrations-channel-circuit/ |
 | 163-taishi-47 | Taishi cultivation Q&A no. 47 (163.com community column, 2021): what is concentration — the nine dhyānas and how far an ordinary person can go | community | /experiences/exp-016-nine-dhyanas-map/ |
+| 163-taishi-48 | Taishi cultivation Q&A no. 48 (163.com community column): the theatre doctrine, the daily-sitting rule, the deep-concentration reassurance, and the yoga ceiling | community | /experiences/exp-022-its-all-theatre/ |
 | 163-taishi-49 | Taishi cultivation Q&A no. 49 (163.com community column, 2021) | community | /experiences/exp-009-dissolving-void/ |
 | 163-taishi-50 | Taishi cultivation Q&A no. 50 (163.com community column): 'Is this real concentration?' — the false first-dhyāna correction, the three gates refused | community | /experiences/exp-020-false-first-dhyana/ |
 | 360kuai-taishi-01 | Taishi cultivation Q&A no. 1 (360kuai reprint, 2021): why he began — the teacher's origin story, daily schedule, retreat record, and lineage refusal | community | /experiences/exp-017-why-he-began/ |
@@ -55,11 +56,13 @@ All sources used on the site — 114 total. Registry file:
 | daodejing-45-editions | Daodejing ch. 45, received text: three independent reproductions (mindiver.se; a Vocus teaching post; Wang Yijia's Laozi jinjie on Pixnet) with variant characters and the swapped final couplet recorded | primary_text | /translations/daodejing-45/ |
 | daodejing-48-editions | Daodejing ch. 48: received text with Wang Bi commentary transmission, Baike teaching edition, Daodejing.org | primary_text | /translations/daodejing-48/ |
 | daodejing-63-editions | Daodejing ch. 63, received text: Sreading full-text edition and a second full-text reproduction; the editions' treatment of 报怨以德 recorded without adjudication | primary_text | /translations/daodejing-63/ |
+| daodejing-64-editions | Daodejing ch. 64, received text: Taiji Shuguan edition with notes (the ch. 29 misplaced-strip tradition recorded); Wikipedia entry on the idiom; Kekenet bilingual edition; Dudianji bilingual edition | primary_text | /translations/daodejing-64/ |
 | daoshu | Daoshu (道枢), comp. Zeng Zao, Southern Song | primary_text | /timeline/daoshu-neiguan-zuowang/; /glossary/neiguan/ |
 | er-cheng-waishu | Er Cheng waishu (Outer Collection of the Two Chengs), juan 12 | primary_text | /concepts/jingzuo/; /practices/jingzuo/ |
 | farias-2020 | Farias et al., 'Adverse events in meditation practices and meditation-based therapies: a systematic review', Acta Psychiatr Scand 142(5):374-393 (2020) | research | /research/farias-adverse-events-2020/; /questions/can-sitting-go-wrong/ |
 | fu-yi-sources | Fu Yi dossier: Wikisource author page (555-639, taishi ling, petition titles); Baidu Baike biography; Wikipedia (zh); Zhongguo zuojia wang essay on the Daodejing guben pian recension | historical | /people/fu-yi/ |
 | goyal-2014 | Goyal, M., et al. Meditation Programs for Psychological Stress and Well-being. JAMA Internal Medicine 174(3):357-368, 2014 | research | /comparisons/zuowang-vs-mindfulness/; /research/mindfulness-meta-analysis-2014/ |
+| guo-xiang-sources | Guo Xiang dossier: Wikipedia (zh) biography with the Shishuo xinyu Wenxue quote in full, Wang Yan's verdict, Qian Mu's charge, the Tang Yijie formulation, and the Zonggao saying; Guangming ribao / Zhonghua dushu bao survey (Siku zongmu collation, Yang Mingzhao's summary of both camps, Feng Youlan's collected-commentary view, Wang Zhongling's dissent); CText wiki on the Zhuangzi zhu | historical | /people/guo-xiang/ |
 | guodian-report | Jingmen City Museum, 'Jingmen Guodian yihao Chumu', Wenwu 1997.7 (Guodian tomb no. 1 excavation report) | research | /timeline/guodian-daodejing/ |
 | haitang-zhuangzi-ch6 | Zhuangzi ch. 6 (Dazongshi), Haitang poetry-club teaching edition with translation | primary_text | /stories/sanghu-friends/ |
 | health-baidu-dazuo | Baidu Health: 'Why the body warms during sitting' (medical popularization) | community | /patterns/warmth-and-qi-sensations/ |
@@ -83,6 +86,7 @@ All sources used on the site — 114 total. Registry file:
 | qingjing-jing | Qingjing Jing (Scripture of Constant Clarity and Stillness) | primary_text | /texts/qingjing-jing/ |
 | qiwulun-zhenzai-commentaries | China Daoist Association article on the Yangshengzhu title question, quoting Guo Xiang's zhenzai note and Cheng Xuanying's subcommentary verbatim | scholarly | /glossary/zhen-zai/; /questions/does-daoism-believe-in-a-creator/ |
 | renjianshi-xinzhai-passage | Zhuangzi ch. 4 (Renjian Shi), mind-fasting passage: Wikisource full text; a Baidu Jingyan teaching entry on 虚室生白 | primary_text | /glossary/xushi-sheng-bai/ |
+| renjianshi-zhili-shu-editions | Zhuangzi ch. 4 (Renjian Shi), Zhili Shu passage: Taiji Shuguan edition with running glosses; Fu Peirong's annotated edition (variants: 齊/臍, 鼓廁/鼓筴); education-encyclopedia entry on the chapter's structure (Cheng Xuanying's sub-commentary on 支離其德) | primary_text | /stories/zhili-shu/ |
 | robinet-1993 | Robinet, Isabelle. Taoist Meditation: The Mao-shan Tradition of Great Purity. SUNY Press, 1993 | scholarship | /concepts/shouyi/ |
 | shanmu-editions | Zhuangzi ch. 20 (Shanmu) opening passage: Wang Nengxian's scholarly exposition (Sohu, 'between timber and no-timber') and the full text on Xueqiu, agreeing word for word | primary_text | /stories/mountain-tree-goose/ |
 | shanmu-empty-boat-editions | Zhuangzi ch. 20 (Shanmu), empty-boat passage: full passage quoted verbatim in two independent reproductions (a Xueqiu teaching post with translation; a Xinhuanet essay) | primary_text | /stories/xuzhou-empty-boat/ |
@@ -105,6 +109,7 @@ All sources used on the site — 114 total. Registry file:
 | tao-hongjing-biography | Tao Hongjing biography: standard biography tradition, Wikipedia entry, Taiwan MOE encyclopedia, Nanjing gazetteer office 2024 profile (456-536, 488 manuscript discovery, 492 retirement, 'prime minister in the mountains') | scholarly | /people/tao-hongjing/ |
 | taylor-1988 | Taylor, Rodney L. The Confucian Way of Contemplation: Okada Takehiko and the Tradition of Quiet-Sitting. University of South Carolina Press, 1988 | scholarship | /concepts/jingzuo/; /practices/jingzuo/ |
 | tiandi-baoweng-editions | Zhuangzi ch. 12 (Tiandi), Han-shade gardener passage: a Cambridge Chinese studies reading-group PDF with running glosses (citing Li Mian's Zhuangzi zonglun for 卬/挈/泆/槔 readings); CText parallel-text snippet; People's Daily essay (2024-05); the chapter's authorship noted as disputed in the study notes | primary_text | /stories/bao-weng-guan-qi/ |
+| tianzifang-archer-editions | Zhuangzi ch. 21 (Tian Zifang), the archery passage: Taiji Shuguan edition with translation and chapter-structure notes; Zhuangzi at 5000yan full text; CText parallel snippet; Lawforever teaching essay | primary_text | /stories/boshun-archer/ |
 | tieba-dazuo-bar | Baidu Tieba 打坐吧/冥想吧 threads (search-indexed snippets) | community | /experiences/exp-004-emotional-surfacing/; /experiences/exp-005-night-qi-movement/ |
 | waiwu-editions | Zhuangzi ch. 26 (Waiwu), borrowing-grain passage: Gushiwen full text with translation and notes; Baidu Baike entry (zhuang zhou dai su); CText parallel-verse snippet (recording the 监河侯/监何侯 variant) | primary_text | /stories/hezhe-zhi-fu/ |
 | wang-bi-sources | Wang Bi dossier: Wikipedia (zh) biography, the Shuge Classic Library Laozi Wang Bi zhu (with Siku abstract), and Sun Mingjun's Laozi editions survey (chinawriter.com.cn) | scholarly | /people/wang-bi/; /timeline/wangbi-laozi-commentary/ |
