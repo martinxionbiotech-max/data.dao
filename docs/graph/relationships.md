@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 433 total. Top-level key: `items` in
+Knowledge-graph edges — 465 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -9,16 +9,16 @@ Knowledge-graph edges — 433 total. Top-level key: `items` in
 |---|---|
 | associated_with | 29 |
 | authored | 2 |
-| concerns | 151 |
+| concerns | 159 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 76 |
+| described_in | 81 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 134 |
-| translated_as | 17 |
+| related_to | 152 |
+| translated_as | 18 |
 
 ## All edges
 
@@ -89,6 +89,11 @@ Knowledge-graph edges — 433 total. Top-level key: `items` in
 | daodejing-16 | daodejing | translated_as |
 | daodejing-16 | xu | concerns |
 | daodejing-16 | ziran | concerns |
+| daodejing-17 | daodejing | translated_as |
+| daodejing-17 | daodejing-22 | related_to |
+| daodejing-17 | daodejing-37 | related_to |
+| daodejing-17 | wuwei | concerns |
+| daodejing-17 | ziran | concerns |
 | daodejing-22 | daodejing | translated_as |
 | daodejing-22 | daodejing-10-shouyi | related_to |
 | daodejing-22 | daodejing-37 | related_to |
@@ -152,6 +157,10 @@ Knowledge-graph edges — 433 total. Top-level key: `items` in
 | exp-016-nine-dhyanas-map | how-long-should-i-sit | related_to |
 | exp-016-nine-dhyanas-map | lindahl-2017 | related_to |
 | exp-016-nine-dhyanas-map | schlosser-2019 | related_to |
+| exp-017-why-he-began | exp-013-buddhist-daoist-boundary | related_to |
+| exp-017-why-he-began | exp-014-double-lotus-doctrine | related_to |
+| exp-017-why-he-began | farias-adverse-events-2020 | related_to |
+| exp-017-why-he-began | lindahl-2017 | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -197,6 +206,10 @@ Knowledge-graph edges — 433 total. Top-level key: `items` in
 | huzi-jixian | qi | concerns |
 | huzi-jixian | zhuangzi | described_in |
 | huzi-jixian | zuowang | concerns |
+| ji-ren | four-friends | related_to |
+| ji-ren | sanghu-friends | related_to |
+| ji-ren | zhuangzi | described_in |
+| ji-ren | ziran | concerns |
 | jiafuzuo | jingzuo | concerns |
 | jiafuzuo | sitting-protocol | related_to |
 | jian-du | dao | concerns |
@@ -226,6 +239,11 @@ Knowledge-graph edges — 433 total. Top-level key: `items` in
 | jingzuo-vs-zuowang | zuowang | discusses |
 | kou-qianzhi | kou-qianzhi-reform | associated_with |
 | kou-qianzhi-reform | kou-qianzhi | associated_with |
+| kui-xian-chain | peng-bird | related_to |
+| kui-xian-chain | wangyang-xingtan | related_to |
+| kui-xian-chain | wuwei | concerns |
+| kui-xian-chain | zhuangzi | described_in |
+| kui-xian-chain | ziran | concerns |
 | laozi | daodejing | associated_with |
 | laozi | shiji-biographies | described_in |
 | leg-numbness-pain | EXP-003 | derived_from |
@@ -248,6 +266,11 @@ Knowledge-graph edges — 433 total. Top-level key: `items` in
 | marsh-pheasant | turtle-in-the-mud | related_to |
 | marsh-pheasant | zhuangzi | described_in |
 | marsh-pheasant | ziran | concerns |
+| mountain-tree-goose | turtle-in-the-mud | related_to |
+| mountain-tree-goose | useless-gourd | related_to |
+| mountain-tree-goose | wuwei | concerns |
+| mountain-tree-goose | zhuangzi | described_in |
+| mountain-tree-goose | ziran | concerns |
 | must-i-sit-cross-legged | exp-010-lotus-pain | related_to |
 | must-i-sit-cross-legged | jingzuo | concerns |
 | must-i-sit-cross-legged | leg-numbness-pain | related_to |
@@ -306,6 +329,10 @@ Knowledge-graph edges — 433 total. Top-level key: `items` in
 | shouyi-practice | taiping-jing | described_in |
 | sima-chengzhen | zuowang-lun | discusses |
 | sima-chengzhen | zuowang-lun-composition | described_in |
+| snail-horn-war | jingdi-zhiwa | related_to |
+| snail-horn-war | peng-bird | related_to |
+| snail-horn-war | wangyang-xingtan | related_to |
+| snail-horn-war | zhuangzi | described_in |
 | standing-in-snow | jingzuo | concerns |
 | swimmer-lvliang | boatman | related_to |
 | swimmer-lvliang | zhuangzi | described_in |
@@ -410,6 +437,11 @@ Knowledge-graph edges — 433 total. Top-level key: `items` in
 | xu | zuowang | related_to |
 | xuan | daodejing | described_in |
 | xuan | qingjing-jing | concerns |
+| xuan-pin | dao | concerns |
+| xuan-pin | daodejing | described_in |
+| xuan-pin | daodejing-01 | related_to |
+| xuan-pin | tuoyue | related_to |
+| xuan-pin | xu | related_to |
 | yang-xi | cunsi | concerns |
 | yang-xi | huangting-jing | associated_with |
 | yang-xi | shangqing-revelations | associated_with |

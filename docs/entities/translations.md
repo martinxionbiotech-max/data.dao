@@ -1,6 +1,6 @@
 # Translations
 
-translation records from the translations content collection — 18 records.
+translation records from the translations content collection — 19 records.
 
 | id | title | sourceText | chapter |
 |---|---|---|
@@ -9,6 +9,7 @@ translation records from the translations content collection — 18 records.
 | daodejing-05 | The Bellows of Heaven and Earth (Daodejing 5) | daodejing | Ch. 5 |
 | daodejing-10-shouyi | Daodejing ch. 10 (shouyi line): Full Translation | daodejing |  |
 | daodejing-16 | 'Reach Emptiness at the Limit' (Daodejing 16) | daodejing |  |
+| daodejing-17 | The Best Ruler Is Barely Known (Daodejing 17) | daodejing | Ch. 17 |
 | daodejing-22 | The Bend That Completes (Daodejing 22) | daodejing | Ch. 22 |
 | daodejing-25 | The Dao Follows What Is So of Itself (Daodejing 25) | daodejing | Ch. 25 |
 | daodejing-37 | Non-Acting and Nothing Left Undone (Daodejing 37) | daodejing | Ch. 37 |

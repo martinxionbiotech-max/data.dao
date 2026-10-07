@@ -1,6 +1,6 @@
 # Glossary
 
-term records from the glossary content collection — 28 records.
+term records from the glossary content collection — 30 records.
 
 | id | title | chinese | pinyin | literalMeaning | recommended |
 |---|---|---|---|---|
@@ -9,6 +9,7 @@ term records from the glossary content collection — 28 records.
 | dao | Dao | 道 | dào | way, path, road; to speak | keep romanized as Dao/dào; capitalize 'Way' when the technical sense is meant |
 | de | De | 德 | dé | virtue, power, inner potency | keep romanized as De/dé where technical; 'virtue/power' gloss on first use |
 | guan | Guan | 观 | guān | to observe; to watch; to look deeply into | observation (inner observation where the target is the interior); 'contemplation' only with Buddhist contexts flagged |
+| ji-ren | Jiren (畸人) | 畸人 | jīrén |  |  |
 | jiafuzuo | Jiafuzuo | 结跏趺坐 | jiéjiāfūzuò | bound sitting with folded soles: 结 tie/bind, 跏 cross, 趺 instep/sole, 坐 sit — the ankles and insteps crossed and settled on the thighs | 'full-lotus posture' when the double-crossed form is meant; 'cross-legged sitting' for the general family (and never just 'lotus,' which is a flower loan) |
 | jian-du | Jiandu (见独) | 见独 | jiàndú |  |  |
 | jing-qi-shen | Jing-Qi-Shen | 精气神 | jīng-qì-shén | essence–vitality–spirit | the three treasures (jing, qi, shen), glossed once; never 'body-fluids-energy-mind' literally |
@@ -26,6 +27,7 @@ term records from the glossary content collection — 28 records.
 | xian-jie | Xianjie (县解) | 县解 | xuánjiě |  |  |
 | xin | Xin | 心 | xīn | heart; mind; heart-mind | heart-mind on first use in philosophical contexts; then plain 'mind' if the context is cognitive |
 | xinzhai | Xinzhai | 心斋 | xīnzhāi | mind/heart-fasting | fasting of the mind (with the note that xin covers both heart and mind) |
+| xuan-pin | Xuanpin (玄牝) | 玄牝 | xuánpìn |  |  |
 | xuan | Xuan | 玄 | xuán | dark; deep; distant beyond sight; the color of depth | dark/depth (with 'beyond naming' glossed); avoid 'mysterious' where it suggests the occult |
 | yingning | Yingning (撄宁) | 撄宁 | yīngníng |  |  |
 | zhaoche | Zhaoche (朝彻) | 朝彻 | zhāochè |  |  |

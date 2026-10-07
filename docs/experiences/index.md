@@ -7,7 +7,7 @@ search index, 163.com teacher Q&A, Xinli001 Q&A, Baidu Health, Zhihu columns).
 All records paraphrased and anonymized; no usernames, no direct quotes without
 permission.
 
-## Current records — 16
+## Current records — 17
 
 | id | theme | confidence | page |
 |---|---|---|
@@ -27,6 +27,7 @@ permission.
 | EXP-014 | EXP-014: The Double-Lotus Doctrine — One Teacher's Complete Physiology of Sitting | medium | /experiences/exp-014-double-lotus-doctrine/ |
 | EXP-015 | EXP-015: Heat, Sweat, and the Two Kinds of Inner Motion — One Teacher's Map of Sitting's Bodily Responses | medium | /experiences/exp-015-heat-sweat-qi/ |
 | EXP-016 | EXP-016: What Is Concentration? One Teacher's Map of the Nine Dhyānas | medium | /experiences/exp-016-nine-dhyanas-map/ |
+| EXP-017 | EXP-017: Why He Began: The Teacher's Own Account of the Path | medium | /experiences/exp-017-why-he-began/ |
 
 ## Privacy rules
 
