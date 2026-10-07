@@ -1,6 +1,6 @@
 # Glossary
 
-term records from the glossary content collection — 19 records.
+term records from the glossary content collection — 20 records.
 
 | id | title | chinese | pinyin | literalMeaning | recommended |
 |---|---|---|---|---|
@@ -22,4 +22,5 @@ term records from the glossary content collection — 19 records.
 | xin | Xin | 心 | xīn | heart; mind; heart-mind | heart-mind on first use in philosophical contexts; then plain 'mind' if the context is cognitive |
 | xinzhai | Xinzhai | 心斋 | xīnzhāi | mind/heart-fasting | fasting of the mind (with the note that xin covers both heart and mind) |
 | xuan | Xuan | 玄 | xuán | dark; deep; distant beyond sight; the color of depth | dark/depth (with 'beyond naming' glossed); avoid 'mysterious' where it suggests the occult |
+| zuochi | Zuochi | 坐驰 | zuòchí | sitting (坐) while galloping (驰) | 'sitting while galloping' (glossed: the body sits, the mind races) |
 | zuowang | Zuowang | 坐忘 | zuòwàng | sitting-forgetting | sitting in oblivion (Kohn 2010); gloss with pinyin on first use |

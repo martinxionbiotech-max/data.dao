@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 204 total. Top-level key: `items` in
+Knowledge-graph edges — 223 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -9,15 +9,15 @@ Knowledge-graph edges — 204 total. Top-level key: `items` in
 |---|---|
 | associated_with | 8 |
 | authored | 2 |
-| concerns | 91 |
+| concerns | 100 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 48 |
+| described_in | 52 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 1 |
-| related_to | 24 |
+| related_to | 30 |
 | translated_as | 8 |
 
 ## All edges
@@ -83,6 +83,9 @@ Knowledge-graph edges — 204 total. Top-level key: `items` in
 | drowsiness-in-sitting | jingzuo | concerns |
 | drowsiness-in-sitting | zuowang | concerns |
 | drowsiness-vs-stillness | EXP-001 | derived_from |
+| drumming-basin | butterfly-dream | related_to |
+| drumming-basin | qi | concerns |
+| drumming-basin | zhuangzi | described_in |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -131,12 +134,18 @@ Knowledge-graph edges — 204 total. Top-level key: `items` in
 | neiguan | neiguan-jing | described_in |
 | neiguan | zuowang | related_to |
 | neiguan-jing | qingjing-jing | related_to |
+| painter-unrobed | artisan-qing | related_to |
+| painter-unrobed | jing | concerns |
+| painter-unrobed | zhuangzi | described_in |
+| painter-unrobed | ziran | concerns |
 | qi | daodejing | described_in |
 | qi | qi-belief-necessary | concerns |
 | qi | zhuangzi | described_in |
 | qingjing-jing | qingjing-jing-opening | translated_as |
 | qiwulun-wu-sang-wo | zhuangzi | translated_as |
 | qiwulun-wu-sang-wo | zuowang | concerns |
+| schlosser-2019 | farias-adverse-events-2020 | related_to |
+| schlosser-2019 | lindahl-2017 | related_to |
 | seeing-light-in-sitting | jingzuo | concerns |
 | seeing-light-in-sitting | xu | concerns |
 | seeing-light-in-sitting | zhuangzi | described_in |
@@ -177,8 +186,15 @@ Knowledge-graph edges — 204 total. Top-level key: `items` in
 | tuoyue | daodejing | described_in |
 | tuoyue | jing | concerns |
 | tuoyue | xu | concerns |
+| virtual-room-passage | seeing-light-in-sitting | concerns |
+| virtual-room-passage | xinzhai | concerns |
+| virtual-room-passage | zhuangzi | described_in |
 | warmth-and-qi-sensations | EXP-002 | derived_from |
 | warmth-and-qi-sensations | EXP-003 | derived_from |
+| warmth-tingling-when-sitting | dantian | concerns |
+| warmth-tingling-when-sitting | jingzuo | concerns |
+| warmth-tingling-when-sitting | qi | concerns |
+| warmth-tingling-when-sitting | schlosser-2019 | related_to |
 | what-is-stillness | jing | concerns |
 | what-is-stillness | jingzuo | concerns |
 | wheelwright-bian | zhuangzi | described_in |
@@ -214,6 +230,9 @@ Knowledge-graph edges — 204 total. Top-level key: `items` in
 | ziran | daodejing | described_in |
 | ziran | wuwei | associated_with |
 | ziran | xu | associated_with |
+| zuochi | jing | concerns |
+| zuochi | zhuangzi | described_in |
+| zuochi | zuowang | related_to |
 | zuowang | mindfulness | related_to |
 | zuowang | qi | associated_with |
 | zuowang | reading-order | described_in |

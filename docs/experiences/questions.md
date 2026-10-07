@@ -1,6 +1,6 @@
 # Questions
 
-The question collection — 9 records, with answer states.
+The question collection — 10 records, with answer states.
 
 | id | answer state | question | page |
 |---|---|---|---|
@@ -10,6 +10,7 @@ The question collection — 9 records, with answer states.
 | falling-asleep-during-meditation | answered | Why do I keep falling asleep during meditation, and does it mean meditation doesn't suit me? | /questions/falling-asleep-during-meditation/ |
 | how-long-should-i-sit | answered | How long should a sitting session be? Is there a classical minimum or maximum? | /questions/how-long-should-i-sit/ |
 | qi-belief-necessary | open | Do I need to believe in qi to benefit from Daoist sitting practices? | /questions/qi-belief-necessary/ |
+| warmth-tingling-when-sitting | answered | When I sit, I sometimes feel warmth spreading, or tingling and small movements. Is this normal, and should I do anything about it? | /questions/warmth-tingling-when-sitting/ |
 | what-is-stillness | answered | What is 'stillness' (静 jing) in the Daoist sense — just being quiet, or something more? | /questions/what-is-stillness/ |
 | zuowang-safety-without-teacher | open | Can I practice Daoist sitting (zuowang / jingzuo) without a teacher? | /questions/zuowang-safety-without-teacher/ |
 | zuowang-vs-jingzuo | answered | What is the difference between zuowang and jingzuo? | /questions/zuowang-vs-jingzuo/ |

@@ -1,15 +1,16 @@
 # Sources Registry
 
-All sources used on the site — 42 total. Registry file:
+All sources used on the site — 46 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
 
 | type | count |
 |---|---|
+| academic_study | 1 |
 | community | 5 |
 | historical_text | 1 |
-| primary_text | 23 |
+| primary_text | 26 |
 | research | 4 |
 | scholarship | 9 |
 
@@ -35,11 +36,13 @@ All sources used on the site — 42 total. Registry file:
 | kohn-2010 | Kohn, Livia. Sitting in Oblivion: The Heart of Daoist Meditation. Three Pines Press, 2010 | scholarship | /concepts/zuowang/; /practices/zuowang/; /texts/zuowang-lun/ |
 | lindahl-2017 | Lindahl et al., The varieties of contemplative experience, PLoS ONE 12(5):e0176239 (2017) | research | /research/lindahl-2017/ |
 | neiguan-jing | Neiguan Jing (Scripture of Inner Observation), Daozang; Yunji Qiqian juan 17 | primary_text | /texts/neiguan-jing/ |
+| plos-one-e0216643 | Schlosser et al. 2019, PLoS ONE 14(5): e0216643 | academic_study | /research/schlosser-2019/; /questions/warmth-tingling-when-sitting/ |
 | qingjing-jing | Qingjing Jing (Scripture of Constant Clarity and Stillness) | primary_text | /texts/qingjing-jing/ |
 | robinet-1993 | Robinet, Isabelle. Taoist Meditation: The Mao-shan Tradition of Great Purity. SUNY Press, 1993 | scholarship | /concepts/shouyi/ |
 | shiji-63 | Shiji (Records of the Grand Historian), ch. 63, 'Laozi Han Fei liezhuan' | primary_text | /people/laozi/; /people/zhuang-zhou/; /stories/confucius-meets-laozi/ |
 | slingerland-2003 | Slingerland, Edward. Effortless Action: Wu-wei as Conceptual Metaphor and Spiritual Ideal in Early China. Oxford University Press, 2003 | scholarship | /concepts/wuwei/ |
 | song-shi-yangshi | Song shi, 'Yang Shi zhuan' (ch. 428), Cheng Men Li Xue episode | primary_text | /concepts/jingzuo/; /timeline/cheng-men-li-xue/; /stories/standing-in-snow/ |
+| sxu-zhuangzi-renjianshi | Zhuangzi ch. 4 (Renjianshi) full text and translation (Shanxi University Philosophy Dept) | primary_text | /translations/virtual-room-passage/; /glossary/zuochi/ |
 | taiping-jing | Taiping Jing (Scripture of Great Peace) | primary_text | /concepts/shouyi/; /problems/wandering-mind-in-sitting/; /problems/restlessness-in-sitting/ |
 | taiping-jing-received | Taiping Jing, received text (57 juan / 126 pian in the Ming Daoist Canon; Wang Ming, Taiping Jing Hejiao, 1960) | primary_text | /texts/taiping-jing/; /practices/shouyi/ |
 | taishi-qa-163 | Taishi xiuxing wenda (meditation teacher Q&A column), 163.com no. 34 | community | /experiences/exp-002-warmth-rotation/; /experiences/exp-003-leg-pain-filling/ |
@@ -49,10 +52,12 @@ All sources used on the site — 42 total. Registry file:
 | wikisource-zhuangzi-dasheng | Zhuangzi ch. 19 (Dasheng), Wikisource | primary_text | /stories/wooden-rooster/; /stories/artisan-qing/; /stories/cicada-catcher/; /translations/artisan-qing-passage/; /blog/three-craftsmen-dazheng/; /glossary/shen/ |
 | wikisource-zhuangzi-qiushui | Zhuangzi ch. 17 (Qiushui), received text (Wikisource) | primary_text | /stories/fish-happiness/ |
 | wikisource-zhuangzi-renjianshi | Zhuangzi ch. 4 (Renjian shi), Wikisource | primary_text | /concepts/xu/; /problems/seeing-light-in-sitting/ |
+| wikisource-zhuangzi-tianzifang | Zhuangzi ch. 21 (Tian Zifang), received text (Wikisource) | primary_text | /stories/painter-unrobed/ |
 | wikisource-zhuangzi-xuwugui | Zhuangzi ch. 24 (Xuwugui), received text (Wikisource / Shidian Guji edition) | primary_text | /stories/carpenter-shi/ |
 | wikisource-zhuangzi-yingdiwang | Zhuangzi ch. 7 (Ying diwang), Wikisource | primary_text | /stories/huzi-jixian/ |
 | wikisource-zhuangzi-ys | Zhuangzi ch. 3 (Yangsheng zhu), Wikisource | primary_text | /stories/cook-ding/ |
 | wikisource-zhuangzi-zaiyou | Zhuangzi ch. 11 (Zaiyou), Wikisource | primary_text | /stories/guangchengzi/ |
+| wikisource-zhuangzi-zhile | Zhuangzi ch. 18 (Zhile), received text (Wikisource / Shidian Guji) | primary_text | /stories/drumming-basin/ |
 | xiao-zhiguan | Zhiyi, Xiao zhiguan (Tongmeng zhiguan), Tiaohe chapter | primary_text | /glossary/tiaoxi/; /problems/drowsiness-in-sitting/; /timeline/xiao-zhiguan-five-adjustments/ |
 | xinli001-qa | Xinli001 (Yixinli) meditation Q&A — anonymous user questions | community | /experiences/exp-001-falling-asleep/; /questions/falling-asleep-during-meditation/ |
 | zhihu-daozuo-method | Zhihu column: 'Correct Daoist sitting method' (drowsiness vs. stillness) | community | /patterns/drowsiness-vs-stillness/; /questions/falling-asleep-during-meditation/ |
