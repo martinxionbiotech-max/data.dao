@@ -20,13 +20,13 @@ collections (`texts/`, `people/`, `translations/`, `timeline/`, `questions/`).
 | Timeline events | 8 |
 | Research pages | 1 |
 | Tools | 2 |
-| Questions | 4 (2 open, 2 answered) |
-| Knowledge-graph edges | 63 |
-| Sources | 27 (11 primary texts, 9 scholarship, 2 research, 5 community) |
+| Questions | 5 (2 open, 2 answered, 1 investigating) |
+| Knowledge-graph edges | 78 |
+| Sources | 31 (14 primary texts, 9 scholarship, 3 research, 5 community) |
 
-- **Experience system**: seeded with 6 anonymized experiences, 3 patterns,
-  4 questions from Chinese community sources (see the source map in the main repo).
-- Main site: 85 pages built, 0 errors.
+- **Experience system**: seeded with 8 anonymized experiences, 3 patterns,
+  5 questions from Chinese community sources (see the source map in the main repo).
+- Main site: 92 pages built, 0 errors.
 
 ## What is here
 

@@ -1,46 +1,51 @@
 # Sources Registry
 
-Structured source records from `data/sources.json` — 21 sources
-(primary texts: 10, scholarship: 9, research: 2).
+All sources used on the site — 31 total. Registry file:
+`site/src/data/sources.json`.
 
-| id | title | type | lang | url |
-|---|---|---|---|---|
-| zhuangzi | Zhuangzi (received text, Guo Xiang recension) | primary_text | zh | https://ctext.org/zhuangzi |
-| daodejing | Daodejing (received Wang Bi text, 81 chapters) | primary_text | zh | https://ctext.org/dao-de-jing |
-| zuowang-lun | Sima Chengzhen, Zuowang lun (Treatise on Sitting in Oblivion) | primary_text | zh | — |
-| taiping-jing | Taiping Jing (Scripture of Great Peace) | primary_text | zh | — |
-| zhuzi-yulei | Zhu Xi yulei (Classified Conversations of Master Zhu), juan 116 | primary_text | zh | — |
-| er-cheng-waishu | Er Cheng waishu (Outer Collection of the Two Chengs), juan 12 | primary_text | zh | — |
-| kohn-2010 | Kohn, Livia. Sitting in Oblivion: The Heart of Daoist Meditation. Three Pines Press, 2010 | scholarship | en | yes |
-| slingerland-2003 | Slingerland, Edward. Effortless Action: Wu-wei as Conceptual Metaphor and Spiritual Ideal in Early China. Oxford University Press, 2003 | scholarship | en | — |
-| robinet-1993 | Robinet, Isabelle. Taoist Meditation: The Mao-shan Tradition of Great Purity. SUNY Press, 1993 | scholarship | en | — |
-| taylor-1988 | Taylor, Rodney L. The Confucian Way of Contemplation: Okada Takehiko and the Tradition of Quiet-Sitting. University of South Carolina Press, 1988 | scholarship | en | — |
-| watson-1968 | Watson, Burton, trans. The Complete Works of Chuang Tzu. Columbia University Press, 1968 | scholarship | en | — |
-| iep-zhuangzi | Internet Encyclopedia of Philosophy, 'Zhuangzi' | scholarship | en | https://iep.utm.edu/zhuangzi-chuang-tzu-chinese-philosopher |
-| henricks-1989 | Henricks, Robert G., trans. Lao-Tzu Te-Tao Ching (Mawangdui text). Ballantine, 1989 | scholarship | en | — |
-| cook-2012 | Cook, Scott. The Bamboo Texts of Guodian. Cornell East Asia Series, 2012 | scholarship | en | — |
-| qingjing-jing | Qingjing Jing (Scripture of Constant Clarity and Stillness) | primary_text | zh | http://www.taoist.org.cn/showInfoContent.do?id=2549 |
-| neiguan-jing | Neiguan Jing (Scripture of Inner Observation), Daozang; Yunji Qiqian juan 17 | primary_text | zh | yes |
-| shiji-63 | Shiji (Records of the Grand Historian), ch. 63, 'Laozi Han Fei liezhuan' | primary_text | zh | yes |
-| goyal-2014 | Goyal, M., et al. Meditation Programs for Psychological Stress and Well-being. JAMA Internal Medicine 174(3):357-368, 2014 | research | en | https://pubmed.ncbi.nlm.nih.gov/24395196 |
-| kohn-1998 | Kohn, Livia. God of the Dao: Lord Lao in History and Myth. Center for Chinese Studies, University of Michigan, 1998 | scholarship | en | — |
-| song-shi-yangshi | Song shi, 'Yang Shi zhuan' (ch. 428), Cheng Men Li Xue episode | primary_text | zh | yes |
-| guodian-report | Jingmen City Museum, 'Jingmen Guodian yihao Chumu', Wenwu 1997.7 (Guodian tomb no. 1 excavation report) | research | zh | — |
+## By type
 
-## Types
+| type | count |
+|---|---|
+| community | 5 |
+| primary_text | 14 |
+| research | 3 |
+| scholarship | 9 |
 
-- `primary_text` — classical text or original document
-- `scholarship` — published academic work
-- `research` — published scientific study or report
-- `community` — practitioner community material
+## Full registry
 
-## Schema
+| id | title | type | pages used in |
+|---|---|---|---|
+| cook-2012 | Cook, Scott. The Bamboo Texts of Guodian. Cornell East Asia Series, 2012 | scholarship | /texts/daodejing/ |
+| daodejing | Daodejing (received Wang Bi text, 81 chapters) | primary_text | /concepts/wuwei/; /concepts/shouyi/; /concepts/qi/; /texts/daodejing/ |
+| er-cheng-waishu | Er Cheng waishu (Outer Collection of the Two Chengs), juan 12 | primary_text | /concepts/jingzuo/; /practices/jingzuo/ |
+| farias-2020 | Farias et al., 'Adverse events in meditation practices and meditation-based therapies: a systematic review', Acta Psychiatr Scand 142(5):374-393 (2020) | research | /research/farias-adverse-events-2020/; /questions/can-sitting-go-wrong/ |
+| goyal-2014 | Goyal, M., et al. Meditation Programs for Psychological Stress and Well-being. JAMA Internal Medicine 174(3):357-368, 2014 | research | /comparisons/zuowang-vs-mindfulness/; /research/mindfulness-meta-analysis-2014/ |
+| guodian-report | Jingmen City Museum, 'Jingmen Guodian yihao Chumu', Wenwu 1997.7 (Guodian tomb no. 1 excavation report) | research | /timeline/guodian-daodejing/ |
+| health-baidu-dazuo | Baidu Health: 'Why the body warms during sitting' (medical popularization) | community | /patterns/warmth-and-qi-sensations/ |
+| henricks-1989 | Henricks, Robert G., trans. Lao-Tzu Te-Tao Ching (Mawangdui text). Ballantine, 1989 | scholarship | /texts/daodejing/ |
+| iep-zhuangzi | Internet Encyclopedia of Philosophy, 'Zhuangzi' | scholarship | /texts/zhuangzi/ |
+| kohn-1998 | Kohn, Livia. God of the Dao: Lord Lao in History and Myth. Center for Chinese Studies, University of Michigan, 1998 | scholarship | /people/laozi/ |
+| kohn-2010 | Kohn, Livia. Sitting in Oblivion: The Heart of Daoist Meditation. Three Pines Press, 2010 | scholarship | /concepts/zuowang/; /practices/zuowang/; /texts/zuowang-lun/ |
+| neiguan-jing | Neiguan Jing (Scripture of Inner Observation), Daozang; Yunji Qiqian juan 17 | primary_text | /texts/neiguan-jing/ |
+| qingjing-jing | Qingjing Jing (Scripture of Constant Clarity and Stillness) | primary_text | /texts/qingjing-jing/ |
+| robinet-1993 | Robinet, Isabelle. Taoist Meditation: The Mao-shan Tradition of Great Purity. SUNY Press, 1993 | scholarship | /concepts/shouyi/ |
+| shiji-63 | Shiji (Records of the Grand Historian), ch. 63, 'Laozi Han Fei liezhuan' | primary_text | /people/laozi/; /people/zhuang-zhou/; /stories/confucius-meets-laozi/ |
+| slingerland-2003 | Slingerland, Edward. Effortless Action: Wu-wei as Conceptual Metaphor and Spiritual Ideal in Early China. Oxford University Press, 2003 | scholarship | /concepts/wuwei/ |
+| song-shi-yangshi | Song shi, 'Yang Shi zhuan' (ch. 428), Cheng Men Li Xue episode | primary_text | /concepts/jingzuo/; /timeline/cheng-men-li-xue/; /stories/standing-in-snow/ |
+| taiping-jing | Taiping Jing (Scripture of Great Peace) | primary_text | /concepts/shouyi/; /problems/wandering-mind-in-sitting/; /problems/restlessness-in-sitting/ |
+| taishi-qa-163 | Taishi xiuxing wenda (meditation teacher Q&A column), 163.com no. 34 | community | /experiences/exp-002-warmth-rotation/; /experiences/exp-003-leg-pain-filling/ |
+| taylor-1988 | Taylor, Rodney L. The Confucian Way of Contemplation: Okada Takehiko and the Tradition of Quiet-Sitting. University of South Carolina Press, 1988 | scholarship | /concepts/jingzuo/; /practices/jingzuo/ |
+| tieba-dazuo-bar | Baidu Tieba 打坐吧/冥想吧 threads (search-indexed snippets) | community | /experiences/exp-004-emotional-surfacing/; /experiences/exp-005-night-qi-movement/ |
+| watson-1968 | Watson, Burton, trans. The Complete Works of Chuang Tzu. Columbia University Press, 1968 | scholarship | /texts/zhuangzi/; /concepts/zuowang/ |
+| wikisource-zhuangzi-dasheng | Zhuangzi ch. 19 (Dasheng), Wikisource | primary_text | /stories/wooden-rooster/ |
+| wikisource-zhuangzi-yingdiwang | Zhuangzi ch. 7 (Ying diwang), Wikisource | primary_text | /stories/huzi-jixian/ |
+| wikisource-zhuangzi-ys | Zhuangzi ch. 3 (Yangsheng zhu), Wikisource | primary_text | /stories/cook-ding/ |
+| wikisource-zhuangzi-zaiyou | Zhuangzi ch. 11 (Zaiyou), Wikisource | primary_text | /stories/guangchengzi/ |
+| xinli001-qa | Xinli001 (Yixinli) meditation Q&A — anonymous user questions | community | /experiences/exp-001-falling-asleep/; /questions/falling-asleep-during-meditation/ |
+| zhihu-daozuo-method | Zhihu column: 'Correct Daoist sitting method' (drowsiness vs. stillness) | community | /patterns/drowsiness-vs-stillness/; /questions/falling-asleep-during-meditation/ |
+| zhuangzi | Zhuangzi (received text, Guo Xiang recension) | primary_text | /concepts/zuowang/; /concepts/xinzhai/; /concepts/qi/; /texts/zhuangzi/ |
+| zhuzi-yulei | Zhu Xi yulei (Classified Conversations of Master Zhu), juan 116 | primary_text | /concepts/jingzuo/; /practices/jingzuo/; /problems/wandering-mind-in-sitting/ |
+| zuowang-lun | Sima Chengzhen, Zuowang lun (Treatise on Sitting in Oblivion) | primary_text | /concepts/zuowang/; /practices/zuowang/; /texts/zuowang-lun/ |
 
-```json
-{ "id": "zhuangzi", "title": "Zhuangzi (received text)",
-  "type": "primary_text", "language": "zh",
-  "url": "https://ctext.org/zhuangzi",
-  "pages_used_in": ["/concepts/zuowang/"] }
-```
-
-Every content page lists its sources; `pages_used_in` is the reverse index.
+Generated from the site data file; do not edit by hand.

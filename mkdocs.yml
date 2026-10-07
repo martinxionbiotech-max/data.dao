@@ -18,6 +18,8 @@ nav:
       - Texts: entities/texts.md
       - Translations: entities/translations.md
       - Timeline: entities/timeline.md
+      - Stories: entities/stories.md
+      - Research: entities/research.md
   - Experience System:
       - Experiences: experiences/index.md
       - Patterns: experiences/patterns.md

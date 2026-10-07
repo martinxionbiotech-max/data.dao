@@ -1,77 +1,109 @@
-# Relationships
+# Relationship Registry
 
-Typed knowledge-graph edges from `data/relationships.json` — 44 edges.
+Knowledge-graph edges — 78 total. Top-level key: `items` in
+`site/src/data/relationships.json`.
 
-| Relation | Count |
+## Relation types
+
+| relation | count |
 |---|---|
-| `described_in` | 16 |
-| `related_to` | 12 |
-| `translated_as` | 5 |
-| `associated_with` | 4 |
-| `concerns` | 3 |
-| `derived_from` | 2 |
-| `discusses` | 1 |
-| `investigates` | 1 |
-
-## Supported relations
-
-| Relation | Meaning |
-|---|---|
-| `belongs_to` | entity → tradition/category |
-| `related_to` | concept ↔ concept |
-| `described_in` | practice/concept → text or document |
-| `translated_as` | concept → translation page |
-| `associated_with` | person ↔ text |
-| `concerns` | question → concept |
-| `derived_from` | text → source text |
-| `investigates` | research → concept |
-| `discusses` | person → text |
+| associated_with | 6 |
+| concerns | 21 |
+| derived_from | 9 |
+| described_in | 21 |
+| discusses | 1 |
+| investigates | 2 |
+| related_to | 13 |
+| translated_as | 5 |
 
 ## All edges
 
-| from | relation | to |
+| from | to | relation |
 |---|---|---|
-| laozi | `associated_with` | daodejing |
-| shouyi | `associated_with` | qi |
-| zhuang-zhou | `associated_with` | zhuangzi |
-| zuowang | `associated_with` | qi |
-| jingzuo | `concerns` | zuowang-vs-jingzuo |
-| qi | `concerns` | qi-belief-necessary |
-| zuowang | `concerns` | zuowang-safety-without-teacher |
-| zuowang-lun | `derived_from` | neiguan-jing |
-| zuowang-lun | `derived_from` | qingjing-jing |
-| daodejing | `described_in` | guodian-daodejing |
-| jingzuo | `described_in` | cheng-men-li-xue |
-| jingzuo | `described_in` | zhuzi-yulei-jingzuo |
-| laozi | `described_in` | shiji-biographies |
-| qi | `described_in` | daodejing |
-| qi | `described_in` | zhuangzi |
-| shouyi | `described_in` | baopuzi-shouyi |
-| shouyi | `described_in` | daodejing |
-| sima-chengzhen | `described_in` | zuowang-lun-composition |
-| taiping-jing | `described_in` | taiping-jing-shouyi |
-| wuwei | `described_in` | daodejing |
-| xinzhai | `described_in` | zhuangzi |
-| zuowang | `described_in` | reading-order |
-| zuowang | `described_in` | sitting-protocol |
-| zuowang | `described_in` | zhuangzi |
-| zuowang | `described_in` | zuowang-lun |
-| sima-chengzhen | `discusses` | zuowang-lun |
-| jingzuo | `investigates` | mindfulness-meta-analysis-2014 |
-| jingzuo | `related_to` | shouyi |
-| jingzuo | `related_to` | xinzhai |
-| jingzuo | `related_to` | zuowang |
-| neiguan-jing | `related_to` | qingjing-jing |
-| shouyi | `related_to` | neiguan-jing |
-| shouyi | `related_to` | wuwei |
-| shouyi | `related_to` | zuowang |
-| wuwei | `related_to` | zuowang |
-| xinzhai | `related_to` | qingjing-jing |
-| zuowang | `related_to` | mindfulness |
-| zuowang | `related_to` | wuwei |
-| zuowang | `related_to` | xinzhai |
-| qingjing-jing | `translated_as` | qingjing-jing-opening |
-| shouyi | `translated_as` | daodejing-10-shouyi |
-| wuwei | `translated_as` | daodejing-48 |
-| xinzhai | `translated_as` | xinzhai-passage |
-| zuowang | `translated_as` | zuowang-passage |
+| EXP-001 | jingzuo | concerns |
+| EXP-002 | jingzuo | concerns |
+| EXP-003 | jingzuo | concerns |
+| EXP-004 | jingzuo | concerns |
+| EXP-005 | qi | concerns |
+| EXP-006 | jingzuo | concerns |
+| EXP-007 | jingzuo | concerns |
+| EXP-008 | jingzuo | concerns |
+| butterfly-dream | zhuang-zhou | associated_with |
+| butterfly-dream | zhuangzi | described_in |
+| can-sitting-go-wrong | farias-adverse-events-2020 | derived_from |
+| can-sitting-go-wrong | jingzuo | concerns |
+| confucius-meets-laozi | laozi | associated_with |
+| cook-ding | wuwei | concerns |
+| cook-ding | zhuangzi | described_in |
+| daodejing | guodian-daodejing | described_in |
+| drowsiness-vs-stillness | EXP-001 | derived_from |
+| falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
+| falling-asleep-during-meditation | jingzuo | concerns |
+| farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
+| guangchengzi | jingzuo | concerns |
+| guangchengzi | shouyi | concerns |
+| guangchengzi | zhuangzi | described_in |
+| huzi-jixian | qi | concerns |
+| huzi-jixian | zhuangzi | described_in |
+| huzi-jixian | zuowang | concerns |
+| jingzuo | cheng-men-li-xue | described_in |
+| jingzuo | farias-adverse-events-2020 | investigates |
+| jingzuo | mindfulness-meta-analysis-2014 | investigates |
+| jingzuo | shouyi | related_to |
+| jingzuo | xinzhai | related_to |
+| jingzuo | zhuzi-yulei-jingzuo | described_in |
+| jingzuo | zuowang | related_to |
+| jingzuo | zuowang-vs-jingzuo | concerns |
+| laozi | daodejing | associated_with |
+| laozi | shiji-biographies | described_in |
+| leg-numbness-pain | EXP-003 | derived_from |
+| leg-numbness-pain | EXP-006 | derived_from |
+| neiguan-jing | qingjing-jing | related_to |
+| qi | daodejing | described_in |
+| qi | qi-belief-necessary | concerns |
+| qi | zhuangzi | described_in |
+| qingjing-jing | qingjing-jing-opening | translated_as |
+| shouyi | baopuzi-shouyi | described_in |
+| shouyi | daodejing | described_in |
+| shouyi | daodejing-10-shouyi | translated_as |
+| shouyi | neiguan-jing | related_to |
+| shouyi | qi | associated_with |
+| shouyi | wuwei | related_to |
+| shouyi | zuowang | related_to |
+| sima-chengzhen | zuowang-lun | discusses |
+| sima-chengzhen | zuowang-lun-composition | described_in |
+| standing-in-snow | jingzuo | concerns |
+| taiping-jing | taiping-jing-shouyi | described_in |
+| warmth-and-qi-sensations | EXP-002 | derived_from |
+| warmth-and-qi-sensations | EXP-003 | derived_from |
+| wooden-rooster | shouyi | concerns |
+| wooden-rooster | wuwei | concerns |
+| wooden-rooster | zhuangzi | described_in |
+| wuwei | daodejing | described_in |
+| wuwei | daodejing-48 | translated_as |
+| wuwei | zuowang | related_to |
+| xinzhai | qingjing-jing | related_to |
+| xinzhai | xinzhai-passage | translated_as |
+| xinzhai | zhuangzi | described_in |
+| zhuang-zhou | zhuangzi | associated_with |
+| zuowang | mindfulness | related_to |
+| zuowang | qi | associated_with |
+| zuowang | reading-order | described_in |
+| zuowang | sitting-protocol | described_in |
+| zuowang | wuwei | related_to |
+| zuowang | xinzhai | related_to |
+| zuowang | zhuangzi | described_in |
+| zuowang | zuowang-lun | described_in |
+| zuowang | zuowang-passage | translated_as |
+| zuowang | zuowang-safety-without-teacher | concerns |
+| zuowang-lun | neiguan-jing | derived_from |
+| zuowang-lun | qingjing-jing | derived_from |
+
+Relationship semantics: `described_in` (text documents the entity),
+`derived_from` (one item derives from another), `concerns` (item is about
+an entity), `related_to` (mutual association), `investigates` (research
+addresses an entity), `associated_with` (historical association),
+`translated_as` (translation renders a text passage), `discusses`,
+`contrasts_with`.
+
+Generated from the site data file; do not edit by hand.
