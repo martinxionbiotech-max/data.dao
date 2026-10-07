@@ -1,6 +1,6 @@
 # Sources Registry
 
-All sources used on the site — 125 total. Registry file:
+All sources used on the site — 131 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
@@ -9,11 +9,11 @@ All sources used on the site — 125 total. Registry file:
 |---|---|
 | academic_study | 2 |
 | commentary | 2 |
-| community | 20 |
+| community | 21 |
 | historical | 5 |
-| historical_record | 2 |
+| historical_record | 3 |
 | historical_text | 1 |
-| primary_text | 68 |
+| primary_text | 72 |
 | reference | 1 |
 | reference_work | 1 |
 | research | 4 |
@@ -33,6 +33,7 @@ All sources used on the site — 125 total. Registry file:
 | 163-taishi-36 | Taishi cultivation Q&A no. 36 (163.com community column, 2021) | community | /experiences/exp-012-restless-body/ |
 | 163-taishi-38 | Taishi cultivation Q&A no. 38 (163.com community column, 2021): the Buddhist-Daoist boundary question | community | /experiences/exp-013-buddhist-daoist-boundary/ |
 | 163-taishi-39 | Taishi cultivation Q&A no. 39 (163.com community column): the all-day breathing doctrine, the 4-6 breaths-per-minute standard, and the moderate corners (eat more, afternoon nap, legs may hurt but dullness stops the sit) | community | /experiences/exp-023-breath-is-the-key/ |
+| 163-taishi-40 | Taishi cultivation Q&A no. 40 (163.com community column): standing post versus sitting, the habit-seeds-surfacing doctrine, the alternating-legs rule, and the moderate corners (eat less, move more, fix the present) | community | /experiences/exp-024-standing-and-sitting/ |
 | 163-taishi-42 | Taishi cultivation Q&A no. 42 (163.com community column): solving body problems through practice — breath practice as the one remedy | community | /experiences/exp-019-one-remedy-body/ |
 | 163-taishi-46 | Taishi cultivation Q&A no. 46 (163.com community column): the channel circuit, the 864-prostration regime, the thermostat explanation, and the anti-display joke | community | /experiences/exp-021-prostrations-channel-circuit/ |
 | 163-taishi-47 | Taishi cultivation Q&A no. 47 (163.com community column, 2021): what is concentration — the nine dhyānas and how far an ordinary person can go | community | /experiences/exp-016-nine-dhyanas-map/ |
@@ -47,6 +48,7 @@ All sources used on the site — 125 total. Registry file:
 | cook-2012 | Cook, Scott. The Bamboo Texts of Guodian. Cornell East Asia Series, 2012 | scholarship | /texts/daodejing/ |
 | daodejing | Daodejing (received Wang Bi text, 81 chapters) | primary_text | /concepts/wuwei/; /concepts/shouyi/; /concepts/qi/; /texts/daodejing/ |
 | daodejing-01-editions | Daodejing ch. 1: received text with teaching editions, full-text 81-chapter edition, and the punctuation-variant discussion (Wang Bi cutting vs received cutting) | primary_text | /translations/daodejing-01/ |
+| daodejing-02-editions | Daodejing ch. 2, received text, verified against three independent reproductions that agree (the Mindiver bilingual edition; the Gushiwen Dao famous-line page, which notes the Dunhuang variant 不为始 for received 不辞; a Beijing Institute of Technology course text of the full received chapter) | primary_text | /translations/daodejing-02/ |
 | daodejing-05-editions | Daodejing ch. 5: received text with Wang Bi and Su Zhe commentaries (Daodejing.org), Gushiwen teaching edition, CCDI study column | primary_text | /translations/daodejing-05/ |
 | daodejing-06-editions | Daodejing ch. 6 (received text): Gushiwen teaching edition with translation and gloss (玄牝 = source that breeds the ten thousand things; 勤 = 尽), as documented on the xuan-pin glossary page | primary_text | /translations/daodejing-06/ |
 | daodejing-06-xuanpin | Daodejing ch. 6: Gushiwen teaching edition with translation and gloss (xuanpin as the source breeding the ten thousand things, an image of the Way) | primary_text | /glossary/xuan-pin/ |
@@ -81,6 +83,8 @@ All sources used on the site — 125 total. Registry file:
 | lieyukou-caoshang-editions | Zhuangzi ch. 32 (Lie Yukou), the Cao Shang passage, verified against the Gushiwen full text with translation and notes, the Baidu Baike entry, and the Zhuangzi jishi (juan 10) text quoted in a teaching post | primary_text | /stories/cao-shang/ |
 | liezi-received | Liezi, received text in eight chapters with Zhang Zhan's commentary; Hanshu Yiwenzhi bibliography; Ma Xulun, Liezi Weishu Kao; Ji Xianlin on the Sheng Jing borrowing | primary_text | /texts/liezi/; /timeline/liezi-compilation/ |
 | lindahl-2017 | Lindahl et al., The varieties of contemplative experience, PLoS ONE 12(5):e0176239 (2017) | research | /research/lindahl-2017/ |
+| lu-xiujing-sources | Lu Xiujing (406-477): Baidu Baike (biography, 437 Lingbao jing mu, 461 Lu Shan Taixu guan, 467 Chongxu guan, 471 San Dong jing shu mu lu with 1,228 scrolls, zhaijiao codes); Taiwan Ministry of the Interior religion database; Chinese Taoist Association essay (southern reform, three teachings); Tushuguan xuekan 2013 library-science study (three-caverns classification attested from the 471 catalog); Wikipedia | historical_record | /people/lu-xiujing/ |
+| mati-editions | Zhuangzi ch. 9 (Ma Ti, outer chapter), the Bole passage, verified against the Wikisource full text, the Zhuangzi yi commentary (Shidian guji, DZ1487, Ma Ti di jiu, verbatim), and the Haitang Shishe reading text with translation, which agree verbatim | primary_text | /stories/bole-horses/ |
 | nanya-yangshengzhu-paper | Zhao Shiwei, 'Problems in the Zhuangzi Yangsheng Zhu' (Nanya University teaching-research paper): the marsh pheasant passage and the chapter's argument | scholarly | /stories/marsh-pheasant/ |
 | nature-reviews-nrn3916 | Tang, Hölzel & Posner 2015, Nature Reviews Neuroscience 16: 213-225 | academic_study | /research/tang-2015/ |
 | neiguan-jing | Neiguan Jing (Scripture of Inner Observation), Daozang; Yunji Qiqian juan 17 | primary_text | /texts/neiguan-jing/ |
@@ -88,8 +92,10 @@ All sources used on the site — 125 total. Registry file:
 | pku-2009-qiwulun-study | Peking University Journal (2009), 'Doubts in reading Zhuangzi Qiwu Lun and their analysis': Lu Deming's one-character gloss (sang), Cheng Xuanying's subcommentary (天机自张莫知其宰), Liu Fengbao's Nanhua xuexin bian, and the study's own reading | scholarly | /stories/wang-liang-wen-jing/; /glossary/tian-ji/ |
 | plos-one-e0216643 | Schlosser et al. 2019, PLoS ONE 14(5): e0216643 | academic_study | /research/schlosser-2019/; /questions/warmth-tingling-when-sitting/ |
 | qingjing-jing | Qingjing Jing (Scripture of Constant Clarity and Stillness) | primary_text | /texts/qingjing-jing/ |
+| qiwulun-baoguang-editions | Zhuangzi ch. 2 (Qiwu Lun), the baoguang passage, verified against the Wikisource full text, the Dudianji interactive text, and a Zhihu full-text column, which agree verbatim; plus a Zhuzi xuekan study of the term (reprinted at homeinmists) linking baoguang to the Daodejing xuanlan | primary_text | /glossary/bao-guang/ |
 | qiwulun-tianlai-editions | Zhuangzi ch. 2 (Qiwu Lun), the three-pipes passage, verified against the Wikisource full text, the Zhuangzi yi commentary (Shidian guji, HY1406, Guo Xiang note quoted in full), a 2011 sinoss.net study of the term, and the ht.org.tw teaching column on the modern drift | primary_text | /glossary/tian-lai/ |
 | qiwulun-zhenzai-commentaries | China Daoist Association article on the Yangshengzhu title question, quoting Guo Xiang's zhenzai note and Cheng Xuanying's subcommentary verbatim | scholarly | /glossary/zhen-zai/; /questions/does-daoism-believe-in-a-creator/ |
+| rangwang-tushan-editions | Zhuangzi ch. 28 (Rang Wang, mixed chapter), the Tu Yang passage, verified against the Wikisource full text, the Chinese Text Project parallel text, the Xueqiu reading text, and a Zhihu teaching column, which agree verbatim (CTP closing word variant registered) | primary_text | /stories/tushan-shuo/ |
 | renjianshi-xinzhai-passage | Zhuangzi ch. 4 (Renjian Shi), mind-fasting passage: Wikisource full text; a Baidu Jingyan teaching entry on 虚室生白 | primary_text | /glossary/xushi-sheng-bai/ |
 | renjianshi-zhili-shu-editions | Zhuangzi ch. 4 (Renjian Shi), Zhili Shu passage: Taiji Shuguan edition with running glosses; Fu Peirong's annotated edition (variants: 齊/臍, 鼓廁/鼓筴); education-encyclopedia entry on the chapter's structure (Cheng Xuanying's sub-commentary on 支離其德) | primary_text | /stories/zhili-shu/ |
 | robinet-1993 | Robinet, Isabelle. Taoist Meditation: The Mao-shan Tradition of Great Purity. SUNY Press, 1993 | scholarship | /concepts/shouyi/ |

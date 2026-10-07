@@ -1,9 +1,10 @@
 # Glossary
 
-term records from the glossary content collection — 37 records.
+term records from the glossary content collection — 38 records.
 
 | id | title | chinese | pinyin | literalMeaning | recommended |
 |---|---|---|---|---|
+| bao-guang | Baoguang (葆光) | 葆光 | bǎoguāng |  |  |
 | baoyi | Baoyi | 抱一 | bàoyī | embracing/holding the One | embracing the One (parallel to the standard 'guarding the One' for shouyi) |
 | da-kuai | Dakuai (大块) | 大块 | dàkuài |  |  |
 | dantian | Dantian (丹田) | 丹田 | dāntián | cinnabar field | dantian (transliterated) — 'cinnabar field' for explanatory contexts |

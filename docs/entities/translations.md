@@ -1,11 +1,12 @@
 # Translations
 
-translation records from the translations content collection — 26 records.
+translation records from the translations content collection — 27 records.
 
 | id | title | sourceText | chapter |
 |---|---|---|
 | artisan-qing-passage | Artisan Qing's Seven-Day Fast (Zhuangzi 19) | zhuangzi |  |
 | daodejing-01 | The Gate of All Subtleties (Daodejing 1) | daodejing | Ch. 1 |
+| daodejing-02 | Being and Non-Being Give Rise to Each Other (Daodejing 2) | daodejing | Ch. 2 |
 | daodejing-05 | The Bellows of Heaven and Earth (Daodejing 5) | daodejing | Ch. 5 |
 | daodejing-06 | The Valley-Spirit Does Not Die (Daodejing 6) | daodejing | Ch. 6 |
 | daodejing-08 | The Highest Good Is Like Water (Daodejing 8) | daodejing | Ch. 8 |

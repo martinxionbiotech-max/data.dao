@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 730 total. Top-level key: `items` in
+Knowledge-graph edges — 784 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -9,15 +9,15 @@ Knowledge-graph edges — 730 total. Top-level key: `items` in
 |---|---|
 | associated_with | 34 |
 | authored | 2 |
-| concerns | 196 |
+| concerns | 202 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 101 |
+| described_in | 105 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 350 |
+| related_to | 394 |
 | translated_as | 23 |
 
 ## All edges
@@ -38,6 +38,13 @@ Knowledge-graph edges — 730 total. Top-level key: `items` in
 | artisan-qing | zuowang | concerns |
 | artisan-qing-passage | zhuangzi | translated_as |
 | artisan-qing-passage | zuowang | concerns |
+| bao-guang | daodejing-08 | related_to |
+| bao-guang | seeing-light-in-sitting | related_to |
+| bao-guang | tian-lai | related_to |
+| bao-guang | xushi-sheng-bai | related_to |
+| bao-guang | zhi-shui | related_to |
+| bao-guang | zhuangzi | described_in |
+| bao-guang | ziran | concerns |
 | bao-weng-guan-qi | hundun | related_to |
 | bao-weng-guan-qi | xinzhai | concerns |
 | bao-weng-guan-qi | xushi-sheng-bai | related_to |
@@ -54,6 +61,15 @@ Knowledge-graph edges — 730 total. Top-level key: `items` in
 | boatman | xinzhai-passage | related_to |
 | boatman | zhuangzi | described_in |
 | boatman | zuowang | concerns |
+| bole-horses | artisan-qing | related_to |
+| bole-horses | bao-weng-guan-qi | related_to |
+| bole-horses | cao-shang | related_to |
+| bole-horses | hundun | related_to |
+| bole-horses | luhou-yang-niao | related_to |
+| bole-horses | marsh-pheasant | related_to |
+| bole-horses | wuwei | concerns |
+| bole-horses | zhuangzi | described_in |
+| bole-horses | ziran | concerns |
 | boshun-archer | artisan-qing | related_to |
 | boshun-archer | boatman | related_to |
 | boshun-archer | cicada-catcher | related_to |
@@ -121,6 +137,14 @@ Knowledge-graph edges — 730 total. Top-level key: `items` in
 | daodejing-01 | guan | concerns |
 | daodejing-01 | qingjing-jing-opening | related_to |
 | daodejing-01 | xu | concerns |
+| daodejing-02 | daodejing | described_in |
+| daodejing-02 | daodejing-08 | related_to |
+| daodejing-02 | daodejing-10-shouyi | related_to |
+| daodejing-02 | daodejing-22 | related_to |
+| daodejing-02 | qiwulun-wu-sang-wo | related_to |
+| daodejing-02 | wheelwright-bian | related_to |
+| daodejing-02 | wuwei | concerns |
+| daodejing-02 | ziran | concerns |
 | daodejing-05 | daodejing | translated_as |
 | daodejing-05 | daodejing-25 | related_to |
 | daodejing-05 | tuoyue | related_to |
@@ -286,6 +310,13 @@ Knowledge-graph edges — 730 total. Top-level key: `items` in
 | exp-023-breath-is-the-key | seeing-light-in-sitting | related_to |
 | exp-023-breath-is-the-key | tiaoxi | concerns |
 | exp-023-breath-is-the-key | warmth-tingling-when-sitting | related_to |
+| exp-024-standing-and-sitting | exp-004-emotional-surfacing | related_to |
+| exp-024-standing-and-sitting | exp-012-restless-body | related_to |
+| exp-024-standing-and-sitting | exp-014-double-lotus-doctrine | related_to |
+| exp-024-standing-and-sitting | exp-018-halflotus-to-full-lotus | related_to |
+| exp-024-standing-and-sitting | exp-023-breath-is-the-key | related_to |
+| exp-024-standing-and-sitting | must-i-sit-cross-legged | related_to |
+| exp-024-standing-and-sitting | tiaoxi | concerns |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -368,6 +399,17 @@ Knowledge-graph edges — 730 total. Top-level key: `items` in
 | i-feel-nothing-when-i-sit | qi-belief-necessary | related_to |
 | i-feel-nothing-when-i-sit | warmth-tingling-when-sitting | related_to |
 | i-feel-nothing-when-i-sit | xu | concerns |
+| is-sitting-religious | does-daoism-believe-in-a-creator | related_to |
+| is-sitting-religious | jingzuo | related_to |
+| is-sitting-religious | mindfulness-meta-analysis-2014 | related_to |
+| is-sitting-religious | qi-belief-necessary | related_to |
+| is-sitting-religious | qiwulun-wu-sang-wo | related_to |
+| is-sitting-religious | xinzhai-passage | related_to |
+| is-sitting-religious | yang-xi | related_to |
+| is-sitting-religious | zhang-daoling | related_to |
+| is-sitting-religious | zhuzi-yulei-jingzuo | related_to |
+| is-sitting-religious | zuowang | related_to |
+| is-sitting-religious | zuowang-vs-mindfulness | related_to |
 | ji-ren | four-friends | related_to |
 | ji-ren | sanghu-friends | related_to |
 | ji-ren | zhuangzi | described_in |
@@ -433,6 +475,13 @@ Knowledge-graph edges — 730 total. Top-level key: `items` in
 | liezi-compilation | zhuangzi-compilation | related_to |
 | lindahl-2017 | can-sitting-go-wrong | informs |
 | lindahl-2017 | farias-adverse-events-2020 | related_to |
+| lu-xiujing | kou-qianzhi | related_to |
+| lu-xiujing | kou-qianzhi-reform | related_to |
+| lu-xiujing | shangqing-revelations | related_to |
+| lu-xiujing | tao-hongjing | related_to |
+| lu-xiujing | wei-huacun | related_to |
+| lu-xiujing | yang-xi | related_to |
+| lu-xiujing | zhang-daoling | related_to |
 | luhou-yang-niao | hundun | related_to |
 | luhou-yang-niao | marsh-pheasant | related_to |
 | luhou-yang-niao | mountain-tree-goose | related_to |
@@ -581,6 +630,11 @@ Knowledge-graph edges — 730 total. Top-level key: `items` in
 | turtle-in-the-mud | tao-hongjing | related_to |
 | turtle-in-the-mud | zhuang-zhou | related_to |
 | turtle-in-the-mud | zhuangzi | described_in |
+| tushan-shuo | cao-shang | related_to |
+| tushan-shuo | phoenix-and-owl | related_to |
+| tushan-shuo | turtle-in-the-mud | related_to |
+| tushan-shuo | xuzhou-empty-boat | related_to |
+| tushan-shuo | zhuangzi | described_in |
 | useless-gourd | peng-bird | related_to |
 | useless-gourd | wuwei | concerns |
 | useless-gourd | zhuangzi | described_in |

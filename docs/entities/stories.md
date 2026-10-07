@@ -1,12 +1,13 @@
 # Stories
 
-story records from the stories content collection — 46 records.
+story records from the stories content collection — 48 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
 | artisan-qing | Artisan Qing and the Bell-Stand: A Seven-Day Fast | Daoist | zhuangzi |
 | bao-weng-guan-qi | The Gardener and the Well-Sweep | Daoist | zhuangzi |
 | boatman | The Ferryman and the Diver: When the Water Is Forgotten | Daoist | zhuangzi |
+| bole-horses | Bole Manages the Horses | Daoist | zhuangzi |
 | boshun-archer | The Archer at the Cliff's Edge | Daoist | zhuangzi |
 | butterfly-dream | Zhuang Zhou Dreams of a Butterfly | Daoist | zhuangzi |
 | cao-shang | Cao Shang's Chariots | Daoist | zhuangzi |
@@ -41,6 +42,7 @@ story records from the stories content collection — 46 records.
 | swimmer-lvliang | The Swimmer of Lüliang: Native, Grown, Complete | Daoist | zhuangzi |
 | three-in-the-morning | Three in the Morning: The Monkeys Who Confused the Order for the Amount | Daoist | zhuangzi |
 | turtle-in-the-mud | The Turtle of Pu: Dragging Its Tail in the Mud | Daoist | zhuangzi |
+| tushan-shuo | The Sheep-Butcher's Three Refusals | Daoist | zhuangzi |
 | useless-gourd | The Giant Gourd: On the Uses of Uselessness | Daoist | zhuangzi |
 | wang-liang-wen-jing | The Penumbra Asks the Shadow | Daoist | zhuangzi |
 | wangyang-xingtan | The River God Looks Out to Sea: When the Flood Meets the Floodless | Daoist | zhuangzi |

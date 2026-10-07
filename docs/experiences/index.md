@@ -7,7 +7,7 @@ search index, 163.com teacher Q&A, Xinli001 Q&A, Baidu Health, Zhihu columns).
 All records paraphrased and anonymized; no usernames, no direct quotes without
 permission.
 
-## Current records — 23
+## Current records — 24
 
 | id | theme | confidence | page |
 |---|---|---|
@@ -34,6 +34,7 @@ permission.
 | EXP-021 | EXP-021: 864 Prostrations and the Channel Circuit | medium | /experiences/exp-021-prostrations-channel-circuit/ |
 | EXP-022 | EXP-022: 'It's All Theatre' — the Skeptic, the Deep Concentration Fear, and Yoga's Ceiling | medium | /experiences/exp-022-its-all-theatre/ |
 | EXP-023 | EXP-023: Breathing Is the Key — the All-Day Breath and the 4-to-6 Standard | medium | /experiences/exp-023-breath-is-the-key/ |
+| EXP-024 | EXP-024: Standing Post, Sitting Lotus — the Habit Seeds That Surface and the Legs That Alternate | medium | /experiences/exp-024-standing-and-sitting/ |
 
 ## Privacy rules
 

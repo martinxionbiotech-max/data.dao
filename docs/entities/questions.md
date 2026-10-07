@@ -1,6 +1,6 @@
 # Questions
 
-question records from the questions content collection — 16 records.
+question records from the questions content collection — 17 records.
 
 | id | title | question | answerState |
 |---|---|---|
@@ -13,6 +13,7 @@ question records from the questions content collection — 16 records.
 | how-long-should-i-sit | How Long Should I Sit? | How long should a sitting session be? Is there a classical minimum or maximum? | answered |
 | how-long-until-results | How Long Until I See Results? | How long until I see results from sitting practice? Days? Months? Years? | answered |
 | i-feel-nothing-when-i-sit | I Sit and Feel Nothing — Am I Doing It Wrong? | I sit and feel nothing. No warmth, no tingling, no peace — just quiet boredom. Am I doing it wrong? | answered |
+| is-sitting-religious | Is Sitting Meditation Religious? | Is sitting meditation religious? Do I have to be a Daoist or Buddhist — or believe anything — to practice zuowang, jingzuo, or the breathing methods? | answered |
 | must-i-sit-cross-legged | Must I Sit Cross-Legged (Full Lotus)? | Do I have to sit in full lotus (cross-legged) for meditation to 'count'? My legs hurt badly when I try. | answered |
 | qi-belief-necessary | Do I Need to Believe in Qi to Benefit from These Practices? | Do I need to believe in qi to benefit from Daoist sitting practices? | open |
 | should-i-meditate-when-sick | Should I Meditate When I'm Sick? | Should I keep up my sitting practice when I'm sick? The classical texts claim these practices heal — and some teachers say medical rules don't apply to practitioners. | answered |
