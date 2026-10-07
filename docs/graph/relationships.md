@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 1302 total. Top-level key: `items` in
+Knowledge-graph edges — 1350 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -17,7 +17,7 @@ Knowledge-graph edges — 1302 total. Top-level key: `items` in
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 857 |
+| related_to | 905 |
 | translated_as | 24 |
 
 ## All edges
@@ -374,6 +374,9 @@ Knowledge-graph edges — 1302 total. Top-level key: `items` in
 | daodejing-64 | i-feel-nothing-when-i-sit | related_to |
 | daodejing-64 | wuwei | concerns |
 | daodejing-64 | ziran | concerns |
+| daodejing-78 | daodejing | related_to |
+| daodejing-78 | wuwei | related_to |
+| daodejing-78 | ziran | related_to |
 | daoshu-neiguan-zuowang | daoshu | described_in |
 | daoshu-neiguan-zuowang | neiguan | concerns |
 | daoshu-neiguan-zuowang | zuowang | concerns |
@@ -578,6 +581,18 @@ Knowledge-graph edges — 1302 total. Top-level key: `items` in
 | exp-030-the-pain-ledger | jingzuo | related_to |
 | exp-030-the-pain-ledger | must-i-sit-cross-legged | related_to |
 | exp-030-the-pain-ledger | what-counts-as-progress | related_to |
+| exp-031-lotus-posture-chapter | can-meditation-cure-illness | related_to |
+| exp-031-lotus-posture-chapter | exp-003-leg-pain-filling | related_to |
+| exp-031-lotus-posture-chapter | exp-006-leg-numbness | related_to |
+| exp-031-lotus-posture-chapter | exp-010-lotus-pain | related_to |
+| exp-031-lotus-posture-chapter | exp-014-double-lotus-doctrine | related_to |
+| exp-031-lotus-posture-chapter | exp-018-halflotus-to-full-lotus | related_to |
+| exp-031-lotus-posture-chapter | exp-029-the-human-body | related_to |
+| exp-031-lotus-posture-chapter | exp-030-the-pain-ledger | related_to |
+| exp-031-lotus-posture-chapter | how-long-should-i-sit | related_to |
+| exp-031-lotus-posture-chapter | jingzuo | related_to |
+| exp-031-lotus-posture-chapter | must-i-sit-cross-legged | related_to |
+| exp-031-lotus-posture-chapter | should-i-use-timers | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -629,6 +644,15 @@ Knowledge-graph edges — 1302 total. Top-level key: `items` in
 | hezhe-zhi-fu | xuzhou-empty-boat | related_to |
 | hezhe-zhi-fu | zhuangzi | described_in |
 | hezhe-zhi-fu | ziran | concerns |
+| hook-smith | artisan-qing | related_to |
+| hook-smith | cicada-catcher | related_to |
+| hook-smith | cook-ding | related_to |
+| hook-smith | ji-xin | related_to |
+| hook-smith | wheelwright-bian | related_to |
+| hook-smith | wuwei | related_to |
+| hook-smith | xu | related_to |
+| hook-smith | zhuangzi | related_to |
+| hook-smith | ziran | related_to |
 | how-long-should-i-sit | drowsiness-in-sitting | concerns |
 | how-long-should-i-sit | jingzuo | concerns |
 | how-long-until-results | artisan-qing-passage | related_to |
@@ -784,6 +808,13 @@ Knowledge-graph edges — 1302 total. Top-level key: `items` in
 | liezi | zhuangzi | references |
 | liezi-compilation | liezi | concerns |
 | liezi-compilation | zhuangzi-compilation | related_to |
+| light-brightness-asks-nothingness | dao | related_to |
+| light-brightness-asks-nothingness | dongguo-zi-asks | related_to |
+| light-brightness-asks-nothingness | wu-sang-wo | related_to |
+| light-brightness-asks-nothingness | wuwei | related_to |
+| light-brightness-asks-nothingness | xu | related_to |
+| light-brightness-asks-nothingness | zhi-wen-wuwei | related_to |
+| light-brightness-asks-nothingness | zhuangzi | related_to |
 | lin-hui-qi-bi | four-friends | related_to |
 | lin-hui-qi-bi | liang-wang | related_to |
 | lin-hui-qi-bi | sanghu-friends | related_to |
@@ -940,6 +971,12 @@ Knowledge-graph edges — 1302 total. Top-level key: `items` in
 | should-i-meditate-when-sick | exp-021-prostrations-channel-circuit | related_to |
 | should-i-meditate-when-sick | mindfulness-meta-analysis-2014 | related_to |
 | should-i-meditate-when-sick | taiping-jing | related_to |
+| should-i-use-timers | how-long-should-i-sit | related_to |
+| should-i-use-timers | jingzuo | related_to |
+| should-i-use-timers | restlessness-in-sitting | related_to |
+| should-i-use-timers | what-counts-as-progress | related_to |
+| should-i-use-timers | why-do-i-keep-quitting | related_to |
+| should-i-use-timers | zuowang | related_to |
 | shouyi | baopuzi-shouyi | described_in |
 | shouyi | daodejing | described_in |
 | shouyi | daodejing-10-shouyi | translated_as |
@@ -958,6 +995,9 @@ Knowledge-graph edges — 1302 total. Top-level key: `items` in
 | snail-horn-war | wangyang-xingtan | related_to |
 | snail-horn-war | zhuangzi | described_in |
 | standing-in-snow | jingzuo | concerns |
+| sun-buer | ma-yu | related_to |
+| sun-buer | qiu-chuji | related_to |
+| sun-buer | wang-chongyang | related_to |
 | swimmer-lvliang | boatman | related_to |
 | swimmer-lvliang | zhuangzi | described_in |
 | swimmer-lvliang | ziran | concerns |
@@ -1120,6 +1160,14 @@ Knowledge-graph edges — 1302 total. Top-level key: `items` in
 | wooden-rooster | zhuangzi | described_in |
 | wooden-rooster-passage | wooden-rooster | concerns |
 | wooden-rooster-passage | zhuangzi | described_in |
+| wu-he-you-zhi-xiang | dongguo-zi-asks | related_to |
+| wu-he-you-zhi-xiang | huzi-jixian | related_to |
+| wu-he-you-zhi-xiang | peng-bird | related_to |
+| wu-he-you-zhi-xiang | useless-gourd | related_to |
+| wu-he-you-zhi-xiang | wuwei | related_to |
+| wu-he-you-zhi-xiang | xu | related_to |
+| wu-he-you-zhi-xiang | zhuangzi | related_to |
+| wu-he-you-zhi-xiang | ziran | related_to |
 | wu-hua | butterfly-dream | related_to |
 | wu-hua | da-kuai | related_to |
 | wu-hua | daye-zhu-jin | related_to |

@@ -1,6 +1,6 @@
 # Translations
 
-translation records from the translations content collection — 37 records.
+translation records from the translations content collection — 38 records.
 
 | id | title | sourceText | chapter |
 |---|---|---|
@@ -32,6 +32,7 @@ translation records from the translations content collection — 37 records.
 | daodejing-55 | Holding Virtue Thick as a Newborn (Daodejing 55) | daodejing | Ch. 55 |
 | daodejing-63 | Planning the Hard in Its Easy Stage (Daodejing 63) | daodejing | Ch. 63 |
 | daodejing-64 | A Journey of a Thousand Li Begins Under the Foot (Daodejing 64) | daodejing | Ch. 64 |
+| daodejing-78 | Daodejing 78 — Nothing in the World Is Softer than Water | Daodejing, Chapter 78 |  |
 | drumming-basin-passage | Drumming on the Basin: The Four Transformations (Word by Word) | zhuangzi | Ch. 18 (Zhile), the basin scene |
 | qingjing-jing-opening | Qingjing Jing Opening and Core: Full Translation | qingjing-jing |  |
 | qiwulun-wu-sang-wo | 'I Have Lost Myself' — the Qiwulun's Opening (Zhuangzi 2) | zhuangzi |  |

@@ -1,6 +1,6 @@
 # Stories
 
-story records from the stories content collection — 66 records.
+story records from the stories content collection — 68 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
@@ -29,12 +29,14 @@ story records from the stories content collection — 66 records.
 | guangchengzi | The Yellow Emperor Asks Guangchengzi | Daoist | zhuangzi |
 | handan-walk | The Handan Walk: What the Imitator Loses on the Way | Daoist | zhuangzi |
 | hezhe-zhi-fu | The Fish in the Dried-Up Rut | Daoist | zhuangzi |
+| hook-smith | The Old Man Who Forged Belt-Hooks |  | Zhuangzi, Zhi Bei You 22 (知北游) |
 | huan-gong-jian-gui | The Duke Who Saw a Ghost | Daoist | zhuangzi |
 | hui-shi-wu-che | Huishi's Five Cartloads | Daoist | zhuangzi |
 | hundun | Hundun: The Story of the Seven Holes | Daoist | zhuangzi |
 | huzi-jixian | Huzi and the Shaman: Four Depths of Stillness | Daoist | zhuangzi |
 | jingdi-zhiwa | The Well Frog and the Sea Turtle: The Three Limits of Knowing | Daoist | zhuangzi |
 | kui-xian-chain | The Pity Chain: Kui, the Centipede, the Snake, the Wind | Daoist | zhuangzi |
+| light-brightness-asks-nothingness | Light-Brightness Asks Nothingness |  | Zhuangzi, Zhi Bei You 22 (知北游) |
 | lin-hui-qi-bi | Lin Hui Drops the Jade | Daoist | zhuangzi |
 | luhou-yang-niao | The Marquis of Lu's Seabird | Daoist | zhuangzi |
 | mantis-and-chariot | The Mantis, the Tiger-Keeper, and the Horse-Lover: Talent Against Force | Daoist | zhuangzi |

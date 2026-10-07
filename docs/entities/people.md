@@ -1,6 +1,6 @@
 # People
 
-person records from the people content collection — 27 records.
+person records from the people content collection — 28 records.
 
 | id | title | chinese | dates | tradition | historicity | page |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@ person records from the people content collection — 27 records.
 | ma-yu | Ma Yu (马钰) | 马钰 |  |  | historical | /people/ma-yu/ |
 | qiu-chuji | Qiu Chuji (丘处机) | 丘处机 |  |  | historical | /people/qiu-chuji/ |
 | sima-chengzhen | Sima Chengzhen | 司马承祯 |  |  | historical | /people/sima-chengzhen/ |
+| sun-buer | Sun Bu'er (孙不二) |  |  |  | historical | /people/sun-buer/ |
 | tao-hongjing | Tao Hongjing (陶弘景) | 陶弘景 |  |  | historical | /people/tao-hongjing/ |
 | wang-bi | Wang Bi (王弼) | 王弼 |  |  | historical | /people/wang-bi/ |
 | wang-chongyang | Wang Chongyang (王重阳) | 王重阳 |  |  | historical | /people/wang-chongyang/ |

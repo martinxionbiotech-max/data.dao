@@ -1,6 +1,6 @@
 # Questions
 
-question records from the questions content collection — 26 records.
+question records from the questions content collection — 27 records.
 
 | id | title | question | answerState |
 |---|---|---|
@@ -22,6 +22,7 @@ question records from the questions content collection — 26 records.
 | must-i-sit-cross-legged | Must I Sit Cross-Legged (Full Lotus)? | Do I have to sit in full lotus (cross-legged) for meditation to 'count'? My legs hurt badly when I try. | answered |
 | qi-belief-necessary | Do I Need to Believe in Qi to Benefit from These Practices? | Do I need to believe in qi to benefit from Daoist sitting practices? | open |
 | should-i-meditate-when-sick | Should I Meditate When I'm Sick? | Should I keep up my sitting practice when I'm sick? The classical texts claim these practices heal — and some teachers say medical rules don't apply to practitioners. | answered |
+| should-i-use-timers | Should I Use a Timer? | Should I use a timer when I sit? Some people say set an alarm; others say sit open-ended. | answered |
 | warmth-tingling-when-sitting | Is It Normal to Feel Warmth or Tingling When I Sit? | When I sit, I sometimes feel warmth spreading, or tingling and small movements. Is this normal, and should I do anything about it? | answered |
 | what-counts-as-progress | What Counts as Progress? | How do I know if my practice is progressing? Am I advancing toward something, or just sitting? | answered |
 | what-is-stillness | What Is Stillness (Jing), Really? | What is 'stillness' (静 jing) in the Daoist sense — just being quiet, or something more? | answered |
