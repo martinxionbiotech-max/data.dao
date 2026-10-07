@@ -1,6 +1,6 @@
 # Glossary
 
-term records from the glossary content collection — 44 records.
+term records from the glossary content collection — 45 records.
 
 | id | title | chinese | pinyin | literalMeaning | recommended |
 |---|---|---|---|---|
@@ -20,6 +20,7 @@ term records from the glossary content collection — 44 records.
 | jing-qi-shen | Jing-Qi-Shen | 精气神 | jīng-qì-shén | essence–vitality–spirit | the three treasures (jing, qi, shen), glossed once; never 'body-fluids-energy-mind' literally |
 | jingzuo | Jingzuo | 静坐 | jìngzuò | still/quiet sitting | quiet sitting; hyphenate 'quiet-sitting' in scholarly contexts |
 | liang-wang | Liangwang (两忘) | 两忘 | liǎngwàng |  |  |
+| liang-xing | Liangxing (两行) | 两行 | liǎngxíng |  |  |
 | neiguan | Neiguan (内观) | 内观 | nèiguān | inner contemplation; inner vision | 'inner contemplation' — 'inner observation' for contexts emphasizing the inspecting function; avoid 'inner visualization' unless the source explicitly describes images |
 | qi | Qi | 气 | qì | vapor, breath, vital substrate | keep romanized as qi with a gloss; use 'breath' only in breathing contexts, 'energy' only with qualification |
 | qiwu | Qiwu (齐物) | 齐物 | qíwù |  |  |

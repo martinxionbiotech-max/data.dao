@@ -1,6 +1,6 @@
 # Questions
 
-The question collection — 22 records, with answer states.
+The question collection — 23 records, with answer states.
 
 | id | answer state | question | page |
 |---|---|---|---|
@@ -9,6 +9,7 @@ The question collection — 22 records, with answer states.
 | can-sitting-go-wrong | investigating | Can quiet sitting go wrong? What is 'fire deviation and demon entrance' (走火入魔), and should I be afraid of it? | /questions/can-sitting-go-wrong/ |
 | combine-zuowang-mindfulness | answered | Can I practice zuowang (or jingzuo) and mindfulness meditation together, or should I pick one? | /questions/combine-zuowang-mindfulness/ |
 | cunsi-or-zuowang | answered | Daoist meditation seems to have two opposite methods — filling the mind with inner images (cunsi) and emptying it entirely (zuowang). Which one should I practice? | /questions/cunsi-or-zuowang/ |
+| do-i-need-a-teacher | answered | Do I need a teacher to practice sitting meditation, or can I learn from books and forums? Is self-study without a teacher safe, or is it — as one forum claim puts it — 'demonic practice'? | /questions/do-i-need-a-teacher/ |
 | does-daoism-believe-in-a-creator | answered | Does the Daoist tradition believe in a creator — a god or driver who made or runs the world? | /questions/does-daoism-believe-in-a-creator/ |
 | does-diet-matter | answered | Do I need to change my diet to practice? Do Daoist traditions require vegetarianism, fasting, or giving up certain foods before or during sitting meditation? | /questions/does-diet-matter/ |
 | does-practice-need-faith | answered | Do I need to believe in anything — Dao, qi, deities, a cosmology — for the sitting practice to work? | /questions/does-practice-need-faith/ |

@@ -1,6 +1,6 @@
 # Sources Registry
 
-All sources used on the site — 158 total. Registry file:
+All sources used on the site — 162 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
@@ -12,9 +12,9 @@ All sources used on the site — 158 total. Registry file:
 | community | 21 |
 | community_archive | 1 |
 | historical | 5 |
-| historical_record | 8 |
+| historical_record | 9 |
 | historical_text | 1 |
-| primary_text | 91 |
+| primary_text | 93 |
 | reference | 1 |
 | reference_work | 1 |
 | research | 4 |
@@ -22,7 +22,7 @@ All sources used on the site — 158 total. Registry file:
 | scholarly_interpretation | 1 |
 | scholarship | 9 |
 | traditional_record | 3 |
-| web_archive | 1 |
+| web_archive | 2 |
 
 ## Full registry
 
@@ -45,6 +45,7 @@ All sources used on the site — 158 total. Registry file:
 | 163-taishi-49 | Taishi cultivation Q&A no. 49 (163.com community column, 2021) | community | /experiences/exp-009-dissolving-void/ |
 | 163-taishi-50 | Taishi cultivation Q&A no. 50 (163.com community column): 'Is this real concentration?' — the false first-dhyāna correction, the three gates refused | community | /experiences/exp-020-false-first-dhyana/ |
 | 360kuai-taishi-01 | Taishi cultivation Q&A no. 1 (360kuai reprint, 2021): why he began — the teacher's origin story, daily schedule, retreat record, and lineage refusal | community | /experiences/exp-017-why-he-began/ |
+| bai-yuchan-sources | Bai Yuchan (1134-1229): Wikipedia, the Guwendao author page, and the Daoist Culture Centre database (agreeing on the biography: born Ge Changgeng, adopted Bai, Qiongzhou birth, the prodigy record, the examination failure, the flight to Wuyi after a killing, nine years with Chen Nan, the Luofu transmission of 1212, the disciples of 1217, the open teaching seat, the Ningzong title, the Yulong Palace state jiao, the Lin-an memorial and the heterodox-arts accusation; the essence-breath-spirit and thunder-rites doctrine; the collections and the Palace Museum calligraphy), with the Daozhan source registering the birth-date dispute (1134 vs 1194) and the sohu biography carrying the 道情 poem | historical_record | /people/bai-yuchan/ |
 | baopuzi-received | Baopuzi, received text (inner 20 juan, outer 52 juan as received) | primary_text | /texts/baopuzi/ |
 | baopuzi-shizhi | Baopuzi, Inner Chapters, Shizhi chapter (释滞): taixi definition and moving-qi conditions | primary_text | /practices/taixi/; /problems/breath-stopping-anxiety/ |
 | ccdi-tangbi-dangche | CCDI study column on the idiom 螳臂当车 (sense-drift from Zhuangzi to Huainanzi to modern usage) | scholarly | /stories/mantis-and-chariot/ |
@@ -71,6 +72,7 @@ All sources used on the site — 158 total. Registry file:
 | daodejing-37-editions | Daodejing ch. 37: received text editions and the Guodian manuscript variant (道恒无为也, without 而无不为) | primary_text | /translations/daodejing-37/ |
 | daodejing-40-editions | Daodejing ch. 40, received text, verified against the Mindiver commentary edition, the Baidu Baike entry, the Shandong University chapter page, and the Zhang Qingxiang lecture transcript, with Qian Zhongshu two-senses gloss and the ch. 25 chain registered from the Hans Publishers academic paper | primary_text | /translations/daodejing-40/ |
 | daodejing-45-editions | Daodejing ch. 45, received text: three independent reproductions (mindiver.se; a Vocus teaching post; Wang Yijia's Laozi jinjie on Pixnet) with variant characters and the swapped final couplet recorded | primary_text | /translations/daodejing-45/ |
+| daodejing-46-editions | Daodejing ch. 46, verified against three independent reproductions that agree on the received text (the Zhihu chapter study with glosses: 天下有道，却走马以粪。天下无道，戎马生于郊。罪莫大于可欲；祸莫大于不知足；咎莫大于欲得。故知足之足，常足矣; the Baidu Baike chapter page; the Shandong University chapter page), with the variant registered (the Zhihu text carries the first superlative 罪莫大于可欲 and the Baike text omits it) | primary_text | /translations/daodejing-46/ |
 | daodejing-48-editions | Daodejing ch. 48: received text with Wang Bi commentary transmission, Baike teaching edition, Daodejing.org | primary_text | /translations/daodejing-48/ |
 | daodejing-63-editions | Daodejing ch. 63, received text: Sreading full-text edition and a second full-text reproduction; the editions' treatment of 报怨以德 recorded without adjudication | primary_text | /translations/daodejing-63/ |
 | daodejing-64-editions | Daodejing ch. 64, received text: Taiji Shuguan edition with notes (the ch. 29 misplaced-strip tradition recorded); Wikipedia entry on the idiom; Kekenet bilingual edition; Dudianji bilingual edition | primary_text | /translations/daodejing-64/ |
@@ -120,6 +122,7 @@ All sources used on the site — 158 total. Registry file:
 | renjianshi-xinzhai-passage | Zhuangzi ch. 4 (Renjian Shi), mind-fasting passage: Wikisource full text; a Baidu Jingyan teaching entry on 虚室生白 | primary_text | /glossary/xushi-sheng-bai/ |
 | renjianshi-zhili-shu-editions | Zhuangzi ch. 4 (Renjian Shi), Zhili Shu passage: Taiji Shuguan edition with running glosses; Fu Peirong's annotated edition (variants: 齊/臍, 鼓廁/鼓筴); education-encyclopedia entry on the chapter's structure (Cheng Xuanying's sub-commentary on 支離其德) | primary_text | /stories/zhili-shu/ |
 | robinet-1993 | Robinet, Isabelle. Taoist Meditation: The Mao-shan Tradition of Great Purity. SUNY Press, 1993 | scholarship | /concepts/shouyi/ |
+| shanmu-chapter-editions | Zhuangzi ch. 20 (Shan Mu, outer chapter), the Beigong She and Shinan Yiliao passages, verified against the Wikisource full chapter and the Zhihu chapter-verse reading (agreeing on the Beigong She passage: 北宫奢为卫灵公赋敛以为锺…一之间，无敢设也…既雕既琢，复归于朴…来者勿禁，往者勿止…因其自穷…豪毛不挫, and carrying the Shinan Yiliao passage: 市南宜僚见鲁侯…丰狐文豹…其皮为之灾也。今鲁国，独非君之皮邪…建德之国…无形倨无留居以为君车…送君者皆自崖而反…有人者累见有于人者忧), with the gushiwen famous-line page carrying the same 既雕既琢，复归于朴 and its standard gloss | primary_text | /stories/bei-gong-she/; /stories/shinan-yiliao/ |
 | shanmu-editions | Zhuangzi ch. 20 (Shanmu) opening passage: Wang Nengxian's scholarly exposition (Sohu, 'between timber and no-timber') and the full text on Xueqiu, agreeing word for word | primary_text | /stories/mountain-tree-goose/ |
 | shanmu-empty-boat-editions | Zhuangzi ch. 20 (Shanmu), empty-boat passage: full passage quoted verbatim in two independent reproductions (a Xueqiu teaching post with translation; a Xinhuanet essay) | primary_text | /stories/xuzhou-empty-boat/ |
 | shanmu-mantis-editions | Zhuangzi ch. 20 (Shanmu), Diaoling passage: Wikisource full text with variants (樊/野, 见利/见得); a Sohu teaching commentary on the passage | primary_text | /stories/mantis-stalks-cicada/ |
@@ -135,6 +138,7 @@ All sources used on the site — 158 total. Registry file:
 | song-shi-yangshi | Song shi, 'Yang Shi zhuan' (ch. 428), Cheng Men Li Xue episode | primary_text | /concepts/jingzuo/; /timeline/cheng-men-li-xue/; /stories/standing-in-snow/ |
 | sun-mingjun-2022 | Sun Mingjun, 'Dao and De in the Zhuangzi' (National Office for Philosophy and Social Science, 2022) | scholarly | /translations/yongxin-ruo-jing-passage/; /glossary/zhi-shui/ |
 | sxu-zhuangzi-renjianshi | Zhuangzi ch. 4 (Renjianshi) full text and translation (Shanxi University Philosophy Dept) | primary_text | /translations/virtual-room-passage/; /glossary/zuochi/ |
+| taiguanglin-zuochan-hongchen-11 | Taiguanglin official Sit-in Q&A collection (坐禅问答录), ch. 11 on worldly matters, section 11, Finding a teacher (full text retrieved 2026-10-07 from taiguanglin.org; original posts 2014-02-22 through 2014-02-26): the teacher-student bond doctrine, the aspiration rule, the try-and-see rule, the precepts-as-teacher answer to the demonic-practice question, the swindler warning, the support teaching, the ladder of teachers, the no-shortcut rule, the fraud analysis, and the reposted silent-illumination teacher dialogue with the meta-reaction | web_archive | /experiences/exp-027-finding-a-teacher/; /questions/do-i-need-a-teacher/ |
 | taiguanglin-zuochan-jiexing-07 | Taiguanglin official Sit-in Q&A collection (坐禅问答录), ch. 2 on precepts, section 7, Vegetarianism is the necessary choice (full text retrieved 2026-10-07 from taiguanglin.org; original posts 2014-02-20): the animals-have-consciousness claim, the meat-blocks-the-dhyanas gate, the Four Heavenly Kings rebirth, the three-stage dream-test with its seven-year frame, the eye-test, the Buddha two-stage narrative with the Shurangama line, the honesty rule, and the nutrition exchange (ten years one meal a day, no colds; the transition-period correction; tofu daily; no coffee/cola/tea; Pu-er tea), with the community counter-voices (the diabetes report, the gradual-protein advice) | web_archive | /experiences/exp-026-diet-gate/; /questions/does-diet-matter/ |
 | taiping-jing | Taiping Jing (Scripture of Great Peace) | primary_text | /concepts/shouyi/; /problems/wandering-mind-in-sitting/; /problems/restlessness-in-sitting/ |
 | taiping-jing-received | Taiping Jing, received text (57 juan / 126 pian in the Ming Daoist Canon; Wang Ming, Taiping Jing Hejiao, 1960) | primary_text | /texts/taiping-jing/; /practices/shouyi/ |

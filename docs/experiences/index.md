@@ -7,7 +7,7 @@ search index, 163.com teacher Q&A, Xinli001 Q&A, Baidu Health, Zhihu columns).
 All records paraphrased and anonymized; no usernames, no direct quotes without
 permission.
 
-## Current records — 26
+## Current records — 27
 
 | id | theme | confidence | page |
 |---|---|---|
@@ -37,6 +37,7 @@ permission.
 | EXP-024 | EXP-024: Standing Post, Sitting Lotus — the Habit Seeds That Surface and the Legs That Alternate | medium | /experiences/exp-024-standing-and-sitting/ |
 | EXP-025 | Lying Down Practice, and the Innovation Question | — | /experiences/exp-025-lying-down-innovation/ |
 | EXP-026 | The Diet Gate: Meat and the First Step | — | /experiences/exp-026-diet-gate/ |
+| EXP-027 | Finding a Teacher | — | /experiences/exp-027-finding-a-teacher/ |
 
 ## Privacy rules
 

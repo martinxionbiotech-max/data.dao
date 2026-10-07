@@ -1,11 +1,12 @@
 # Stories
 
-story records from the stories content collection — 58 records.
+story records from the stories content collection — 60 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
 | artisan-qing | Artisan Qing and the Bell-Stand: A Seven-Day Fast | Daoist | zhuangzi |
 | bao-weng-guan-qi | The Gardener and the Well-Sweep | Daoist | zhuangzi |
+| bei-gong-she | Beigong She's Bell | Daoist | zhuangzi |
 | boatman | The Ferryman and the Diver: When the Water Is Forgotten | Daoist | zhuangzi |
 | bole-horses | Bole Manages the Horses | Daoist | zhuangzi |
 | boshun-archer | The Archer at the Cliff's Edge | Daoist | zhuangzi |
@@ -45,6 +46,7 @@ story records from the stories content collection — 58 records.
 | ren-gongzi-fishing | Lord Ren's Giant Fish | Daoist | zhuangzi |
 | sanghu-friends | Singing at the Corpse: The Friends of Sang Hu | Daoist | zhuangzi |
 | shanbao-zhangyi | The Two Deaths: One-Sided Cultivation | Daoist | zhuangzi |
+| shinan-yiliao | The Fox's Fur Is Its Disaster | Daoist | zhuangzi |
 | snail-horn-war | The Snail-Horn War | Daoist | zhuangzi |
 | standing-in-snow | Standing in the Snow at Cheng Yi's Gate | Neo-Confucian |  |
 | swimmer-lvliang | The Swimmer of Lüliang: Native, Grown, Complete | Daoist | zhuangzi |

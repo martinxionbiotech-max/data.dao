@@ -1,6 +1,6 @@
 # Translations
 
-translation records from the translations content collection — 34 records.
+translation records from the translations content collection — 35 records.
 
 | id | title | sourceText | chapter |
 |---|---|---|
@@ -26,6 +26,7 @@ translation records from the translations content collection — 34 records.
 | daodejing-37 | Non-Acting and Nothing Left Undone (Daodejing 37) | daodejing | Ch. 37 |
 | daodejing-40 | Returning Is the Motion of the Way (Daodejing 40) | daodejing | Ch. 40 |
 | daodejing-45 | The Great Accomplishment Looks Unfinished (Daodejing 45) | daodejing | Ch. 45 |
+| daodejing-46 | When the World Has the Way (Daodejing 46) | daodejing | Ch. 46 |
 | daodejing-48 | Learning Adds, the Way Pairs Away (Daodejing 48) | daodejing | Ch. 48 |
 | daodejing-63 | Planning the Hard in Its Easy Stage (Daodejing 63) | daodejing | Ch. 63 |
 | daodejing-64 | A Journey of a Thousand Li Begins Under the Foot (Daodejing 64) | daodejing | Ch. 64 |

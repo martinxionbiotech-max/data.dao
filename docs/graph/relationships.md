@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 1084 total. Top-level key: `items` in
+Knowledge-graph edges — 1136 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -12,12 +12,12 @@ Knowledge-graph edges — 1084 total. Top-level key: `items` in
 | concerns | 217 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 128 |
+| described_in | 132 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 656 |
+| related_to | 704 |
 | translated_as | 23 |
 
 ## All edges
@@ -38,6 +38,13 @@ Knowledge-graph edges — 1084 total. Top-level key: `items` in
 | artisan-qing | zuowang | concerns |
 | artisan-qing-passage | zhuangzi | translated_as |
 | artisan-qing-passage | zuowang | concerns |
+| bai-yuchan | daodejing | related_to |
+| bai-yuchan | exp-021-prostrations-channel-circuit | related_to |
+| bai-yuchan | jing-qi-shen | related_to |
+| bai-yuchan | qiu-chuji | related_to |
+| bai-yuchan | wang-chongyang | related_to |
+| bai-yuchan | zhang-boduan | related_to |
+| bai-yuchan | zuowang | related_to |
 | bao-guang | daodejing-08 | related_to |
 | bao-guang | seeing-light-in-sitting | related_to |
 | bao-guang | tian-lai | related_to |
@@ -57,6 +64,14 @@ Knowledge-graph edges — 1084 total. Top-level key: `items` in
 | baopuzi-composition | ge-hong | concerns |
 | baoyi | daodejing | described_in |
 | baoyi | shouyi | concerns |
+| bei-gong-she | daodejing-32 | related_to |
+| bei-gong-she | hua | related_to |
+| bei-gong-she | qiu-hao | related_to |
+| bei-gong-she | ren-gongzi-fishing | related_to |
+| bei-gong-she | wuwei | related_to |
+| bei-gong-she | xuzhou-empty-boat | related_to |
+| bei-gong-she | zhuangzi | described_in |
+| bei-gong-she | ziran | related_to |
 | boatman | cicada-catcher | related_to |
 | boatman | xinzhai-passage | related_to |
 | boatman | zhuangzi | described_in |
@@ -299,6 +314,11 @@ Knowledge-graph edges — 1084 total. Top-level key: `items` in
 | daodejing-45 | qingjing-jing | related_to |
 | daodejing-45 | xu | concerns |
 | daodejing-45 | ziran | concerns |
+| daodejing-46 | daodejing | described_in |
+| daodejing-46 | daodejing-12 | related_to |
+| daodejing-46 | daodejing-32 | related_to |
+| daodejing-46 | daodejing-33 | related_to |
+| daodejing-46 | zhi-shui | related_to |
 | daodejing-48 | daodejing | translated_as |
 | daodejing-48 | three-craftsmen-dazheng | related_to |
 | daodejing-48 | wuwei | concerns |
@@ -325,6 +345,15 @@ Knowledge-graph edges — 1084 total. Top-level key: `items` in
 | daye-zhu-jin | zhili-shu | related_to |
 | daye-zhu-jin | zhuangzi | described_in |
 | daye-zhu-jin | ziran | concerns |
+| do-i-need-a-teacher | does-practice-need-faith | related_to |
+| do-i-need-a-teacher | exp-017-why-he-began | related_to |
+| do-i-need-a-teacher | exp-025-lying-down-innovation | related_to |
+| do-i-need-a-teacher | exp-027-finding-a-teacher | related_to |
+| do-i-need-a-teacher | is-sitting-religious | related_to |
+| do-i-need-a-teacher | jingzuo | related_to |
+| do-i-need-a-teacher | zhao-che | related_to |
+| do-i-need-a-teacher | zuowang | related_to |
+| do-i-need-a-teacher | zuowang-safety-without-teacher | related_to |
 | does-daoism-believe-in-a-creator | da-kuai | related_to |
 | does-daoism-believe-in-a-creator | hundun | related_to |
 | does-daoism-believe-in-a-creator | tian-ji | related_to |
@@ -457,6 +486,12 @@ Knowledge-graph edges — 1084 total. Top-level key: `items` in
 | exp-026-diet-gate | exp-013-buddhist-daoist-boundary | related_to |
 | exp-026-diet-gate | exp-016-nine-dhyanas-map | related_to |
 | exp-026-diet-gate | exp-024-standing-and-sitting | related_to |
+| exp-027-finding-a-teacher | do-i-need-a-teacher | related_to |
+| exp-027-finding-a-teacher | exp-017-why-he-began | related_to |
+| exp-027-finding-a-teacher | exp-021-prostrations-channel-circuit | related_to |
+| exp-027-finding-a-teacher | exp-025-lying-down-innovation | related_to |
+| exp-027-finding-a-teacher | jingzuo | related_to |
+| exp-027-finding-a-teacher | zuowang-safety-without-teacher | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -642,6 +677,14 @@ Knowledge-graph edges — 1084 total. Top-level key: `items` in
 | liang-wang | yongxin-ruo-jing-passage | related_to |
 | liang-wang | zhuangzi | described_in |
 | liang-wang | zuowang | concerns |
+| liang-xing | huan-zhong | related_to |
+| liang-xing | qiwu | related_to |
+| liang-xing | three-in-the-morning | related_to |
+| liang-xing | tian-jun | related_to |
+| liang-xing | yongxin-ruo-jing-passage | related_to |
+| liang-xing | zhen-zai | related_to |
+| liang-xing | zhi-yan | related_to |
+| liang-xing | zhuangzi | described_in |
 | liezi | daodejing | related_to |
 | liezi | xu | concerns |
 | liezi | zhuangzi | references |
@@ -767,6 +810,15 @@ Knowledge-graph edges — 1084 total. Top-level key: `items` in
 | shangqing-revelations | kou-qianzhi-reform | related_to |
 | shangqing-revelations | yang-xi | associated_with |
 | shen | jing-qi-shen | concerns |
+| shinan-yiliao | daodejing-02 | related_to |
+| shinan-yiliao | marsh-pheasant | related_to |
+| shinan-yiliao | mountain-tree-goose | related_to |
+| shinan-yiliao | phoenix-and-owl | related_to |
+| shinan-yiliao | qiwu | related_to |
+| shinan-yiliao | wuwei | related_to |
+| shinan-yiliao | xuzhou-empty-boat | related_to |
+| shinan-yiliao | zhuangzi | described_in |
+| shinan-yiliao | ziran | related_to |
 | should-i-meditate-when-sick | baopuzi | related_to |
 | should-i-meditate-when-sick | can-meditation-cure-illness | related_to |
 | should-i-meditate-when-sick | daodejing-64 | related_to |
