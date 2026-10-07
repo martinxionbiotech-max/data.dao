@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 178 total. Top-level key: `items` in
+Knowledge-graph edges — 204 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -9,15 +9,15 @@ Knowledge-graph edges — 178 total. Top-level key: `items` in
 |---|---|
 | associated_with | 8 |
 | authored | 2 |
-| concerns | 74 |
+| concerns | 91 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 40 |
+| described_in | 48 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 1 |
-| related_to | 23 |
+| related_to | 24 |
 | translated_as | 8 |
 
 ## All edges
@@ -51,6 +51,9 @@ Knowledge-graph edges — 178 total. Top-level key: `items` in
 | butterfly-dream | zhuangzi | described_in |
 | can-sitting-go-wrong | farias-adverse-events-2020 | derived_from |
 | can-sitting-go-wrong | jingzuo | concerns |
+| carpenter-shi | fish-happiness | related_to |
+| carpenter-shi | zhuangzi | described_in |
+| carpenter-shi | zuowang-safety-without-teacher | concerns |
 | cicada-catcher | jingzuo | concerns |
 | cicada-catcher | shouyi | concerns |
 | cicada-catcher | zhuangzi | described_in |
@@ -62,6 +65,9 @@ Knowledge-graph edges — 178 total. Top-level key: `items` in
 | cunsi | dantian | concerns |
 | cunsi | huangting-jing | described_in |
 | cunsi | shouyi | contrasts_with |
+| cunsi-or-zuowang | cunsi | concerns |
+| cunsi-or-zuowang | shouyi | concerns |
+| cunsi-or-zuowang | zuowang | concerns |
 | dantian | jing-qi-shen | related_to |
 | dantian | qi | related_to |
 | dantian | shouyi | related_to |
@@ -80,6 +86,9 @@ Knowledge-graph edges — 178 total. Top-level key: `items` in
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
+| fish-happiness | guan | concerns |
+| fish-happiness | jing | concerns |
+| fish-happiness | zhuangzi | described_in |
 | ge-hong | baopuzi | authored |
 | guan | daodejing | described_in |
 | guan | neiguan | concerns |
@@ -139,9 +148,16 @@ Knowledge-graph edges — 178 total. Top-level key: `items` in
 | shouyi | qi | associated_with |
 | shouyi | wuwei | related_to |
 | shouyi | zuowang | related_to |
+| shouyi-practice | baopuzi | described_in |
+| shouyi-practice | daodejing | described_in |
+| shouyi-practice | shouyi | concerns |
+| shouyi-practice | taiping-jing | described_in |
 | sima-chengzhen | zuowang-lun | discusses |
 | sima-chengzhen | zuowang-lun-composition | described_in |
 | standing-in-snow | jingzuo | concerns |
+| taiping-jing | jing-qi-shen | concerns |
+| taiping-jing | qi | concerns |
+| taiping-jing | shouyi | concerns |
 | taiping-jing | taiping-jing-shouyi | described_in |
 | taixi | exp-008-breath-stopping | concerns |
 | taixi | qi | concerns |
@@ -152,8 +168,15 @@ Knowledge-graph edges — 178 total. Top-level key: `items` in
 | three-languages | qi | concerns |
 | tiaoxi | jingzuo | related_to |
 | tiaoxi | qi | related_to |
+| tiaoxi-practice | breath-stopping-anxiety | concerns |
+| tiaoxi-practice | taixi | concerns |
+| tiaoxi-practice | tiaoxi | concerns |
+| tiaoxi-practice | xiao-zhiguan | described_in |
 | translation-policy | wuwei | concerns |
 | translation-policy | ziran | concerns |
+| tuoyue | daodejing | described_in |
+| tuoyue | jing | concerns |
+| tuoyue | xu | concerns |
 | warmth-and-qi-sensations | EXP-002 | derived_from |
 | warmth-and-qi-sensations | EXP-003 | derived_from |
 | what-is-stillness | jing | concerns |
@@ -168,6 +191,9 @@ Knowledge-graph edges — 178 total. Top-level key: `items` in
 | wuwei | daodejing | described_in |
 | wuwei | daodejing-48 | translated_as |
 | wuwei | zuowang | related_to |
+| xi | taixi | concerns |
+| xi | tiaoxi | concerns |
+| xi | xiao-zhiguan | described_in |
 | xiao-zhiguan | jingzuo | concerns |
 | xiao-zhiguan | tiaoxi | concerns |
 | xiao-zhiguan-five-adjustments | tiaoxi | concerns |

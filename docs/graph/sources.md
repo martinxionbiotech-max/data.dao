@@ -1,6 +1,6 @@
 # Sources Registry
 
-All sources used on the site — 39 total. Registry file:
+All sources used on the site — 42 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
@@ -9,7 +9,7 @@ All sources used on the site — 39 total. Registry file:
 |---|---|
 | community | 5 |
 | historical_text | 1 |
-| primary_text | 20 |
+| primary_text | 23 |
 | research | 4 |
 | scholarship | 9 |
 
@@ -41,12 +41,15 @@ All sources used on the site — 39 total. Registry file:
 | slingerland-2003 | Slingerland, Edward. Effortless Action: Wu-wei as Conceptual Metaphor and Spiritual Ideal in Early China. Oxford University Press, 2003 | scholarship | /concepts/wuwei/ |
 | song-shi-yangshi | Song shi, 'Yang Shi zhuan' (ch. 428), Cheng Men Li Xue episode | primary_text | /concepts/jingzuo/; /timeline/cheng-men-li-xue/; /stories/standing-in-snow/ |
 | taiping-jing | Taiping Jing (Scripture of Great Peace) | primary_text | /concepts/shouyi/; /problems/wandering-mind-in-sitting/; /problems/restlessness-in-sitting/ |
+| taiping-jing-received | Taiping Jing, received text (57 juan / 126 pian in the Ming Daoist Canon; Wang Ming, Taiping Jing Hejiao, 1960) | primary_text | /texts/taiping-jing/; /practices/shouyi/ |
 | taishi-qa-163 | Taishi xiuxing wenda (meditation teacher Q&A column), 163.com no. 34 | community | /experiences/exp-002-warmth-rotation/; /experiences/exp-003-leg-pain-filling/ |
 | taylor-1988 | Taylor, Rodney L. The Confucian Way of Contemplation: Okada Takehiko and the Tradition of Quiet-Sitting. University of South Carolina Press, 1988 | scholarship | /concepts/jingzuo/; /practices/jingzuo/ |
 | tieba-dazuo-bar | Baidu Tieba 打坐吧/冥想吧 threads (search-indexed snippets) | community | /experiences/exp-004-emotional-surfacing/; /experiences/exp-005-night-qi-movement/ |
 | watson-1968 | Watson, Burton, trans. The Complete Works of Chuang Tzu. Columbia University Press, 1968 | scholarship | /texts/zhuangzi/; /concepts/zuowang/ |
 | wikisource-zhuangzi-dasheng | Zhuangzi ch. 19 (Dasheng), Wikisource | primary_text | /stories/wooden-rooster/; /stories/artisan-qing/; /stories/cicada-catcher/; /translations/artisan-qing-passage/; /blog/three-craftsmen-dazheng/; /glossary/shen/ |
+| wikisource-zhuangzi-qiushui | Zhuangzi ch. 17 (Qiushui), received text (Wikisource) | primary_text | /stories/fish-happiness/ |
 | wikisource-zhuangzi-renjianshi | Zhuangzi ch. 4 (Renjian shi), Wikisource | primary_text | /concepts/xu/; /problems/seeing-light-in-sitting/ |
+| wikisource-zhuangzi-xuwugui | Zhuangzi ch. 24 (Xuwugui), received text (Wikisource / Shidian Guji edition) | primary_text | /stories/carpenter-shi/ |
 | wikisource-zhuangzi-yingdiwang | Zhuangzi ch. 7 (Ying diwang), Wikisource | primary_text | /stories/huzi-jixian/ |
 | wikisource-zhuangzi-ys | Zhuangzi ch. 3 (Yangsheng zhu), Wikisource | primary_text | /stories/cook-ding/ |
 | wikisource-zhuangzi-zaiyou | Zhuangzi ch. 11 (Zaiyou), Wikisource | primary_text | /stories/guangchengzi/ |
