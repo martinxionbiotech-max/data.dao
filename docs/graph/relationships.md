@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 1245 total. Top-level key: `items` in
+Knowledge-graph edges — 1247 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -17,7 +17,7 @@ Knowledge-graph edges — 1245 total. Top-level key: `items` in
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 805 |
+| related_to | 807 |
 | translated_as | 23 |
 
 ## All edges
@@ -325,6 +325,7 @@ Knowledge-graph edges — 1245 total. Top-level key: `items` in
 | daodejing-45 | daodejing | translated_as |
 | daodejing-45 | daodejing | described_in |
 | daodejing-45 | daodejing-11 | related_to |
+| daodejing-45 | daodejing-14 | related_to |
 | daodejing-45 | daodejing-16 | related_to |
 | daodejing-45 | daodejing-22 | related_to |
 | daodejing-45 | daodejing-37 | related_to |
@@ -334,6 +335,7 @@ Knowledge-graph edges — 1245 total. Top-level key: `items` in
 | daodejing-45 | qingjing-jing | related_to |
 | daodejing-45 | wuwei | related_to |
 | daodejing-45 | xu | concerns |
+| daodejing-45 | yun-jin-cheng-feng | related_to |
 | daodejing-45 | ziran | concerns |
 | daodejing-46 | daodejing | described_in |
 | daodejing-46 | daodejing-12 | related_to |
