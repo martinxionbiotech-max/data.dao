@@ -1,19 +1,10 @@
 # Practices
 
-Structured practice records from `data/practices.json` — 4 records.
+practice records from the practices content collection — 4 records.
 
-| id | name | 中文 | tradition | evidence | related |
-|---|---|---|---|---|---|
-| zuowang | Zuowang (practice) | 坐忘 | Daoist | PRIMARY SOURCE | zhuangzi, xinzhai, wuwei, qi |
-| jingzuo | Jingzuo (practice) | 静坐 | Neo-Confucian | PRIMARY SOURCE | zuowang, xinzhai, shouyi |
-
-## Schema
-
-```json
-{ "id": "zuowang", "name": "Zuowang (practice)", "chinese": "坐忘",
-  "pinyin": "zuòwàng", "tradition": "Daoist",
-  "page": "/practices/zuowang/", "evidence": "PRIMARY SOURCE",
-  "related": ["zhuangzi", "xinzhai"] }
-```
-| cunsi | Daoist (Shangqing) | image-based; the imagistic pole vs zuowang |
-| taixi | Daoist (Baopuzi) | embryonic breathing; arrival not technique |
+| id | title | chinese | pinyin | tradition | difficulty |
+|---|---|---|---|---|
+| cunsi | Cunsi: Inner Visualization | 存思 | cúnsī | Daoist (Shangqing visualization; earlier strata in Baopuzi) | structured; image-based; requires learned inner geography |
+| jingzuo | Jingzuo: Quiet Sitting as a Practice | 静坐 | jìngzuò | Neo-Confucian (Song–Ming); Daoist and Chan-influenced | simple form; sustained practice is demanding |
+| taixi | Taixi: Embryonic Breathing | 胎息 | tāixī | Daoist (Baopuzi; later internal alchemy) | advanced; traditionally framed as a consequence of long practice, not a technique to seize |
+| zuowang | Zuowang: The Practice of Sitting in Oblivion | 坐忘 | zuòwàng | Daoist (classical Zhuangzi; systematized in Tang Shangqing) | advanced in its full form; the stages are explicitly graduated |

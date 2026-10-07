@@ -3,12 +3,12 @@
 Recurring phenomena across independent anonymized reports — 3 patterns.
 
 | id | phenomenon | reports | evidence basis | page |
-|---|---|---|---|---|
-| drowsiness-vs-stillness | drowsiness during sitting, mistaken for stillness | 1 | practitioner-reports-only | /patterns/drowsiness-vs-stillness/ |
-| warmth-and-qi-sensations | warmth, sweating, felt qi movement | 2 | partially-researched | /patterns/warmth-and-qi-sensations/ |
-| leg-numbness-pain | leg numbness/pain, endure-vs-adjust split | 2 | partially-researched | /patterns/leg-numbness-pain/ |
+|---|---|---|---|
+| drowsiness-vs-stillness | Drowsiness (昏沉) during sitting, and uncertainty about whether it is stillness (入静) | 1 | practitioner-reports-only | /patterns/drowsiness-vs-stillness/ |
+| leg-numbness-pain | Leg numbness, pins-and-needles, and pain in cross-legged sitting, with contradictory community advice about endurance | 2 | partially-researched | /patterns/leg-numbness-pain/ |
+| warmth-and-qi-sensations | Warmth, sweating, tingling, and felt qi movement during or after seated practice | 2 | partially-researched | /patterns/warmth-and-qi-sensations/ |
 
 Language discipline: "recurring reports in the practitioner archive" —
-never "scientifically proven" unless actual research supports it. The
-traditional interpretation and the modern reading are recorded side by
-side and neither is asserted as fact.
+never "scientifically proven" unless actual research supports it. Evidence
+basis is graded conservatively: `partially-researched` only when adjacent
+research exists in a weak sense; `practitioner-reports-only` otherwise.

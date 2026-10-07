@@ -1,20 +1,17 @@
-# Stories Collection
+# Stories
 
-Narrative content — classical parables and traditional episodes, each with
-explicit framing of what is legend vs history. 10 records.
+story records from the stories content collection — 11 records.
 
-| id | tradition | source text | framing |
-|---|---|---|---|
-| cook-ding | Daoist | zhuangzi | parable |
-| confucius-meets-laozi | Daoist/Confucian encounter | shiji | traditional, unverifiable |
-| butterfly-dream | Daoist | zhuangzi | literature doing philosophy |
-| standing-in-snow | Neo-Confucian | song shi | tradition, later record |
-| guangchengzi | Daoist | zhuangzi ch. 11 | myth dressed as instruction |
-| huzi-jixian | Daoist | zhuangzi ch. 7 | parable; stages of depth |
-| wooden-rooster | Daoist | zhuangzi ch. 19 | parable |
-| artisan-qing | Daoist | zhuangzi ch. 19 | parable; seven-day fast of the mind |
-| cicada-catcher | Daoist | zhuangzi ch. 19 | parable; concentration formula |
-
-All source texts verified against received editions (Wikisource). Each story
-page ends with an explicit "Framing" section separating legend from history.
-| wheelwright-bian | Daoist | zhuangzi ch. 13 | parable; tacit knowledge |
+| id | title | tradition | sourceText |
+|---|---|---|
+| artisan-qing | Artisan Qing and the Bell-Stand: A Seven-Day Fast | Daoist | zhuangzi |
+| butterfly-dream | Zhuang Zhou Dreams of a Butterfly | Daoist | zhuangzi |
+| cicada-catcher | The Hunchback and the Cicada | Daoist | zhuangzi |
+| confucius-meets-laozi | Confucius Meets Laozi: The Dragon | Daoist / Confucian encounter (traditional) | daodejing |
+| cook-ding | Cook Ding Carves an Ox | Daoist | zhuangzi |
+| guangchengzi | The Yellow Emperor Asks Guangchengzi | Daoist | zhuangzi |
+| hundun | Hundun: The Story of the Seven Holes | Daoist | zhuangzi |
+| huzi-jixian | Huzi and the Shaman: Four Depths of Stillness | Daoist | zhuangzi |
+| standing-in-snow | Standing in the Snow at Cheng Yi's Gate | Neo-Confucian |  |
+| wheelwright-bian | Wheelwright Bian: What Cannot Be Put into Words | Daoist | zhuangzi |
+| wooden-rooster | The Wooden Rooster | Daoist | zhuangzi |

@@ -1,22 +1,19 @@
 # Timeline
 
-Dated events from the timeline content collection — 7 records.
+event records from the timeline content collection — 13 records.
 
-| id | period | event | page |
+| id | title | periodStart | periodEnd | eventType |
 |---|---|---|---|
-| guodian-daodejing | sealed ≤300 BCE, excavated 1993 | oldest Daodejing manuscripts | /timeline/guodian-daodejing/ |
-| shiji-biographies | c. 100 BCE | first biographies of Laozi & Zhuang Zhou | /timeline/shiji-biographies/ |
-| taiping-jing-shouyi | Eastern Han | earliest sustained shouyi teaching | /timeline/taiping-jing-shouyi/ |
-| baopuzi-shouyi | c. 320 CE | Ge Hong codifies shouyi | /timeline/baopuzi-shouyi/ |
-| qingjing-neiguan-jing | 6th–early 7th c. | the two bridging scriptures composed | /timeline/qingjing-neiguan-jing/ |
-| zuowang-lun-composition | early 8th c. | Sima Chengzhen writes the seven-stage treatise | /timeline/zuowang-lun-composition/ |
-| cheng-men-li-xue | 1093 | standing-in-snow episode | /timeline/cheng-men-li-xue/ |
-| zhuzi-yulei-jingzuo | 12th c. | Zhu Xi's half-day prescription | /timeline/zhuzi-yulei-jingzuo/ |
-
-Each event carries an evidence class: archaeological, primary text,
-scholarly inference, or traditional — dated claims are never presented
-bare of their source.
-| huangting-jing-dantian | c. 3rd-4th c. | Huangting Jing; three-dantian system |
-| xiao-zhiguan-five-adjustments | 6th c. | Zhiyi; the five adjustments |
-| daoshu-neiguan-zuowang | 12th c. | Daoshu; 'neiguan is zuowang' |
-| zhuangzi-compilation | c. 350-150 BCE | Zhuangzi accretion; Guo Xiang recension |
+| baopuzi-composition | Baopuzi Composed (c. 314–320s CE) | c. 314 CE | c. 320s CE | text compilation |
+| baopuzi-shouyi | Ge Hong's Baopuzi: Shouyi Systematized (c. 320 CE) | c. 320 CE | c. 320 CE | text compilation |
+| cheng-men-li-xue | Cheng Yi and Yang Shi: Standing in Snow (1093 CE) | 1093 CE | 1093 CE | foundational episode |
+| daoshu-neiguan-zuowang | Daoshu: 'Inner Contemplation Is Sitting in Oblivion' (12th c.) | 1100 | 1200 | compilation |
+| guodian-daodejing | Guodian Daodejing Manuscripts (c. 300 BCE or earlier) | before 300 BCE | 1993 CE (excavation) | manuscript discovery |
+| huangting-jing-dantian | Huangting Jing: The Three-Dantian System (c. 3rd–4th c.) | 250 | 400 | scripture |
+| qingjing-neiguan-jing | Qingjing Jing and Neiguan Jing Composed (Six Dynasties–Early Tang) | 6th c. CE | early 7th c. CE | text composition |
+| shiji-biographies | Shiji Biographies of Laozi and Zhuang Zhou (c. 100 BCE) | c. 100 BCE | c. 100 BCE | earliest biography |
+| taiping-jing-shouyi | Taiping Jing: Shouyi and the Exit Conditions (Eastern Han) | Eastern Han (2nd c. CE) | Eastern Han (2nd c. CE) | text compilation |
+| xiao-zhiguan-five-adjustments | Xiao Zhiguan: The Five Adjustments (6th c.) | 550 | 600 | manual |
+| zhuangzi-compilation | The Zhuangzi Takes Shape (c. 4th–2nd c. BCE) | -350 | -150 | compilation |
+| zhuzi-yulei-jingzuo | Zhu Xi Prescribes Jingzuo: 'Half a Day Sitting, Half a Day Reading' (12th c.) | 12th c. CE | 12th c. CE | recorded teaching |
+| zuowang-lun-composition | Sima Chengzhen Writes the Zuowang Lun (Tang) | early 8th c. CE | 735 CE | text composition |

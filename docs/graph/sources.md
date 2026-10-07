@@ -1,6 +1,6 @@
 # Sources Registry
 
-All sources used on the site — 37 total. Registry file:
+All sources used on the site — 39 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
@@ -8,7 +8,8 @@ All sources used on the site — 37 total. Registry file:
 | type | count |
 |---|---|
 | community | 5 |
-| primary_text | 19 |
+| historical_text | 1 |
+| primary_text | 20 |
 | research | 4 |
 | scholarship | 9 |
 
@@ -16,7 +17,8 @@ All sources used on the site — 37 total. Registry file:
 
 | id | title | type | pages used in |
 |---|---|---|---|
-| baopuzi-shizhi | Baopuzi, Inner Chapters, Shizhi chapter (释滞): taixi definition and moving-qi conditions | primary_text | /practices/taixi/ |
+| baopuzi-received | Baopuzi, received text (inner 20 juan, outer 52 juan as received) | primary_text | /texts/baopuzi/ |
+| baopuzi-shizhi | Baopuzi, Inner Chapters, Shizhi chapter (释滞): taixi definition and moving-qi conditions | primary_text | /practices/taixi/; /problems/breath-stopping-anxiety/ |
 | cook-2012 | Cook, Scott. The Bamboo Texts of Guodian. Cornell East Asia Series, 2012 | scholarship | /texts/daodejing/ |
 | daodejing | Daodejing (received Wang Bi text, 81 chapters) | primary_text | /concepts/wuwei/; /concepts/shouyi/; /concepts/qi/; /texts/daodejing/ |
 | daoshu | Daoshu (道枢), comp. Zeng Zao, Southern Song | primary_text | /timeline/daoshu-neiguan-zuowang/; /glossary/neiguan/ |
@@ -28,6 +30,7 @@ All sources used on the site — 37 total. Registry file:
 | henricks-1989 | Henricks, Robert G., trans. Lao-Tzu Te-Tao Ching (Mawangdui text). Ballantine, 1989 | scholarship | /texts/daodejing/ |
 | huangting-jing | Huangting neijing jing (Yellow Court inner scripture), Shangqing tradition | primary_text | /glossary/dantian/; /timeline/huangting-jing-dantian/ |
 | iep-zhuangzi | Internet Encyclopedia of Philosophy, 'Zhuangzi' | scholarship | /texts/zhuangzi/ |
+| jin-shu-ge-hong | Jin shu (Book of Jin), biography of Ge Hong | historical_text | /people/ge-hong/; /texts/baopuzi/; /timeline/baopuzi-composition/ |
 | kohn-1998 | Kohn, Livia. God of the Dao: Lord Lao in History and Myth. Center for Chinese Studies, University of Michigan, 1998 | scholarship | /people/laozi/ |
 | kohn-2010 | Kohn, Livia. Sitting in Oblivion: The Heart of Daoist Meditation. Three Pines Press, 2010 | scholarship | /concepts/zuowang/; /practices/zuowang/; /texts/zuowang-lun/ |
 | lindahl-2017 | Lindahl et al., The varieties of contemplative experience, PLoS ONE 12(5):e0176239 (2017) | research | /research/lindahl-2017/ |

@@ -1,25 +1,15 @@
 # Concepts
 
-Structured concept records from `data/concepts.json` — 6 records.
+concept records from the concepts content collection — 9 records.
 
-| id | name | 中文 | tradition | evidence | related |
-|---|---|---|---|---|---|
-| zuowang | Zuowang | 坐忘 | Daoist | PRIMARY SOURCE | zhuangzi, xinzhai, wuwei, qi, jingzuo |
-| xinzhai | Xinzhai | 心斋 | Daoist | PRIMARY SOURCE | zhuangzi, zuowang, qi, wuwei |
-| wuwei | Wuwei | 无为 | Daoist | PRIMARY SOURCE | daodejing, zuowang, xinzhai, qi |
-| jingzuo | Jingzuo | 静坐 | Neo-Confucian | PRIMARY SOURCE | zuowang, shouyi, xinzhai |
-| shouyi | Shouyi | 守一 | Daoist | PRIMARY SOURCE | daodejing, wuwei, qi, zuowang, jingzuo |
-| xu | 虚 emptiness | the working state: mind emptied, Dao gathers; xinzhai=its fasting |
-| qi | Qi | 气 | Pan-Chinese | PRIMARY SOURCE | zhuangzi, daodejing, xinzhai, zuowang, shouyi, wuwei |
-
-## Schema
-
-```json
-{ "id": "zuowang", "name": "Zuowang", "chinese": "坐忘",
-  "pinyin": "zuòwàng", "tradition": "Daoist",
-  "page": "/concepts/zuowang/", "evidence": "PRIMARY SOURCE",
-  "related": ["zhuangzi", "xinzhai"] }
-```
-
-Each concept has a full authored page on the main site at `page`.
-| ziran | so-of-itself; the Dao models on it (DDJ 25) |
+| id | title | chinese | pinyin | tradition | evidence |
+|---|---|---|---|---|
+| jing | Jing: Stillness | 静 | jìng | Daoist (Daodejing, Zhuangzi); adopted by Neo-Confucian jingzuo | ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"] |
+| jingzuo | Jingzuo (Quiet Sitting) | 静坐 | jìngzuò | Neo-Confucian (Song–Ming); with Daoist and Chan antecedents | ["PRIMARY SOURCE", "HISTORICAL EVIDENCE", "SCHOLARLY INTERPR |
+| qi | Qi | 气 | qì | Pan-Chinese (Daoist, Confucian, medical, cosmological) | ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"] |
+| shouyi | Shouyi (Guarding the One) | 守一 | shǒuyī | Daoist (Han–Six Dynasties religious Daoism) | ["PRIMARY SOURCE", "HISTORICAL EVIDENCE", "SCHOLARLY INTERPR |
+| wuwei | Wuwei (Non-action / Effortless Action) | 无为 | wúwéi | Daoist (classical); also used in Confucian and Legalist discourse | ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"] |
+| xinzhai | Xinzhai (Fasting of the Mind) | 心斋 | xīnzhāi | Daoist (classical) | ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"] |
+| xu | Xu (虚): Emptiness | 虚 | xū | Daoist | ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"] |
+| ziran | Ziran (自然) | 自然 | zìrán |  | ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"] |
+| zuowang | Zuowang (Sitting in Oblivion) | 坐忘 | zuòwàng | Daoist (classical); developed in Daoist religion | ["PRIMARY SOURCE", "HISTORICAL EVIDENCE", "SCHOLARLY INTERPR |

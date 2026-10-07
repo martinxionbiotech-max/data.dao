@@ -22,6 +22,8 @@ nav:
       - Stories: entities/stories.md
       - Research: entities/research.md
       - Comparisons: entities/comparisons.md
+      - Problems: entities/problems.md
+      - Tools: entities/tools.md
   - Experience System:
       - Experiences: experiences/index.md
       - Patterns: experiences/patterns.md

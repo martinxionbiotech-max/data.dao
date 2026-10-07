@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 154 total. Top-level key: `items` in
+Knowledge-graph edges — 178 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -8,11 +8,11 @@ Knowledge-graph edges — 154 total. Top-level key: `items` in
 | relation | count |
 |---|---|
 | associated_with | 8 |
-| authored | 1 |
-| concerns | 58 |
+| authored | 2 |
+| concerns | 74 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 33 |
+| described_in | 40 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
@@ -38,6 +38,15 @@ Knowledge-graph edges — 154 total. Top-level key: `items` in
 | artisan-qing | zuowang | concerns |
 | artisan-qing-passage | zhuangzi | translated_as |
 | artisan-qing-passage | zuowang | concerns |
+| baopuzi | shouyi | concerns |
+| baopuzi | taixi | concerns |
+| baopuzi-composition | baopuzi | concerns |
+| baopuzi-composition | ge-hong | concerns |
+| baoyi | daodejing | described_in |
+| baoyi | shouyi | concerns |
+| breath-stopping-anxiety | exp-008-breath-stopping | concerns |
+| breath-stopping-anxiety | taixi | concerns |
+| breath-stopping-anxiety | tiaoxi | concerns |
 | butterfly-dream | zhuang-zhou | associated_with |
 | butterfly-dream | zhuangzi | described_in |
 | can-sitting-go-wrong | farias-adverse-events-2020 | derived_from |
@@ -71,6 +80,9 @@ Knowledge-graph edges — 154 total. Top-level key: `items` in
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
+| ge-hong | baopuzi | authored |
+| guan | daodejing | described_in |
+| guan | neiguan | concerns |
 | guangchengzi | jingzuo | concerns |
 | guangchengzi | shouyi | concerns |
 | guangchengzi | zhuangzi | described_in |
@@ -79,9 +91,17 @@ Knowledge-graph edges — 154 total. Top-level key: `items` in
 | huangting-jing | dantian | concerns |
 | huangting-jing-dantian | dantian | concerns |
 | huangting-jing-dantian | huangting-jing | described_in |
+| hundun | jing | concerns |
+| hundun | zhuangzi | described_in |
+| hundun | zuowang | concerns |
 | huzi-jixian | qi | concerns |
 | huzi-jixian | zhuangzi | described_in |
 | huzi-jixian | zuowang | concerns |
+| jing | daodejing | described_in |
+| jing | jingzuo | concerns |
+| jing | qingjing-jing | described_in |
+| jing | zhuangzi | described_in |
+| jing | zuowang | concerns |
 | jingzuo | cheng-men-li-xue | described_in |
 | jingzuo | farias-adverse-events-2020 | investigates |
 | jingzuo | mindfulness-meta-analysis-2014 | investigates |
@@ -136,11 +156,15 @@ Knowledge-graph edges — 154 total. Top-level key: `items` in
 | translation-policy | ziran | concerns |
 | warmth-and-qi-sensations | EXP-002 | derived_from |
 | warmth-and-qi-sensations | EXP-003 | derived_from |
+| what-is-stillness | jing | concerns |
+| what-is-stillness | jingzuo | concerns |
 | wheelwright-bian | zhuangzi | described_in |
 | wheelwright-bian | ziran | concerns |
 | wooden-rooster | shouyi | concerns |
 | wooden-rooster | wuwei | concerns |
 | wooden-rooster | zhuangzi | described_in |
+| wooden-rooster-passage | wooden-rooster | concerns |
+| wooden-rooster-passage | zhuangzi | described_in |
 | wuwei | daodejing | described_in |
 | wuwei | daodejing-48 | translated_as |
 | wuwei | zuowang | related_to |

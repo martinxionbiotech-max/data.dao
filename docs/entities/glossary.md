@@ -1,25 +1,23 @@
-# Glossary Collection
+# Glossary
 
-Terminology pages — 15 records.
+term records from the glossary content collection — 17 records.
 
-| id | term | literal meaning |
-|---|---|---|
-| dao | 道 dao | the Way |
-| de | 德 de | virtue/power |
-| xin | 心 xin | heart-mind |
-| jing-qi-shen | 精氣神 jing-qi-shen | essence-qi-spirit |
-| jingzuo | 靜坐 jingzuo | quiet sitting |
-| qi | 氣 qi | vital energy |
-| shouyi | 守一 shouyi | guarding the One |
-| wuwei | 無為 wuwei | non-action |
-| xinzhai | 心齋 xinzhai | fasting of the mind |
-| zuowang | 坐忘 zuowang | sitting in oblivion |
-| dantian | 丹田 dantian | cinnabar field |
-| neiguan | 內觀 neiguan | inner contemplation |
-| tiaoxi | 調息 tiaoxi | regulating the breath |
-
-Each glossary page gives: term, pinyin, literal meaning, translation options
-with a recommendation, and the sourced distinction between traditional
-doctrine and empirical claim (see e.g. dantian: traditional map, not anatomy).
-| shen | spirit; third of jing-qi-shen |
-| xuan | dark/depth; gate of wonders |
+| id | title | chinese | pinyin | literalMeaning | recommended |
+|---|---|---|---|---|
+| baoyi | Baoyi | 抱一 | bàoyī | embracing/holding the One | embracing the One (parallel to the standard 'guarding the One' for shouyi) |
+| dantian | Dantian (丹田) | 丹田 | dāntián | cinnabar field | dantian (transliterated) — 'cinnabar field' for explanatory contexts |
+| dao | Dao | 道 | dào | way, path, road; to speak | keep romanized as Dao/dào; capitalize 'Way' when the technical sense is meant |
+| de | De | 德 | dé | virtue, power, inner potency | keep romanized as De/dé where technical; 'virtue/power' gloss on first use |
+| guan | Guan | 观 | guān | to observe; to watch; to look deeply into | observation (inner observation where the target is the interior); 'contemplation' only with Buddhist contexts flagged |
+| jing-qi-shen | Jing-Qi-Shen | 精气神 | jīng-qì-shén | essence–vitality–spirit | the three treasures (jing, qi, shen), glossed once; never 'body-fluids-energy-mind' literally |
+| jingzuo | Jingzuo | 静坐 | jìngzuò | still/quiet sitting | quiet sitting; hyphenate 'quiet-sitting' in scholarly contexts |
+| neiguan | Neiguan (内观) | 内观 | nèiguān | inner contemplation; inner vision | 'inner contemplation' — 'inner observation' for contexts emphasizing the inspecting function; avoid 'inner visualization' unless the source explicitly describes images |
+| qi | Qi | 气 | qì | vapor, breath, vital substrate | keep romanized as qi with a gloss; use 'breath' only in breathing contexts, 'energy' only with qualification |
+| shen | Shen | 神 | shén | spirit; numen; the luminous-animating aspect of the mind | spirit (with 'luminous-animating mind' glossed where the context is meditative) |
+| shouyi | Shouyi | 守一 | shǒuyī | guarding-keeping the One | guarding the One (standard in Robinet and Kohn) |
+| tiaoxi | Tiaoxi (调息) | 调息 | tiáoxī | regulating the breath | 'regulating the breath' — keep the tiao-shen/tiao-xi/tiao-xin trio visible in translation |
+| wuwei | Wuwei | 无为 | wúwéi | no-doing | non-action, with the note that it is the negation of forced/contrived action, not of activity |
+| xin | Xin | 心 | xīn | heart; mind; heart-mind | heart-mind on first use in philosophical contexts; then plain 'mind' if the context is cognitive |
+| xinzhai | Xinzhai | 心斋 | xīnzhāi | mind/heart-fasting | fasting of the mind (with the note that xin covers both heart and mind) |
+| xuan | Xuan | 玄 | xuán | dark; deep; distant beyond sight; the color of depth | dark/depth (with 'beyond naming' glossed); avoid 'mysterious' where it suggests the occult |
+| zuowang | Zuowang | 坐忘 | zuòwàng | sitting-forgetting | sitting in oblivion (Kohn 2010); gloss with pinyin on first use |
