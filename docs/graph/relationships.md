@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 784 total. Top-level key: `items` in
+Knowledge-graph edges — 843 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -9,15 +9,15 @@ Knowledge-graph edges — 784 total. Top-level key: `items` in
 |---|---|
 | associated_with | 34 |
 | authored | 2 |
-| concerns | 202 |
+| concerns | 208 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 105 |
+| described_in | 110 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 394 |
+| related_to | 442 |
 | translated_as | 23 |
 
 ## All edges
@@ -130,6 +130,13 @@ Knowledge-graph edges — 784 total. Top-level key: `items` in
 | dantian | jing-qi-shen | related_to |
 | dantian | qi | related_to |
 | dantian | shouyi | related_to |
+| dao-yi-you-dao | bole-horses | related_to |
+| dao-yi-you-dao | cao-shang | related_to |
+| dao-yi-you-dao | dao | related_to |
+| dao-yi-you-dao | tushan-shuo | related_to |
+| dao-yi-you-dao | wuwei | concerns |
+| dao-yi-you-dao | zhuangzi | described_in |
+| dao-yi-you-dao | ziran | concerns |
 | daodejing | guodian-daodejing | described_in |
 | daodejing-01 | dao | concerns |
 | daodejing-01 | daodejing | translated_as |
@@ -157,6 +164,13 @@ Knowledge-graph edges — 784 total. Top-level key: `items` in
 | daodejing-06 | tuoyue | related_to |
 | daodejing-06 | xuan-pin | related_to |
 | daodejing-06 | yingning-passage | related_to |
+| daodejing-07 | daodejing | described_in |
+| daodejing-07 | daodejing-02 | related_to |
+| daodejing-07 | daodejing-08 | related_to |
+| daodejing-07 | daodejing-22 | related_to |
+| daodejing-07 | what-counts-as-progress | related_to |
+| daodejing-07 | wuwei | concerns |
+| daodejing-07 | ziran | related_to |
 | daodejing-08 | daodejing | described_in |
 | daodejing-08 | does-daoism-believe-in-a-creator | related_to |
 | daodejing-08 | fish-happiness | related_to |
@@ -167,6 +181,15 @@ Knowledge-graph edges — 784 total. Top-level key: `items` in
 | daodejing-08 | xuzhou-empty-boat | related_to |
 | daodejing-08 | zhi-shui | related_to |
 | daodejing-08 | ziran | concerns |
+| daodejing-11 | bao-guang | related_to |
+| daodejing-11 | dao-yi-you-dao | related_to |
+| daodejing-11 | daodejing | described_in |
+| daodejing-11 | daodejing-02 | related_to |
+| daodejing-11 | daodejing-05 | related_to |
+| daodejing-11 | useless-gourd | related_to |
+| daodejing-11 | wuwei | concerns |
+| daodejing-11 | xu | related_to |
+| daodejing-11 | zhi-shui | related_to |
 | daodejing-14 | chen-tuan | related_to |
 | daodejing-14 | dao | concerns |
 | daodejing-14 | daodejing | translated_as |
@@ -547,6 +570,12 @@ Knowledge-graph edges — 784 total. Top-level key: `items` in
 | seeing-light-in-sitting | jingzuo | concerns |
 | seeing-light-in-sitting | xu | concerns |
 | seeing-light-in-sitting | zhuangzi | described_in |
+| shanbao-zhangyi | mountain-tree-goose | related_to |
+| shanbao-zhangyi | sitting-protocol | related_to |
+| shanbao-zhangyi | what-counts-as-progress | related_to |
+| shanbao-zhangyi | zhili-shu | related_to |
+| shanbao-zhangyi | zhuangzi | described_in |
+| shanbao-zhangyi | ziran | concerns |
 | shangqing-revelations | cunsi | concerns |
 | shangqing-revelations | huangting-jing | concerns |
 | shangqing-revelations | kou-qianzhi-reform | related_to |
@@ -670,6 +699,22 @@ Knowledge-graph edges — 784 total. Top-level key: `items` in
 | warmth-tingling-when-sitting | schlosser-2019 | related_to |
 | wei-huacun | cunsi | concerns |
 | wei-huacun | huangting-jing | associated_with |
+| what-counts-as-progress | drowsiness-vs-stillness | related_to |
+| what-counts-as-progress | exp-004-emotional-surfacing | related_to |
+| what-counts-as-progress | exp-016-nine-dhyanas-map | related_to |
+| what-counts-as-progress | exp-018-halflotus-to-full-lotus | related_to |
+| what-counts-as-progress | exp-020-false-first-dhyana | related_to |
+| what-counts-as-progress | exp-021-prostrations-channel-circuit | related_to |
+| what-counts-as-progress | exp-022-its-all-theatre | related_to |
+| what-counts-as-progress | exp-023-breath-is-the-key | related_to |
+| what-counts-as-progress | exp-024-standing-and-sitting | related_to |
+| what-counts-as-progress | how-long-until-results | related_to |
+| what-counts-as-progress | i-feel-nothing-when-i-sit | related_to |
+| what-counts-as-progress | mindfulness-meta-analysis-2014 | related_to |
+| what-counts-as-progress | qi-belief-necessary | related_to |
+| what-counts-as-progress | shanbao-zhangyi | related_to |
+| what-counts-as-progress | tiaoxi | related_to |
+| what-counts-as-progress | zuowang | related_to |
 | what-is-stillness | jing | concerns |
 | what-is-stillness | jingzuo | concerns |
 | wheelwright-bian | zhuangzi | described_in |
@@ -693,6 +738,15 @@ Knowledge-graph edges — 784 total. Top-level key: `items` in
 | xiao-zhiguan | tiaoxi | concerns |
 | xiao-zhiguan-five-adjustments | tiaoxi | concerns |
 | xiao-zhiguan-five-adjustments | xiao-zhiguan | described_in |
+| xiaoyao | bole-horses | related_to |
+| xiaoyao | handan-walk | related_to |
+| xiaoyao | peng-bird | related_to |
+| xiaoyao | useless-gourd | related_to |
+| xiaoyao | what-is-stillness | related_to |
+| xiaoyao | wuwei | related_to |
+| xiaoyao | zhili-shu | related_to |
+| xiaoyao | zhuangzi | described_in |
+| xiaoyao | ziran | concerns |
 | xinzhai | qingjing-jing | related_to |
 | xinzhai | xinzhai-passage | translated_as |
 | xinzhai | xu | derived_from |
@@ -747,6 +801,11 @@ Knowledge-graph edges — 784 total. Top-level key: `items` in
 | yun-jin-cheng-feng | useless-gourd | related_to |
 | yun-jin-cheng-feng | zhi-shui | related_to |
 | yun-jin-cheng-feng | zhuangzi | described_in |
+| zhang-boduan | daoshu-neiguan-zuowang | related_to |
+| zhang-boduan | jing-qi-shen | related_to |
+| zhang-boduan | lu-xiujing | related_to |
+| zhang-boduan | sima-chengzhen | related_to |
+| zhang-boduan | zhiyi | related_to |
 | zhang-daoling | cunsi | concerns |
 | zhang-daoling | kou-qianzhi | related_to |
 | zhang-daoling | kou-qianzhi-reform | related_to |

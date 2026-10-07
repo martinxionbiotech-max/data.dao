@@ -1,6 +1,6 @@
 # Translations
 
-translation records from the translations content collection — 27 records.
+translation records from the translations content collection — 29 records.
 
 | id | title | sourceText | chapter |
 |---|---|---|
@@ -9,8 +9,10 @@ translation records from the translations content collection — 27 records.
 | daodejing-02 | Being and Non-Being Give Rise to Each Other (Daodejing 2) | daodejing | Ch. 2 |
 | daodejing-05 | The Bellows of Heaven and Earth (Daodejing 5) | daodejing | Ch. 5 |
 | daodejing-06 | The Valley-Spirit Does Not Die (Daodejing 6) | daodejing | Ch. 6 |
+| daodejing-07 | Heaven Is Long-Enduring (Daodejing 7) | daodejing | Ch. 7 |
 | daodejing-08 | The Highest Good Is Like Water (Daodejing 8) | daodejing | Ch. 8 |
 | daodejing-10-shouyi | Daodejing ch. 10 (shouyi line): Full Translation | daodejing |  |
+| daodejing-11 | Thirty Spokes Share One Hub (Daodejing 11) | daodejing | Ch. 11 |
 | daodejing-14 | Looked for and Not Seen (Daodejing 14) | daodejing | Ch. 14 |
 | daodejing-16 | 'Reach Emptiness at the Limit' (Daodejing 16) | daodejing |  |
 | daodejing-17 | The Best Ruler Is Barely Known (Daodejing 17) | daodejing | Ch. 17 |

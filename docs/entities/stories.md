@@ -1,6 +1,6 @@
 # Stories
 
-story records from the stories content collection — 48 records.
+story records from the stories content collection — 50 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
@@ -15,6 +15,7 @@ story records from the stories content collection — 48 records.
 | cicada-catcher | The Hunchback and the Cicada | Daoist | zhuangzi |
 | confucius-meets-laozi | Confucius Meets Laozi: The Dragon | Daoist / Confucian encounter (traditional) | daodejing |
 | cook-ding | Cook Ding Carves an Ox | Daoist | zhuangzi |
+| dao-yi-you-dao | The Robber's Five Virtues | Daoist | zhuangzi |
 | dongshi-frowning | The Woman Who Copied the Frown: Imitation Without Its Ground | Daoist | zhuangzi |
 | drumming-basin | Drumming on the Basin: Zhuangzi Sings When His Wife Dies | Daoist | zhuangzi |
 | fish-happiness | The Joy of the Fish: Zhuangzi and Hui Shi on the Bridge | Daoist | zhuangzi |
@@ -37,6 +38,7 @@ story records from the stories content collection — 48 records.
 | phoenix-and-owl | The Phoenix and the Owl: What the Rotten Rat Is Worth | Daoist | zhuangzi |
 | qinshi-mourning | Three Cries, and Out: Qin Shi Mourns Laozi | Daoist | zhuangzi |
 | sanghu-friends | Singing at the Corpse: The Friends of Sang Hu | Daoist | zhuangzi |
+| shanbao-zhangyi | The Two Deaths: One-Sided Cultivation | Daoist | zhuangzi |
 | snail-horn-war | The Snail-Horn War | Daoist | zhuangzi |
 | standing-in-snow | Standing in the Snow at Cheng Yi's Gate | Neo-Confucian |  |
 | swimmer-lvliang | The Swimmer of Lüliang: Native, Grown, Complete | Daoist | zhuangzi |

@@ -1,6 +1,6 @@
 # Glossary
 
-term records from the glossary content collection — 38 records.
+term records from the glossary content collection — 39 records.
 
 | id | title | chinese | pinyin | literalMeaning | recommended |
 |---|---|---|---|---|
@@ -30,6 +30,7 @@ term records from the glossary content collection — 38 records.
 | wuwei | Wuwei | 无为 | wúwéi | no-doing | non-action, with the note that it is the negation of forced/contrived action, not of activity |
 | xi | Xi | 息 | xī | breath; rest; to rest; the fine continuous breath | 'rest breath' in the four-breath ladder; plain 'breath' elsewhere (真人之息以踵 = 'the true person's breathing reaches the heels') |
 | xian-jie | Xianjie (县解) | 县解 | xuánjiě |  |  |
+| xiaoyao | Xiaoyao (逍遥) | 逍遥 | xiāoyáo |  |  |
 | xin | Xin | 心 | xīn | heart; mind; heart-mind | heart-mind on first use in philosophical contexts; then plain 'mind' if the context is cognitive |
 | xinzhai | Xinzhai | 心斋 | xīnzhāi | mind/heart-fasting | fasting of the mind (with the note that xin covers both heart and mind) |
 | xuan-pin | Xuanpin (玄牝) | 玄牝 | xuánpìn |  |  |

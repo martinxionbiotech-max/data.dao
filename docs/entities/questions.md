@@ -1,6 +1,6 @@
 # Questions
 
-question records from the questions content collection — 17 records.
+question records from the questions content collection — 18 records.
 
 | id | title | question | answerState |
 |---|---|---|
@@ -18,6 +18,7 @@ question records from the questions content collection — 17 records.
 | qi-belief-necessary | Do I Need to Believe in Qi to Benefit from These Practices? | Do I need to believe in qi to benefit from Daoist sitting practices? | open |
 | should-i-meditate-when-sick | Should I Meditate When I'm Sick? | Should I keep up my sitting practice when I'm sick? The classical texts claim these practices heal — and some teachers say medical rules don't apply to practitioners. | answered |
 | warmth-tingling-when-sitting | Is It Normal to Feel Warmth or Tingling When I Sit? | When I sit, I sometimes feel warmth spreading, or tingling and small movements. Is this normal, and should I do anything about it? | answered |
+| what-counts-as-progress | What Counts as Progress? | How do I know if my practice is progressing? Am I advancing toward something, or just sitting? | answered |
 | what-is-stillness | What Is Stillness (Jing), Really? | What is 'stillness' (静 jing) in the Daoist sense — just being quiet, or something more? | answered |
 | zuowang-safety-without-teacher | Is Daoist Sitting Safe to Practice Without a Teacher? | Can I practice Daoist sitting (zuowang / jingzuo) without a teacher? | open |
 | zuowang-vs-jingzuo | What Is the Difference Between Zuowang and Jingzuo? | What is the difference between zuowang and jingzuo? | answered |
