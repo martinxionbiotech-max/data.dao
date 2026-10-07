@@ -1,6 +1,6 @@
 # Stories
 
-story records from the stories content collection — 60 records.
+story records from the stories content collection — 62 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
@@ -33,6 +33,7 @@ story records from the stories content collection — 60 records.
 | huzi-jixian | Huzi and the Shaman: Four Depths of Stillness | Daoist | zhuangzi |
 | jingdi-zhiwa | The Well Frog and the Sea Turtle: The Three Limits of Knowing | Daoist | zhuangzi |
 | kui-xian-chain | The Pity Chain: Kui, the Centipede, the Snake, the Wind | Daoist | zhuangzi |
+| lin-hui-qi-bi | Lin Hui Drops the Jade | Daoist | zhuangzi |
 | luhou-yang-niao | The Marquis of Lu's Seabird | Daoist | zhuangzi |
 | mantis-and-chariot | The Mantis, the Tiger-Keeper, and the Horse-Lover: Talent Against Force | Daoist | zhuangzi |
 | mantis-stalks-cicada | The Mantis Stalks the Cicada | Daoist | zhuangzi |
@@ -60,6 +61,7 @@ story records from the stories content collection — 60 records.
 | wheelwright-bian | Wheelwright Bian: What Cannot Be Put into Words | Daoist | zhuangzi |
 | wooden-rooster | The Wooden Rooster | Daoist | zhuangzi |
 | xuzhou-empty-boat | The Empty Boat | Daoist | zhuangzi |
+| yi-dai-niao | The Dithering Bird | Daoist | zhuangzi |
 | yun-jin-cheng-feng | The Axe Sweeping the Wind | Daoist | zhuangzi |
 | zhi-yan | Goblet Words | Daoist | zhuangzi |
 | zhili-shu | Zhili Shu: The Broken Body That Outlived the Draft | Daoist | zhuangzi |

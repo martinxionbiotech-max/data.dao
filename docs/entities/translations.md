@@ -1,6 +1,6 @@
 # Translations
 
-translation records from the translations content collection — 35 records.
+translation records from the translations content collection — 36 records.
 
 | id | title | sourceText | chapter |
 |---|---|---|
@@ -28,6 +28,7 @@ translation records from the translations content collection — 35 records.
 | daodejing-45 | The Great Accomplishment Looks Unfinished (Daodejing 45) | daodejing | Ch. 45 |
 | daodejing-46 | When the World Has the Way (Daodejing 46) | daodejing | Ch. 46 |
 | daodejing-48 | Learning Adds, the Way Pairs Away (Daodejing 48) | daodejing | Ch. 48 |
+| daodejing-55 | Holding Virtue Thick as a Newborn (Daodejing 55) | daodejing | Ch. 55 |
 | daodejing-63 | Planning the Hard in Its Easy Stage (Daodejing 63) | daodejing | Ch. 63 |
 | daodejing-64 | A Journey of a Thousand Li Begins Under the Foot (Daodejing 64) | daodejing | Ch. 64 |
 | drumming-basin-passage | Drumming on the Basin: The Four Transformations (Word by Word) | zhuangzi | Ch. 18 (Zhile), the basin scene |

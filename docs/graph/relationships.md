@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 1136 total. Top-level key: `items` in
+Knowledge-graph edges — 1189 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -12,12 +12,12 @@ Knowledge-graph edges — 1136 total. Top-level key: `items` in
 | concerns | 217 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 132 |
+| described_in | 136 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 704 |
+| related_to | 753 |
 | translated_as | 23 |
 
 ## All edges
@@ -126,6 +126,13 @@ Knowledge-graph edges — 1136 total. Top-level key: `items` in
 | carpenter-shi | fish-happiness | related_to |
 | carpenter-shi | zhuangzi | described_in |
 | carpenter-shi | zuowang-safety-without-teacher | concerns |
+| chen-nan | bai-yuchan | related_to |
+| chen-nan | cook-ding | related_to |
+| chen-nan | daodejing-16 | related_to |
+| chen-nan | jing-qi-shen | related_to |
+| chen-nan | qi | related_to |
+| chen-nan | wheelwright-bian | related_to |
+| chen-nan | zhang-boduan | related_to |
 | chen-tuan | daodejing | associated_with |
 | chen-tuan | daodejing-17 | related_to |
 | chen-tuan | falling-asleep-during-meditation | related_to |
@@ -173,6 +180,13 @@ Knowledge-graph edges — 1136 total. Top-level key: `items` in
 | dantian | jing-qi-shen | related_to |
 | dantian | qi | related_to |
 | dantian | shouyi | related_to |
+| dao-shu | huan-zhong | related_to |
+| dao-shu | liang-xing | related_to |
+| dao-shu | qiwu | related_to |
+| dao-shu | three-in-the-morning | related_to |
+| dao-shu | tian-jun | related_to |
+| dao-shu | zhen-zai | related_to |
+| dao-shu | zhuangzi | described_in |
 | dao-yi-you-dao | bole-horses | related_to |
 | dao-yi-you-dao | cao-shang | related_to |
 | dao-yi-you-dao | dao | related_to |
@@ -323,6 +337,12 @@ Knowledge-graph edges — 1136 total. Top-level key: `items` in
 | daodejing-48 | three-craftsmen-dazheng | related_to |
 | daodejing-48 | wuwei | concerns |
 | daodejing-48 | zuowang | concerns |
+| daodejing-55 | daodejing | described_in |
+| daodejing-55 | daodejing-10-shouyi | related_to |
+| daodejing-55 | daodejing-16 | related_to |
+| daodejing-55 | daodejing-40 | related_to |
+| daodejing-55 | jing-qi-shen | related_to |
+| daodejing-55 | qi | related_to |
 | daodejing-63 | daodejing | translated_as |
 | daodejing-63 | daodejing-17 | related_to |
 | daodejing-63 | daodejing-22 | related_to |
@@ -492,6 +512,15 @@ Knowledge-graph edges — 1136 total. Top-level key: `items` in
 | exp-027-finding-a-teacher | exp-025-lying-down-innovation | related_to |
 | exp-027-finding-a-teacher | jingzuo | related_to |
 | exp-027-finding-a-teacher | zuowang-safety-without-teacher | related_to |
+| exp-028-abdominal-breathing | can-meditation-cure-illness | related_to |
+| exp-028-abdominal-breathing | exp-008-breath-stopping | related_to |
+| exp-028-abdominal-breathing | exp-020-false-first-dhyana | related_to |
+| exp-028-abdominal-breathing | exp-021-prostrations-channel-circuit | related_to |
+| exp-028-abdominal-breathing | exp-023-breath-is-the-key | related_to |
+| exp-028-abdominal-breathing | jingzuo | related_to |
+| exp-028-abdominal-breathing | taixi | related_to |
+| exp-028-abdominal-breathing | tiaoxi | related_to |
+| exp-028-abdominal-breathing | what-counts-as-progress | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -608,6 +637,14 @@ Knowledge-graph edges — 1136 total. Top-level key: `items` in
 | i-feel-nothing-when-i-sit | qi-belief-necessary | related_to |
 | i-feel-nothing-when-i-sit | warmth-tingling-when-sitting | related_to |
 | i-feel-nothing-when-i-sit | xu | concerns |
+| is-one-style-enough | combine-zuowang-mindfulness | related_to |
+| is-one-style-enough | cunsi-or-zuowang | related_to |
+| is-one-style-enough | daodejing-10-shouyi | related_to |
+| is-one-style-enough | exp-023-breath-is-the-key | related_to |
+| is-one-style-enough | exp-027-finding-a-teacher | related_to |
+| is-one-style-enough | jingzuo | related_to |
+| is-one-style-enough | shouyi | related_to |
+| is-one-style-enough | what-counts-as-progress | related_to |
 | is-sitting-religious | does-daoism-believe-in-a-creator | related_to |
 | is-sitting-religious | jingzuo | related_to |
 | is-sitting-religious | mindfulness-meta-analysis-2014 | related_to |
@@ -690,6 +727,13 @@ Knowledge-graph edges — 1136 total. Top-level key: `items` in
 | liezi | zhuangzi | references |
 | liezi-compilation | liezi | concerns |
 | liezi-compilation | zhuangzi-compilation | related_to |
+| lin-hui-qi-bi | four-friends | related_to |
+| lin-hui-qi-bi | liang-wang | related_to |
+| lin-hui-qi-bi | sanghu-friends | related_to |
+| lin-hui-qi-bi | shinan-yiliao | related_to |
+| lin-hui-qi-bi | xuzhou-empty-boat | related_to |
+| lin-hui-qi-bi | yi-dai-niao | related_to |
+| lin-hui-qi-bi | zhuangzi | described_in |
 | lindahl-2017 | can-sitting-go-wrong | informs |
 | lindahl-2017 | farias-adverse-events-2020 | related_to |
 | lu-xiujing | kou-qianzhi | related_to |
@@ -1063,6 +1107,15 @@ Knowledge-graph edges — 1136 total. Top-level key: `items` in
 | yang-xi | huangting-jing | associated_with |
 | yang-xi | shangqing-revelations | associated_with |
 | yang-xi | wei-huacun | associated_with |
+| yi-dai-niao | daodejing-22 | related_to |
+| yi-dai-niao | marsh-pheasant | related_to |
+| yi-dai-niao | mountain-tree-goose | related_to |
+| yi-dai-niao | qiwu | related_to |
+| yi-dai-niao | shinan-yiliao | related_to |
+| yi-dai-niao | wooden-rooster | related_to |
+| yi-dai-niao | wuwei | related_to |
+| yi-dai-niao | zhuangzi | described_in |
+| yi-dai-niao | ziran | related_to |
 | yingning | jing | concerns |
 | yingning | restlessness-in-sitting | concerns |
 | yingning | zhi-shui | related_to |

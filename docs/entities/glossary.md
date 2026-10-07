@@ -1,6 +1,6 @@
 # Glossary
 
-term records from the glossary content collection — 45 records.
+term records from the glossary content collection — 46 records.
 
 | id | title | chinese | pinyin | literalMeaning | recommended |
 |---|---|---|---|---|
@@ -8,6 +8,7 @@ term records from the glossary content collection — 45 records.
 | baoyi | Baoyi | 抱一 | bàoyī | embracing/holding the One | embracing the One (parallel to the standard 'guarding the One' for shouyi) |
 | da-kuai | Dakuai (大块) | 大块 | dàkuài |  |  |
 | dantian | Dantian (丹田) | 丹田 | dāntián | cinnabar field | dantian (transliterated) — 'cinnabar field' for explanatory contexts |
+| dao-shu | Daoshu (道枢) | 道枢 | dàoshū |  |  |
 | dao | Dao | 道 | dào | way, path, road; to speak | keep romanized as Dao/dào; capitalize 'Way' when the technical sense is meant |
 | de | De | 德 | dé | virtue, power, inner potency | keep romanized as De/dé where technical; 'virtue/power' gloss on first use |
 | guan | Guan | 观 | guān | to observe; to watch; to look deeply into | observation (inner observation where the target is the interior); 'contemplation' only with Buddhist contexts flagged |

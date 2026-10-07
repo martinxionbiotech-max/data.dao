@@ -1,10 +1,11 @@
 # People
 
-person records from the people content collection — 24 records.
+person records from the people content collection — 25 records.
 
 | id | title | chinese | dates | tradition | historicity | page |
 |---|---|---|---|---|---|
 | bai-yuchan | Bai Yuchan (白玉蟾) | 白玉蟾 |  |  | historical | /people/bai-yuchan/ |
+| chen-nan | Chen Nan (陈楠) | 陈楠 |  |  | historical | /people/chen-nan/ |
 | chen-tuan | Chen Tuan (陈抟) | 陈抟 |  |  | historical | /people/chen-tuan/ |
 | cheng-xuanying | Cheng Xuanying (成玄英) | 成玄英 |  |  | historical | /people/cheng-xuanying/ |
 | fu-yi | Fu Yi (傅奕) | 傅奕 |  |  | historical | /people/fu-yi/ |
