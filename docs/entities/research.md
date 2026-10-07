@@ -10,3 +10,4 @@ Peer-reviewed literature pages — 2 records.
 Discipline: these pages cover **modern meditation programs**, not Daoist
 sitting, for which no dedicated literature exists. Each page states this
 boundary explicitly.
+| lindahl-2017 | qualitative | VCE study; taxonomy of meditation challenges |

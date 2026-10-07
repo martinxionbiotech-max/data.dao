@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 135 total. Top-level key: `items` in
+Knowledge-graph edges — 154 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -9,14 +9,15 @@ Knowledge-graph edges — 135 total. Top-level key: `items` in
 |---|---|
 | associated_with | 8 |
 | authored | 1 |
-| concerns | 47 |
-| contrasts_with | 1 |
+| concerns | 58 |
+| contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 30 |
+| described_in | 33 |
 | discusses | 4 |
+| informs | 1 |
 | investigates | 2 |
 | references | 1 |
-| related_to | 22 |
+| related_to | 23 |
 | translated_as | 8 |
 
 ## All edges
@@ -49,6 +50,9 @@ Knowledge-graph edges — 135 total. Top-level key: `items` in
 | confucius-meets-laozi | laozi | associated_with |
 | cook-ding | wuwei | concerns |
 | cook-ding | zhuangzi | described_in |
+| cunsi | dantian | concerns |
+| cunsi | huangting-jing | described_in |
+| cunsi | shouyi | contrasts_with |
 | dantian | jing-qi-shen | related_to |
 | dantian | qi | related_to |
 | dantian | shouyi | related_to |
@@ -70,6 +74,8 @@ Knowledge-graph edges — 135 total. Top-level key: `items` in
 | guangchengzi | jingzuo | concerns |
 | guangchengzi | shouyi | concerns |
 | guangchengzi | zhuangzi | described_in |
+| how-long-should-i-sit | drowsiness-in-sitting | concerns |
+| how-long-should-i-sit | jingzuo | concerns |
 | huangting-jing | dantian | concerns |
 | huangting-jing-dantian | dantian | concerns |
 | huangting-jing-dantian | huangting-jing | described_in |
@@ -91,6 +97,8 @@ Knowledge-graph edges — 135 total. Top-level key: `items` in
 | laozi | shiji-biographies | described_in |
 | leg-numbness-pain | EXP-003 | derived_from |
 | leg-numbness-pain | EXP-006 | derived_from |
+| lindahl-2017 | can-sitting-go-wrong | informs |
+| lindahl-2017 | farias-adverse-events-2020 | related_to |
 | neiguan | neiguan-jing | described_in |
 | neiguan | zuowang | related_to |
 | neiguan-jing | qingjing-jing | related_to |
@@ -103,6 +111,7 @@ Knowledge-graph edges — 135 total. Top-level key: `items` in
 | seeing-light-in-sitting | jingzuo | concerns |
 | seeing-light-in-sitting | xu | concerns |
 | seeing-light-in-sitting | zhuangzi | described_in |
+| shen | jing-qi-shen | concerns |
 | shouyi | baopuzi-shouyi | described_in |
 | shouyi | daodejing | described_in |
 | shouyi | daodejing-10-shouyi | translated_as |
@@ -114,14 +123,21 @@ Knowledge-graph edges — 135 total. Top-level key: `items` in
 | sima-chengzhen | zuowang-lun-composition | described_in |
 | standing-in-snow | jingzuo | concerns |
 | taiping-jing | taiping-jing-shouyi | described_in |
+| taixi | exp-008-breath-stopping | concerns |
+| taixi | qi | concerns |
+| taixi | tiaoxi | concerns |
 | three-craftsmen-dazheng | wuwei | concerns |
 | three-craftsmen-dazheng | zhuangzi | discusses |
+| three-languages | jingzuo | concerns |
+| three-languages | qi | concerns |
 | tiaoxi | jingzuo | related_to |
 | tiaoxi | qi | related_to |
 | translation-policy | wuwei | concerns |
 | translation-policy | ziran | concerns |
 | warmth-and-qi-sensations | EXP-002 | derived_from |
 | warmth-and-qi-sensations | EXP-003 | derived_from |
+| wheelwright-bian | zhuangzi | described_in |
+| wheelwright-bian | ziran | concerns |
 | wooden-rooster | shouyi | concerns |
 | wooden-rooster | wuwei | concerns |
 | wooden-rooster | zhuangzi | described_in |
@@ -139,6 +155,8 @@ Knowledge-graph edges — 135 total. Top-level key: `items` in
 | xu | xinzhai | related_to |
 | xu | zhuangzi | described_in |
 | xu | zuowang | related_to |
+| xuan | daodejing | described_in |
+| xuan | qingjing-jing | concerns |
 | zhiyi | xiao-zhiguan | authored |
 | zhuang-zhou | zhuangzi | associated_with |
 | zhuangzi-compilation | zhuang-zhou | concerns |
@@ -158,5 +176,7 @@ Knowledge-graph edges — 135 total. Top-level key: `items` in
 | zuowang | zuowang-safety-without-teacher | concerns |
 | zuowang-lun | neiguan-jing | derived_from |
 | zuowang-lun | qingjing-jing | derived_from |
+| zuowang-vs-shouyi | shouyi | contrasts_with |
+| zuowang-vs-shouyi | zuowang | contrasts_with |
 
 Generated from the site data file; do not edit by hand.

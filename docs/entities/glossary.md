@@ -21,3 +21,5 @@ Terminology pages — 13 records.
 Each glossary page gives: term, pinyin, literal meaning, translation options
 with a recommendation, and the sourced distinction between traditional
 doctrine and empirical claim (see e.g. dantian: traditional map, not anatomy).
+| shen | spirit; third of jing-qi-shen |
+| xuan | dark/depth; gate of wonders |

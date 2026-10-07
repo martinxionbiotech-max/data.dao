@@ -1,6 +1,6 @@
 # Sources Registry
 
-All sources used on the site — 35 total. Registry file:
+All sources used on the site — 37 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
@@ -8,14 +8,15 @@ All sources used on the site — 35 total. Registry file:
 | type | count |
 |---|---|
 | community | 5 |
-| primary_text | 18 |
-| research | 3 |
+| primary_text | 19 |
+| research | 4 |
 | scholarship | 9 |
 
 ## Full registry
 
 | id | title | type | pages used in |
 |---|---|---|---|
+| baopuzi-shizhi | Baopuzi, Inner Chapters, Shizhi chapter (释滞): taixi definition and moving-qi conditions | primary_text | /practices/taixi/ |
 | cook-2012 | Cook, Scott. The Bamboo Texts of Guodian. Cornell East Asia Series, 2012 | scholarship | /texts/daodejing/ |
 | daodejing | Daodejing (received Wang Bi text, 81 chapters) | primary_text | /concepts/wuwei/; /concepts/shouyi/; /concepts/qi/; /texts/daodejing/ |
 | daoshu | Daoshu (道枢), comp. Zeng Zao, Southern Song | primary_text | /timeline/daoshu-neiguan-zuowang/; /glossary/neiguan/ |
@@ -29,6 +30,7 @@ All sources used on the site — 35 total. Registry file:
 | iep-zhuangzi | Internet Encyclopedia of Philosophy, 'Zhuangzi' | scholarship | /texts/zhuangzi/ |
 | kohn-1998 | Kohn, Livia. God of the Dao: Lord Lao in History and Myth. Center for Chinese Studies, University of Michigan, 1998 | scholarship | /people/laozi/ |
 | kohn-2010 | Kohn, Livia. Sitting in Oblivion: The Heart of Daoist Meditation. Three Pines Press, 2010 | scholarship | /concepts/zuowang/; /practices/zuowang/; /texts/zuowang-lun/ |
+| lindahl-2017 | Lindahl et al., The varieties of contemplative experience, PLoS ONE 12(5):e0176239 (2017) | research | /research/lindahl-2017/ |
 | neiguan-jing | Neiguan Jing (Scripture of Inner Observation), Daozang; Yunji Qiqian juan 17 | primary_text | /texts/neiguan-jing/ |
 | qingjing-jing | Qingjing Jing (Scripture of Constant Clarity and Stillness) | primary_text | /texts/qingjing-jing/ |
 | robinet-1993 | Robinet, Isabelle. Taoist Meditation: The Mao-shan Tradition of Great Purity. SUNY Press, 1993 | scholarship | /concepts/shouyi/ |
@@ -40,7 +42,7 @@ All sources used on the site — 35 total. Registry file:
 | taylor-1988 | Taylor, Rodney L. The Confucian Way of Contemplation: Okada Takehiko and the Tradition of Quiet-Sitting. University of South Carolina Press, 1988 | scholarship | /concepts/jingzuo/; /practices/jingzuo/ |
 | tieba-dazuo-bar | Baidu Tieba 打坐吧/冥想吧 threads (search-indexed snippets) | community | /experiences/exp-004-emotional-surfacing/; /experiences/exp-005-night-qi-movement/ |
 | watson-1968 | Watson, Burton, trans. The Complete Works of Chuang Tzu. Columbia University Press, 1968 | scholarship | /texts/zhuangzi/; /concepts/zuowang/ |
-| wikisource-zhuangzi-dasheng | Zhuangzi ch. 19 (Dasheng), Wikisource | primary_text | /stories/wooden-rooster/; /stories/artisan-qing/; /stories/cicada-catcher/; /translations/artisan-qing-passage/; /blog/three-craftsmen-dazheng/ |
+| wikisource-zhuangzi-dasheng | Zhuangzi ch. 19 (Dasheng), Wikisource | primary_text | /stories/wooden-rooster/; /stories/artisan-qing/; /stories/cicada-catcher/; /translations/artisan-qing-passage/; /blog/three-craftsmen-dazheng/; /glossary/shen/ |
 | wikisource-zhuangzi-renjianshi | Zhuangzi ch. 4 (Renjian shi), Wikisource | primary_text | /concepts/xu/; /problems/seeing-light-in-sitting/ |
 | wikisource-zhuangzi-yingdiwang | Zhuangzi ch. 7 (Ying diwang), Wikisource | primary_text | /stories/huzi-jixian/ |
 | wikisource-zhuangzi-ys | Zhuangzi ch. 3 (Yangsheng zhu), Wikisource | primary_text | /stories/cook-ding/ |

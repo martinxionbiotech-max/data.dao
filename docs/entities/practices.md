@@ -15,3 +15,5 @@ Structured practice records from `data/practices.json` — 2 records.
   "page": "/practices/zuowang/", "evidence": "PRIMARY SOURCE",
   "related": ["zhuangzi", "xinzhai"] }
 ```
+| cunsi | Daoist (Shangqing) | image-based; the imagistic pole vs zuowang |
+| taixi | Daoist (Baopuzi) | embryonic breathing; arrival not technique |

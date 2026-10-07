@@ -17,3 +17,4 @@ explicit framing of what is legend vs history. 9 records.
 
 All source texts verified against received editions (Wikisource). Each story
 page ends with an explicit "Framing" section separating legend from history.
+| wheelwright-bian | Daoist | zhuangzi ch. 13 | parable; tacit knowledge |
