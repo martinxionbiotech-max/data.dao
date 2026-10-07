@@ -1,24 +1,24 @@
 # Relationship Registry
 
-Knowledge-graph edges — 501 total. Top-level key: `items` in
+Knowledge-graph edges — 541 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
 
 | relation | count |
 |---|---|
-| associated_with | 31 |
+| associated_with | 32 |
 | authored | 2 |
-| concerns | 163 |
+| concerns | 171 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 85 |
+| described_in | 88 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 177 |
-| translated_as | 19 |
+| related_to | 204 |
+| translated_as | 20 |
 
 ## All edges
 
@@ -98,6 +98,12 @@ Knowledge-graph edges — 501 total. Top-level key: `items` in
 | daodejing-05 | daodejing-25 | related_to |
 | daodejing-05 | tuoyue | related_to |
 | daodejing-05 | xu | concerns |
+| daodejing-14 | chen-tuan | related_to |
+| daodejing-14 | dao | concerns |
+| daodejing-14 | daodejing | translated_as |
+| daodejing-14 | daodejing-01 | related_to |
+| daodejing-14 | daodejing-25 | related_to |
+| daodejing-14 | ziran | concerns |
 | daodejing-16 | daodejing | translated_as |
 | daodejing-16 | xu | concerns |
 | daodejing-16 | ziran | concerns |
@@ -133,6 +139,11 @@ Knowledge-graph edges — 501 total. Top-level key: `items` in
 | daoshu-neiguan-zuowang | daoshu | described_in |
 | daoshu-neiguan-zuowang | neiguan | concerns |
 | daoshu-neiguan-zuowang | zuowang | concerns |
+| does-daoism-believe-in-a-creator | da-kuai | related_to |
+| does-daoism-believe-in-a-creator | hundun | related_to |
+| does-daoism-believe-in-a-creator | tian-ji | related_to |
+| does-daoism-believe-in-a-creator | zhen-zai | related_to |
+| does-daoism-believe-in-a-creator | ziran | concerns |
 | dongshi-frowning | handan-walk | related_to |
 | dongshi-frowning | zhuangzi | described_in |
 | dongshi-frowning | ziran | concerns |
@@ -183,6 +194,9 @@ Knowledge-graph edges — 501 total. Top-level key: `items` in
 | exp-018-halflotus-to-full-lotus | exp-014-double-lotus-doctrine | related_to |
 | exp-018-halflotus-to-full-lotus | how-long-should-i-sit | related_to |
 | exp-018-halflotus-to-full-lotus | must-i-sit-cross-legged | related_to |
+| exp-019-one-remedy-body | exp-013-buddhist-daoist-boundary | related_to |
+| exp-019-one-remedy-body | exp-018-halflotus-to-full-lotus | related_to |
+| exp-019-one-remedy-body | tiaoxi | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -281,6 +295,13 @@ Knowledge-graph edges — 501 total. Top-level key: `items` in
 | liezi-compilation | zhuangzi-compilation | related_to |
 | lindahl-2017 | can-sitting-go-wrong | informs |
 | lindahl-2017 | farias-adverse-events-2020 | related_to |
+| luhou-yang-niao | hundun | related_to |
+| luhou-yang-niao | marsh-pheasant | related_to |
+| luhou-yang-niao | mountain-tree-goose | related_to |
+| luhou-yang-niao | peng-bird | related_to |
+| luhou-yang-niao | phoenix-and-owl | related_to |
+| luhou-yang-niao | zhuangzi | described_in |
+| luhou-yang-niao | ziran | concerns |
 | mantis-and-chariot | hundun | related_to |
 | mantis-and-chariot | wuwei | concerns |
 | mantis-and-chariot | zhuangzi | described_in |
@@ -473,6 +494,18 @@ Knowledge-graph edges — 501 total. Top-level key: `items` in
 | xuan-pin | daodejing-01 | related_to |
 | xuan-pin | tuoyue | related_to |
 | xuan-pin | xu | related_to |
+| xuzhou-empty-boat | mountain-tree-goose | related_to |
+| xuzhou-empty-boat | swimmer-lvliang | related_to |
+| xuzhou-empty-boat | xu | concerns |
+| xuzhou-empty-boat | zhi-shui | related_to |
+| xuzhou-empty-boat | zhuangzi | described_in |
+| xuzhou-empty-boat | ziran | concerns |
+| yan-zun | chen-tuan | related_to |
+| yan-zun | daodejing | associated_with |
+| yan-zun | heshang-gong | related_to |
+| yan-zun | laozi | related_to |
+| yan-zun | wang-bi | related_to |
+| yan-zun | ziran | concerns |
 | yang-xi | cunsi | concerns |
 | yang-xi | huangting-jing | associated_with |
 | yang-xi | shangqing-revelations | associated_with |
@@ -499,6 +532,13 @@ Knowledge-graph edges — 501 total. Top-level key: `items` in
 | zhaoche | yingning | concerns |
 | zhaoche | yingning-passage | related_to |
 | zhaoche | zhuangzi | described_in |
+| zhen-zai | da-kuai | related_to |
+| zhen-zai | does-daoism-believe-in-a-creator | related_to |
+| zhen-zai | hundun | related_to |
+| zhen-zai | tian-ji | related_to |
+| zhen-zai | wang-liang-wen-jing | related_to |
+| zhen-zai | zhuangzi | described_in |
+| zhen-zai | ziran | concerns |
 | zhi-shui | jing | concerns |
 | zhi-shui | zhuangzi | described_in |
 | zhiyi | xiao-zhiguan | authored |

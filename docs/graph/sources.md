@@ -1,6 +1,6 @@
 # Sources Registry
 
-All sources used on the site — 97 total. Registry file:
+All sources used on the site — 103 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
@@ -9,15 +9,15 @@ All sources used on the site — 97 total. Registry file:
 |---|---|
 | academic_study | 2 |
 | commentary | 2 |
-| community | 15 |
-| historical | 1 |
+| community | 16 |
+| historical | 2 |
 | historical_record | 1 |
 | historical_text | 1 |
-| primary_text | 51 |
+| primary_text | 54 |
 | reference | 1 |
 | reference_work | 1 |
 | research | 4 |
-| scholarly | 6 |
+| scholarly | 7 |
 | scholarship | 9 |
 | traditional_record | 3 |
 
@@ -32,6 +32,7 @@ All sources used on the site — 97 total. Registry file:
 | 163-taishi-34 | Taishi cultivation Q&A no. 34 (163.com community column, 2021): bodily responses in double-lotus — heat, sweat, qi-sensations | community | /experiences/exp-015-heat-sweat-qi/ |
 | 163-taishi-36 | Taishi cultivation Q&A no. 36 (163.com community column, 2021) | community | /experiences/exp-012-restless-body/ |
 | 163-taishi-38 | Taishi cultivation Q&A no. 38 (163.com community column, 2021): the Buddhist-Daoist boundary question | community | /experiences/exp-013-buddhist-daoist-boundary/ |
+| 163-taishi-42 | Taishi cultivation Q&A no. 42 (163.com community column): solving body problems through practice — breath practice as the one remedy | community | /experiences/exp-019-one-remedy-body/ |
 | 163-taishi-47 | Taishi cultivation Q&A no. 47 (163.com community column, 2021): what is concentration — the nine dhyānas and how far an ordinary person can go | community | /experiences/exp-016-nine-dhyanas-map/ |
 | 163-taishi-49 | Taishi cultivation Q&A no. 49 (163.com community column, 2021) | community | /experiences/exp-009-dissolving-void/ |
 | 360kuai-taishi-01 | Taishi cultivation Q&A no. 1 (360kuai reprint, 2021): why he began — the teacher's origin story, daily schedule, retreat record, and lineage refusal | community | /experiences/exp-017-why-he-began/ |
@@ -44,6 +45,7 @@ All sources used on the site — 97 total. Registry file:
 | daodejing-01-editions | Daodejing ch. 1: received text with teaching editions, full-text 81-chapter edition, and the punctuation-variant discussion (Wang Bi cutting vs received cutting) | primary_text | /translations/daodejing-01/ |
 | daodejing-05-editions | Daodejing ch. 5: received text with Wang Bi and Su Zhe commentaries (Daodejing.org), Gushiwen teaching edition, CCDI study column | primary_text | /translations/daodejing-05/ |
 | daodejing-06-xuanpin | Daodejing ch. 6: Gushiwen teaching edition with translation and gloss (xuanpin as the source breeding the ten thousand things, an image of the Way) | primary_text | /glossary/xuan-pin/ |
+| daodejing-14-editions | Daodejing ch. 14, received text: two independent full-text reproductions agreeing (mindiver.se; a Sheng sheng xuetang teaching edition with Heshang Gong gloss 无色曰夷无声曰希无形曰微) | primary_text | /translations/daodejing-14/ |
 | daodejing-17-editions | Daodejing ch. 17, received text with the 下知有之/不知有之 variant, from the site's earlier Daodejing verification passes | primary_text | /translations/daodejing-17/ |
 | daodejing-22-editions | Daodejing ch. 22: Gushiwen teaching edition and the Mawangdui manuscript variants (曲则金/枉则定; 执一以为天下牧) | primary_text | /translations/daodejing-22/ |
 | daodejing-37-editions | Daodejing ch. 37: received text editions and the Guodian manuscript variant (道恒无为也, without 而无不为) | primary_text | /translations/daodejing-37/ |
@@ -73,8 +75,10 @@ All sources used on the site — 97 total. Registry file:
 | pku-2009-qiwulun-study | Peking University Journal (2009), 'Doubts in reading Zhuangzi Qiwu Lun and their analysis': Lu Deming's one-character gloss (sang), Cheng Xuanying's subcommentary (天机自张莫知其宰), Liu Fengbao's Nanhua xuexin bian, and the study's own reading | scholarly | /stories/wang-liang-wen-jing/; /glossary/tian-ji/ |
 | plos-one-e0216643 | Schlosser et al. 2019, PLoS ONE 14(5): e0216643 | academic_study | /research/schlosser-2019/; /questions/warmth-tingling-when-sitting/ |
 | qingjing-jing | Qingjing Jing (Scripture of Constant Clarity and Stillness) | primary_text | /texts/qingjing-jing/ |
+| qiwulun-zhenzai-commentaries | China Daoist Association article on the Yangshengzhu title question, quoting Guo Xiang's zhenzai note and Cheng Xuanying's subcommentary verbatim | scholarly | /glossary/zhen-zai/; /questions/does-daoism-believe-in-a-creator/ |
 | robinet-1993 | Robinet, Isabelle. Taoist Meditation: The Mao-shan Tradition of Great Purity. SUNY Press, 1993 | scholarship | /concepts/shouyi/ |
 | shanmu-editions | Zhuangzi ch. 20 (Shanmu) opening passage: Wang Nengxian's scholarly exposition (Sohu, 'between timber and no-timber') and the full text on Xueqiu, agreeing word for word | primary_text | /stories/mountain-tree-goose/ |
+| shanmu-empty-boat-editions | Zhuangzi ch. 20 (Shanmu), empty-boat passage: full passage quoted verbatim in two independent reproductions (a Xueqiu teaching post with translation; a Xinhuanet essay) | primary_text | /stories/xuzhou-empty-boat/ |
 | shidian-daodejing-25 | Daodejing ch. 25, Heshang Gong recension (Shidian Guji edition) | primary_text | /translations/daodejing-25/ |
 | shidian-yihai-zuanwei-qiushui | Nanhua Zhenjing Yihai Zuanwei (Shidian Guji edition), Qiushui chapter with Guo Xiang/Lu/other commentary chain (turtle and phoenix passages) | primary_text | /stories/turtle-in-the-mud/; /stories/phoenix-and-owl/ |
 | shidian-zhuangzi-neipianzhu-dazongshi | Zhuangzi Neipian Zhu (Shidian Guji edition), Dazongshi chapter with commentary (yingning passage) | primary_text | /glossary/yingning/ |
@@ -115,10 +119,12 @@ All sources used on the site — 97 total. Registry file:
 | xiao-zhiguan | Zhiyi, Xiao zhiguan (Tongmeng zhiguan), Tiaohe chapter | primary_text | /glossary/tiaoxi/; /problems/drowsiness-in-sitting/; /timeline/xiao-zhiguan-five-adjustments/ |
 | xinli001-qa | Xinli001 (Yixinli) meditation Q&A — anonymous user questions | community | /experiences/exp-001-falling-asleep/; /questions/falling-asleep-during-meditation/ |
 | xuwugui-editions | Zhuangzi ch. 24 (Xu Wugui) passage at Huizi's grave: Shidian guji full text (SBCK108) and the Gushiwen teaching edition with notes, agreeing throughout | primary_text | /stories/yun-jin-cheng-feng/ |
+| yan-zun-sources | Yan Zun dossier: Baidu Baike biography (Hanshu and Gaoshi zhuan material, the rich man exchange, the Junping well); a National Taiwan Normal University thesis on the Laozi zhiguì via Airiti; Wikisource listing of the zhiguì among Daodejing commentary editions | historical | /people/yan-zun/ |
 | zdic-jiafuzuo | Zdic dictionary entry: jiafuzuo (with Faxian, Foguo Ji attestation) | reference_work | /glossary/jiafuzuo/ |
 | zeyang-editions | Zhuangzi ch. 25 (Zeyang) King Wei Ying passage: I-Kuan Tao classics full text (with.org), Wix temple teaching edition, and the Taiping yulan parallel noted by ctext | primary_text | /stories/snail-horn-war/ |
 | zhengao-maoshan-lineage | Shangqing tradition records: the Zhengao, Maoshan lineage chronicles, and the Maoshan Daoist center's lineage account | traditional_record | /people/yang-xi/; /timeline/shangqing-revelations/ |
 | zhihu-daozuo-method | Zhihu column: 'Correct Daoist sitting method' (drowsiness vs. stillness) | community | /patterns/drowsiness-vs-stillness/; /questions/falling-asleep-during-meditation/ |
+| zhile-editions | Zhuangzi ch. 18 (Zhile), seabird passage: full text quoted verbatim in a teaching essay (mmh.org.tw) and the Guwendao teaching edition with translation; the Baidu Baike idiom entry (luhou yang niao) confirms location and standard reading | primary_text | /stories/luhou-yang-niao/ |
 | zhuangzi | Zhuangzi (received text, Guo Xiang recension) | primary_text | /concepts/zuowang/; /concepts/xinzhai/; /concepts/qi/; /texts/zhuangzi/ |
 | zhuzi-yulei | Zhu Xi yulei (Classified Conversations of Master Zhu), juan 116 | primary_text | /concepts/jingzuo/; /practices/jingzuo/; /problems/wandering-mind-in-sitting/ |
 | zuowang-lun | Sima Chengzhen, Zuowang lun (Treatise on Sitting in Oblivion) | primary_text | /concepts/zuowang/; /practices/zuowang/; /texts/zuowang-lun/ |

@@ -1,6 +1,6 @@
 # Translations
 
-translation records from the translations content collection — 20 records.
+translation records from the translations content collection — 21 records.
 
 | id | title | sourceText | chapter |
 |---|---|---|
@@ -8,6 +8,7 @@ translation records from the translations content collection — 20 records.
 | daodejing-01 | The Gate of All Subtleties (Daodejing 1) | daodejing | Ch. 1 |
 | daodejing-05 | The Bellows of Heaven and Earth (Daodejing 5) | daodejing | Ch. 5 |
 | daodejing-10-shouyi | Daodejing ch. 10 (shouyi line): Full Translation | daodejing |  |
+| daodejing-14 | Looked for and Not Seen (Daodejing 14) | daodejing | Ch. 14 |
 | daodejing-16 | 'Reach Emptiness at the Limit' (Daodejing 16) | daodejing |  |
 | daodejing-17 | The Best Ruler Is Barely Known (Daodejing 17) | daodejing | Ch. 17 |
 | daodejing-22 | The Bend That Completes (Daodejing 22) | daodejing | Ch. 22 |

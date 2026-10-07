@@ -1,6 +1,6 @@
 # Stories
 
-story records from the stories content collection — 37 records.
+story records from the stories content collection — 39 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
@@ -22,6 +22,7 @@ story records from the stories content collection — 37 records.
 | huzi-jixian | Huzi and the Shaman: Four Depths of Stillness | Daoist | zhuangzi |
 | jingdi-zhiwa | The Well Frog and the Sea Turtle: The Three Limits of Knowing | Daoist | zhuangzi |
 | kui-xian-chain | The Pity Chain: Kui, the Centipede, the Snake, the Wind | Daoist | zhuangzi |
+| luhou-yang-niao | The Marquis of Lu's Seabird | Daoist | zhuangzi |
 | mantis-and-chariot | The Mantis, the Tiger-Keeper, and the Horse-Lover: Talent Against Force | Daoist | zhuangzi |
 | marsh-pheasant | The Marsh Pheasant: Ten Steps, One Peck | Daoist | zhuangzi |
 | mountain-tree-goose | The Mountain Tree and the Goose | Daoist | zhuangzi |
@@ -40,4 +41,5 @@ story records from the stories content collection — 37 records.
 | wangyang-xingtan | The River God Looks Out to Sea: When the Flood Meets the Floodless | Daoist | zhuangzi |
 | wheelwright-bian | Wheelwright Bian: What Cannot Be Put into Words | Daoist | zhuangzi |
 | wooden-rooster | The Wooden Rooster | Daoist | zhuangzi |
+| xuzhou-empty-boat | The Empty Boat | Daoist | zhuangzi |
 | yun-jin-cheng-feng | The Axe Sweeping the Wind | Daoist | zhuangzi |

@@ -1,12 +1,13 @@
 # Questions
 
-The question collection — 11 records, with answer states.
+The question collection — 12 records, with answer states.
 
 | id | answer state | question | page |
 |---|---|---|---|
 | can-sitting-go-wrong | investigating | Can quiet sitting go wrong? What is 'fire deviation and demon entrance' (走火入魔), and should I be afraid of it? | /questions/can-sitting-go-wrong/ |
 | combine-zuowang-mindfulness | answered | Can I practice zuowang (or jingzuo) and mindfulness meditation together, or should I pick one? | /questions/combine-zuowang-mindfulness/ |
 | cunsi-or-zuowang | answered | Daoist meditation seems to have two opposite methods — filling the mind with inner images (cunsi) and emptying it entirely (zuowang). Which one should I practice? | /questions/cunsi-or-zuowang/ |
+| does-daoism-believe-in-a-creator | answered | Does the Daoist tradition believe in a creator — a god or driver who made or runs the world? | /questions/does-daoism-believe-in-a-creator/ |
 | falling-asleep-during-meditation | answered | Why do I keep falling asleep during meditation, and does it mean meditation doesn't suit me? | /questions/falling-asleep-during-meditation/ |
 | how-long-should-i-sit | answered | How long should a sitting session be? Is there a classical minimum or maximum? | /questions/how-long-should-i-sit/ |
 | must-i-sit-cross-legged | answered | Do I have to sit in full lotus (cross-legged) for meditation to 'count'? My legs hurt badly when I try. | /questions/must-i-sit-cross-legged/ |
