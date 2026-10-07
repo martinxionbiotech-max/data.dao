@@ -1,7 +1,7 @@
 # Stories Collection
 
 Narrative content — classical parables and traditional episodes, each with
-explicit framing of what is legend vs history. 7 records.
+explicit framing of what is legend vs history. 9 records.
 
 | id | tradition | source text | framing |
 |---|---|---|---|
@@ -12,6 +12,8 @@ explicit framing of what is legend vs history. 7 records.
 | guangchengzi | Daoist | zhuangzi ch. 11 | myth dressed as instruction |
 | huzi-jixian | Daoist | zhuangzi ch. 7 | parable; stages of depth |
 | wooden-rooster | Daoist | zhuangzi ch. 19 | parable |
+| artisan-qing | Daoist | zhuangzi ch. 19 | parable; seven-day fast of the mind |
+| cicada-catcher | Daoist | zhuangzi ch. 19 | parable; concentration formula |
 
 All source texts verified against received editions (Wikisource). Each story
 page ends with an explicit "Framing" section separating legend from history.

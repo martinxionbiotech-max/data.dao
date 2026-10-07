@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 99 total. Top-level key: `items` in
+Knowledge-graph edges — 106 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -8,10 +8,10 @@ Knowledge-graph edges — 99 total. Top-level key: `items` in
 | relation | count |
 |---|---|
 | associated_with | 6 |
-| concerns | 25 |
+| concerns | 30 |
 | contrasts_with | 1 |
 | derived_from | 11 |
-| described_in | 24 |
+| described_in | 26 |
 | discusses | 3 |
 | investigates | 2 |
 | related_to | 22 |
@@ -29,10 +29,17 @@ Knowledge-graph edges — 99 total. Top-level key: `items` in
 | EXP-006 | jingzuo | concerns |
 | EXP-007 | jingzuo | concerns |
 | EXP-008 | jingzuo | concerns |
+| artisan-qing | xinzhai | concerns |
+| artisan-qing | xu | concerns |
+| artisan-qing | zhuangzi | described_in |
+| artisan-qing | zuowang | concerns |
 | butterfly-dream | zhuang-zhou | associated_with |
 | butterfly-dream | zhuangzi | described_in |
 | can-sitting-go-wrong | farias-adverse-events-2020 | derived_from |
 | can-sitting-go-wrong | jingzuo | concerns |
+| cicada-catcher | jingzuo | concerns |
+| cicada-catcher | shouyi | concerns |
+| cicada-catcher | zhuangzi | described_in |
 | confucius-meets-laozi | laozi | associated_with |
 | cook-ding | wuwei | concerns |
 | cook-ding | zhuangzi | described_in |
