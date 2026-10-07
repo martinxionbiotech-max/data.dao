@@ -1,6 +1,6 @@
 # Timeline
 
-event records from the timeline content collection — 13 records.
+event records from the timeline content collection — 14 records.
 
 | id | title | periodStart | periodEnd | eventType |
 |---|---|---|---|
@@ -10,6 +10,7 @@ event records from the timeline content collection — 13 records.
 | daoshu-neiguan-zuowang | Daoshu: 'Inner Contemplation Is Sitting in Oblivion' (12th c.) | 1100 | 1200 | compilation |
 | guodian-daodejing | Guodian Daodejing Manuscripts (c. 300 BCE or earlier) | before 300 BCE | 1993 CE (excavation) | manuscript discovery |
 | huangting-jing-dantian | Huangting Jing: The Three-Dantian System (c. 3rd–4th c.) | 250 | 400 | scripture |
+| liezi-compilation | Liezi Compiled (Jin Era, c. 285–400 CE) | c. 285 CE (terminus post quem: the Sheng Jing borrowing demonstrated by Ji Xianlin) | c. 400 CE (Zhang Zhan's commentary, late Eastern Jin) | text compilation |
 | qingjing-neiguan-jing | Qingjing Jing and Neiguan Jing Composed (Six Dynasties–Early Tang) | 6th c. CE | early 7th c. CE | text composition |
 | shiji-biographies | Shiji Biographies of Laozi and Zhuang Zhou (c. 100 BCE) | c. 100 BCE | c. 100 BCE | earliest biography |
 | taiping-jing-shouyi | Taiping Jing: Shouyi and the Exit Conditions (Eastern Han) | Eastern Han (2nd c. CE) | Eastern Han (2nd c. CE) | text compilation |

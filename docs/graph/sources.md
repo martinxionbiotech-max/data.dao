@@ -1,6 +1,6 @@
 # Sources Registry
 
-All sources used on the site — 52 total. Registry file:
+All sources used on the site — 55 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
@@ -8,17 +8,19 @@ All sources used on the site — 52 total. Registry file:
 | type | count |
 |---|---|
 | academic_study | 2 |
-| community | 6 |
+| community | 7 |
 | historical_text | 1 |
-| primary_text | 29 |
+| primary_text | 30 |
 | reference_work | 1 |
 | research | 4 |
 | scholarship | 9 |
+| traditional_record | 1 |
 
 ## Full registry
 
 | id | title | type | pages used in |
 |---|---|---|---|
+| 163-taishi-28 | Taishi cultivation Q&A no. 28 (163.com community column, 2021) | community | /experiences/exp-010-lotus-pain/; /questions/must-i-sit-cross-legged/ |
 | 163-taishi-49 | Taishi cultivation Q&A no. 49 (163.com community column, 2021) | community | /experiences/exp-009-dissolving-void/ |
 | baopuzi-received | Baopuzi, received text (inner 20 juan, outer 52 juan as received) | primary_text | /texts/baopuzi/ |
 | baopuzi-shizhi | Baopuzi, Inner Chapters, Shizhi chapter (释滞): taixi definition and moving-qi conditions | primary_text | /practices/taixi/; /problems/breath-stopping-anxiety/ |
@@ -36,13 +38,14 @@ All sources used on the site — 52 total. Registry file:
 | jin-shu-ge-hong | Jin shu (Book of Jin), biography of Ge Hong | historical_text | /people/ge-hong/; /texts/baopuzi/; /timeline/baopuzi-composition/ |
 | kohn-1998 | Kohn, Livia. God of the Dao: Lord Lao in History and Myth. Center for Chinese Studies, University of Michigan, 1998 | scholarship | /people/laozi/ |
 | kohn-2010 | Kohn, Livia. Sitting in Oblivion: The Heart of Daoist Meditation. Three Pines Press, 2010 | scholarship | /concepts/zuowang/; /practices/zuowang/; /texts/zuowang-lun/ |
-| liezi-received | Liezi, received text in eight chapters with Zhang Zhan's commentary; Hanshu Yiwenzhi bibliography; Ma Xulun, Liezi Weishu Kao; Ji Xianlin on the Sheng Jing borrowing | primary_text | /texts/liezi/ |
+| liezi-received | Liezi, received text in eight chapters with Zhang Zhan's commentary; Hanshu Yiwenzhi bibliography; Ma Xulun, Liezi Weishu Kao; Ji Xianlin on the Sheng Jing borrowing | primary_text | /texts/liezi/; /timeline/liezi-compilation/ |
 | lindahl-2017 | Lindahl et al., The varieties of contemplative experience, PLoS ONE 12(5):e0176239 (2017) | research | /research/lindahl-2017/ |
 | nature-reviews-nrn3916 | Tang, Hölzel & Posner 2015, Nature Reviews Neuroscience 16: 213-225 | academic_study | /research/tang-2015/ |
 | neiguan-jing | Neiguan Jing (Scripture of Inner Observation), Daozang; Yunji Qiqian juan 17 | primary_text | /texts/neiguan-jing/ |
 | plos-one-e0216643 | Schlosser et al. 2019, PLoS ONE 14(5): e0216643 | academic_study | /research/schlosser-2019/; /questions/warmth-tingling-when-sitting/ |
 | qingjing-jing | Qingjing Jing (Scripture of Constant Clarity and Stillness) | primary_text | /texts/qingjing-jing/ |
 | robinet-1993 | Robinet, Isabelle. Taoist Meditation: The Mao-shan Tradition of Great Purity. SUNY Press, 1993 | scholarship | /concepts/shouyi/ |
+| shidian-daodejing-25 | Daodejing ch. 25, Heshang Gong recension (Shidian Guji edition) | primary_text | /translations/daodejing-25/ |
 | shiji-63 | Shiji (Records of the Grand Historian), ch. 63, 'Laozi Han Fei liezhuan' | primary_text | /people/laozi/; /people/zhuang-zhou/; /stories/confucius-meets-laozi/ |
 | slingerland-2003 | Slingerland, Edward. Effortless Action: Wu-wei as Conceptual Metaphor and Spiritual Ideal in Early China. Oxford University Press, 2003 | scholarship | /concepts/wuwei/ |
 | song-shi-yangshi | Song shi, 'Yang Shi zhuan' (ch. 428), Cheng Men Li Xue episode | primary_text | /concepts/jingzuo/; /timeline/cheng-men-li-xue/; /stories/standing-in-snow/ |
@@ -53,12 +56,13 @@ All sources used on the site — 52 total. Registry file:
 | taylor-1988 | Taylor, Rodney L. The Confucian Way of Contemplation: Okada Takehiko and the Tradition of Quiet-Sitting. University of South Carolina Press, 1988 | scholarship | /concepts/jingzuo/; /practices/jingzuo/ |
 | tieba-dazuo-bar | Baidu Tieba 打坐吧/冥想吧 threads (search-indexed snippets) | community | /experiences/exp-004-emotional-surfacing/; /experiences/exp-005-night-qi-movement/ |
 | watson-1968 | Watson, Burton, trans. The Complete Works of Chuang Tzu. Columbia University Press, 1968 | scholarship | /texts/zhuangzi/; /concepts/zuowang/ |
+| wei-huacun-biography | Wei Huacun biographical tradition (251/252-334; Wei Shu's daughter; posthumous titles Wei Furen / Nanyue Furen); Shangqing revelation lineage | traditional_record | /people/wei-huacun/ |
 | wikisource-zhuangzi-dasheng | Zhuangzi ch. 19 (Dasheng), Wikisource | primary_text | /stories/wooden-rooster/; /stories/artisan-qing/; /stories/cicada-catcher/; /translations/artisan-qing-passage/; /blog/three-craftsmen-dazheng/; /glossary/shen/ |
-| wikisource-zhuangzi-qiushui | Zhuangzi ch. 17 (Qiushui), received text (Wikisource) | primary_text | /stories/fish-happiness/ |
+| wikisource-zhuangzi-qiushui | Zhuangzi ch. 17 (Qiushui), received text (Wikisource) | primary_text | /stories/fish-happiness/; /stories/handan-walk/ |
 | wikisource-zhuangzi-qiwulun | Zhuangzi ch. 2 (Qiwulun), received text (Wikisource) | primary_text | /stories/three-in-the-morning/ |
 | wikisource-zhuangzi-renjianshi | Zhuangzi ch. 4 (Renjian shi), Wikisource | primary_text | /concepts/xu/; /problems/seeing-light-in-sitting/ |
 | wikisource-zhuangzi-tianzifang | Zhuangzi ch. 21 (Tian Zifang), received text (Wikisource) | primary_text | /stories/painter-unrobed/ |
-| wikisource-zhuangzi-xiaoyaoyou | Zhuangzi ch. 1 (Xiaoyaoyou), received text (Wikisource / Gushiwen) | primary_text | /stories/peng-bird/ |
+| wikisource-zhuangzi-xiaoyaoyou | Zhuangzi ch. 1 (Xiaoyaoyou), received text (Wikisource / Gushiwen) | primary_text | /stories/peng-bird/; /stories/useless-gourd/ |
 | wikisource-zhuangzi-xuwugui | Zhuangzi ch. 24 (Xuwugui), received text (Wikisource / Shidian Guji edition) | primary_text | /stories/carpenter-shi/ |
 | wikisource-zhuangzi-yingdiwang | Zhuangzi ch. 7 (Ying diwang), Wikisource | primary_text | /stories/huzi-jixian/ |
 | wikisource-zhuangzi-ys | Zhuangzi ch. 3 (Yangsheng zhu), Wikisource | primary_text | /stories/cook-ding/ |

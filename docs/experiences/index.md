@@ -7,7 +7,7 @@ search index, 163.com teacher Q&A, Xinli001 Q&A, Baidu Health, Zhihu columns).
 All records paraphrased and anonymized; no usernames, no direct quotes without
 permission.
 
-## Current records — 9
+## Current records — 10
 
 | id | theme | confidence | page |
 |---|---|---|
@@ -20,6 +20,7 @@ permission.
 | EXP-007 | EXP-007: Belching, Passing Wind, and a Calmer Stomach in Sitting | medium | /experiences/exp-007-digestive-release/ |
 | EXP-008 | EXP-008: The Breath That Seems to Stop on Its Own | low | /experiences/exp-008-breath-stopping/ |
 | EXP-009 | EXP-009: Dissolving Into the Void — and the Teacher's Diagnosis | medium | /experiences/exp-009-dissolving-void/ |
+| EXP-010 | EXP-010: The Beginner's Lotus Pain — and the Endurance Counsel | medium | /experiences/exp-010-lotus-pain/ |
 
 ## Privacy rules
 

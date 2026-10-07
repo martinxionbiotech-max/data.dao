@@ -1,24 +1,24 @@
 # Relationship Registry
 
-Knowledge-graph edges — 241 total. Top-level key: `items` in
+Knowledge-graph edges — 262 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
 
 | relation | count |
 |---|---|
-| associated_with | 8 |
+| associated_with | 9 |
 | authored | 2 |
-| concerns | 105 |
+| concerns | 113 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 54 |
+| described_in | 56 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 39 |
-| translated_as | 9 |
+| related_to | 48 |
+| translated_as | 10 |
 
 ## All edges
 
@@ -75,6 +75,9 @@ Knowledge-graph edges — 241 total. Top-level key: `items` in
 | daodejing-16 | daodejing | translated_as |
 | daodejing-16 | xu | concerns |
 | daodejing-16 | ziran | concerns |
+| daodejing-25 | daodejing | translated_as |
+| daodejing-25 | daodejing-16 | related_to |
+| daodejing-25 | ziran | concerns |
 | daoshu-neiguan-zuowang | daoshu | described_in |
 | daoshu-neiguan-zuowang | neiguan | concerns |
 | daoshu-neiguan-zuowang | zuowang | concerns |
@@ -92,6 +95,9 @@ Knowledge-graph edges — 241 total. Top-level key: `items` in
 | exp-009-dissolving-void | drowsiness-vs-stillness | related_to |
 | exp-009-dissolving-void | three-languages | related_to |
 | exp-009-dissolving-void | zuochi | concerns |
+| exp-010-lotus-pain | jiafuzuo | concerns |
+| exp-010-lotus-pain | leg-numbness-pain | related_to |
+| exp-010-lotus-pain | must-i-sit-cross-legged | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -104,6 +110,10 @@ Knowledge-graph edges — 241 total. Top-level key: `items` in
 | guangchengzi | jingzuo | concerns |
 | guangchengzi | shouyi | concerns |
 | guangchengzi | zhuangzi | described_in |
+| handan-walk | combine-zuowang-mindfulness | concerns |
+| handan-walk | fish-happiness | related_to |
+| handan-walk | zhuangzi | described_in |
+| handan-walk | ziran | concerns |
 | how-long-should-i-sit | drowsiness-in-sitting | concerns |
 | how-long-should-i-sit | jingzuo | concerns |
 | huangting-jing | dantian | concerns |
@@ -140,8 +150,14 @@ Knowledge-graph edges — 241 total. Top-level key: `items` in
 | liezi | daodejing | related_to |
 | liezi | xu | concerns |
 | liezi | zhuangzi | references |
+| liezi-compilation | liezi | concerns |
+| liezi-compilation | zhuangzi-compilation | related_to |
 | lindahl-2017 | can-sitting-go-wrong | informs |
 | lindahl-2017 | farias-adverse-events-2020 | related_to |
+| must-i-sit-cross-legged | exp-010-lotus-pain | related_to |
+| must-i-sit-cross-legged | jingzuo | concerns |
+| must-i-sit-cross-legged | leg-numbness-pain | related_to |
+| must-i-sit-cross-legged | sitting-protocol | related_to |
 | neiguan | neiguan-jing | described_in |
 | neiguan | zuowang | related_to |
 | neiguan-jing | qingjing-jing | related_to |
@@ -204,6 +220,9 @@ Knowledge-graph edges — 241 total. Top-level key: `items` in
 | tuoyue | daodejing | described_in |
 | tuoyue | jing | concerns |
 | tuoyue | xu | concerns |
+| useless-gourd | peng-bird | related_to |
+| useless-gourd | wuwei | concerns |
+| useless-gourd | zhuangzi | described_in |
 | virtual-room-passage | seeing-light-in-sitting | concerns |
 | virtual-room-passage | xinzhai | concerns |
 | virtual-room-passage | zhuangzi | described_in |
@@ -213,6 +232,8 @@ Knowledge-graph edges — 241 total. Top-level key: `items` in
 | warmth-tingling-when-sitting | jingzuo | concerns |
 | warmth-tingling-when-sitting | qi | concerns |
 | warmth-tingling-when-sitting | schlosser-2019 | related_to |
+| wei-huacun | cunsi | concerns |
+| wei-huacun | huangting-jing | associated_with |
 | what-is-stillness | jing | concerns |
 | what-is-stillness | jingzuo | concerns |
 | wheelwright-bian | zhuangzi | described_in |
