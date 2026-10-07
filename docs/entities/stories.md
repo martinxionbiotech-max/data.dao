@@ -1,6 +1,6 @@
 # Stories
 
-story records from the stories content collection — 19 records.
+story records from the stories content collection — 21 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
@@ -10,8 +10,10 @@ story records from the stories content collection — 19 records.
 | cicada-catcher | The Hunchback and the Cicada | Daoist | zhuangzi |
 | confucius-meets-laozi | Confucius Meets Laozi: The Dragon | Daoist / Confucian encounter (traditional) | daodejing |
 | cook-ding | Cook Ding Carves an Ox | Daoist | zhuangzi |
+| dongshi-frowning | The Woman Who Copied the Frown: Imitation Without Its Ground | Daoist | zhuangzi |
 | drumming-basin | Drumming on the Basin: Zhuangzi Sings When His Wife Dies | Daoist | zhuangzi |
 | fish-happiness | The Joy of the Fish: Zhuangzi and Hui Shi on the Bridge | Daoist | zhuangzi |
+| fish-in-the-dry-spring | The Fish in the Dried-Up Spring: Forgetting Each Other in the Rivers and Lakes | Daoist | zhuangzi |
 | guangchengzi | The Yellow Emperor Asks Guangchengzi | Daoist | zhuangzi |
 | handan-walk | The Handan Walk: What the Imitator Loses on the Way | Daoist | zhuangzi |
 | hundun | Hundun: The Story of the Seven Holes | Daoist | zhuangzi |

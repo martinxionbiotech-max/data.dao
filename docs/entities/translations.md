@@ -1,6 +1,6 @@
 # Translations
 
-translation records from the translations content collection — 12 records.
+translation records from the translations content collection — 13 records.
 
 | id | title | sourceText | chapter |
 |---|---|---|
@@ -15,4 +15,5 @@ translation records from the translations content collection — 12 records.
 | virtual-room-passage | The Empty Room: Brightness Is Born (Xuzhi Sheng Bai) | zhuangzi | Ch. 4 (Renjianshi), closing of the heart-fasting dialogue |
 | wooden-rooster-passage | The Wooden Rooster Passage (Zhuangzi ch. 19) | zhuangzi | 19 (Dasheng) |
 | xinzhai-passage | Xinzhai Passage (Zhuangzi ch. 4): Full Translation | zhuangzi |  |
+| yongxin-ruo-jing-passage | The Mind of the Perfected Is Like a Mirror (Zhuangzi, Yingdiwang) | zhuangzi | Ch. 7 (Yingdiwang, inner chapter) |
 | zuowang-passage | Zuowang Passage (Zhuangzi ch. 6): Full Translation | zhuangzi |  |

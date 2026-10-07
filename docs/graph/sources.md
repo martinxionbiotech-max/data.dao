@@ -1,6 +1,6 @@
 # Sources Registry
 
-All sources used on the site — 55 total. Registry file:
+All sources used on the site — 61 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
@@ -8,11 +8,13 @@ All sources used on the site — 55 total. Registry file:
 | type | count |
 |---|---|
 | academic_study | 2 |
-| community | 7 |
+| community | 8 |
+| historical_record | 1 |
 | historical_text | 1 |
-| primary_text | 30 |
+| primary_text | 33 |
 | reference_work | 1 |
 | research | 4 |
+| scholarly | 1 |
 | scholarship | 9 |
 | traditional_record | 1 |
 
@@ -21,6 +23,7 @@ All sources used on the site — 55 total. Registry file:
 | id | title | type | pages used in |
 |---|---|---|---|
 | 163-taishi-28 | Taishi cultivation Q&A no. 28 (163.com community column, 2021) | community | /experiences/exp-010-lotus-pain/; /questions/must-i-sit-cross-legged/ |
+| 163-taishi-29 | Taishi cultivation Q&A no. 29 (163.com community column, 2021) | community | /experiences/exp-011-shougong-protocol/ |
 | 163-taishi-49 | Taishi cultivation Q&A no. 49 (163.com community column, 2021) | community | /experiences/exp-009-dissolving-void/ |
 | baopuzi-received | Baopuzi, received text (inner 20 juan, outer 52 juan as received) | primary_text | /texts/baopuzi/ |
 | baopuzi-shizhi | Baopuzi, Inner Chapters, Shizhi chapter (释滞): taixi definition and moving-qi conditions | primary_text | /practices/taixi/; /problems/breath-stopping-anxiety/ |
@@ -49,6 +52,7 @@ All sources used on the site — 55 total. Registry file:
 | shiji-63 | Shiji (Records of the Grand Historian), ch. 63, 'Laozi Han Fei liezhuan' | primary_text | /people/laozi/; /people/zhuang-zhou/; /stories/confucius-meets-laozi/ |
 | slingerland-2003 | Slingerland, Edward. Effortless Action: Wu-wei as Conceptual Metaphor and Spiritual Ideal in Early China. Oxford University Press, 2003 | scholarship | /concepts/wuwei/ |
 | song-shi-yangshi | Song shi, 'Yang Shi zhuan' (ch. 428), Cheng Men Li Xue episode | primary_text | /concepts/jingzuo/; /timeline/cheng-men-li-xue/; /stories/standing-in-snow/ |
+| sun-mingjun-2022 | Sun Mingjun, 'Dao and De in the Zhuangzi' (National Office for Philosophy and Social Science, 2022) | scholarly | /translations/yongxin-ruo-jing-passage/; /glossary/zhi-shui/ |
 | sxu-zhuangzi-renjianshi | Zhuangzi ch. 4 (Renjianshi) full text and translation (Shanxi University Philosophy Dept) | primary_text | /translations/virtual-room-passage/; /glossary/zuochi/ |
 | taiping-jing | Taiping Jing (Scripture of Great Peace) | primary_text | /concepts/shouyi/; /problems/wandering-mind-in-sitting/; /problems/restlessness-in-sitting/ |
 | taiping-jing-received | Taiping Jing, received text (57 juan / 126 pian in the Ming Daoist Canon; Wang Ming, Taiping Jing Hejiao, 1960) | primary_text | /texts/taiping-jing/; /practices/shouyi/ |
@@ -57,10 +61,14 @@ All sources used on the site — 55 total. Registry file:
 | tieba-dazuo-bar | Baidu Tieba 打坐吧/冥想吧 threads (search-indexed snippets) | community | /experiences/exp-004-emotional-surfacing/; /experiences/exp-005-night-qi-movement/ |
 | watson-1968 | Watson, Burton, trans. The Complete Works of Chuang Tzu. Columbia University Press, 1968 | scholarship | /texts/zhuangzi/; /concepts/zuowang/ |
 | wei-huacun-biography | Wei Huacun biographical tradition (251/252-334; Wei Shu's daughter; posthumous titles Wei Furen / Nanyue Furen); Shangqing revelation lineage | traditional_record | /people/wei-huacun/ |
+| weishu-shilao-zhi | Wei shu, Shilao zhi (treatise on Buddhism and Daoism); Bei shi, biography of Kou Zan | historical_record | /people/kou-qianzhi/; /timeline/kou-qianzhi-reform/ |
 | wikisource-zhuangzi-dasheng | Zhuangzi ch. 19 (Dasheng), Wikisource | primary_text | /stories/wooden-rooster/; /stories/artisan-qing/; /stories/cicada-catcher/; /translations/artisan-qing-passage/; /blog/three-craftsmen-dazheng/; /glossary/shen/ |
+| wikisource-zhuangzi-dazongshi | Zhuangzi ch. 6 (Dazongshi), full text (Gushiwen and teaching editions, cross-checked with ctext parallel text) | primary_text | /stories/fish-in-the-dry-spring/ |
+| wikisource-zhuangzi-dechongfu | Zhuangzi ch. 5 (Dechongfu): 'ren mo jian yu liushui er jian yu zhishui', as quoted in Sun Mingjun 2022 | primary_text | /glossary/zhi-shui/ |
 | wikisource-zhuangzi-qiushui | Zhuangzi ch. 17 (Qiushui), received text (Wikisource) | primary_text | /stories/fish-happiness/; /stories/handan-walk/ |
 | wikisource-zhuangzi-qiwulun | Zhuangzi ch. 2 (Qiwulun), received text (Wikisource) | primary_text | /stories/three-in-the-morning/ |
 | wikisource-zhuangzi-renjianshi | Zhuangzi ch. 4 (Renjian shi), Wikisource | primary_text | /concepts/xu/; /problems/seeing-light-in-sitting/ |
+| wikisource-zhuangzi-tianyun | Zhuangzi ch. 14 (Tianyun), full text (Gushiwen-classical, Hong Kong Education Bureau teaching edition, Taiwan Ministry of Education idiom dictionary) | primary_text | /stories/dongshi-frowning/ |
 | wikisource-zhuangzi-tianzifang | Zhuangzi ch. 21 (Tian Zifang), received text (Wikisource) | primary_text | /stories/painter-unrobed/ |
 | wikisource-zhuangzi-xiaoyaoyou | Zhuangzi ch. 1 (Xiaoyaoyou), received text (Wikisource / Gushiwen) | primary_text | /stories/peng-bird/; /stories/useless-gourd/ |
 | wikisource-zhuangzi-xuwugui | Zhuangzi ch. 24 (Xuwugui), received text (Wikisource / Shidian Guji edition) | primary_text | /stories/carpenter-shi/ |

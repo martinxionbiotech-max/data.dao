@@ -1,24 +1,24 @@
 # Relationship Registry
 
-Knowledge-graph edges — 262 total. Top-level key: `items` in
+Knowledge-graph edges — 279 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
 
 | relation | count |
 |---|---|
-| associated_with | 9 |
+| associated_with | 11 |
 | authored | 2 |
-| concerns | 113 |
+| concerns | 118 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 56 |
+| described_in | 59 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 48 |
-| translated_as | 10 |
+| related_to | 54 |
+| translated_as | 11 |
 
 ## All edges
 
@@ -81,6 +81,9 @@ Knowledge-graph edges — 262 total. Top-level key: `items` in
 | daoshu-neiguan-zuowang | daoshu | described_in |
 | daoshu-neiguan-zuowang | neiguan | concerns |
 | daoshu-neiguan-zuowang | zuowang | concerns |
+| dongshi-frowning | handan-walk | related_to |
+| dongshi-frowning | zhuangzi | described_in |
+| dongshi-frowning | ziran | concerns |
 | drowsiness-in-sitting | drowsiness-vs-stillness | derived_from |
 | drowsiness-in-sitting | falling-asleep-during-meditation | related_to |
 | drowsiness-in-sitting | jingzuo | concerns |
@@ -98,12 +101,18 @@ Knowledge-graph edges — 262 total. Top-level key: `items` in
 | exp-010-lotus-pain | jiafuzuo | concerns |
 | exp-010-lotus-pain | leg-numbness-pain | related_to |
 | exp-010-lotus-pain | must-i-sit-cross-legged | related_to |
+| exp-011-shougong-protocol | breath-stopping-anxiety | related_to |
+| exp-011-shougong-protocol | exp-010-lotus-pain | related_to |
+| exp-011-shougong-protocol | jiafuzuo | concerns |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
 | fish-happiness | guan | concerns |
 | fish-happiness | jing | concerns |
 | fish-happiness | zhuangzi | described_in |
+| fish-in-the-dry-spring | drumming-basin | related_to |
+| fish-in-the-dry-spring | zhuangzi | described_in |
+| fish-in-the-dry-spring | ziran | concerns |
 | ge-hong | baopuzi | authored |
 | guan | daodejing | described_in |
 | guan | neiguan | concerns |
@@ -143,6 +152,8 @@ Knowledge-graph edges — 262 total. Top-level key: `items` in
 | jingzuo | zuowang-vs-jingzuo | concerns |
 | jingzuo-vs-zuowang | jingzuo | discusses |
 | jingzuo-vs-zuowang | zuowang | discusses |
+| kou-qianzhi | kou-qianzhi-reform | associated_with |
+| kou-qianzhi-reform | kou-qianzhi | associated_with |
 | laozi | daodejing | associated_with |
 | laozi | shiji-biographies | described_in |
 | leg-numbness-pain | EXP-003 | derived_from |
@@ -262,6 +273,12 @@ Knowledge-graph edges — 262 total. Top-level key: `items` in
 | xu | zuowang | related_to |
 | xuan | daodejing | described_in |
 | xuan | qingjing-jing | concerns |
+| yongxin-ruo-jing-passage | jing | concerns |
+| yongxin-ruo-jing-passage | virtual-room-passage | related_to |
+| yongxin-ruo-jing-passage | zhi-shui | related_to |
+| yongxin-ruo-jing-passage | zhuangzi | translated_as |
+| zhi-shui | jing | concerns |
+| zhi-shui | zhuangzi | described_in |
 | zhiyi | xiao-zhiguan | authored |
 | zhuang-zhou | zhuangzi | associated_with |
 | zhuangzi-compilation | zhuang-zhou | concerns |
