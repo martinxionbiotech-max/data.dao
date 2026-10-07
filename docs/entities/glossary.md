@@ -1,10 +1,11 @@
 # Glossary
 
-term records from the glossary content collection — 30 records.
+term records from the glossary content collection — 32 records.
 
 | id | title | chinese | pinyin | literalMeaning | recommended |
 |---|---|---|---|---|
 | baoyi | Baoyi | 抱一 | bàoyī | embracing/holding the One | embracing the One (parallel to the standard 'guarding the One' for shouyi) |
+| da-kuai | Dakuai (大块) | 大块 | dàkuài |  |  |
 | dantian | Dantian (丹田) | 丹田 | dāntián | cinnabar field | dantian (transliterated) — 'cinnabar field' for explanatory contexts |
 | dao | Dao | 道 | dào | way, path, road; to speak | keep romanized as Dao/dào; capitalize 'Way' when the technical sense is meant |
 | de | De | 德 | dé | virtue, power, inner potency | keep romanized as De/dé where technical; 'virtue/power' gloss on first use |
@@ -19,6 +20,7 @@ term records from the glossary content collection — 30 records.
 | qi | Qi | 气 | qì | vapor, breath, vital substrate | keep romanized as qi with a gloss; use 'breath' only in breathing contexts, 'energy' only with qualification |
 | shen | Shen | 神 | shén | spirit; numen; the luminous-animating aspect of the mind | spirit (with 'luminous-animating mind' glossed where the context is meditative) |
 | shouyi | Shouyi | 守一 | shǒuyī | guarding-keeping the One | guarding the One (standard in Robinet and Kohn) |
+| tian-ji | Tianji (天机) | 天机 | tiānjī |  |  |
 | tian-jun | Tianjun (天钧) | 天钧 | tiānjūn |  |  |
 | tiaoxi | Tiaoxi (调息) | 调息 | tiáoxī | regulating the breath | 'regulating the breath' — keep the tiao-shen/tiao-xi/tiao-xin trio visible in translation |
 | tuoyue | Tuoyue | 橐籥 | tuóyuè | bellows: 橐 the leather bag, 籥 the blowpipe tubes — the smith's double-valved air machine | bellows (with 'the smith's air machine' glossed where the emptiness-productivity point matters) |

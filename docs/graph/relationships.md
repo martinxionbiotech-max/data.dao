@@ -1,24 +1,24 @@
 # Relationship Registry
 
-Knowledge-graph edges — 465 total. Top-level key: `items` in
+Knowledge-graph edges — 501 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
 
 | relation | count |
 |---|---|
-| associated_with | 29 |
+| associated_with | 31 |
 | authored | 2 |
-| concerns | 159 |
+| concerns | 163 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 81 |
+| described_in | 85 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 152 |
-| translated_as | 18 |
+| related_to | 177 |
+| translated_as | 19 |
 
 ## All edges
 
@@ -58,6 +58,13 @@ Knowledge-graph edges — 465 total. Top-level key: `items` in
 | carpenter-shi | fish-happiness | related_to |
 | carpenter-shi | zhuangzi | described_in |
 | carpenter-shi | zuowang-safety-without-teacher | concerns |
+| chen-tuan | daodejing | associated_with |
+| chen-tuan | daodejing-17 | related_to |
+| chen-tuan | falling-asleep-during-meditation | related_to |
+| chen-tuan | laozi | related_to |
+| chen-tuan | peng-bird | related_to |
+| chen-tuan | zhuang-zhou | related_to |
+| chen-tuan | zhuangzi | associated_with |
 | cicada-catcher | jingzuo | concerns |
 | cicada-catcher | shouyi | concerns |
 | cicada-catcher | zhuangzi | described_in |
@@ -72,6 +79,11 @@ Knowledge-graph edges — 465 total. Top-level key: `items` in
 | cunsi-or-zuowang | cunsi | concerns |
 | cunsi-or-zuowang | shouyi | concerns |
 | cunsi-or-zuowang | zuowang | concerns |
+| da-kuai | four-friends | related_to |
+| da-kuai | qiwulun-wu-sang-wo | related_to |
+| da-kuai | tian-ji | related_to |
+| da-kuai | zhuangzi | described_in |
+| da-kuai | ziran | concerns |
 | dantian | jing-qi-shen | related_to |
 | dantian | qi | related_to |
 | dantian | shouyi | related_to |
@@ -113,6 +125,11 @@ Knowledge-graph edges — 465 total. Top-level key: `items` in
 | daodejing-48 | three-craftsmen-dazheng | related_to |
 | daodejing-48 | wuwei | concerns |
 | daodejing-48 | zuowang | concerns |
+| daodejing-63 | daodejing | translated_as |
+| daodejing-63 | daodejing-17 | related_to |
+| daodejing-63 | daodejing-22 | related_to |
+| daodejing-63 | de | concerns |
+| daodejing-63 | wuwei | concerns |
 | daoshu-neiguan-zuowang | daoshu | described_in |
 | daoshu-neiguan-zuowang | neiguan | concerns |
 | daoshu-neiguan-zuowang | zuowang | concerns |
@@ -161,6 +178,11 @@ Knowledge-graph edges — 465 total. Top-level key: `items` in
 | exp-017-why-he-began | exp-014-double-lotus-doctrine | related_to |
 | exp-017-why-he-began | farias-adverse-events-2020 | related_to |
 | exp-017-why-he-began | lindahl-2017 | related_to |
+| exp-018-halflotus-to-full-lotus | exp-010-lotus-pain | related_to |
+| exp-018-halflotus-to-full-lotus | exp-013-buddhist-daoist-boundary | related_to |
+| exp-018-halflotus-to-full-lotus | exp-014-double-lotus-doctrine | related_to |
+| exp-018-halflotus-to-full-lotus | how-long-should-i-sit | related_to |
+| exp-018-halflotus-to-full-lotus | must-i-sit-cross-legged | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -356,6 +378,10 @@ Knowledge-graph edges — 465 total. Top-level key: `items` in
 | three-in-the-morning | zhuangzi | described_in |
 | three-languages | jingzuo | concerns |
 | three-languages | qi | concerns |
+| tian-ji | kui-xian-chain | related_to |
+| tian-ji | wang-liang-wen-jing | related_to |
+| tian-ji | zhuangzi | described_in |
+| tian-ji | ziran | concerns |
 | tian-jun | qiwulun-wu-sang-wo | related_to |
 | tian-jun | three-in-the-morning | related_to |
 | tian-jun | xu | concerns |
@@ -387,6 +413,11 @@ Knowledge-graph edges — 465 total. Top-level key: `items` in
 | wang-bi | heshang-gong | associated_with |
 | wang-bi | heshang-gong-commentary | related_to |
 | wang-bi | laozi | associated_with |
+| wang-liang-wen-jing | butterfly-dream | related_to |
+| wang-liang-wen-jing | huzi-jixian | related_to |
+| wang-liang-wen-jing | qiwulun-wu-sang-wo | related_to |
+| wang-liang-wen-jing | tian-ji | related_to |
+| wang-liang-wen-jing | zhuangzi | described_in |
 | wangbi-laozi-commentary | daodejing | associated_with |
 | wangbi-laozi-commentary | daodejing-01 | related_to |
 | wangbi-laozi-commentary | daodejing-37 | related_to |
@@ -459,6 +490,11 @@ Knowledge-graph edges — 465 total. Top-level key: `items` in
 | yongxin-ruo-jing-passage | virtual-room-passage | related_to |
 | yongxin-ruo-jing-passage | zhi-shui | related_to |
 | yongxin-ruo-jing-passage | zhuangzi | translated_as |
+| yun-jin-cheng-feng | carpenter-shi | related_to |
+| yun-jin-cheng-feng | fish-happiness | related_to |
+| yun-jin-cheng-feng | useless-gourd | related_to |
+| yun-jin-cheng-feng | zhi-shui | related_to |
+| yun-jin-cheng-feng | zhuangzi | described_in |
 | zhaoche | jing | concerns |
 | zhaoche | yingning | concerns |
 | zhaoche | yingning-passage | related_to |

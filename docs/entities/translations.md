@@ -1,6 +1,6 @@
 # Translations
 
-translation records from the translations content collection — 19 records.
+translation records from the translations content collection — 20 records.
 
 | id | title | sourceText | chapter |
 |---|---|---|
@@ -14,6 +14,7 @@ translation records from the translations content collection — 19 records.
 | daodejing-25 | The Dao Follows What Is So of Itself (Daodejing 25) | daodejing | Ch. 25 |
 | daodejing-37 | Non-Acting and Nothing Left Undone (Daodejing 37) | daodejing | Ch. 37 |
 | daodejing-48 | Learning Adds, the Way Pairs Away (Daodejing 48) | daodejing | Ch. 48 |
+| daodejing-63 | Planning the Hard in Its Easy Stage (Daodejing 63) | daodejing | Ch. 63 |
 | drumming-basin-passage | Drumming on the Basin: The Four Transformations (Word by Word) | zhuangzi | Ch. 18 (Zhile), the basin scene |
 | qingjing-jing-opening | Qingjing Jing Opening and Core: Full Translation | qingjing-jing |  |
 | qiwulun-wu-sang-wo | 'I Have Lost Myself' — the Qiwulun's Opening (Zhuangzi 2) | zhuangzi |  |

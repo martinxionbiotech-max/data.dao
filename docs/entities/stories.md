@@ -1,6 +1,6 @@
 # Stories
 
-story records from the stories content collection — 35 records.
+story records from the stories content collection — 37 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
@@ -36,6 +36,8 @@ story records from the stories content collection — 35 records.
 | three-in-the-morning | Three in the Morning: The Monkeys Who Confused the Order for the Amount | Daoist | zhuangzi |
 | turtle-in-the-mud | The Turtle of Pu: Dragging Its Tail in the Mud | Daoist | zhuangzi |
 | useless-gourd | The Giant Gourd: On the Uses of Uselessness | Daoist | zhuangzi |
+| wang-liang-wen-jing | The Penumbra Asks the Shadow | Daoist | zhuangzi |
 | wangyang-xingtan | The River God Looks Out to Sea: When the Flood Meets the Floodless | Daoist | zhuangzi |
 | wheelwright-bian | Wheelwright Bian: What Cannot Be Put into Words | Daoist | zhuangzi |
 | wooden-rooster | The Wooden Rooster | Daoist | zhuangzi |
+| yun-jin-cheng-feng | The Axe Sweeping the Wind | Daoist | zhuangzi |
