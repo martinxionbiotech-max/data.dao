@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 584 total. Top-level key: `items` in
+Knowledge-graph edges — 626 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -9,16 +9,16 @@ Knowledge-graph edges — 584 total. Top-level key: `items` in
 |---|---|
 | associated_with | 33 |
 | authored | 2 |
-| concerns | 177 |
+| concerns | 183 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 91 |
+| described_in | 94 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 236 |
-| translated_as | 21 |
+| related_to | 268 |
+| translated_as | 22 |
 
 ## All edges
 
@@ -38,6 +38,12 @@ Knowledge-graph edges — 584 total. Top-level key: `items` in
 | artisan-qing | zuowang | concerns |
 | artisan-qing-passage | zhuangzi | translated_as |
 | artisan-qing-passage | zuowang | concerns |
+| bao-weng-guan-qi | hundun | related_to |
+| bao-weng-guan-qi | xinzhai | concerns |
+| bao-weng-guan-qi | xushi-sheng-bai | related_to |
+| bao-weng-guan-qi | zhuangzi | described_in |
+| bao-weng-guan-qi | zuochi | related_to |
+| bao-weng-guan-qi | zuowang | concerns |
 | baopuzi | shouyi | concerns |
 | baopuzi | taixi | concerns |
 | baopuzi-composition | baopuzi | concerns |
@@ -105,6 +111,14 @@ Knowledge-graph edges — 584 total. Top-level key: `items` in
 | daodejing-05 | daodejing-25 | related_to |
 | daodejing-05 | tuoyue | related_to |
 | daodejing-05 | xu | concerns |
+| daodejing-06 | daodejing | translated_as |
+| daodejing-06 | daodejing-01 | related_to |
+| daodejing-06 | daodejing-22 | related_to |
+| daodejing-06 | does-daoism-believe-in-a-creator | related_to |
+| daodejing-06 | i-feel-nothing-when-i-sit | related_to |
+| daodejing-06 | tuoyue | related_to |
+| daodejing-06 | xuan-pin | related_to |
+| daodejing-06 | yingning-passage | related_to |
 | daodejing-14 | chen-tuan | related_to |
 | daodejing-14 | dao | concerns |
 | daodejing-14 | daodejing | translated_as |
@@ -217,6 +231,10 @@ Knowledge-graph edges — 584 total. Top-level key: `items` in
 | exp-020-false-first-dhyana | farias-adverse-events-2020 | related_to |
 | exp-020-false-first-dhyana | seeing-light-in-sitting | related_to |
 | exp-020-false-first-dhyana | warmth-tingling-when-sitting | related_to |
+| exp-021-prostrations-channel-circuit | can-meditation-cure-illness | related_to |
+| exp-021-prostrations-channel-circuit | exp-016-nine-dhyanas-map | related_to |
+| exp-021-prostrations-channel-circuit | exp-018-halflotus-to-full-lotus | related_to |
+| exp-021-prostrations-channel-circuit | exp-019-one-remedy-body | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -273,6 +291,12 @@ Knowledge-graph edges — 584 total. Top-level key: `items` in
 | huzi-jixian | qi | concerns |
 | huzi-jixian | zhuangzi | described_in |
 | huzi-jixian | zuowang | concerns |
+| i-feel-nothing-when-i-sit | drowsiness-vs-stillness | related_to |
+| i-feel-nothing-when-i-sit | falling-asleep-during-meditation | related_to |
+| i-feel-nothing-when-i-sit | jingzuo | concerns |
+| i-feel-nothing-when-i-sit | qi-belief-necessary | related_to |
+| i-feel-nothing-when-i-sit | warmth-tingling-when-sitting | related_to |
+| i-feel-nothing-when-i-sit | xu | concerns |
 | ji-ren | four-friends | related_to |
 | ji-ren | sanghu-friends | related_to |
 | ji-ren | zhuangzi | described_in |
@@ -315,6 +339,13 @@ Knowledge-graph edges — 584 total. Top-level key: `items` in
 | laozi | shiji-biographies | described_in |
 | leg-numbness-pain | EXP-003 | derived_from |
 | leg-numbness-pain | EXP-006 | derived_from |
+| li-ao | exp-013-buddhist-daoist-boundary | related_to |
+| li-ao | fu-yi | related_to |
+| li-ao | jingzuo | concerns |
+| li-ao | qingjing-jing | related_to |
+| li-ao | zhiyi | related_to |
+| li-ao | zhuzi-yulei-jingzuo | related_to |
+| li-ao | ziran | concerns |
 | liang-wang | fish-in-the-dry-spring | related_to |
 | liang-wang | yongxin-ruo-jing-passage | related_to |
 | liang-wang | zhuangzi | described_in |
@@ -571,6 +602,11 @@ Knowledge-graph edges — 584 total. Top-level key: `items` in
 | yun-jin-cheng-feng | useless-gourd | related_to |
 | yun-jin-cheng-feng | zhi-shui | related_to |
 | yun-jin-cheng-feng | zhuangzi | described_in |
+| zhao-che | daodejing-48 | related_to |
+| zhao-che | jian-du | related_to |
+| zhao-che | seeing-light-in-sitting | related_to |
+| zhao-che | yingning | related_to |
+| zhao-che | zhuangzi | described_in |
 | zhaoche | jing | concerns |
 | zhaoche | yingning | concerns |
 | zhaoche | yingning-passage | related_to |
@@ -588,6 +624,12 @@ Knowledge-graph edges — 584 total. Top-level key: `items` in
 | zhuang-zhou | zhuangzi | associated_with |
 | zhuangzi-compilation | zhuang-zhou | concerns |
 | zhuangzi-compilation | zhuangzi | concerns |
+| zhuangzi-skeleton | butterfly-dream | related_to |
+| zhuangzi-skeleton | can-meditation-cure-illness | related_to |
+| zhuangzi-skeleton | does-daoism-believe-in-a-creator | related_to |
+| zhuangzi-skeleton | drumming-basin | related_to |
+| zhuangzi-skeleton | sanghu-friends | related_to |
+| zhuangzi-skeleton | zhuangzi | described_in |
 | ziran | daodejing | described_in |
 | ziran | wuwei | associated_with |
 | ziran | xu | associated_with |

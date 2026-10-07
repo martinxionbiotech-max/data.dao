@@ -1,6 +1,6 @@
 # People
 
-person records from the people content collection — 14 records.
+person records from the people content collection — 15 records.
 
 | id | title | chinese | dates | tradition | historicity | page |
 |---|---|---|---|---|---|
@@ -10,6 +10,7 @@ person records from the people content collection — 14 records.
 | heshang-gong | Heshang Gong (河上公) | 河上公 |  |  | legendary | /people/heshang-gong/ |
 | kou-qianzhi | Kou Qianzhi (寇谦之) | 寇谦之 |  |  | historical | /people/kou-qianzhi/ |
 | laozi | Laozi | 老子 |  |  | uncertain | /people/laozi/ |
+| li-ao | Li Ao (李翱) | 李翱 |  |  | historical | /people/li-ao/ |
 | sima-chengzhen | Sima Chengzhen | 司马承祯 |  |  | historical | /people/sima-chengzhen/ |
 | tao-hongjing | Tao Hongjing (陶弘景) | 陶弘景 |  |  | historical | /people/tao-hongjing/ |
 | wang-bi | Wang Bi (王弼) | 王弼 |  |  | historical | /people/wang-bi/ |

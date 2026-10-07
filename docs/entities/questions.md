@@ -1,6 +1,6 @@
 # Questions
 
-question records from the questions content collection — 13 records.
+question records from the questions content collection — 14 records.
 
 | id | title | question | answerState |
 |---|---|---|
@@ -11,6 +11,7 @@ question records from the questions content collection — 13 records.
 | does-daoism-believe-in-a-creator | Does the Daoist Tradition Believe in a Creator? | Does the Daoist tradition believe in a creator — a god or driver who made or runs the world? | answered |
 | falling-asleep-during-meditation | Why Do I Keep Falling Asleep During Meditation? | Why do I keep falling asleep during meditation, and does it mean meditation doesn't suit me? | answered |
 | how-long-should-i-sit | How Long Should I Sit? | How long should a sitting session be? Is there a classical minimum or maximum? | answered |
+| i-feel-nothing-when-i-sit | I Sit and Feel Nothing — Am I Doing It Wrong? | I sit and feel nothing. No warmth, no tingling, no peace — just quiet boredom. Am I doing it wrong? | answered |
 | must-i-sit-cross-legged | Must I Sit Cross-Legged (Full Lotus)? | Do I have to sit in full lotus (cross-legged) for meditation to 'count'? My legs hurt badly when I try. | answered |
 | qi-belief-necessary | Do I Need to Believe in Qi to Benefit from These Practices? | Do I need to believe in qi to benefit from Daoist sitting practices? | open |
 | warmth-tingling-when-sitting | Is It Normal to Feel Warmth or Tingling When I Sit? | When I sit, I sometimes feel warmth spreading, or tingling and small movements. Is this normal, and should I do anything about it? | answered |

@@ -1,10 +1,11 @@
 # Stories
 
-story records from the stories content collection — 41 records.
+story records from the stories content collection — 43 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
 | artisan-qing | Artisan Qing and the Bell-Stand: A Seven-Day Fast | Daoist | zhuangzi |
+| bao-weng-guan-qi | The Gardener and the Well-Sweep | Daoist | zhuangzi |
 | boatman | The Ferryman and the Diver: When the Water Is Forgotten | Daoist | zhuangzi |
 | butterfly-dream | Zhuang Zhou Dreams of a Butterfly | Daoist | zhuangzi |
 | carpenter-shi | The Carpenter and the Plaster: What Practice Loses Without a Partner | Daoist | zhuangzi |
@@ -45,3 +46,4 @@ story records from the stories content collection — 41 records.
 | wooden-rooster | The Wooden Rooster | Daoist | zhuangzi |
 | xuzhou-empty-boat | The Empty Boat | Daoist | zhuangzi |
 | yun-jin-cheng-feng | The Axe Sweeping the Wind | Daoist | zhuangzi |
+| zhuangzi-skeleton | Zhuangzi and the Skull | Daoist | zhuangzi |

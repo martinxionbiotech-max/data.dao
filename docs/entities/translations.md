@@ -1,12 +1,13 @@
 # Translations
 
-translation records from the translations content collection — 22 records.
+translation records from the translations content collection — 23 records.
 
 | id | title | sourceText | chapter |
 |---|---|---|
 | artisan-qing-passage | Artisan Qing's Seven-Day Fast (Zhuangzi 19) | zhuangzi |  |
 | daodejing-01 | The Gate of All Subtleties (Daodejing 1) | daodejing | Ch. 1 |
 | daodejing-05 | The Bellows of Heaven and Earth (Daodejing 5) | daodejing | Ch. 5 |
+| daodejing-06 | The Valley-Spirit Does Not Die (Daodejing 6) | daodejing | Ch. 6 |
 | daodejing-10-shouyi | Daodejing ch. 10 (shouyi line): Full Translation | daodejing |  |
 | daodejing-14 | Looked for and Not Seen (Daodejing 14) | daodejing | Ch. 14 |
 | daodejing-16 | 'Reach Emptiness at the Limit' (Daodejing 16) | daodejing |  |
