@@ -5,11 +5,32 @@ behind the knowledge graph.
 
 This site documents entities, relationships, sources and schemas. Data files live
 in the main repository under `src/data/` (`concepts.json`, `practices.json`,
-`experiences.json`, `patterns.json`, `relationships.json`, `sources.json`).
+`relationships.json`, `sources.json`); authored entities live in the content
+collections (`texts/`, `people/`, `translations/`, `timeline/`, `questions/`).
+
+## Current state (P2, 2026-10-07)
+
+| Layer | Count |
+|---|---|
+| Concepts | 6 |
+| Practices | 2 |
+| People | 3 |
+| Texts | 5 |
+| Translations | 5 |
+| Timeline events | 8 |
+| Research pages | 1 |
+| Tools | 2 |
+| Questions | 3 (2 open, 1 answered) |
+| Knowledge-graph edges | 44 |
+| Sources | 21 (10 primary texts, 9 scholarship, 2 research) |
+
+- **Experience system** (notes/reports/patterns): awaiting practitioner material
+  under the ingestion pipeline — nothing is fabricated in its absence.
+- Main site: 71 pages built, 0 errors.
 
 ## What is here
 
-- **Entities** — concepts, practices, people and texts as structured records
+- **Entities** — concepts, practices, people, texts, translations, timeline
 - **Experience system** — anonymized practitioner records, patterns, questions
 - **Knowledge graph** — typed relationships between entities
 - **Schemas** — data schema and evidence classification reference

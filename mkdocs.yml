@@ -16,6 +16,8 @@ nav:
       - Practices: entities/practices.md
       - People: entities/people.md
       - Texts: entities/texts.md
+      - Translations: entities/translations.md
+      - Timeline: entities/timeline.md
   - Experience System:
       - Experiences: experiences/index.md
       - Patterns: experiences/patterns.md
