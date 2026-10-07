@@ -21,3 +21,4 @@ The historicity field is what keeps history, tradition and legend separate:
 Laozi is `uncertain` because the *Shiji* itself says "the world does not know
 which is right"; Zhuang Zhou is `historical` but his famous anecdotes are
 literature, not biography — each person page documents the separation.
+| zhiyi | 538-597 | historical | Tiantai founder; Xiao Zhiguan author |

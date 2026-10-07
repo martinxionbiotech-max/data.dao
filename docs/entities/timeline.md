@@ -19,3 +19,4 @@ bare of their source.
 | huangting-jing-dantian | c. 3rd-4th c. | Huangting Jing; three-dantian system |
 | xiao-zhiguan-five-adjustments | 6th c. | Zhiyi; the five adjustments |
 | daoshu-neiguan-zuowang | 12th c. | Daoshu; 'neiguan is zuowang' |
+| zhuangzi-compilation | c. 350-150 BCE | Zhuangzi accretion; Guo Xiang recension |

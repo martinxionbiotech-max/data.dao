@@ -19,3 +19,5 @@ recommended rendering.
 - The same term may render differently by context; cross-references are given.
 - Documented Western misreadings are called out with the corrected reading.
 | artisan-qing-passage | zhuangzi ch. 19 | Artisan Qing's seven-day fast |
+| daodejing-16 | daodejing ch. 16 | "Reach emptiness at the limit" |
+| qiwulun-wu-sang-wo | zhuangzi ch. 2 | "I have lost myself" |

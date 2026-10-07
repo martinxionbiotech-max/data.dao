@@ -15,3 +15,5 @@ Text records from the texts content collection — 5 records.
 Traditional attribution (religious ascription of authority) is recorded as
 tradition; composition dating is recorded as scholarship. The two are never
 merged into "author = X" without qualification.
+| huangting-jing | 3rd-4th c. | Shangqing; three-dantian system |
+| xiao-zhiguan | 6th c. | Zhiyi; the five adjustments |

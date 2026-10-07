@@ -22,3 +22,4 @@ Structured concept records from `data/concepts.json` — 6 records.
 ```
 
 Each concept has a full authored page on the main site at `page`.
+| ziran | so-of-itself; the Dao models on it (DDJ 25) |

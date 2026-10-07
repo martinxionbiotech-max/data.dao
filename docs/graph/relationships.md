@@ -1,21 +1,23 @@
 # Relationship Registry
 
-Knowledge-graph edges — 117 total. Top-level key: `items` in
+Knowledge-graph edges — 135 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
 
 | relation | count |
 |---|---|
-| associated_with | 6 |
-| concerns | 36 |
+| associated_with | 8 |
+| authored | 1 |
+| concerns | 47 |
 | contrasts_with | 1 |
 | derived_from | 11 |
-| described_in | 29 |
+| described_in | 30 |
 | discusses | 4 |
 | investigates | 2 |
+| references | 1 |
 | related_to | 22 |
-| translated_as | 6 |
+| translated_as | 8 |
 
 ## All edges
 
@@ -42,6 +44,8 @@ Knowledge-graph edges — 117 total. Top-level key: `items` in
 | cicada-catcher | jingzuo | concerns |
 | cicada-catcher | shouyi | concerns |
 | cicada-catcher | zhuangzi | described_in |
+| combine-zuowang-mindfulness | mindfulness-meta-analysis-2014 | references |
+| combine-zuowang-mindfulness | zuowang | concerns |
 | confucius-meets-laozi | laozi | associated_with |
 | cook-ding | wuwei | concerns |
 | cook-ding | zhuangzi | described_in |
@@ -49,6 +53,9 @@ Knowledge-graph edges — 117 total. Top-level key: `items` in
 | dantian | qi | related_to |
 | dantian | shouyi | related_to |
 | daodejing | guodian-daodejing | described_in |
+| daodejing-16 | daodejing | translated_as |
+| daodejing-16 | xu | concerns |
+| daodejing-16 | ziran | concerns |
 | daoshu-neiguan-zuowang | daoshu | described_in |
 | daoshu-neiguan-zuowang | neiguan | concerns |
 | daoshu-neiguan-zuowang | zuowang | concerns |
@@ -63,6 +70,7 @@ Knowledge-graph edges — 117 total. Top-level key: `items` in
 | guangchengzi | jingzuo | concerns |
 | guangchengzi | shouyi | concerns |
 | guangchengzi | zhuangzi | described_in |
+| huangting-jing | dantian | concerns |
 | huangting-jing-dantian | dantian | concerns |
 | huangting-jing-dantian | huangting-jing | described_in |
 | huzi-jixian | qi | concerns |
@@ -90,6 +98,8 @@ Knowledge-graph edges — 117 total. Top-level key: `items` in
 | qi | qi-belief-necessary | concerns |
 | qi | zhuangzi | described_in |
 | qingjing-jing | qingjing-jing-opening | translated_as |
+| qiwulun-wu-sang-wo | zhuangzi | translated_as |
+| qiwulun-wu-sang-wo | zuowang | concerns |
 | seeing-light-in-sitting | jingzuo | concerns |
 | seeing-light-in-sitting | xu | concerns |
 | seeing-light-in-sitting | zhuangzi | described_in |
@@ -108,6 +118,8 @@ Knowledge-graph edges — 117 total. Top-level key: `items` in
 | three-craftsmen-dazheng | zhuangzi | discusses |
 | tiaoxi | jingzuo | related_to |
 | tiaoxi | qi | related_to |
+| translation-policy | wuwei | concerns |
+| translation-policy | ziran | concerns |
 | warmth-and-qi-sensations | EXP-002 | derived_from |
 | warmth-and-qi-sensations | EXP-003 | derived_from |
 | wooden-rooster | shouyi | concerns |
@@ -116,6 +128,8 @@ Knowledge-graph edges — 117 total. Top-level key: `items` in
 | wuwei | daodejing | described_in |
 | wuwei | daodejing-48 | translated_as |
 | wuwei | zuowang | related_to |
+| xiao-zhiguan | jingzuo | concerns |
+| xiao-zhiguan | tiaoxi | concerns |
 | xiao-zhiguan-five-adjustments | tiaoxi | concerns |
 | xiao-zhiguan-five-adjustments | xiao-zhiguan | described_in |
 | xinzhai | qingjing-jing | related_to |
@@ -125,7 +139,13 @@ Knowledge-graph edges — 117 total. Top-level key: `items` in
 | xu | xinzhai | related_to |
 | xu | zhuangzi | described_in |
 | xu | zuowang | related_to |
+| zhiyi | xiao-zhiguan | authored |
 | zhuang-zhou | zhuangzi | associated_with |
+| zhuangzi-compilation | zhuang-zhou | concerns |
+| zhuangzi-compilation | zhuangzi | concerns |
+| ziran | daodejing | described_in |
+| ziran | wuwei | associated_with |
+| ziran | xu | associated_with |
 | zuowang | mindfulness | related_to |
 | zuowang | qi | associated_with |
 | zuowang | reading-order | described_in |
