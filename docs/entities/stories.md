@@ -1,6 +1,6 @@
 # Stories
 
-story records from the stories content collection — 52 records.
+story records from the stories content collection — 54 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
@@ -17,6 +17,7 @@ story records from the stories content collection — 52 records.
 | confucius-meets-laozi | Confucius Meets Laozi: The Dragon | Daoist / Confucian encounter (traditional) | daodejing |
 | cook-ding | Cook Ding Carves an Ox | Daoist | zhuangzi |
 | dao-yi-you-dao | The Robber's Five Virtues | Daoist | zhuangzi |
+| daye-zhu-jin | The Metal That Demanded Its Shape | Daoist | zhuangzi |
 | dongshi-frowning | The Woman Who Copied the Frown: Imitation Without Its Ground | Daoist | zhuangzi |
 | drumming-basin | Drumming on the Basin: Zhuangzi Sings When His Wife Dies | Daoist | zhuangzi |
 | fish-happiness | The Joy of the Fish: Zhuangzi and Hui Shi on the Bridge | Daoist | zhuangzi |
@@ -45,6 +46,7 @@ story records from the stories content collection — 52 records.
 | standing-in-snow | Standing in the Snow at Cheng Yi's Gate | Neo-Confucian |  |
 | swimmer-lvliang | The Swimmer of Lüliang: Native, Grown, Complete | Daoist | zhuangzi |
 | three-in-the-morning | Three in the Morning: The Monkeys Who Confused the Order for the Amount | Daoist | zhuangzi |
+| tu-long-zhi-ji | Dragon-Slaying Skill | Daoist | zhuangzi |
 | turtle-in-the-mud | The Turtle of Pu: Dragging Its Tail in the Mud | Daoist | zhuangzi |
 | tushan-shuo | The Sheep-Butcher's Three Refusals | Daoist | zhuangzi |
 | useless-gourd | The Giant Gourd: On the Uses of Uselessness | Daoist | zhuangzi |

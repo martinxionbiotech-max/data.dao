@@ -1,9 +1,10 @@
 # Questions
 
-question records from the questions content collection — 19 records.
+question records from the questions content collection — 20 records.
 
 | id | title | question | answerState |
 |---|---|---|
+| can-i-sit-in-bed | Can I Sit in Bed? | Is it okay to meditate sitting in bed? I sit cross-legged on my bed with pillows for support — or sometimes lying down because it feels more relaxed. | answered |
 | can-meditation-cure-illness | Can Meditation Cure Illness? | Can meditation cure illness — the Daoist and Buddhist sitting practices in particular? | answered |
 | can-sitting-go-wrong | Can Sitting Go Wrong? The 'Fire Deviation' Fear | Can quiet sitting go wrong? What is 'fire deviation and demon entrance' (走火入魔), and should I be afraid of it? | investigating |
 | combine-zuowang-mindfulness | Can I Combine Zuowang with Mindfulness Meditation? | Can I practice zuowang (or jingzuo) and mindfulness meditation together, or should I pick one? | answered |

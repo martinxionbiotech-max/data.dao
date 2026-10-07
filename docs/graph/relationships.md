@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 910 total. Top-level key: `items` in
+Knowledge-graph edges — 965 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -9,15 +9,15 @@ Knowledge-graph edges — 910 total. Top-level key: `items` in
 |---|---|
 | associated_with | 34 |
 | authored | 2 |
-| concerns | 213 |
+| concerns | 217 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 114 |
+| described_in | 119 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 500 |
+| related_to | 546 |
 | translated_as | 23 |
 
 ## All edges
@@ -82,6 +82,16 @@ Knowledge-graph edges — 910 total. Top-level key: `items` in
 | breath-stopping-anxiety | tiaoxi | concerns |
 | butterfly-dream | zhuang-zhou | associated_with |
 | butterfly-dream | zhuangzi | described_in |
+| can-i-sit-in-bed | does-practice-need-faith | related_to |
+| can-i-sit-in-bed | drowsiness-vs-stillness | related_to |
+| can-i-sit-in-bed | exp-018-halflotus-to-full-lotus | related_to |
+| can-i-sit-in-bed | exp-025-lying-down-innovation | related_to |
+| can-i-sit-in-bed | falling-asleep-during-meditation | related_to |
+| can-i-sit-in-bed | jingzuo | related_to |
+| can-i-sit-in-bed | must-i-sit-cross-legged | related_to |
+| can-i-sit-in-bed | sitting-protocol | related_to |
+| can-i-sit-in-bed | wu-sang-wo | related_to |
+| can-i-sit-in-bed | zuowang | related_to |
 | can-meditation-cure-illness | baopuzi | related_to |
 | can-meditation-cure-illness | breath-stopping-anxiety | related_to |
 | can-meditation-cure-illness | exp-014-double-lotus-doctrine | related_to |
@@ -199,6 +209,13 @@ Knowledge-graph edges — 910 total. Top-level key: `items` in
 | daodejing-11 | wuwei | concerns |
 | daodejing-11 | xu | related_to |
 | daodejing-11 | zhi-shui | related_to |
+| daodejing-12 | can-i-sit-in-bed | related_to |
+| daodejing-12 | daodejing | described_in |
+| daodejing-12 | daodejing-02 | related_to |
+| daodejing-12 | tiaoxi | related_to |
+| daodejing-12 | xiao-zhiguan | related_to |
+| daodejing-12 | xinzhai-passage | related_to |
+| daodejing-12 | xu | concerns |
 | daodejing-14 | chen-tuan | related_to |
 | daodejing-14 | dao | concerns |
 | daodejing-14 | daodejing | translated_as |
@@ -245,6 +262,13 @@ Knowledge-graph edges — 910 total. Top-level key: `items` in
 | daodejing-37 | jing | concerns |
 | daodejing-37 | wuwei | concerns |
 | daodejing-37 | ziran | concerns |
+| daodejing-40 | bao-guang | related_to |
+| daodejing-40 | daodejing | described_in |
+| daodejing-40 | daodejing-02 | related_to |
+| daodejing-40 | daodejing-11 | related_to |
+| daodejing-40 | daodejing-25 | related_to |
+| daodejing-40 | daodejing-36 | related_to |
+| daodejing-40 | wuwei | concerns |
 | daodejing-45 | artisan-qing | related_to |
 | daodejing-45 | daodejing | translated_as |
 | daodejing-45 | daodejing-16 | related_to |
@@ -272,6 +296,13 @@ Knowledge-graph edges — 910 total. Top-level key: `items` in
 | daoshu-neiguan-zuowang | daoshu | described_in |
 | daoshu-neiguan-zuowang | neiguan | concerns |
 | daoshu-neiguan-zuowang | zuowang | concerns |
+| daye-zhu-jin | can-meditation-cure-illness | related_to |
+| daye-zhu-jin | four-friends | related_to |
+| daye-zhu-jin | qinshi-mourning | related_to |
+| daye-zhu-jin | xian-jie | related_to |
+| daye-zhu-jin | zhili-shu | related_to |
+| daye-zhu-jin | zhuangzi | described_in |
+| daye-zhu-jin | ziran | concerns |
 | does-daoism-believe-in-a-creator | da-kuai | related_to |
 | does-daoism-believe-in-a-creator | hundun | related_to |
 | does-daoism-believe-in-a-creator | tian-ji | related_to |
@@ -602,6 +633,16 @@ Knowledge-graph edges — 910 total. Top-level key: `items` in
 | qinshi-mourning | four-friends | related_to |
 | qinshi-mourning | laozi | related_to |
 | qinshi-mourning | zhuangzi | described_in |
+| qiwu | bao-guang | related_to |
+| qiwu | butterfly-dream | related_to |
+| qiwu | dao | related_to |
+| qiwu | huzi-jixian | related_to |
+| qiwu | qiwulun-wu-sang-wo | related_to |
+| qiwu | three-in-the-morning | related_to |
+| qiwu | tian-lai | related_to |
+| qiwu | wu-sang-wo | related_to |
+| qiwu | zhao-che | related_to |
+| qiwu | zhuangzi | described_in |
 | qiwulun-wu-sang-wo | zhuangzi | translated_as |
 | qiwulun-wu-sang-wo | zuowang | concerns |
 | ren-gongzi-fishing | cao-shang | related_to |
@@ -706,6 +747,13 @@ Knowledge-graph edges — 910 total. Top-level key: `items` in
 | tiaoxi-practice | xiao-zhiguan | described_in |
 | translation-policy | wuwei | concerns |
 | translation-policy | ziran | concerns |
+| tu-long-zhi-ji | chui-gou-zhe | related_to |
+| tu-long-zhi-ji | ren-gongzi-fishing | related_to |
+| tu-long-zhi-ji | useless-gourd | related_to |
+| tu-long-zhi-ji | what-counts-as-progress | related_to |
+| tu-long-zhi-ji | wuwei | concerns |
+| tu-long-zhi-ji | zhili-shu | related_to |
+| tu-long-zhi-ji | zhuangzi | described_in |
 | tuoyue | daodejing | described_in |
 | tuoyue | jing | concerns |
 | tuoyue | xu | concerns |
@@ -730,6 +778,13 @@ Knowledge-graph edges — 910 total. Top-level key: `items` in
 | wang-bi | heshang-gong | associated_with |
 | wang-bi | heshang-gong-commentary | related_to |
 | wang-bi | laozi | associated_with |
+| wang-chongyang | chen-tuan | related_to |
+| wang-chongyang | daoshu-neiguan-zuowang | related_to |
+| wang-chongyang | jing-qi-shen | related_to |
+| wang-chongyang | kou-qianzhi | related_to |
+| wang-chongyang | lu-xiujing | related_to |
+| wang-chongyang | zhang-boduan | related_to |
+| wang-chongyang | zhang-daoling | related_to |
 | wang-liang-wen-jing | butterfly-dream | related_to |
 | wang-liang-wen-jing | huzi-jixian | related_to |
 | wang-liang-wen-jing | qiwulun-wu-sang-wo | related_to |

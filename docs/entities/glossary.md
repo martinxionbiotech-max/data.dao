@@ -1,6 +1,6 @@
 # Glossary
 
-term records from the glossary content collection — 40 records.
+term records from the glossary content collection — 41 records.
 
 | id | title | chinese | pinyin | literalMeaning | recommended |
 |---|---|---|---|---|
@@ -20,6 +20,7 @@ term records from the glossary content collection — 40 records.
 | liang-wang | Liangwang (两忘) | 两忘 | liǎngwàng |  |  |
 | neiguan | Neiguan (内观) | 内观 | nèiguān | inner contemplation; inner vision | 'inner contemplation' — 'inner observation' for contexts emphasizing the inspecting function; avoid 'inner visualization' unless the source explicitly describes images |
 | qi | Qi | 气 | qì | vapor, breath, vital substrate | keep romanized as qi with a gloss; use 'breath' only in breathing contexts, 'energy' only with qualification |
+| qiwu | Qiwu (齐物) | 齐物 | qíwù |  |  |
 | shen | Shen | 神 | shén | spirit; numen; the luminous-animating aspect of the mind | spirit (with 'luminous-animating mind' glossed where the context is meditative) |
 | shouyi | Shouyi | 守一 | shǒuyī | guarding-keeping the One | guarding the One (standard in Robinet and Kohn) |
 | tian-ji | Tianji (天机) | 天机 | tiānjī |  |  |
