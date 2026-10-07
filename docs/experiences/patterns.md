@@ -1,18 +1,14 @@
 # Experience Patterns
 
-Recurring phenomena across independent anonymized reports.
+Recurring phenomena across independent anonymized reports — 3 patterns.
 
-**Status:** awaiting practitioner material. Patterns are derived only from
-real reports (the ingestion pipeline, MASTER_PROMPT §31); none are published
-until the reports exist.
-
-```json
-{ "id": "subtle-breathing", "phenomenon": "breathing becomes very subtle",
-  "report_count": 0, "practices": [],
-  "evidence_basis": "practitioner-reports-only" }
-```
+| id | phenomenon | reports | evidence basis | page |
+|---|---|---|---|---|
+| drowsiness-vs-stillness | drowsiness during sitting, mistaken for stillness | 1 | practitioner-reports-only | /patterns/drowsiness-vs-stillness/ |
+| warmth-and-qi-sensations | warmth, sweating, felt qi movement | 2 | partially-researched | /patterns/warmth-and-qi-sensations/ |
+| leg-numbness-pain | leg numbness/pain, endure-vs-adjust split | 2 | partially-researched | /patterns/leg-numbness-pain/ |
 
 Language discipline: "recurring reports in the practitioner archive" —
-never "scientifically proven" unless actual research supports it. Where a
-pattern overlaps a studied domain, the research evidence is cited separately
-(see the Goyal 2014 research page for the meditation-evidence boundary).
+never "scientifically proven" unless actual research supports it. The
+traditional interpretation and the modern reading are recorded side by
+side and neither is asserted as fact.

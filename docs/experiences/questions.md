@@ -1,6 +1,6 @@
 # Practitioner Questions
 
-Real practitioner/search questions from the questions content collection — 3 records.
+Real practitioner/search questions from the questions content collection — 4 records.
 Treated as question-discovery signals for the site.
 
 | id | question | answerState | page |
@@ -8,6 +8,7 @@ Treated as question-discovery signals for the site.
 | zuowang-safety-without-teacher | Is Daoist sitting safe without a teacher? | open | /questions/zuowang-safety-without-teacher/ |
 | zuowang-vs-jingzuo | What is the difference between zuowang and jingzuo? | answered | /questions/zuowang-vs-jingzuo/ |
 | qi-belief-necessary | Do I need to believe in qi to benefit? | open | /questions/qi-belief-necessary/ |
+| falling-asleep-during-meditation | Why do I keep falling asleep during meditation? | answered | /questions/falling-asleep-during-meditation/ |
 
 ## Answer states
 
