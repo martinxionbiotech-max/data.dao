@@ -1,6 +1,6 @@
 # People
 
-person records from the people content collection — 19 records.
+person records from the people content collection — 20 records.
 
 | id | title | chinese | dates | tradition | historicity | page |
 |---|---|---|---|---|---|
@@ -21,5 +21,6 @@ person records from the people content collection — 19 records.
 | yang-xi | Yang Xi (杨羲) | 杨羲 |  |  | historical | /people/yang-xi/ |
 | zhang-boduan | Zhang Boduan (张伯端) | 张伯端 |  |  | historical | /people/zhang-boduan/ |
 | zhang-daoling | Zhang Daoling (张道陵) | 张道陵 |  |  | semi-legendary | /people/zhang-daoling/ |
+| zhang-sanfeng | Zhang Sanfeng (张三丰) | 张三丰 |  |  | semi-legendary | /people/zhang-sanfeng/ |
 | zhiyi | Zhiyi (智顗) | 智顗 |  |  | historical | /people/zhiyi/ |
 | zhuang-zhou | Zhuang Zhou | 庄周 |  |  | historical | /people/zhuang-zhou/ |

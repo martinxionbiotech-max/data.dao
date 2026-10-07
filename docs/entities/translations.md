@@ -1,6 +1,6 @@
 # Translations
 
-translation records from the translations content collection — 29 records.
+translation records from the translations content collection — 30 records.
 
 | id | title | sourceText | chapter |
 |---|---|---|
@@ -19,6 +19,7 @@ translation records from the translations content collection — 29 records.
 | daodejing-22 | The Bend That Completes (Daodejing 22) | daodejing | Ch. 22 |
 | daodejing-25 | The Dao Follows What Is So of Itself (Daodejing 25) | daodejing | Ch. 25 |
 | daodejing-33 | To Know Others Is Wisdom, to Know Oneself Is Clarity (Daodejing 33) | daodejing | Ch. 33 |
+| daodejing-36 | What Is to Be Gathered Must First Be Spread (Daodejing 36) | daodejing | Ch. 36 |
 | daodejing-37 | Non-Acting and Nothing Left Undone (Daodejing 37) | daodejing | Ch. 37 |
 | daodejing-45 | The Great Accomplishment Looks Unfinished (Daodejing 45) | daodejing | Ch. 45 |
 | daodejing-48 | Learning Adds, the Way Pairs Away (Daodejing 48) | daodejing | Ch. 48 |

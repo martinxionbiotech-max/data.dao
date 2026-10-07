@@ -1,6 +1,6 @@
 # Sources Registry
 
-All sources used on the site — 137 total. Registry file:
+All sources used on the site — 143 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
@@ -10,10 +10,11 @@ All sources used on the site — 137 total. Registry file:
 | academic_study | 2 |
 | commentary | 2 |
 | community | 21 |
+| community_archive | 1 |
 | historical | 5 |
-| historical_record | 4 |
+| historical_record | 5 |
 | historical_text | 1 |
-| primary_text | 77 |
+| primary_text | 81 |
 | reference | 1 |
 | reference_work | 1 |
 | research | 4 |
@@ -27,6 +28,7 @@ All sources used on the site — 137 total. Registry file:
 |---|---|---|---|
 | 163-taishi-24 | Taishi cultivation Q&A no. 24 (163.com community column, 2021): training the full lotus — the half-to-full-lotus program | community | /experiences/exp-018-halflotus-to-full-lotus/ |
 | 163-taishi-25 | Taishi cultivation Q&A no. 25 (163.com community column, 2021): why double-lotus is required | community | /experiences/exp-014-double-lotus-doctrine/ |
+| 163-taishi-26 | Taishi Q&A episode 26 (lying-down practice and the innovation question), full text retrieved from the 163 news mirror on 2026-10-07: practitioner letter (contemporary liberation-stages framework, lying-down practice argument) and teacher reply (armchair-theory charge, eighteen-heavens challenge, dreaming diagnosis, auspicious-reclining as provisional method, time-conditions ladder, Buddha fasting narrative, anti-innovation rule) | community_archive | /experiences/exp-025-lying-down-innovation/ |
 | 163-taishi-28 | Taishi cultivation Q&A no. 28 (163.com community column, 2021) | community | /experiences/exp-010-lotus-pain/; /questions/must-i-sit-cross-legged/ |
 | 163-taishi-29 | Taishi cultivation Q&A no. 29 (163.com community column, 2021) | community | /experiences/exp-011-shougong-protocol/ |
 | 163-taishi-34 | Taishi cultivation Q&A no. 34 (163.com community column, 2021): bodily responses in double-lotus — heat, sweat, qi-sensations | community | /experiences/exp-015-heat-sweat-qi/ |
@@ -59,6 +61,7 @@ All sources used on the site — 137 total. Registry file:
 | daodejing-17-editions | Daodejing ch. 17, received text with the 下知有之/不知有之 variant, from the site's earlier Daodejing verification passes | primary_text | /translations/daodejing-17/ |
 | daodejing-22-editions | Daodejing ch. 22: Gushiwen teaching edition and the Mawangdui manuscript variants (曲则金/枉则定; 执一以为天下牧) | primary_text | /translations/daodejing-22/ |
 | daodejing-33-editions | Daodejing ch. 33, received text, verified against the 5000yan edition with Wang Bi commentary quoted and the Gushiwen famous-line page, which agree verbatim; a Hong Kong Education Bureau classics handout supplies the standard gloss | primary_text | /translations/daodejing-33/ |
+| daodejing-36-editions | Daodejing ch. 36, received text, verified against four independent reproductions that agree (the Shandong University page with glosses; the Zhihu Wang Bi Laozi Daodejing zhu column; the Daodejing.org chapter page; the Baidu Baike entry with the interpretive tradition), variant qu zhi/duo zhi registered | primary_text | /translations/daodejing-36/ |
 | daodejing-37-editions | Daodejing ch. 37: received text editions and the Guodian manuscript variant (道恒无为也, without 而无不为) | primary_text | /translations/daodejing-37/ |
 | daodejing-45-editions | Daodejing ch. 45, received text: three independent reproductions (mindiver.se; a Vocus teaching post; Wang Yijia's Laozi jinjie on Pixnet) with variant characters and the swapped final couplet recorded | primary_text | /translations/daodejing-45/ |
 | daodejing-48-editions | Daodejing ch. 48: received text with Wang Bi commentary transmission, Baike teaching edition, Daodejing.org | primary_text | /translations/daodejing-48/ |
@@ -97,6 +100,7 @@ All sources used on the site — 137 total. Registry file:
 | qingjing-jing | Qingjing Jing (Scripture of Constant Clarity and Stillness) | primary_text | /texts/qingjing-jing/ |
 | qiwulun-baoguang-editions | Zhuangzi ch. 2 (Qiwu Lun), the baoguang passage, verified against the Wikisource full text, the Dudianji interactive text, and a Zhihu full-text column, which agree verbatim; plus a Zhuzi xuekan study of the term (reprinted at homeinmists) linking baoguang to the Daodejing xuanlan | primary_text | /glossary/bao-guang/ |
 | qiwulun-tianlai-editions | Zhuangzi ch. 2 (Qiwu Lun), the three-pipes passage, verified against the Wikisource full text, the Zhuangzi yi commentary (Shidian guji, HY1406, Guo Xiang note quoted in full), a 2011 sinoss.net study of the term, and the ht.org.tw teaching column on the modern drift | primary_text | /glossary/tian-lai/ |
+| qiwulun-wusangwo-editions | Zhuangzi ch. 2 (Qi Wu Lun), the opening wu sang wo passage, verified against the Wikisource full chapter, the Zhihu full-text column, and the Dudianji text, with the Guo Xiang commentary registered from the tradition (wu sang wo = self-forgetting, the dissolution of the paired body) | primary_text | /glossary/wu-sang-wo/ |
 | qiwulun-zhenzai-commentaries | China Daoist Association article on the Yangshengzhu title question, quoting Guo Xiang's zhenzai note and Cheng Xuanying's subcommentary verbatim | scholarly | /glossary/zhen-zai/; /questions/does-daoism-believe-in-a-creator/ |
 | quqie-editions | Zhuangzi ch. 10 (Qu Qie, outer chapter), the Robber Zhi passage and the chapter argument, verified against the Wikisource full text, the Chinese Text Project parallel text, the Zhihu full-text column, and the Zhuangzi kouyi (Shidian guji, SK2166), which agree verbatim | primary_text | /stories/dao-yi-you-dao/ |
 | rangwang-tushan-editions | Zhuangzi ch. 28 (Rang Wang, mixed chapter), the Tu Yang passage, verified against the Wikisource full text, the Chinese Text Project parallel text, the Xueqiu reading text, and a Zhihu teaching column, which agree verbatim (CTP closing word variant registered) | primary_text | /stories/tushan-shuo/ |
@@ -127,6 +131,7 @@ All sources used on the site — 137 total. Registry file:
 | tianzifang-archer-editions | Zhuangzi ch. 21 (Tian Zifang), the archery passage: Taiji Shuguan edition with translation and chapter-structure notes; Zhuangzi at 5000yan full text; CText parallel snippet; Lawforever teaching essay | primary_text | /stories/boshun-archer/ |
 | tieba-dazuo-bar | Baidu Tieba 打坐吧/冥想吧 threads (search-indexed snippets) | community | /experiences/exp-004-emotional-surfacing/; /experiences/exp-005-night-qi-movement/ |
 | waiwu-editions | Zhuangzi ch. 26 (Waiwu), borrowing-grain passage: Gushiwen full text with translation and notes; Baidu Baike entry (zhuang zhou dai su); CText parallel-verse snippet (recording the 监河侯/监何侯 variant) | primary_text | /stories/hezhe-zhi-fu/ |
+| waiwu-rengongzi-editions | Zhuangzi ch. 26 (Wai Wu, miscellaneous chapter), the Lord Ren passage, verified against the Wikisource full chapter, the Xueqiu full-text column, the Guwendao reading text with translation, and the Baidu Baike entry, which agree (variants: 会稽/会嵇, 骛/惊, 累/纍) | primary_text | /stories/ren-gongzi-fishing/ |
 | wang-bi-sources | Wang Bi dossier: Wikipedia (zh) biography, the Shuge Classic Library Laozi Wang Bi zhu (with Siku abstract), and Sun Mingjun's Laozi editions survey (chinawriter.com.cn) | scholarly | /people/wang-bi/; /timeline/wangbi-laozi-commentary/ |
 | watson-1968 | Watson, Burton, trans. The Complete Works of Chuang Tzu. Columbia University Press, 1968 | scholarship | /texts/zhuangzi/; /concepts/zuowang/ |
 | wei-huacun-biography | Wei Huacun biographical tradition (251/252-334; Wei Shu's daughter; posthumous titles Wei Furen / Nanyue Furen); Shangqing revelation lineage | traditional_record | /people/wei-huacun/ |
@@ -155,7 +160,9 @@ All sources used on the site — 137 total. Registry file:
 | zeyang-editions | Zhuangzi ch. 25 (Zeyang) King Wei Ying passage: I-Kuan Tao classics full text (with.org), Wix temple teaching edition, and the Taiping yulan parallel noted by ctext | primary_text | /stories/snail-horn-war/ |
 | zhang-boduan-sources | Zhang Boduan (984-1082): Global Daoism database (dao.jic.io, citing the Wuzhen pian prefaces and Qing Xitai); Shaoyang Yuqing Gong biography (quoting the preface verbatim, the Lu Yanfu record, the death-verse); Zheng Weiyi study in Hongdao 58 (2014) on the two threes in the postface; Airiti thesis abstract on the Wuzhen pian; Zhejiang CPPCC cultural-history entry (1075 completion, Yongzheng enfeoffment); Baidu Baike | historical_record | /people/zhang-boduan/ |
 | zhang-daoling-sources | Zhang Daoling: Baidu Baike (biography, 142 revelation, twenty-four parishes, 156 ascent at 123); Sina Yunxiuxing essay (birth record, dragon-tiger elixir legend, the three treasures); Taiwan Ministry of the Interior religion database (founder of the Daoist church); Wikipedia Five Pecks of Rice Way (Hou Han shu and Sanguo zhi attestation) | historical_record | /people/zhang-daoling/ |
+| zhang-sanfeng-sources | Zhang Sanfeng: the Ming Shi Fangji zhuan (juan 299) official biography (name, sobriquet, appearance, Wudang prophecy and rebuilding, Jintai guan death-and-revival, the emperors searches, the Yingzong title); the Wudang Daoist Association biography (Zhenwu dream-transmission and bird-and-snake legends, quiet-mind nurturing-nature doctrine); Baidu Baike local traditions (1248 birth claim, 1314 Fire Dragon Zhenren initiation, attributed works); Wikipedia survey (disputed dates and birthplace, contested Taijiquan attribution) | historical_record | /people/zhang-sanfeng/ |
 | zhengao-maoshan-lineage | Shangqing tradition records: the Zhengao, Maoshan lineage chronicles, and the Maoshan Daoist center's lineage account | traditional_record | /people/yang-xi/; /timeline/shangqing-revelations/ |
+| zhibeiyou-chuigou-editions | Zhuangzi ch. 22 (Zhi Bei You), the hook-forger passage, verified against the Shidian guji Zhuangzi gu text, the Wang Xianqian Zhuangzi jijie (zdic.net, carrying Cheng Xuanying, Guo Xiang, Sima, Wang Niansun and Su Yu glosses; Wang Niansun: shou is the old reading of dao), the 8bei8 full-text edition, and the Baidu Baike entry | primary_text | /stories/chui-gou-zhe/ |
 | zhihu-daozuo-method | Zhihu column: 'Correct Daoist sitting method' (drowsiness vs. stillness) | community | /patterns/drowsiness-vs-stillness/; /questions/falling-asleep-during-meditation/ |
 | zhile-editions | Zhuangzi ch. 18 (Zhile), seabird passage: full text quoted verbatim in a teaching essay (mmh.org.tw) and the Guwendao teaching edition with translation; the Baidu Baike idiom entry (luhou yang niao) confirms location and standard reading | primary_text | /stories/luhou-yang-niao/ |
 | zhile-skeleton-editions | Zhuangzi ch. 18 (Zhile), skull passage: Zhihu annotated edition, Baidu Baike full text, Ziyexing full text, CText parallel snippet (dream dialogue verified verbatim across all four); an education-encyclopedia entry (pedia.cloud.edu.tw) on the chapter's two-skull structure | primary_text | /stories/zhuangzi-skeleton/ |

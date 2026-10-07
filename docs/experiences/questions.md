@@ -1,6 +1,6 @@
 # Questions
 
-The question collection — 18 records, with answer states.
+The question collection — 19 records, with answer states.
 
 | id | answer state | question | page |
 |---|---|---|---|
@@ -9,6 +9,7 @@ The question collection — 18 records, with answer states.
 | combine-zuowang-mindfulness | answered | Can I practice zuowang (or jingzuo) and mindfulness meditation together, or should I pick one? | /questions/combine-zuowang-mindfulness/ |
 | cunsi-or-zuowang | answered | Daoist meditation seems to have two opposite methods — filling the mind with inner images (cunsi) and emptying it entirely (zuowang). Which one should I practice? | /questions/cunsi-or-zuowang/ |
 | does-daoism-believe-in-a-creator | answered | Does the Daoist tradition believe in a creator — a god or driver who made or runs the world? | /questions/does-daoism-believe-in-a-creator/ |
+| does-practice-need-faith | answered | Do I need to believe in anything — Dao, qi, deities, a cosmology — for the sitting practice to work? | /questions/does-practice-need-faith/ |
 | falling-asleep-during-meditation | answered | Why do I keep falling asleep during meditation, and does it mean meditation doesn't suit me? | /questions/falling-asleep-during-meditation/ |
 | how-long-should-i-sit | answered | How long should a sitting session be? Is there a classical minimum or maximum? | /questions/how-long-should-i-sit/ |
 | how-long-until-results | answered | How long until I see results from sitting practice? Days? Months? Years? | /questions/how-long-until-results/ |

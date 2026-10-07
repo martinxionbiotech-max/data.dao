@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 843 total. Top-level key: `items` in
+Knowledge-graph edges — 910 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -9,15 +9,15 @@ Knowledge-graph edges — 843 total. Top-level key: `items` in
 |---|---|
 | associated_with | 34 |
 | authored | 2 |
-| concerns | 208 |
+| concerns | 213 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 110 |
+| described_in | 114 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 442 |
+| related_to | 500 |
 | translated_as | 23 |
 
 ## All edges
@@ -108,6 +108,15 @@ Knowledge-graph edges — 843 total. Top-level key: `items` in
 | chen-tuan | peng-bird | related_to |
 | chen-tuan | zhuang-zhou | related_to |
 | chen-tuan | zhuangzi | associated_with |
+| chui-gou-zhe | artisan-qing | related_to |
+| chui-gou-zhe | cicada-catcher | related_to |
+| chui-gou-zhe | cook-ding | related_to |
+| chui-gou-zhe | daodejing-11 | related_to |
+| chui-gou-zhe | shanbao-zhangyi | related_to |
+| chui-gou-zhe | wheelwright-bian | related_to |
+| chui-gou-zhe | wuwei | concerns |
+| chui-gou-zhe | xin | concerns |
+| chui-gou-zhe | zhuangzi | described_in |
 | cicada-catcher | jingzuo | concerns |
 | cicada-catcher | shouyi | concerns |
 | cicada-catcher | zhuangzi | described_in |
@@ -220,6 +229,15 @@ Knowledge-graph edges — 843 total. Top-level key: `items` in
 | daodejing-33 | jian-du | related_to |
 | daodejing-33 | what-is-stillness | related_to |
 | daodejing-33 | xu | concerns |
+| daodejing-36 | bao-guang | related_to |
+| daodejing-36 | dao-yi-you-dao | related_to |
+| daodejing-36 | daodejing | described_in |
+| daodejing-36 | daodejing-02 | related_to |
+| daodejing-36 | daodejing-11 | related_to |
+| daodejing-36 | daodejing-22 | related_to |
+| daodejing-36 | exp-021-prostrations-channel-circuit | related_to |
+| daodejing-36 | fish-in-the-dry-spring | related_to |
+| daodejing-36 | wuwei | concerns |
 | daodejing-37 | daodejing | translated_as |
 | daodejing-37 | daodejing-01 | related_to |
 | daodejing-37 | daodejing-10-shouyi | related_to |
@@ -259,6 +277,20 @@ Knowledge-graph edges — 843 total. Top-level key: `items` in
 | does-daoism-believe-in-a-creator | tian-ji | related_to |
 | does-daoism-believe-in-a-creator | zhen-zai | related_to |
 | does-daoism-believe-in-a-creator | ziran | concerns |
+| does-practice-need-faith | dao | related_to |
+| does-practice-need-faith | exp-016-nine-dhyanas-map | related_to |
+| does-practice-need-faith | is-sitting-religious | related_to |
+| does-practice-need-faith | jing-qi-shen | related_to |
+| does-practice-need-faith | jingzuo | related_to |
+| does-practice-need-faith | lu-xiujing | related_to |
+| does-practice-need-faith | mindfulness-meta-analysis-2014 | related_to |
+| does-practice-need-faith | qi-belief-necessary | related_to |
+| does-practice-need-faith | what-counts-as-progress | related_to |
+| does-practice-need-faith | xinzhai | related_to |
+| does-practice-need-faith | xinzhai-passage | related_to |
+| does-practice-need-faith | zhang-boduan | related_to |
+| does-practice-need-faith | zuowang | related_to |
+| does-practice-need-faith | zuowang-passage | related_to |
 | dongshi-frowning | handan-walk | related_to |
 | dongshi-frowning | zhuangzi | described_in |
 | dongshi-frowning | ziran | concerns |
@@ -340,6 +372,19 @@ Knowledge-graph edges — 843 total. Top-level key: `items` in
 | exp-024-standing-and-sitting | exp-023-breath-is-the-key | related_to |
 | exp-024-standing-and-sitting | must-i-sit-cross-legged | related_to |
 | exp-024-standing-and-sitting | tiaoxi | concerns |
+| exp-025-lying-down-innovation | breath-stopping-anxiety | related_to |
+| exp-025-lying-down-innovation | can-meditation-cure-illness | related_to |
+| exp-025-lying-down-innovation | does-practice-need-faith | related_to |
+| exp-025-lying-down-innovation | drowsiness-in-sitting | related_to |
+| exp-025-lying-down-innovation | drowsiness-vs-stillness | related_to |
+| exp-025-lying-down-innovation | exp-014-double-lotus-doctrine | related_to |
+| exp-025-lying-down-innovation | exp-016-nine-dhyanas-map | related_to |
+| exp-025-lying-down-innovation | exp-018-halflotus-to-full-lotus | related_to |
+| exp-025-lying-down-innovation | exp-022-its-all-theatre | related_to |
+| exp-025-lying-down-innovation | exp-023-breath-is-the-key | related_to |
+| exp-025-lying-down-innovation | farias-adverse-events-2020 | related_to |
+| exp-025-lying-down-innovation | jingzuo | related_to |
+| exp-025-lying-down-innovation | what-counts-as-progress | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -559,6 +604,15 @@ Knowledge-graph edges — 843 total. Top-level key: `items` in
 | qinshi-mourning | zhuangzi | described_in |
 | qiwulun-wu-sang-wo | zhuangzi | translated_as |
 | qiwulun-wu-sang-wo | zuowang | concerns |
+| ren-gongzi-fishing | cao-shang | related_to |
+| ren-gongzi-fishing | da-kuai | related_to |
+| ren-gongzi-fishing | jingdi-zhiwa | related_to |
+| ren-gongzi-fishing | peng-bird | related_to |
+| ren-gongzi-fishing | shanbao-zhangyi | related_to |
+| ren-gongzi-fishing | useless-gourd | related_to |
+| ren-gongzi-fishing | what-counts-as-progress | related_to |
+| ren-gongzi-fishing | zhuangzi | described_in |
+| ren-gongzi-fishing | ziran | concerns |
 | sanghu-friends | fish-in-the-dry-spring | related_to |
 | sanghu-friends | four-friends | related_to |
 | sanghu-friends | liang-wang | concerns |
@@ -724,6 +778,15 @@ Knowledge-graph edges — 843 total. Top-level key: `items` in
 | wooden-rooster | zhuangzi | described_in |
 | wooden-rooster-passage | wooden-rooster | concerns |
 | wooden-rooster-passage | zhuangzi | described_in |
+| wu-sang-wo | butterfly-dream | related_to |
+| wu-sang-wo | qiwulun-wu-sang-wo | related_to |
+| wu-sang-wo | tian-lai | related_to |
+| wu-sang-wo | xinzhai | related_to |
+| wu-sang-wo | xu | concerns |
+| wu-sang-wo | xushi-sheng-bai | related_to |
+| wu-sang-wo | zhuangzi | described_in |
+| wu-sang-wo | zuowang | related_to |
+| wu-sang-wo | zuowang-passage | related_to |
 | wuwei | daodejing | described_in |
 | wuwei | daodejing-48 | translated_as |
 | wuwei | zuowang | related_to |
@@ -814,6 +877,10 @@ Knowledge-graph edges — 843 total. Top-level key: `items` in
 | zhang-daoling | taiping-jing | related_to |
 | zhang-daoling | tao-hongjing | related_to |
 | zhang-daoling | wei-huacun | related_to |
+| zhang-sanfeng | chen-tuan | related_to |
+| zhang-sanfeng | daoshu-neiguan-zuowang | related_to |
+| zhang-sanfeng | jing-qi-shen | related_to |
+| zhang-sanfeng | zhang-boduan | related_to |
 | zhao-che | daodejing-48 | related_to |
 | zhao-che | jian-du | related_to |
 | zhao-che | seeing-light-in-sitting | related_to |

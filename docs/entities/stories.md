@@ -1,6 +1,6 @@
 # Stories
 
-story records from the stories content collection — 50 records.
+story records from the stories content collection — 52 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
@@ -12,6 +12,7 @@ story records from the stories content collection — 50 records.
 | butterfly-dream | Zhuang Zhou Dreams of a Butterfly | Daoist | zhuangzi |
 | cao-shang | Cao Shang's Chariots | Daoist | zhuangzi |
 | carpenter-shi | The Carpenter and the Plaster: What Practice Loses Without a Partner | Daoist | zhuangzi |
+| chui-gou-zhe | The Hook-Forger's One Thing | Daoist | zhuangzi |
 | cicada-catcher | The Hunchback and the Cicada | Daoist | zhuangzi |
 | confucius-meets-laozi | Confucius Meets Laozi: The Dragon | Daoist / Confucian encounter (traditional) | daodejing |
 | cook-ding | Cook Ding Carves an Ox | Daoist | zhuangzi |
@@ -37,6 +38,7 @@ story records from the stories content collection — 50 records.
 | peng-bird | The Peng Bird: The Book's Opening Image of Scale | Daoist | zhuangzi |
 | phoenix-and-owl | The Phoenix and the Owl: What the Rotten Rat Is Worth | Daoist | zhuangzi |
 | qinshi-mourning | Three Cries, and Out: Qin Shi Mourns Laozi | Daoist | zhuangzi |
+| ren-gongzi-fishing | Lord Ren's Giant Fish | Daoist | zhuangzi |
 | sanghu-friends | Singing at the Corpse: The Friends of Sang Hu | Daoist | zhuangzi |
 | shanbao-zhangyi | The Two Deaths: One-Sided Cultivation | Daoist | zhuangzi |
 | snail-horn-war | The Snail-Horn War | Daoist | zhuangzi |
