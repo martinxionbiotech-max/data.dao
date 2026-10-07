@@ -1,9 +1,10 @@
 # Questions
 
-The question collection — 12 records, with answer states.
+The question collection — 13 records, with answer states.
 
 | id | answer state | question | page |
 |---|---|---|---|
+| can-meditation-cure-illness | answered | Can meditation cure illness — the Daoist and Buddhist sitting practices in particular? | /questions/can-meditation-cure-illness/ |
 | can-sitting-go-wrong | investigating | Can quiet sitting go wrong? What is 'fire deviation and demon entrance' (走火入魔), and should I be afraid of it? | /questions/can-sitting-go-wrong/ |
 | combine-zuowang-mindfulness | answered | Can I practice zuowang (or jingzuo) and mindfulness meditation together, or should I pick one? | /questions/combine-zuowang-mindfulness/ |
 | cunsi-or-zuowang | answered | Daoist meditation seems to have two opposite methods — filling the mind with inner images (cunsi) and emptying it entirely (zuowang). Which one should I practice? | /questions/cunsi-or-zuowang/ |

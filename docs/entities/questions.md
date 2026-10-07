@@ -1,9 +1,10 @@
 # Questions
 
-question records from the questions content collection — 12 records.
+question records from the questions content collection — 13 records.
 
 | id | title | question | answerState |
 |---|---|---|
+| can-meditation-cure-illness | Can Meditation Cure Illness? | Can meditation cure illness — the Daoist and Buddhist sitting practices in particular? | answered |
 | can-sitting-go-wrong | Can Sitting Go Wrong? The 'Fire Deviation' Fear | Can quiet sitting go wrong? What is 'fire deviation and demon entrance' (走火入魔), and should I be afraid of it? | investigating |
 | combine-zuowang-mindfulness | Can I Combine Zuowang with Mindfulness Meditation? | Can I practice zuowang (or jingzuo) and mindfulness meditation together, or should I pick one? | answered |
 | cunsi-or-zuowang | Should I Visualize (Cunsi) or Empty (Zuowang)? | Daoist meditation seems to have two opposite methods — filling the mind with inner images (cunsi) and emptying it entirely (zuowang). Which one should I practice? | answered |

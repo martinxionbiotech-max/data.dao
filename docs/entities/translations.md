@@ -1,6 +1,6 @@
 # Translations
 
-translation records from the translations content collection — 21 records.
+translation records from the translations content collection — 22 records.
 
 | id | title | sourceText | chapter |
 |---|---|---|
@@ -14,6 +14,7 @@ translation records from the translations content collection — 21 records.
 | daodejing-22 | The Bend That Completes (Daodejing 22) | daodejing | Ch. 22 |
 | daodejing-25 | The Dao Follows What Is So of Itself (Daodejing 25) | daodejing | Ch. 25 |
 | daodejing-37 | Non-Acting and Nothing Left Undone (Daodejing 37) | daodejing | Ch. 37 |
+| daodejing-45 | The Great Accomplishment Looks Unfinished (Daodejing 45) | daodejing | Ch. 45 |
 | daodejing-48 | Learning Adds, the Way Pairs Away (Daodejing 48) | daodejing | Ch. 48 |
 | daodejing-63 | Planning the Hard in Its Easy Stage (Daodejing 63) | daodejing | Ch. 63 |
 | drumming-basin-passage | Drumming on the Basin: The Four Transformations (Word by Word) | zhuangzi | Ch. 18 (Zhile), the basin scene |

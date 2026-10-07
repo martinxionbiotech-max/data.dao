@@ -1,24 +1,24 @@
 # Relationship Registry
 
-Knowledge-graph edges — 541 total. Top-level key: `items` in
+Knowledge-graph edges — 584 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
 
 | relation | count |
 |---|---|
-| associated_with | 32 |
+| associated_with | 33 |
 | authored | 2 |
-| concerns | 171 |
+| concerns | 177 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 88 |
+| described_in | 91 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 204 |
-| translated_as | 20 |
+| related_to | 236 |
+| translated_as | 21 |
 
 ## All edges
 
@@ -53,6 +53,13 @@ Knowledge-graph edges — 541 total. Top-level key: `items` in
 | breath-stopping-anxiety | tiaoxi | concerns |
 | butterfly-dream | zhuang-zhou | associated_with |
 | butterfly-dream | zhuangzi | described_in |
+| can-meditation-cure-illness | baopuzi | related_to |
+| can-meditation-cure-illness | breath-stopping-anxiety | related_to |
+| can-meditation-cure-illness | exp-014-double-lotus-doctrine | related_to |
+| can-meditation-cure-illness | exp-019-one-remedy-body | related_to |
+| can-meditation-cure-illness | farias-adverse-events-2020 | related_to |
+| can-meditation-cure-illness | mindfulness-meta-analysis-2014 | related_to |
+| can-meditation-cure-illness | taiping-jing | related_to |
 | can-sitting-go-wrong | farias-adverse-events-2020 | derived_from |
 | can-sitting-go-wrong | jingzuo | concerns |
 | carpenter-shi | fish-happiness | related_to |
@@ -127,6 +134,14 @@ Knowledge-graph edges — 541 total. Top-level key: `items` in
 | daodejing-37 | jing | concerns |
 | daodejing-37 | wuwei | concerns |
 | daodejing-37 | ziran | concerns |
+| daodejing-45 | artisan-qing | related_to |
+| daodejing-45 | daodejing | translated_as |
+| daodejing-45 | daodejing-16 | related_to |
+| daodejing-45 | daodejing-22 | related_to |
+| daodejing-45 | daodejing-37 | related_to |
+| daodejing-45 | qingjing-jing | related_to |
+| daodejing-45 | xu | concerns |
+| daodejing-45 | ziran | concerns |
 | daodejing-48 | daodejing | translated_as |
 | daodejing-48 | three-craftsmen-dazheng | related_to |
 | daodejing-48 | wuwei | concerns |
@@ -197,6 +212,11 @@ Knowledge-graph edges — 541 total. Top-level key: `items` in
 | exp-019-one-remedy-body | exp-013-buddhist-daoist-boundary | related_to |
 | exp-019-one-remedy-body | exp-018-halflotus-to-full-lotus | related_to |
 | exp-019-one-remedy-body | tiaoxi | related_to |
+| exp-020-false-first-dhyana | exp-014-double-lotus-doctrine | related_to |
+| exp-020-false-first-dhyana | exp-016-nine-dhyanas-map | related_to |
+| exp-020-false-first-dhyana | farias-adverse-events-2020 | related_to |
+| exp-020-false-first-dhyana | seeing-light-in-sitting | related_to |
+| exp-020-false-first-dhyana | warmth-tingling-when-sitting | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -210,6 +230,11 @@ Knowledge-graph edges — 541 total. Top-level key: `items` in
 | four-friends | qinshi-mourning | related_to |
 | four-friends | zhuangzi | described_in |
 | four-friends | ziran | concerns |
+| fu-yi | daodejing | associated_with |
+| fu-yi | exp-013-buddhist-daoist-boundary | related_to |
+| fu-yi | heshang-gong | related_to |
+| fu-yi | wang-bi | related_to |
+| fu-yi | yan-zun | related_to |
 | ge-hong | baopuzi | authored |
 | guan | daodejing | described_in |
 | guan | neiguan | concerns |
@@ -231,6 +256,12 @@ Knowledge-graph edges — 541 total. Top-level key: `items` in
 | heshang-gong-commentary | daodejing-25 | related_to |
 | heshang-gong-commentary | heshang-gong | associated_with |
 | heshang-gong-commentary | laozi | associated_with |
+| hezhe-zhi-fu | fish-happiness | related_to |
+| hezhe-zhi-fu | fish-in-the-dry-spring | related_to |
+| hezhe-zhi-fu | luhou-yang-niao | related_to |
+| hezhe-zhi-fu | xuzhou-empty-boat | related_to |
+| hezhe-zhi-fu | zhuangzi | described_in |
+| hezhe-zhi-fu | ziran | concerns |
 | how-long-should-i-sit | drowsiness-in-sitting | concerns |
 | how-long-should-i-sit | jingzuo | concerns |
 | huangting-jing | dantian | concerns |
@@ -305,6 +336,12 @@ Knowledge-graph edges — 541 total. Top-level key: `items` in
 | mantis-and-chariot | hundun | related_to |
 | mantis-and-chariot | wuwei | concerns |
 | mantis-and-chariot | zhuangzi | described_in |
+| mantis-stalks-cicada | huzi-jixian | related_to |
+| mantis-stalks-cicada | kui-xian-chain | related_to |
+| mantis-stalks-cicada | xuzhou-empty-boat | related_to |
+| mantis-stalks-cicada | zhuangzi | described_in |
+| mantis-stalks-cicada | zuochi | related_to |
+| mantis-stalks-cicada | zuowang | concerns |
 | marsh-pheasant | phoenix-and-owl | related_to |
 | marsh-pheasant | turtle-in-the-mud | related_to |
 | marsh-pheasant | zhuangzi | described_in |
@@ -494,6 +531,12 @@ Knowledge-graph edges — 541 total. Top-level key: `items` in
 | xuan-pin | daodejing-01 | related_to |
 | xuan-pin | tuoyue | related_to |
 | xuan-pin | xu | related_to |
+| xushi-sheng-bai | seeing-light-in-sitting | related_to |
+| xushi-sheng-bai | xinzhai | concerns |
+| xushi-sheng-bai | xu | concerns |
+| xushi-sheng-bai | zhuangzi | described_in |
+| xushi-sheng-bai | zuochi | related_to |
+| xushi-sheng-bai | zuowang | related_to |
 | xuzhou-empty-boat | mountain-tree-goose | related_to |
 | xuzhou-empty-boat | swimmer-lvliang | related_to |
 | xuzhou-empty-boat | xu | concerns |

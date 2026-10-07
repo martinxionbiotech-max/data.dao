@@ -1,6 +1,6 @@
 # Glossary
 
-term records from the glossary content collection — 33 records.
+term records from the glossary content collection — 34 records.
 
 | id | title | chinese | pinyin | literalMeaning | recommended |
 |---|---|---|---|---|
@@ -31,6 +31,7 @@ term records from the glossary content collection — 33 records.
 | xinzhai | Xinzhai | 心斋 | xīnzhāi | mind/heart-fasting | fasting of the mind (with the note that xin covers both heart and mind) |
 | xuan-pin | Xuanpin (玄牝) | 玄牝 | xuánpìn |  |  |
 | xuan | Xuan | 玄 | xuán | dark; deep; distant beyond sight; the color of depth | dark/depth (with 'beyond naming' glossed); avoid 'mysterious' where it suggests the occult |
+| xushi-sheng-bai | Xushi sheng bai (虚室生白) | 虚室生白 | xūshì shēng bái |  |  |
 | yingning | Yingning (撄宁) | 撄宁 | yīngníng |  |  |
 | zhaoche | Zhaoche (朝彻) | 朝彻 | zhāochè |  |  |
 | zhen-zai | Zhenzai (真宰) | 真宰 | zhēnzǎi |  |  |

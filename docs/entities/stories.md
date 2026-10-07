@@ -1,6 +1,6 @@
 # Stories
 
-story records from the stories content collection — 39 records.
+story records from the stories content collection — 41 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
@@ -18,12 +18,14 @@ story records from the stories content collection — 39 records.
 | four-friends | The Four Friends: Sickness as Transformation | Daoist | zhuangzi |
 | guangchengzi | The Yellow Emperor Asks Guangchengzi | Daoist | zhuangzi |
 | handan-walk | The Handan Walk: What the Imitator Loses on the Way | Daoist | zhuangzi |
+| hezhe-zhi-fu | The Fish in the Dried-Up Rut | Daoist | zhuangzi |
 | hundun | Hundun: The Story of the Seven Holes | Daoist | zhuangzi |
 | huzi-jixian | Huzi and the Shaman: Four Depths of Stillness | Daoist | zhuangzi |
 | jingdi-zhiwa | The Well Frog and the Sea Turtle: The Three Limits of Knowing | Daoist | zhuangzi |
 | kui-xian-chain | The Pity Chain: Kui, the Centipede, the Snake, the Wind | Daoist | zhuangzi |
 | luhou-yang-niao | The Marquis of Lu's Seabird | Daoist | zhuangzi |
 | mantis-and-chariot | The Mantis, the Tiger-Keeper, and the Horse-Lover: Talent Against Force | Daoist | zhuangzi |
+| mantis-stalks-cicada | The Mantis Stalks the Cicada | Daoist | zhuangzi |
 | marsh-pheasant | The Marsh Pheasant: Ten Steps, One Peck | Daoist | zhuangzi |
 | mountain-tree-goose | The Mountain Tree and the Goose | Daoist | zhuangzi |
 | painter-unrobed | The Unrobed Painter: What the True Artist Does with Protocol | Daoist | zhuangzi |
