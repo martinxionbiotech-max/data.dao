@@ -1,24 +1,24 @@
 # Relationship Registry
 
-Knowledge-graph edges — 397 total. Top-level key: `items` in
+Knowledge-graph edges — 433 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
 
 | relation | count |
 |---|---|
-| associated_with | 23 |
+| associated_with | 29 |
 | authored | 2 |
-| concerns | 146 |
+| concerns | 151 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 73 |
+| described_in | 76 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 113 |
-| translated_as | 16 |
+| related_to | 134 |
+| translated_as | 17 |
 
 ## All edges
 
@@ -89,6 +89,11 @@ Knowledge-graph edges — 397 total. Top-level key: `items` in
 | daodejing-16 | daodejing | translated_as |
 | daodejing-16 | xu | concerns |
 | daodejing-16 | ziran | concerns |
+| daodejing-22 | daodejing | translated_as |
+| daodejing-22 | daodejing-10-shouyi | related_to |
+| daodejing-22 | daodejing-37 | related_to |
+| daodejing-22 | wuwei | concerns |
+| daodejing-22 | xu | concerns |
 | daodejing-25 | daodejing | translated_as |
 | daodejing-25 | daodejing-16 | related_to |
 | daodejing-25 | ziran | concerns |
@@ -142,6 +147,11 @@ Knowledge-graph edges — 397 total. Top-level key: `items` in
 | exp-015-heat-sweat-qi | exp-012-restless-body | related_to |
 | exp-015-heat-sweat-qi | exp-014-double-lotus-doctrine | related_to |
 | exp-015-heat-sweat-qi | warmth-and-qi-sensations | related_to |
+| exp-016-nine-dhyanas-map | exp-009-dissolving-void | related_to |
+| exp-016-nine-dhyanas-map | exp-014-double-lotus-doctrine | related_to |
+| exp-016-nine-dhyanas-map | how-long-should-i-sit | related_to |
+| exp-016-nine-dhyanas-map | lindahl-2017 | related_to |
+| exp-016-nine-dhyanas-map | schlosser-2019 | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -234,6 +244,10 @@ Knowledge-graph edges — 397 total. Top-level key: `items` in
 | mantis-and-chariot | hundun | related_to |
 | mantis-and-chariot | wuwei | concerns |
 | mantis-and-chariot | zhuangzi | described_in |
+| marsh-pheasant | phoenix-and-owl | related_to |
+| marsh-pheasant | turtle-in-the-mud | related_to |
+| marsh-pheasant | zhuangzi | described_in |
+| marsh-pheasant | ziran | concerns |
 | must-i-sit-cross-legged | exp-010-lotus-pain | related_to |
 | must-i-sit-cross-legged | jingzuo | concerns |
 | must-i-sit-cross-legged | leg-numbness-pain | related_to |
@@ -263,6 +277,12 @@ Knowledge-graph edges — 397 total. Top-level key: `items` in
 | qinshi-mourning | zhuangzi | described_in |
 | qiwulun-wu-sang-wo | zhuangzi | translated_as |
 | qiwulun-wu-sang-wo | zuowang | concerns |
+| sanghu-friends | fish-in-the-dry-spring | related_to |
+| sanghu-friends | four-friends | related_to |
+| sanghu-friends | liang-wang | concerns |
+| sanghu-friends | qinshi-mourning | related_to |
+| sanghu-friends | zhuangzi | described_in |
+| sanghu-friends | zuowang-passage | related_to |
 | schlosser-2019 | farias-adverse-events-2020 | related_to |
 | schlosser-2019 | lindahl-2017 | related_to |
 | seeing-light-in-sitting | jingzuo | concerns |
@@ -334,6 +354,18 @@ Knowledge-graph edges — 397 total. Top-level key: `items` in
 | virtual-room-passage | seeing-light-in-sitting | concerns |
 | virtual-room-passage | xinzhai | concerns |
 | virtual-room-passage | zhuangzi | described_in |
+| wang-bi | daodejing | associated_with |
+| wang-bi | daodejing-01 | related_to |
+| wang-bi | daodejing-37 | related_to |
+| wang-bi | heshang-gong | associated_with |
+| wang-bi | heshang-gong-commentary | related_to |
+| wang-bi | laozi | associated_with |
+| wangbi-laozi-commentary | daodejing | associated_with |
+| wangbi-laozi-commentary | daodejing-01 | related_to |
+| wangbi-laozi-commentary | daodejing-37 | related_to |
+| wangbi-laozi-commentary | heshang-gong | associated_with |
+| wangbi-laozi-commentary | heshang-gong-commentary | related_to |
+| wangbi-laozi-commentary | wang-bi | associated_with |
 | wangyang-xingtan | guan | concerns |
 | wangyang-xingtan | jingdi-zhiwa | related_to |
 | wangyang-xingtan | peng-bird | related_to |
@@ -361,6 +393,10 @@ Knowledge-graph edges — 397 total. Top-level key: `items` in
 | xi | taixi | concerns |
 | xi | tiaoxi | concerns |
 | xi | xiao-zhiguan | described_in |
+| xian-jie | four-friends | related_to |
+| xian-jie | qinshi-mourning | related_to |
+| xian-jie | zhuangzi | described_in |
+| xian-jie | zuowang | concerns |
 | xiao-zhiguan | jingzuo | concerns |
 | xiao-zhiguan | tiaoxi | concerns |
 | xiao-zhiguan-five-adjustments | tiaoxi | concerns |

@@ -1,6 +1,6 @@
 # Stories
 
-story records from the stories content collection — 30 records.
+story records from the stories content collection — 32 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
@@ -22,10 +22,12 @@ story records from the stories content collection — 30 records.
 | huzi-jixian | Huzi and the Shaman: Four Depths of Stillness | Daoist | zhuangzi |
 | jingdi-zhiwa | The Well Frog and the Sea Turtle: The Three Limits of Knowing | Daoist | zhuangzi |
 | mantis-and-chariot | The Mantis, the Tiger-Keeper, and the Horse-Lover: Talent Against Force | Daoist | zhuangzi |
+| marsh-pheasant | The Marsh Pheasant: Ten Steps, One Peck | Daoist | zhuangzi |
 | painter-unrobed | The Unrobed Painter: What the True Artist Does with Protocol | Daoist | zhuangzi |
 | peng-bird | The Peng Bird: The Book's Opening Image of Scale | Daoist | zhuangzi |
 | phoenix-and-owl | The Phoenix and the Owl: What the Rotten Rat Is Worth | Daoist | zhuangzi |
 | qinshi-mourning | Three Cries, and Out: Qin Shi Mourns Laozi | Daoist | zhuangzi |
+| sanghu-friends | Singing at the Corpse: The Friends of Sang Hu | Daoist | zhuangzi |
 | standing-in-snow | Standing in the Snow at Cheng Yi's Gate | Neo-Confucian |  |
 | swimmer-lvliang | The Swimmer of Lüliang: Native, Grown, Complete | Daoist | zhuangzi |
 | three-in-the-morning | Three in the Morning: The Monkeys Who Confused the Order for the Amount | Daoist | zhuangzi |
