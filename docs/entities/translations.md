@@ -25,7 +25,7 @@ translation records from the translations content collection — 36 records.
 | daodejing-36 | What Is to Be Gathered Must First Be Spread (Daodejing 36) | daodejing | Ch. 36 |
 | daodejing-37 | Non-Acting and Nothing Left Undone (Daodejing 37) | daodejing | Ch. 37 |
 | daodejing-40 | Returning Is the Motion of the Way (Daodejing 40) | daodejing | Ch. 40 |
-| daodejing-45 | The Great Accomplishment Looks Unfinished (Daodejing 45) | daodejing | Ch. 45 |
+| daodejing-45 | The Great Completion Seems Broken (Daodejing 45) | daodejing | Ch. 45 |
 | daodejing-46 | When the World Has the Way (Daodejing 46) | daodejing | Ch. 46 |
 | daodejing-48 | Learning Adds, the Way Pairs Away (Daodejing 48) | daodejing | Ch. 48 |
 | daodejing-55 | Holding Virtue Thick as a Newborn (Daodejing 55) | daodejing | Ch. 55 |

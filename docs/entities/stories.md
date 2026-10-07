@@ -1,6 +1,6 @@
 # Stories
 
-story records from the stories content collection — 62 records.
+story records from the stories content collection — 64 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
@@ -19,6 +19,7 @@ story records from the stories content collection — 62 records.
 | cook-ding | Cook Ding Carves an Ox | Daoist | zhuangzi |
 | dao-yi-you-dao | The Robber's Five Virtues | Daoist | zhuangzi |
 | daye-zhu-jin | The Metal That Demanded Its Shape | Daoist | zhuangzi |
+| diao-ling-yi-que | The Magpie at Diaoling | Daoist | zhuangzi |
 | dongshi-frowning | The Woman Who Copied the Frown: Imitation Without Its Ground | Daoist | zhuangzi |
 | drumming-basin | Drumming on the Basin: Zhuangzi Sings When His Wife Dies | Daoist | zhuangzi |
 | fish-happiness | The Joy of the Fish: Zhuangzi and Hui Shi on the Bridge | Daoist | zhuangzi |
@@ -61,6 +62,7 @@ story records from the stories content collection — 62 records.
 | wheelwright-bian | Wheelwright Bian: What Cannot Be Put into Words | Daoist | zhuangzi |
 | wooden-rooster | The Wooden Rooster | Daoist | zhuangzi |
 | xuzhou-empty-boat | The Empty Boat | Daoist | zhuangzi |
+| yanshi-wind-song | The Song of the Yanshi Wind | Daoist | zhuangzi |
 | yi-dai-niao | The Dithering Bird | Daoist | zhuangzi |
 | yun-jin-cheng-feng | The Axe Sweeping the Wind | Daoist | zhuangzi |
 | zhi-yan | Goblet Words | Daoist | zhuangzi |

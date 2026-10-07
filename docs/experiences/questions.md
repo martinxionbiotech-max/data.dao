@@ -1,6 +1,6 @@
 # Questions
 
-The question collection — 24 records, with answer states.
+The question collection — 25 records, with answer states.
 
 | id | answer state | question | page |
 |---|---|---|---|
@@ -25,6 +25,7 @@ The question collection — 24 records, with answer states.
 | warmth-tingling-when-sitting | answered | When I sit, I sometimes feel warmth spreading, or tingling and small movements. Is this normal, and should I do anything about it? | /questions/warmth-tingling-when-sitting/ |
 | what-counts-as-progress | answered | How do I know if my practice is progressing? Am I advancing toward something, or just sitting? | /questions/what-counts-as-progress/ |
 | what-is-stillness | answered | What is 'stillness' (静 jing) in the Daoist sense — just being quiet, or something more? | /questions/what-is-stillness/ |
+| why-am-i-so-sleepy | answered | Every time I sit down to meditate I get drowsy — sometimes I actually fall asleep. Am I doing it wrong? Is this a sign that meditation isn't for me, or that I'm too tense? | /questions/why-am-i-so-sleepy/ |
 | why-do-i-keep-quitting | answered | I keep starting a sitting practice and stopping after a few days or weeks. I feel like I lack discipline. Why do I keep quitting, and how do I actually stick with it? | /questions/why-do-i-keep-quitting/ |
 | zuowang-safety-without-teacher | open | Can I practice Daoist sitting (zuowang / jingzuo) without a teacher? | /questions/zuowang-safety-without-teacher/ |
 | zuowang-vs-jingzuo | answered | What is the difference between zuowang and jingzuo? | /questions/zuowang-vs-jingzuo/ |

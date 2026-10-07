@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 1189 total. Top-level key: `items` in
+Knowledge-graph edges — 1245 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -12,12 +12,12 @@ Knowledge-graph edges — 1189 total. Top-level key: `items` in
 | concerns | 217 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 136 |
+| described_in | 140 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 753 |
+| related_to | 805 |
 | translated_as | 23 |
 
 ## All edges
@@ -321,11 +321,18 @@ Knowledge-graph edges — 1189 total. Top-level key: `items` in
 | daodejing-40 | daodejing-36 | related_to |
 | daodejing-40 | wuwei | concerns |
 | daodejing-45 | artisan-qing | related_to |
+| daodejing-45 | bei-gong-she | related_to |
 | daodejing-45 | daodejing | translated_as |
+| daodejing-45 | daodejing | described_in |
+| daodejing-45 | daodejing-11 | related_to |
 | daodejing-45 | daodejing-16 | related_to |
 | daodejing-45 | daodejing-22 | related_to |
 | daodejing-45 | daodejing-37 | related_to |
+| daodejing-45 | daodejing-40 | related_to |
+| daodejing-45 | daodejing-55 | related_to |
+| daodejing-45 | hui-shi-wu-che | related_to |
 | daodejing-45 | qingjing-jing | related_to |
+| daodejing-45 | wuwei | related_to |
 | daodejing-45 | xu | concerns |
 | daodejing-45 | ziran | concerns |
 | daodejing-46 | daodejing | described_in |
@@ -365,6 +372,15 @@ Knowledge-graph edges — 1189 total. Top-level key: `items` in
 | daye-zhu-jin | zhili-shu | related_to |
 | daye-zhu-jin | zhuangzi | described_in |
 | daye-zhu-jin | ziran | concerns |
+| diao-ling-yi-que | luhou-yang-niao | related_to |
+| diao-ling-yi-que | mantis-stalks-cicada | related_to |
+| diao-ling-yi-que | mountain-tree-goose | related_to |
+| diao-ling-yi-que | qiwu | related_to |
+| diao-ling-yi-que | shinan-yiliao | related_to |
+| diao-ling-yi-que | wuwei | related_to |
+| diao-ling-yi-que | yi-dai-niao | related_to |
+| diao-ling-yi-que | zhuangzi | described_in |
+| diao-ling-yi-que | ziran | related_to |
 | do-i-need-a-teacher | does-practice-need-faith | related_to |
 | do-i-need-a-teacher | exp-017-why-he-began | related_to |
 | do-i-need-a-teacher | exp-025-lying-down-innovation | related_to |
@@ -521,6 +537,18 @@ Knowledge-graph edges — 1189 total. Top-level key: `items` in
 | exp-028-abdominal-breathing | taixi | related_to |
 | exp-028-abdominal-breathing | tiaoxi | related_to |
 | exp-028-abdominal-breathing | what-counts-as-progress | related_to |
+| exp-029-the-human-body | can-meditation-cure-illness | related_to |
+| exp-029-the-human-body | dantian | related_to |
+| exp-029-the-human-body | exp-008-breath-stopping | related_to |
+| exp-029-the-human-body | exp-015-heat-sweat-qi | related_to |
+| exp-029-the-human-body | exp-016-nine-dhyanas-map | related_to |
+| exp-029-the-human-body | exp-023-breath-is-the-key | related_to |
+| exp-029-the-human-body | exp-028-abdominal-breathing | related_to |
+| exp-029-the-human-body | jingzuo | related_to |
+| exp-029-the-human-body | qi | related_to |
+| exp-029-the-human-body | tiaoxi | related_to |
+| exp-029-the-human-body | what-counts-as-progress | related_to |
+| exp-029-the-human-body | why-am-i-so-sleepy | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -763,6 +791,14 @@ Knowledge-graph edges — 1189 total. Top-level key: `items` in
 | marsh-pheasant | turtle-in-the-mud | related_to |
 | marsh-pheasant | zhuangzi | described_in |
 | marsh-pheasant | ziran | concerns |
+| mo-ruo-yi-ming | dao-shu | related_to |
+| mo-ruo-yi-ming | huan-zhong | related_to |
+| mo-ruo-yi-ming | liang-xing | related_to |
+| mo-ruo-yi-ming | qiwu | related_to |
+| mo-ruo-yi-ming | three-in-the-morning | related_to |
+| mo-ruo-yi-ming | tian-jun | related_to |
+| mo-ruo-yi-ming | zhi-yan | related_to |
+| mo-ruo-yi-ming | zhuangzi | described_in |
 | mountain-tree-goose | turtle-in-the-mud | related_to |
 | mountain-tree-goose | useless-gourd | related_to |
 | mountain-tree-goose | wuwei | concerns |
@@ -972,6 +1008,11 @@ Knowledge-graph edges — 1189 total. Top-level key: `items` in
 | wang-chongyang | lu-xiujing | related_to |
 | wang-chongyang | zhang-boduan | related_to |
 | wang-chongyang | zhang-daoling | related_to |
+| wang-chuyi | jingzuo | related_to |
+| wang-chuyi | qiu-chuji | related_to |
+| wang-chuyi | shouyi | related_to |
+| wang-chuyi | standing-in-snow | related_to |
+| wang-chuyi | wang-chongyang | related_to |
 | wang-liang-wen-jing | butterfly-dream | related_to |
 | wang-liang-wen-jing | huzi-jixian | related_to |
 | wang-liang-wen-jing | qiwulun-wu-sang-wo | related_to |
@@ -1015,6 +1056,13 @@ Knowledge-graph edges — 1189 total. Top-level key: `items` in
 | what-is-stillness | jingzuo | concerns |
 | wheelwright-bian | zhuangzi | described_in |
 | wheelwright-bian | ziran | concerns |
+| why-am-i-so-sleepy | can-i-sit-in-bed | related_to |
+| why-am-i-so-sleepy | drowsiness-in-sitting | related_to |
+| why-am-i-so-sleepy | drowsiness-vs-stillness | related_to |
+| why-am-i-so-sleepy | exp-001-falling-asleep | related_to |
+| why-am-i-so-sleepy | exp-028-abdominal-breathing | related_to |
+| why-am-i-so-sleepy | how-long-should-i-sit | related_to |
+| why-am-i-so-sleepy | what-is-stillness | related_to |
 | why-do-i-keep-quitting | daodejing-64 | related_to |
 | why-do-i-keep-quitting | drowsiness-vs-stillness | related_to |
 | why-do-i-keep-quitting | exp-012-restless-body | related_to |
@@ -1107,6 +1155,14 @@ Knowledge-graph edges — 1189 total. Top-level key: `items` in
 | yang-xi | huangting-jing | associated_with |
 | yang-xi | shangqing-revelations | associated_with |
 | yang-xi | wei-huacun | associated_with |
+| yanshi-wind-song | diao-ling-yi-que | related_to |
+| yanshi-wind-song | liang-wang | related_to |
+| yanshi-wind-song | lin-hui-qi-bi | related_to |
+| yanshi-wind-song | mountain-tree-goose | related_to |
+| yanshi-wind-song | wuwei | related_to |
+| yanshi-wind-song | yi-dai-niao | related_to |
+| yanshi-wind-song | zhuangzi | described_in |
+| yanshi-wind-song | ziran | related_to |
 | yi-dai-niao | daodejing-22 | related_to |
 | yi-dai-niao | marsh-pheasant | related_to |
 | yi-dai-niao | mountain-tree-goose | related_to |

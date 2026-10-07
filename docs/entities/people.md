@@ -1,6 +1,6 @@
 # People
 
-person records from the people content collection — 25 records.
+person records from the people content collection — 26 records.
 
 | id | title | chinese | dates | tradition | historicity | page |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@ person records from the people content collection — 25 records.
 | tao-hongjing | Tao Hongjing (陶弘景) | 陶弘景 |  |  | historical | /people/tao-hongjing/ |
 | wang-bi | Wang Bi (王弼) | 王弼 |  |  | historical | /people/wang-bi/ |
 | wang-chongyang | Wang Chongyang (王重阳) | 王重阳 |  |  | historical | /people/wang-chongyang/ |
+| wang-chuyi | Wang Chuyi (王处一) | 王处一 |  |  | historical | /people/wang-chuyi/ |
 | wei-huacun | Wei Huacun (魏华存) | 魏华存 |  |  | historical | /people/wei-huacun/ |
 | yan-zun | Yan Zun (严遵) | 严遵 |  |  | historical | /people/yan-zun/ |
 | yang-xi | Yang Xi (杨羲) | 杨羲 |  |  | historical | /people/yang-xi/ |
