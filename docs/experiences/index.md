@@ -7,7 +7,7 @@ search index, 163.com teacher Q&A, Xinli001 Q&A, Baidu Health, Zhihu columns).
 All records paraphrased and anonymized; no usernames, no direct quotes without
 permission.
 
-## Current records — 14
+## Current records — 15
 
 | id | theme | confidence | page |
 |---|---|---|
@@ -25,6 +25,7 @@ permission.
 | EXP-012 | EXP-012: The Restless Body — Involuntary Movements, Phlegm, and the Lute-String Counsel | medium | /experiences/exp-012-restless-body/ |
 | EXP-013 | EXP-013: The Boundary Question — A Buddhist Teacher Draws the Line Against Daoist Visualization | medium | /experiences/exp-013-buddhist-daoist-boundary/ |
 | EXP-014 | EXP-014: The Double-Lotus Doctrine — One Teacher's Complete Physiology of Sitting | medium | /experiences/exp-014-double-lotus-doctrine/ |
+| EXP-015 | EXP-015: Heat, Sweat, and the Two Kinds of Inner Motion — One Teacher's Map of Sitting's Bodily Responses | medium | /experiences/exp-015-heat-sweat-qi/ |
 
 ## Privacy rules
 

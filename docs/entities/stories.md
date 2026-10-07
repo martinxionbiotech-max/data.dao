@@ -1,6 +1,6 @@
 # Stories
 
-story records from the stories content collection — 28 records.
+story records from the stories content collection — 30 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
@@ -15,6 +15,7 @@ story records from the stories content collection — 28 records.
 | drumming-basin | Drumming on the Basin: Zhuangzi Sings When His Wife Dies | Daoist | zhuangzi |
 | fish-happiness | The Joy of the Fish: Zhuangzi and Hui Shi on the Bridge | Daoist | zhuangzi |
 | fish-in-the-dry-spring | The Fish in the Dried-Up Spring: Forgetting Each Other in the Rivers and Lakes | Daoist | zhuangzi |
+| four-friends | The Four Friends: Sickness as Transformation | Daoist | zhuangzi |
 | guangchengzi | The Yellow Emperor Asks Guangchengzi | Daoist | zhuangzi |
 | handan-walk | The Handan Walk: What the Imitator Loses on the Way | Daoist | zhuangzi |
 | hundun | Hundun: The Story of the Seven Holes | Daoist | zhuangzi |
@@ -24,6 +25,7 @@ story records from the stories content collection — 28 records.
 | painter-unrobed | The Unrobed Painter: What the True Artist Does with Protocol | Daoist | zhuangzi |
 | peng-bird | The Peng Bird: The Book's Opening Image of Scale | Daoist | zhuangzi |
 | phoenix-and-owl | The Phoenix and the Owl: What the Rotten Rat Is Worth | Daoist | zhuangzi |
+| qinshi-mourning | Three Cries, and Out: Qin Shi Mourns Laozi | Daoist | zhuangzi |
 | standing-in-snow | Standing in the Snow at Cheng Yi's Gate | Neo-Confucian |  |
 | swimmer-lvliang | The Swimmer of Lüliang: Native, Grown, Complete | Daoist | zhuangzi |
 | three-in-the-morning | Three in the Morning: The Monkeys Who Confused the Order for the Amount | Daoist | zhuangzi |

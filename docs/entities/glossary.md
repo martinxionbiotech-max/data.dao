@@ -1,6 +1,6 @@
 # Glossary
 
-term records from the glossary content collection — 25 records.
+term records from the glossary content collection — 27 records.
 
 | id | title | chinese | pinyin | literalMeaning | recommended |
 |---|---|---|---|---|
@@ -10,6 +10,7 @@ term records from the glossary content collection — 25 records.
 | de | De | 德 | dé | virtue, power, inner potency | keep romanized as De/dé where technical; 'virtue/power' gloss on first use |
 | guan | Guan | 观 | guān | to observe; to watch; to look deeply into | observation (inner observation where the target is the interior); 'contemplation' only with Buddhist contexts flagged |
 | jiafuzuo | Jiafuzuo | 结跏趺坐 | jiéjiāfūzuò | bound sitting with folded soles: 结 tie/bind, 跏 cross, 趺 instep/sole, 坐 sit — the ankles and insteps crossed and settled on the thighs | 'full-lotus posture' when the double-crossed form is meant; 'cross-legged sitting' for the general family (and never just 'lotus,' which is a flower loan) |
+| jian-du | Jiandu (见独) | 见独 | jiàndú |  |  |
 | jing-qi-shen | Jing-Qi-Shen | 精气神 | jīng-qì-shén | essence–vitality–spirit | the three treasures (jing, qi, shen), glossed once; never 'body-fluids-energy-mind' literally |
 | jingzuo | Jingzuo | 静坐 | jìngzuò | still/quiet sitting | quiet sitting; hyphenate 'quiet-sitting' in scholarly contexts |
 | liang-wang | Liangwang (两忘) | 两忘 | liǎngwàng |  |  |
@@ -17,6 +18,7 @@ term records from the glossary content collection — 25 records.
 | qi | Qi | 气 | qì | vapor, breath, vital substrate | keep romanized as qi with a gloss; use 'breath' only in breathing contexts, 'energy' only with qualification |
 | shen | Shen | 神 | shén | spirit; numen; the luminous-animating aspect of the mind | spirit (with 'luminous-animating mind' glossed where the context is meditative) |
 | shouyi | Shouyi | 守一 | shǒuyī | guarding-keeping the One | guarding the One (standard in Robinet and Kohn) |
+| tian-jun | Tianjun (天钧) | 天钧 | tiānjūn |  |  |
 | tiaoxi | Tiaoxi (调息) | 调息 | tiáoxī | regulating the breath | 'regulating the breath' — keep the tiao-shen/tiao-xi/tiao-xin trio visible in translation |
 | tuoyue | Tuoyue | 橐籥 | tuóyuè | bellows: 橐 the leather bag, 籥 the blowpipe tubes — the smith's double-valved air machine | bellows (with 'the smith's air machine' glossed where the emptiness-productivity point matters) |
 | wuwei | Wuwei | 无为 | wúwéi | no-doing | non-action, with the note that it is the negation of forced/contrived action, not of activity |

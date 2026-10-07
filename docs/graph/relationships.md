@@ -1,24 +1,24 @@
 # Relationship Registry
 
-Knowledge-graph edges — 361 total. Top-level key: `items` in
+Knowledge-graph edges — 397 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
 
 | relation | count |
 |---|---|
-| associated_with | 20 |
+| associated_with | 23 |
 | authored | 2 |
-| concerns | 140 |
+| concerns | 146 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 69 |
+| described_in | 73 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 91 |
-| translated_as | 15 |
+| related_to | 113 |
+| translated_as | 16 |
 
 ## All edges
 
@@ -92,6 +92,13 @@ Knowledge-graph edges — 361 total. Top-level key: `items` in
 | daodejing-25 | daodejing | translated_as |
 | daodejing-25 | daodejing-16 | related_to |
 | daodejing-25 | ziran | concerns |
+| daodejing-37 | daodejing | translated_as |
+| daodejing-37 | daodejing-01 | related_to |
+| daodejing-37 | daodejing-10-shouyi | related_to |
+| daodejing-37 | daodejing-48 | related_to |
+| daodejing-37 | jing | concerns |
+| daodejing-37 | wuwei | concerns |
+| daodejing-37 | ziran | concerns |
 | daodejing-48 | daodejing | translated_as |
 | daodejing-48 | three-craftsmen-dazheng | related_to |
 | daodejing-48 | wuwei | concerns |
@@ -130,6 +137,11 @@ Knowledge-graph edges — 361 total. Top-level key: `items` in
 | exp-014-double-lotus-doctrine | exp-010-lotus-pain | related_to |
 | exp-014-double-lotus-doctrine | exp-012-restless-body | related_to |
 | exp-014-double-lotus-doctrine | must-i-sit-cross-legged | related_to |
+| exp-015-heat-sweat-qi | exp-002-warmth-rotation | related_to |
+| exp-015-heat-sweat-qi | exp-007-digestive-release | related_to |
+| exp-015-heat-sweat-qi | exp-012-restless-body | related_to |
+| exp-015-heat-sweat-qi | exp-014-double-lotus-doctrine | related_to |
+| exp-015-heat-sweat-qi | warmth-and-qi-sensations | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -139,6 +151,10 @@ Knowledge-graph edges — 361 total. Top-level key: `items` in
 | fish-in-the-dry-spring | drumming-basin | related_to |
 | fish-in-the-dry-spring | zhuangzi | described_in |
 | fish-in-the-dry-spring | ziran | concerns |
+| four-friends | drumming-basin | related_to |
+| four-friends | qinshi-mourning | related_to |
+| four-friends | zhuangzi | described_in |
+| four-friends | ziran | concerns |
 | ge-hong | baopuzi | authored |
 | guan | daodejing | described_in |
 | guan | neiguan | concerns |
@@ -154,6 +170,12 @@ Knowledge-graph edges — 361 total. Top-level key: `items` in
 | heshang-gong | daodejing-25 | related_to |
 | heshang-gong | ge-hong | associated_with |
 | heshang-gong | laozi | associated_with |
+| heshang-gong-commentary | daodejing | associated_with |
+| heshang-gong-commentary | daodejing-01 | related_to |
+| heshang-gong-commentary | daodejing-05 | related_to |
+| heshang-gong-commentary | daodejing-25 | related_to |
+| heshang-gong-commentary | heshang-gong | associated_with |
+| heshang-gong-commentary | laozi | associated_with |
 | how-long-should-i-sit | drowsiness-in-sitting | concerns |
 | how-long-should-i-sit | jingzuo | concerns |
 | huangting-jing | dantian | concerns |
@@ -167,6 +189,11 @@ Knowledge-graph edges — 361 total. Top-level key: `items` in
 | huzi-jixian | zuowang | concerns |
 | jiafuzuo | jingzuo | concerns |
 | jiafuzuo | sitting-protocol | related_to |
+| jian-du | dao | concerns |
+| jian-du | daodejing-25 | related_to |
+| jian-du | yingning-passage | related_to |
+| jian-du | zhaoche | related_to |
+| jian-du | zhuangzi | described_in |
 | jing | daodejing | described_in |
 | jing | jingzuo | concerns |
 | jing | qingjing-jing | described_in |
@@ -229,6 +256,11 @@ Knowledge-graph edges — 361 total. Top-level key: `items` in
 | qi | qi-belief-necessary | concerns |
 | qi | zhuangzi | described_in |
 | qingjing-jing | qingjing-jing-opening | translated_as |
+| qinshi-mourning | confucius-meets-laozi | related_to |
+| qinshi-mourning | drumming-basin | related_to |
+| qinshi-mourning | four-friends | related_to |
+| qinshi-mourning | laozi | related_to |
+| qinshi-mourning | zhuangzi | described_in |
 | qiwulun-wu-sang-wo | zhuangzi | translated_as |
 | qiwulun-wu-sang-wo | zuowang | concerns |
 | schlosser-2019 | farias-adverse-events-2020 | related_to |
@@ -277,6 +309,10 @@ Knowledge-graph edges — 361 total. Top-level key: `items` in
 | three-in-the-morning | zhuangzi | described_in |
 | three-languages | jingzuo | concerns |
 | three-languages | qi | concerns |
+| tian-jun | qiwulun-wu-sang-wo | related_to |
+| tian-jun | three-in-the-morning | related_to |
+| tian-jun | xu | concerns |
+| tian-jun | zhuangzi | described_in |
 | tiaoxi | jingzuo | related_to |
 | tiaoxi | qi | related_to |
 | tiaoxi-practice | breath-stopping-anxiety | concerns |
