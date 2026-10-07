@@ -1,6 +1,6 @@
 # Stories
 
-story records from the stories content collection — 45 records.
+story records from the stories content collection — 46 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
@@ -9,6 +9,7 @@ story records from the stories content collection — 45 records.
 | boatman | The Ferryman and the Diver: When the Water Is Forgotten | Daoist | zhuangzi |
 | boshun-archer | The Archer at the Cliff's Edge | Daoist | zhuangzi |
 | butterfly-dream | Zhuang Zhou Dreams of a Butterfly | Daoist | zhuangzi |
+| cao-shang | Cao Shang's Chariots | Daoist | zhuangzi |
 | carpenter-shi | The Carpenter and the Plaster: What Practice Loses Without a Partner | Daoist | zhuangzi |
 | cicada-catcher | The Hunchback and the Cicada | Daoist | zhuangzi |
 | confucius-meets-laozi | Confucius Meets Laozi: The Dragon | Daoist / Confucian encounter (traditional) | daodejing |

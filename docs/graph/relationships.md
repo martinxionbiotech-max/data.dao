@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 668 total. Top-level key: `items` in
+Knowledge-graph edges — 730 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -9,15 +9,15 @@ Knowledge-graph edges — 668 total. Top-level key: `items` in
 |---|---|
 | associated_with | 34 |
 | authored | 2 |
-| concerns | 187 |
+| concerns | 196 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 97 |
+| described_in | 101 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 301 |
+| related_to | 350 |
 | translated_as | 23 |
 
 ## All edges
@@ -75,6 +75,13 @@ Knowledge-graph edges — 668 total. Top-level key: `items` in
 | can-meditation-cure-illness | taiping-jing | related_to |
 | can-sitting-go-wrong | farias-adverse-events-2020 | derived_from |
 | can-sitting-go-wrong | jingzuo | concerns |
+| cao-shang | hezhe-zhi-fu | related_to |
+| cao-shang | luhou-yang-niao | related_to |
+| cao-shang | marsh-pheasant | related_to |
+| cao-shang | phoenix-and-owl | related_to |
+| cao-shang | turtle-in-the-mud | related_to |
+| cao-shang | xuzhou-empty-boat | related_to |
+| cao-shang | zhuangzi | described_in |
 | carpenter-shi | fish-happiness | related_to |
 | carpenter-shi | zhuangzi | described_in |
 | carpenter-shi | zuowang-safety-without-teacher | concerns |
@@ -126,6 +133,16 @@ Knowledge-graph edges — 668 total. Top-level key: `items` in
 | daodejing-06 | tuoyue | related_to |
 | daodejing-06 | xuan-pin | related_to |
 | daodejing-06 | yingning-passage | related_to |
+| daodejing-08 | daodejing | described_in |
+| daodejing-08 | does-daoism-believe-in-a-creator | related_to |
+| daodejing-08 | fish-happiness | related_to |
+| daodejing-08 | fish-in-the-dry-spring | related_to |
+| daodejing-08 | jing | concerns |
+| daodejing-08 | swimmer-lvliang | related_to |
+| daodejing-08 | wuwei | concerns |
+| daodejing-08 | xuzhou-empty-boat | related_to |
+| daodejing-08 | zhi-shui | related_to |
+| daodejing-08 | ziran | concerns |
 | daodejing-14 | chen-tuan | related_to |
 | daodejing-14 | dao | concerns |
 | daodejing-14 | daodejing | translated_as |
@@ -148,6 +165,14 @@ Knowledge-graph edges — 668 total. Top-level key: `items` in
 | daodejing-25 | daodejing | translated_as |
 | daodejing-25 | daodejing-16 | related_to |
 | daodejing-25 | ziran | concerns |
+| daodejing-33 | daodejing | described_in |
+| daodejing-33 | daodejing-22 | related_to |
+| daodejing-33 | daodejing-45 | related_to |
+| daodejing-33 | guan | concerns |
+| daodejing-33 | how-long-until-results | related_to |
+| daodejing-33 | jian-du | related_to |
+| daodejing-33 | what-is-stillness | related_to |
+| daodejing-33 | xu | concerns |
 | daodejing-37 | daodejing | translated_as |
 | daodejing-37 | daodejing-01 | related_to |
 | daodejing-37 | daodejing-10-shouyi | related_to |
@@ -254,6 +279,13 @@ Knowledge-graph edges — 668 total. Top-level key: `items` in
 | exp-022-its-all-theatre | exp-016-nine-dhyanas-map | related_to |
 | exp-022-its-all-theatre | exp-018-halflotus-to-full-lotus | related_to |
 | exp-022-its-all-theatre | how-long-should-i-sit | related_to |
+| exp-023-breath-is-the-key | drowsiness-vs-stillness | related_to |
+| exp-023-breath-is-the-key | exp-012-restless-body | related_to |
+| exp-023-breath-is-the-key | exp-019-one-remedy-body | related_to |
+| exp-023-breath-is-the-key | exp-021-prostrations-channel-circuit | related_to |
+| exp-023-breath-is-the-key | seeing-light-in-sitting | related_to |
+| exp-023-breath-is-the-key | tiaoxi | concerns |
+| exp-023-breath-is-the-key | warmth-tingling-when-sitting | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -307,6 +339,20 @@ Knowledge-graph edges — 668 total. Top-level key: `items` in
 | hezhe-zhi-fu | ziran | concerns |
 | how-long-should-i-sit | drowsiness-in-sitting | concerns |
 | how-long-should-i-sit | jingzuo | concerns |
+| how-long-until-results | artisan-qing-passage | related_to |
+| how-long-until-results | can-meditation-cure-illness | related_to |
+| how-long-until-results | daodejing-33 | related_to |
+| how-long-until-results | daodejing-64 | related_to |
+| how-long-until-results | exp-009-dissolving-void | related_to |
+| how-long-until-results | exp-010-lotus-pain | related_to |
+| how-long-until-results | exp-016-nine-dhyanas-map | related_to |
+| how-long-until-results | exp-020-false-first-dhyana | related_to |
+| how-long-until-results | how-long-should-i-sit | related_to |
+| how-long-until-results | i-feel-nothing-when-i-sit | related_to |
+| how-long-until-results | mindfulness-meta-analysis-2014 | related_to |
+| how-long-until-results | should-i-meditate-when-sick | related_to |
+| how-long-until-results | wooden-rooster-passage | related_to |
+| how-long-until-results | yingning-passage | related_to |
 | huangting-jing | dantian | concerns |
 | huangting-jing-dantian | dantian | concerns |
 | huangting-jing-dantian | huangting-jing | described_in |
@@ -512,6 +558,14 @@ Knowledge-graph edges — 668 total. Top-level key: `items` in
 | tian-jun | three-in-the-morning | related_to |
 | tian-jun | xu | concerns |
 | tian-jun | zhuangzi | described_in |
+| tian-lai | da-kuai | related_to |
+| tian-lai | does-daoism-believe-in-a-creator | related_to |
+| tian-lai | kui-xian-chain | related_to |
+| tian-lai | qiwulun-wu-sang-wo | related_to |
+| tian-lai | tian-ji | related_to |
+| tian-lai | zhen-zai | related_to |
+| tian-lai | zhuangzi | described_in |
+| tian-lai | ziran | concerns |
 | tiaoxi | jingzuo | related_to |
 | tiaoxi | qi | related_to |
 | tiaoxi-practice | breath-stopping-anxiety | concerns |
@@ -639,6 +693,14 @@ Knowledge-graph edges — 668 total. Top-level key: `items` in
 | yun-jin-cheng-feng | useless-gourd | related_to |
 | yun-jin-cheng-feng | zhi-shui | related_to |
 | yun-jin-cheng-feng | zhuangzi | described_in |
+| zhang-daoling | cunsi | concerns |
+| zhang-daoling | kou-qianzhi | related_to |
+| zhang-daoling | kou-qianzhi-reform | related_to |
+| zhang-daoling | shangqing-revelations | related_to |
+| zhang-daoling | shouyi | concerns |
+| zhang-daoling | taiping-jing | related_to |
+| zhang-daoling | tao-hongjing | related_to |
+| zhang-daoling | wei-huacun | related_to |
 | zhao-che | daodejing-48 | related_to |
 | zhao-che | jian-du | related_to |
 | zhao-che | seeing-light-in-sitting | related_to |

@@ -1,6 +1,6 @@
 # Glossary
 
-term records from the glossary content collection — 36 records.
+term records from the glossary content collection — 37 records.
 
 | id | title | chinese | pinyin | literalMeaning | recommended |
 |---|---|---|---|---|
@@ -23,6 +23,7 @@ term records from the glossary content collection — 36 records.
 | shouyi | Shouyi | 守一 | shǒuyī | guarding-keeping the One | guarding the One (standard in Robinet and Kohn) |
 | tian-ji | Tianji (天机) | 天机 | tiānjī |  |  |
 | tian-jun | Tianjun (天钧) | 天钧 | tiānjūn |  |  |
+| tian-lai | Tianlai (天籁) | 天籁 | tiānlài |  |  |
 | tiaoxi | Tiaoxi (调息) | 调息 | tiáoxī | regulating the breath | 'regulating the breath' — keep the tiao-shen/tiao-xi/tiao-xin trio visible in translation |
 | tuoyue | Tuoyue | 橐籥 | tuóyuè | bellows: 橐 the leather bag, 籥 the blowpipe tubes — the smith's double-valved air machine | bellows (with 'the smith's air machine' glossed where the emptiness-productivity point matters) |
 | wuwei | Wuwei | 无为 | wúwéi | no-doing | non-action, with the note that it is the negation of forced/contrived action, not of activity |

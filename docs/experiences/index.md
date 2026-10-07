@@ -7,7 +7,7 @@ search index, 163.com teacher Q&A, Xinli001 Q&A, Baidu Health, Zhihu columns).
 All records paraphrased and anonymized; no usernames, no direct quotes without
 permission.
 
-## Current records — 22
+## Current records — 23
 
 | id | theme | confidence | page |
 |---|---|---|
@@ -33,6 +33,7 @@ permission.
 | EXP-020 | EXP-020: 'That Wasn't First Dhyāna' — the False Alarm and the Gate | medium | /experiences/exp-020-false-first-dhyana/ |
 | EXP-021 | EXP-021: 864 Prostrations and the Channel Circuit | medium | /experiences/exp-021-prostrations-channel-circuit/ |
 | EXP-022 | EXP-022: 'It's All Theatre' — the Skeptic, the Deep Concentration Fear, and Yoga's Ceiling | medium | /experiences/exp-022-its-all-theatre/ |
+| EXP-023 | EXP-023: Breathing Is the Key — the All-Day Breath and the 4-to-6 Standard | medium | /experiences/exp-023-breath-is-the-key/ |
 
 ## Privacy rules
 

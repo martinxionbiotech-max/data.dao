@@ -1,6 +1,6 @@
 # People
 
-person records from the people content collection — 16 records.
+person records from the people content collection — 17 records.
 
 | id | title | chinese | dates | tradition | historicity | page |
 |---|---|---|---|---|---|
@@ -18,5 +18,6 @@ person records from the people content collection — 16 records.
 | wei-huacun | Wei Huacun (魏华存) | 魏华存 |  |  | historical | /people/wei-huacun/ |
 | yan-zun | Yan Zun (严遵) | 严遵 |  |  | historical | /people/yan-zun/ |
 | yang-xi | Yang Xi (杨羲) | 杨羲 |  |  | historical | /people/yang-xi/ |
+| zhang-daoling | Zhang Daoling (张道陵) | 张道陵 |  |  | semi-legendary | /people/zhang-daoling/ |
 | zhiyi | Zhiyi (智顗) | 智顗 |  |  | historical | /people/zhiyi/ |
 | zhuang-zhou | Zhuang Zhou | 庄周 |  |  | historical | /people/zhuang-zhou/ |

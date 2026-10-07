@@ -1,6 +1,6 @@
 # Sources Registry
 
-All sources used on the site — 119 total. Registry file:
+All sources used on the site — 125 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
@@ -9,11 +9,11 @@ All sources used on the site — 119 total. Registry file:
 |---|---|
 | academic_study | 2 |
 | commentary | 2 |
-| community | 19 |
+| community | 20 |
 | historical | 5 |
-| historical_record | 1 |
+| historical_record | 2 |
 | historical_text | 1 |
-| primary_text | 64 |
+| primary_text | 68 |
 | reference | 1 |
 | reference_work | 1 |
 | research | 4 |
@@ -32,6 +32,7 @@ All sources used on the site — 119 total. Registry file:
 | 163-taishi-34 | Taishi cultivation Q&A no. 34 (163.com community column, 2021): bodily responses in double-lotus — heat, sweat, qi-sensations | community | /experiences/exp-015-heat-sweat-qi/ |
 | 163-taishi-36 | Taishi cultivation Q&A no. 36 (163.com community column, 2021) | community | /experiences/exp-012-restless-body/ |
 | 163-taishi-38 | Taishi cultivation Q&A no. 38 (163.com community column, 2021): the Buddhist-Daoist boundary question | community | /experiences/exp-013-buddhist-daoist-boundary/ |
+| 163-taishi-39 | Taishi cultivation Q&A no. 39 (163.com community column): the all-day breathing doctrine, the 4-6 breaths-per-minute standard, and the moderate corners (eat more, afternoon nap, legs may hurt but dullness stops the sit) | community | /experiences/exp-023-breath-is-the-key/ |
 | 163-taishi-42 | Taishi cultivation Q&A no. 42 (163.com community column): solving body problems through practice — breath practice as the one remedy | community | /experiences/exp-019-one-remedy-body/ |
 | 163-taishi-46 | Taishi cultivation Q&A no. 46 (163.com community column): the channel circuit, the 864-prostration regime, the thermostat explanation, and the anti-display joke | community | /experiences/exp-021-prostrations-channel-circuit/ |
 | 163-taishi-47 | Taishi cultivation Q&A no. 47 (163.com community column, 2021): what is concentration — the nine dhyānas and how far an ordinary person can go | community | /experiences/exp-016-nine-dhyanas-map/ |
@@ -49,9 +50,11 @@ All sources used on the site — 119 total. Registry file:
 | daodejing-05-editions | Daodejing ch. 5: received text with Wang Bi and Su Zhe commentaries (Daodejing.org), Gushiwen teaching edition, CCDI study column | primary_text | /translations/daodejing-05/ |
 | daodejing-06-editions | Daodejing ch. 6 (received text): Gushiwen teaching edition with translation and gloss (玄牝 = source that breeds the ten thousand things; 勤 = 尽), as documented on the xuan-pin glossary page | primary_text | /translations/daodejing-06/ |
 | daodejing-06-xuanpin | Daodejing ch. 6: Gushiwen teaching edition with translation and gloss (xuanpin as the source breeding the ten thousand things, an image of the Way) | primary_text | /glossary/xuan-pin/ |
+| daodejing-08-editions | Daodejing ch. 8, received text, verified against three independent reproductions that agree (a Douban Read column quoting Su Zhe Laozi jie glosses on the seven skills; a traditional-text reading; the Our China Story column, which records 政善治 for received 正善治) | primary_text | /translations/daodejing-08/ |
 | daodejing-14-editions | Daodejing ch. 14, received text: two independent full-text reproductions agreeing (mindiver.se; a Sheng sheng xuetang teaching edition with Heshang Gong gloss 无色曰夷无声曰希无形曰微) | primary_text | /translations/daodejing-14/ |
 | daodejing-17-editions | Daodejing ch. 17, received text with the 下知有之/不知有之 variant, from the site's earlier Daodejing verification passes | primary_text | /translations/daodejing-17/ |
 | daodejing-22-editions | Daodejing ch. 22: Gushiwen teaching edition and the Mawangdui manuscript variants (曲则金/枉则定; 执一以为天下牧) | primary_text | /translations/daodejing-22/ |
+| daodejing-33-editions | Daodejing ch. 33, received text, verified against the 5000yan edition with Wang Bi commentary quoted and the Gushiwen famous-line page, which agree verbatim; a Hong Kong Education Bureau classics handout supplies the standard gloss | primary_text | /translations/daodejing-33/ |
 | daodejing-37-editions | Daodejing ch. 37: received text editions and the Guodian manuscript variant (道恒无为也, without 而无不为) | primary_text | /translations/daodejing-37/ |
 | daodejing-45-editions | Daodejing ch. 45, received text: three independent reproductions (mindiver.se; a Vocus teaching post; Wang Yijia's Laozi jinjie on Pixnet) with variant characters and the swapped final couplet recorded | primary_text | /translations/daodejing-45/ |
 | daodejing-48-editions | Daodejing ch. 48: received text with Wang Bi commentary transmission, Baike teaching edition, Daodejing.org | primary_text | /translations/daodejing-48/ |
@@ -75,6 +78,7 @@ All sources used on the site — 119 total. Registry file:
 | kohn-1998 | Kohn, Livia. God of the Dao: Lord Lao in History and Myth. Center for Chinese Studies, University of Michigan, 1998 | scholarship | /people/laozi/ |
 | kohn-2010 | Kohn, Livia. Sitting in Oblivion: The Heart of Daoist Meditation. Three Pines Press, 2010 | scholarship | /concepts/zuowang/; /practices/zuowang/; /texts/zuowang-lun/ |
 | li-ao-sources | Li Ao dossier: Gushiwen author biography (772-841, Xizhi, Didao in Longxi, Han Yu's student, anti-Buddhist-Daoist, Fuxing Shu); Gushiwen page for 'To the Eminent Monk Weiyan of Yaoshan' (both poems with variants, Jingde chuandeng lu ch. 14 background); Baidu Baike entry on 'cloud in the blue sky, water in the bottle' | historical | /people/li-ao/ |
+| lieyukou-caoshang-editions | Zhuangzi ch. 32 (Lie Yukou), the Cao Shang passage, verified against the Gushiwen full text with translation and notes, the Baidu Baike entry, and the Zhuangzi jishi (juan 10) text quoted in a teaching post | primary_text | /stories/cao-shang/ |
 | liezi-received | Liezi, received text in eight chapters with Zhang Zhan's commentary; Hanshu Yiwenzhi bibliography; Ma Xulun, Liezi Weishu Kao; Ji Xianlin on the Sheng Jing borrowing | primary_text | /texts/liezi/; /timeline/liezi-compilation/ |
 | lindahl-2017 | Lindahl et al., The varieties of contemplative experience, PLoS ONE 12(5):e0176239 (2017) | research | /research/lindahl-2017/ |
 | nanya-yangshengzhu-paper | Zhao Shiwei, 'Problems in the Zhuangzi Yangsheng Zhu' (Nanya University teaching-research paper): the marsh pheasant passage and the chapter's argument | scholarly | /stories/marsh-pheasant/ |
@@ -84,6 +88,7 @@ All sources used on the site — 119 total. Registry file:
 | pku-2009-qiwulun-study | Peking University Journal (2009), 'Doubts in reading Zhuangzi Qiwu Lun and their analysis': Lu Deming's one-character gloss (sang), Cheng Xuanying's subcommentary (天机自张莫知其宰), Liu Fengbao's Nanhua xuexin bian, and the study's own reading | scholarly | /stories/wang-liang-wen-jing/; /glossary/tian-ji/ |
 | plos-one-e0216643 | Schlosser et al. 2019, PLoS ONE 14(5): e0216643 | academic_study | /research/schlosser-2019/; /questions/warmth-tingling-when-sitting/ |
 | qingjing-jing | Qingjing Jing (Scripture of Constant Clarity and Stillness) | primary_text | /texts/qingjing-jing/ |
+| qiwulun-tianlai-editions | Zhuangzi ch. 2 (Qiwu Lun), the three-pipes passage, verified against the Wikisource full text, the Zhuangzi yi commentary (Shidian guji, HY1406, Guo Xiang note quoted in full), a 2011 sinoss.net study of the term, and the ht.org.tw teaching column on the modern drift | primary_text | /glossary/tian-lai/ |
 | qiwulun-zhenzai-commentaries | China Daoist Association article on the Yangshengzhu title question, quoting Guo Xiang's zhenzai note and Cheng Xuanying's subcommentary verbatim | scholarly | /glossary/zhen-zai/; /questions/does-daoism-believe-in-a-creator/ |
 | renjianshi-xinzhai-passage | Zhuangzi ch. 4 (Renjian Shi), mind-fasting passage: Wikisource full text; a Baidu Jingyan teaching entry on 虚室生白 | primary_text | /glossary/xushi-sheng-bai/ |
 | renjianshi-zhili-shu-editions | Zhuangzi ch. 4 (Renjian Shi), Zhili Shu passage: Taiji Shuguan edition with running glosses; Fu Peirong's annotated edition (variants: 齊/臍, 鼓廁/鼓筴); education-encyclopedia entry on the chapter's structure (Cheng Xuanying's sub-commentary on 支離其德) | primary_text | /stories/zhili-shu/ |
@@ -137,6 +142,7 @@ All sources used on the site — 119 total. Registry file:
 | yan-zun-sources | Yan Zun dossier: Baidu Baike biography (Hanshu and Gaoshi zhuan material, the rich man exchange, the Junping well); a National Taiwan Normal University thesis on the Laozi zhiguì via Airiti; Wikisource listing of the zhiguì among Daodejing commentary editions | historical | /people/yan-zun/ |
 | zdic-jiafuzuo | Zdic dictionary entry: jiafuzuo (with Faxian, Foguo Ji attestation) | reference_work | /glossary/jiafuzuo/ |
 | zeyang-editions | Zhuangzi ch. 25 (Zeyang) King Wei Ying passage: I-Kuan Tao classics full text (with.org), Wix temple teaching edition, and the Taiping yulan parallel noted by ctext | primary_text | /stories/snail-horn-war/ |
+| zhang-daoling-sources | Zhang Daoling: Baidu Baike (biography, 142 revelation, twenty-four parishes, 156 ascent at 123); Sina Yunxiuxing essay (birth record, dragon-tiger elixir legend, the three treasures); Taiwan Ministry of the Interior religion database (founder of the Daoist church); Wikipedia Five Pecks of Rice Way (Hou Han shu and Sanguo zhi attestation) | historical_record | /people/zhang-daoling/ |
 | zhengao-maoshan-lineage | Shangqing tradition records: the Zhengao, Maoshan lineage chronicles, and the Maoshan Daoist center's lineage account | traditional_record | /people/yang-xi/; /timeline/shangqing-revelations/ |
 | zhihu-daozuo-method | Zhihu column: 'Correct Daoist sitting method' (drowsiness vs. stillness) | community | /patterns/drowsiness-vs-stillness/; /questions/falling-asleep-during-meditation/ |
 | zhile-editions | Zhuangzi ch. 18 (Zhile), seabird passage: full text quoted verbatim in a teaching essay (mmh.org.tw) and the Guwendao teaching edition with translation; the Baidu Baike idiom entry (luhou yang niao) confirms location and standard reading | primary_text | /stories/luhou-yang-niao/ |
