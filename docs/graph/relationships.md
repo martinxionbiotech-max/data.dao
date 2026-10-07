@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 90 total. Top-level key: `items` in
+Knowledge-graph edges — 99 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -8,13 +8,13 @@ Knowledge-graph edges — 90 total. Top-level key: `items` in
 | relation | count |
 |---|---|
 | associated_with | 6 |
-| concerns | 23 |
+| concerns | 25 |
 | contrasts_with | 1 |
-| derived_from | 10 |
-| described_in | 21 |
+| derived_from | 11 |
+| described_in | 24 |
 | discusses | 3 |
 | investigates | 2 |
-| related_to | 19 |
+| related_to | 22 |
 | translated_as | 5 |
 
 ## All edges
@@ -69,11 +69,16 @@ Knowledge-graph edges — 90 total. Top-level key: `items` in
 | laozi | shiji-biographies | described_in |
 | leg-numbness-pain | EXP-003 | derived_from |
 | leg-numbness-pain | EXP-006 | derived_from |
+| neiguan | neiguan-jing | described_in |
+| neiguan | zuowang | related_to |
 | neiguan-jing | qingjing-jing | related_to |
 | qi | daodejing | described_in |
 | qi | qi-belief-necessary | concerns |
 | qi | zhuangzi | described_in |
 | qingjing-jing | qingjing-jing-opening | translated_as |
+| seeing-light-in-sitting | jingzuo | concerns |
+| seeing-light-in-sitting | xu | concerns |
+| seeing-light-in-sitting | zhuangzi | described_in |
 | shouyi | baopuzi-shouyi | described_in |
 | shouyi | daodejing | described_in |
 | shouyi | daodejing-10-shouyi | translated_as |
@@ -97,7 +102,11 @@ Knowledge-graph edges — 90 total. Top-level key: `items` in
 | wuwei | zuowang | related_to |
 | xinzhai | qingjing-jing | related_to |
 | xinzhai | xinzhai-passage | translated_as |
+| xinzhai | xu | derived_from |
 | xinzhai | zhuangzi | described_in |
+| xu | xinzhai | related_to |
+| xu | zhuangzi | described_in |
+| xu | zuowang | related_to |
 | zhuang-zhou | zhuangzi | associated_with |
 | zuowang | mindfulness | related_to |
 | zuowang | qi | associated_with |

@@ -1,6 +1,6 @@
 # Sources Registry
 
-All sources used on the site — 33 total. Registry file:
+All sources used on the site — 34 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
@@ -8,7 +8,7 @@ All sources used on the site — 33 total. Registry file:
 | type | count |
 |---|---|
 | community | 5 |
-| primary_text | 16 |
+| primary_text | 17 |
 | research | 3 |
 | scholarship | 9 |
 
@@ -40,6 +40,7 @@ All sources used on the site — 33 total. Registry file:
 | tieba-dazuo-bar | Baidu Tieba 打坐吧/冥想吧 threads (search-indexed snippets) | community | /experiences/exp-004-emotional-surfacing/; /experiences/exp-005-night-qi-movement/ |
 | watson-1968 | Watson, Burton, trans. The Complete Works of Chuang Tzu. Columbia University Press, 1968 | scholarship | /texts/zhuangzi/; /concepts/zuowang/ |
 | wikisource-zhuangzi-dasheng | Zhuangzi ch. 19 (Dasheng), Wikisource | primary_text | /stories/wooden-rooster/ |
+| wikisource-zhuangzi-renjianshi | Zhuangzi ch. 4 (Renjian shi), Wikisource | primary_text | /concepts/xu/; /problems/seeing-light-in-sitting/ |
 | wikisource-zhuangzi-yingdiwang | Zhuangzi ch. 7 (Ying diwang), Wikisource | primary_text | /stories/huzi-jixian/ |
 | wikisource-zhuangzi-ys | Zhuangzi ch. 3 (Yangsheng zhu), Wikisource | primary_text | /stories/cook-ding/ |
 | wikisource-zhuangzi-zaiyou | Zhuangzi ch. 11 (Zaiyou), Wikisource | primary_text | /stories/guangchengzi/ |

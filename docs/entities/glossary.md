@@ -1,6 +1,6 @@
 # Glossary Collection
 
-Terminology pages — 12 records.
+Terminology pages — 13 records.
 
 | id | term | literal meaning |
 |---|---|---|
@@ -15,6 +15,7 @@ Terminology pages — 12 records.
 | xinzhai | 心齋 xinzhai | fasting of the mind |
 | zuowang | 坐忘 zuowang | sitting in oblivion |
 | dantian | 丹田 dantian | cinnabar field |
+| neiguan | 內觀 neiguan | inner contemplation |
 | tiaoxi | 調息 tiaoxi | regulating the breath |
 
 Each glossary page gives: term, pinyin, literal meaning, translation options
