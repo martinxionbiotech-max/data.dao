@@ -18,3 +18,4 @@ recommended rendering.
 - Recommended rendering is always stated with reasons, never asserted.
 - The same term may render differently by context; cross-references are given.
 - Documented Western misreadings are called out with the corrected reading.
+| artisan-qing-passage | zhuangzi ch. 19 | Artisan Qing's seven-day fast |

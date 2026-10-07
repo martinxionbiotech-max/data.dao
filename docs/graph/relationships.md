@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 106 total. Top-level key: `items` in
+Knowledge-graph edges — 117 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -8,14 +8,14 @@ Knowledge-graph edges — 106 total. Top-level key: `items` in
 | relation | count |
 |---|---|
 | associated_with | 6 |
-| concerns | 30 |
+| concerns | 36 |
 | contrasts_with | 1 |
 | derived_from | 11 |
-| described_in | 26 |
-| discusses | 3 |
+| described_in | 29 |
+| discusses | 4 |
 | investigates | 2 |
 | related_to | 22 |
-| translated_as | 5 |
+| translated_as | 6 |
 
 ## All edges
 
@@ -33,6 +33,8 @@ Knowledge-graph edges — 106 total. Top-level key: `items` in
 | artisan-qing | xu | concerns |
 | artisan-qing | zhuangzi | described_in |
 | artisan-qing | zuowang | concerns |
+| artisan-qing-passage | zhuangzi | translated_as |
+| artisan-qing-passage | zuowang | concerns |
 | butterfly-dream | zhuang-zhou | associated_with |
 | butterfly-dream | zhuangzi | described_in |
 | can-sitting-go-wrong | farias-adverse-events-2020 | derived_from |
@@ -47,6 +49,9 @@ Knowledge-graph edges — 106 total. Top-level key: `items` in
 | dantian | qi | related_to |
 | dantian | shouyi | related_to |
 | daodejing | guodian-daodejing | described_in |
+| daoshu-neiguan-zuowang | daoshu | described_in |
+| daoshu-neiguan-zuowang | neiguan | concerns |
+| daoshu-neiguan-zuowang | zuowang | concerns |
 | drowsiness-in-sitting | drowsiness-vs-stillness | derived_from |
 | drowsiness-in-sitting | falling-asleep-during-meditation | related_to |
 | drowsiness-in-sitting | jingzuo | concerns |
@@ -58,6 +63,8 @@ Knowledge-graph edges — 106 total. Top-level key: `items` in
 | guangchengzi | jingzuo | concerns |
 | guangchengzi | shouyi | concerns |
 | guangchengzi | zhuangzi | described_in |
+| huangting-jing-dantian | dantian | concerns |
+| huangting-jing-dantian | huangting-jing | described_in |
 | huzi-jixian | qi | concerns |
 | huzi-jixian | zhuangzi | described_in |
 | huzi-jixian | zuowang | concerns |
@@ -97,6 +104,8 @@ Knowledge-graph edges — 106 total. Top-level key: `items` in
 | sima-chengzhen | zuowang-lun-composition | described_in |
 | standing-in-snow | jingzuo | concerns |
 | taiping-jing | taiping-jing-shouyi | described_in |
+| three-craftsmen-dazheng | wuwei | concerns |
+| three-craftsmen-dazheng | zhuangzi | discusses |
 | tiaoxi | jingzuo | related_to |
 | tiaoxi | qi | related_to |
 | warmth-and-qi-sensations | EXP-002 | derived_from |
@@ -107,6 +116,8 @@ Knowledge-graph edges — 106 total. Top-level key: `items` in
 | wuwei | daodejing | described_in |
 | wuwei | daodejing-48 | translated_as |
 | wuwei | zuowang | related_to |
+| xiao-zhiguan-five-adjustments | tiaoxi | concerns |
+| xiao-zhiguan-five-adjustments | xiao-zhiguan | described_in |
 | xinzhai | qingjing-jing | related_to |
 | xinzhai | xinzhai-passage | translated_as |
 | xinzhai | xu | derived_from |

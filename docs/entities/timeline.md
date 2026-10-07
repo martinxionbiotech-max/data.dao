@@ -16,3 +16,6 @@ Dated events from the timeline content collection — 7 records.
 Each event carries an evidence class: archaeological, primary text,
 scholarly inference, or traditional — dated claims are never presented
 bare of their source.
+| huangting-jing-dantian | c. 3rd-4th c. | Huangting Jing; three-dantian system |
+| xiao-zhiguan-five-adjustments | 6th c. | Zhiyi; the five adjustments |
+| daoshu-neiguan-zuowang | 12th c. | Daoshu; 'neiguan is zuowang' |

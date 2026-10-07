@@ -1,6 +1,6 @@
 # Sources Registry
 
-All sources used on the site — 34 total. Registry file:
+All sources used on the site — 35 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
@@ -8,7 +8,7 @@ All sources used on the site — 34 total. Registry file:
 | type | count |
 |---|---|
 | community | 5 |
-| primary_text | 17 |
+| primary_text | 18 |
 | research | 3 |
 | scholarship | 9 |
 
@@ -18,13 +18,14 @@ All sources used on the site — 34 total. Registry file:
 |---|---|---|---|
 | cook-2012 | Cook, Scott. The Bamboo Texts of Guodian. Cornell East Asia Series, 2012 | scholarship | /texts/daodejing/ |
 | daodejing | Daodejing (received Wang Bi text, 81 chapters) | primary_text | /concepts/wuwei/; /concepts/shouyi/; /concepts/qi/; /texts/daodejing/ |
+| daoshu | Daoshu (道枢), comp. Zeng Zao, Southern Song | primary_text | /timeline/daoshu-neiguan-zuowang/; /glossary/neiguan/ |
 | er-cheng-waishu | Er Cheng waishu (Outer Collection of the Two Chengs), juan 12 | primary_text | /concepts/jingzuo/; /practices/jingzuo/ |
 | farias-2020 | Farias et al., 'Adverse events in meditation practices and meditation-based therapies: a systematic review', Acta Psychiatr Scand 142(5):374-393 (2020) | research | /research/farias-adverse-events-2020/; /questions/can-sitting-go-wrong/ |
 | goyal-2014 | Goyal, M., et al. Meditation Programs for Psychological Stress and Well-being. JAMA Internal Medicine 174(3):357-368, 2014 | research | /comparisons/zuowang-vs-mindfulness/; /research/mindfulness-meta-analysis-2014/ |
 | guodian-report | Jingmen City Museum, 'Jingmen Guodian yihao Chumu', Wenwu 1997.7 (Guodian tomb no. 1 excavation report) | research | /timeline/guodian-daodejing/ |
 | health-baidu-dazuo | Baidu Health: 'Why the body warms during sitting' (medical popularization) | community | /patterns/warmth-and-qi-sensations/ |
 | henricks-1989 | Henricks, Robert G., trans. Lao-Tzu Te-Tao Ching (Mawangdui text). Ballantine, 1989 | scholarship | /texts/daodejing/ |
-| huangting-jing | Huangting neijing jing (Yellow Court inner scripture), Shangqing tradition | primary_text | /glossary/dantian/ |
+| huangting-jing | Huangting neijing jing (Yellow Court inner scripture), Shangqing tradition | primary_text | /glossary/dantian/; /timeline/huangting-jing-dantian/ |
 | iep-zhuangzi | Internet Encyclopedia of Philosophy, 'Zhuangzi' | scholarship | /texts/zhuangzi/ |
 | kohn-1998 | Kohn, Livia. God of the Dao: Lord Lao in History and Myth. Center for Chinese Studies, University of Michigan, 1998 | scholarship | /people/laozi/ |
 | kohn-2010 | Kohn, Livia. Sitting in Oblivion: The Heart of Daoist Meditation. Three Pines Press, 2010 | scholarship | /concepts/zuowang/; /practices/zuowang/; /texts/zuowang-lun/ |
@@ -39,12 +40,12 @@ All sources used on the site — 34 total. Registry file:
 | taylor-1988 | Taylor, Rodney L. The Confucian Way of Contemplation: Okada Takehiko and the Tradition of Quiet-Sitting. University of South Carolina Press, 1988 | scholarship | /concepts/jingzuo/; /practices/jingzuo/ |
 | tieba-dazuo-bar | Baidu Tieba 打坐吧/冥想吧 threads (search-indexed snippets) | community | /experiences/exp-004-emotional-surfacing/; /experiences/exp-005-night-qi-movement/ |
 | watson-1968 | Watson, Burton, trans. The Complete Works of Chuang Tzu. Columbia University Press, 1968 | scholarship | /texts/zhuangzi/; /concepts/zuowang/ |
-| wikisource-zhuangzi-dasheng | Zhuangzi ch. 19 (Dasheng), Wikisource | primary_text | /stories/wooden-rooster/ |
+| wikisource-zhuangzi-dasheng | Zhuangzi ch. 19 (Dasheng), Wikisource | primary_text | /stories/wooden-rooster/; /stories/artisan-qing/; /stories/cicada-catcher/; /translations/artisan-qing-passage/; /blog/three-craftsmen-dazheng/ |
 | wikisource-zhuangzi-renjianshi | Zhuangzi ch. 4 (Renjian shi), Wikisource | primary_text | /concepts/xu/; /problems/seeing-light-in-sitting/ |
 | wikisource-zhuangzi-yingdiwang | Zhuangzi ch. 7 (Ying diwang), Wikisource | primary_text | /stories/huzi-jixian/ |
 | wikisource-zhuangzi-ys | Zhuangzi ch. 3 (Yangsheng zhu), Wikisource | primary_text | /stories/cook-ding/ |
 | wikisource-zhuangzi-zaiyou | Zhuangzi ch. 11 (Zaiyou), Wikisource | primary_text | /stories/guangchengzi/ |
-| xiao-zhiguan | Zhiyi, Xiao zhiguan (Tongmeng zhiguan), Tiaohe chapter | primary_text | /glossary/tiaoxi/; /problems/drowsiness-in-sitting/ |
+| xiao-zhiguan | Zhiyi, Xiao zhiguan (Tongmeng zhiguan), Tiaohe chapter | primary_text | /glossary/tiaoxi/; /problems/drowsiness-in-sitting/; /timeline/xiao-zhiguan-five-adjustments/ |
 | xinli001-qa | Xinli001 (Yixinli) meditation Q&A — anonymous user questions | community | /experiences/exp-001-falling-asleep/; /questions/falling-asleep-during-meditation/ |
 | zhihu-daozuo-method | Zhihu column: 'Correct Daoist sitting method' (drowsiness vs. stillness) | community | /patterns/drowsiness-vs-stillness/; /questions/falling-asleep-during-meditation/ |
 | zhuangzi | Zhuangzi (received text, Guo Xiang recension) | primary_text | /concepts/zuowang/; /concepts/xinzhai/; /concepts/qi/; /texts/zhuangzi/ |
