@@ -1,6 +1,6 @@
 # Stories
 
-story records from the stories content collection — 21 records.
+story records from the stories content collection — 23 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
@@ -18,6 +18,8 @@ story records from the stories content collection — 21 records.
 | handan-walk | The Handan Walk: What the Imitator Loses on the Way | Daoist | zhuangzi |
 | hundun | Hundun: The Story of the Seven Holes | Daoist | zhuangzi |
 | huzi-jixian | Huzi and the Shaman: Four Depths of Stillness | Daoist | zhuangzi |
+| jingdi-zhiwa | The Well Frog and the Sea Turtle: The Three Limits of Knowing | Daoist | zhuangzi |
+| mantis-and-chariot | The Mantis, the Tiger-Keeper, and the Horse-Lover: Talent Against Force | Daoist | zhuangzi |
 | painter-unrobed | The Unrobed Painter: What the True Artist Does with Protocol | Daoist | zhuangzi |
 | peng-bird | The Peng Bird: The Book's Opening Image of Scale | Daoist | zhuangzi |
 | standing-in-snow | Standing in the Snow at Cheng Yi's Gate | Neo-Confucian |  |

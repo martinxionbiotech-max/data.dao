@@ -1,6 +1,6 @@
 # Timeline
 
-event records from the timeline content collection — 15 records.
+event records from the timeline content collection — 16 records.
 
 | id | title | periodStart | periodEnd | eventType |
 |---|---|---|---|
@@ -13,6 +13,7 @@ event records from the timeline content collection — 15 records.
 | kou-qianzhi-reform | Kou Qianzhi's Reform (415–442 CE) | c. 415 CE (the first revelation, the deified Laozi's commission) | 442 CE (Emperor Taiwu takes registers at the altar) | institutional reform |
 | liezi-compilation | Liezi Compiled (Jin Era, c. 285–400 CE) | c. 285 CE (terminus post quem: the Sheng Jing borrowing demonstrated by Ji Xianlin) | c. 400 CE (Zhang Zhan's commentary, late Eastern Jin) | text compilation |
 | qingjing-neiguan-jing | Qingjing Jing and Neiguan Jing Composed (Six Dynasties–Early Tang) | 6th c. CE | early 7th c. CE | text composition |
+| shangqing-revelations | The Shangqing Revelations (364–370 CE) | 364 CE (first year of the revelations, Emperor Ai's reign) | c. 500 CE (Tao Hongjing's Zhengao compilation, from his 492 retreat to Maoshan) | revelation and compilation |
 | shiji-biographies | Shiji Biographies of Laozi and Zhuang Zhou (c. 100 BCE) | c. 100 BCE | c. 100 BCE | earliest biography |
 | taiping-jing-shouyi | Taiping Jing: Shouyi and the Exit Conditions (Eastern Han) | Eastern Han (2nd c. CE) | Eastern Han (2nd c. CE) | text compilation |
 | xiao-zhiguan-five-adjustments | Xiao Zhiguan: The Five Adjustments (6th c.) | 550 | 600 | manual |

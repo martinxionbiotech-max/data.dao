@@ -1,24 +1,24 @@
 # Relationship Registry
 
-Knowledge-graph edges — 279 total. Top-level key: `items` in
+Knowledge-graph edges — 305 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
 
 | relation | count |
 |---|---|
-| associated_with | 11 |
+| associated_with | 15 |
 | authored | 2 |
-| concerns | 118 |
+| concerns | 126 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 59 |
+| described_in | 62 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 54 |
-| translated_as | 11 |
+| related_to | 64 |
+| translated_as | 12 |
 
 ## All edges
 
@@ -72,6 +72,10 @@ Knowledge-graph edges — 279 total. Top-level key: `items` in
 | dantian | qi | related_to |
 | dantian | shouyi | related_to |
 | daodejing | guodian-daodejing | described_in |
+| daodejing-05 | daodejing | translated_as |
+| daodejing-05 | daodejing-25 | related_to |
+| daodejing-05 | tuoyue | related_to |
+| daodejing-05 | xu | concerns |
 | daodejing-16 | daodejing | translated_as |
 | daodejing-16 | xu | concerns |
 | daodejing-16 | ziran | concerns |
@@ -104,6 +108,8 @@ Knowledge-graph edges — 279 total. Top-level key: `items` in
 | exp-011-shougong-protocol | breath-stopping-anxiety | related_to |
 | exp-011-shougong-protocol | exp-010-lotus-pain | related_to |
 | exp-011-shougong-protocol | jiafuzuo | concerns |
+| exp-012-restless-body | exp-011-shougong-protocol | related_to |
+| exp-012-restless-body | restlessness-in-sitting | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -141,6 +147,10 @@ Knowledge-graph edges — 279 total. Top-level key: `items` in
 | jing | qingjing-jing | described_in |
 | jing | zhuangzi | described_in |
 | jing | zuowang | concerns |
+| jingdi-zhiwa | fish-happiness | related_to |
+| jingdi-zhiwa | handan-walk | related_to |
+| jingdi-zhiwa | zhuangzi | described_in |
+| jingdi-zhiwa | ziran | concerns |
 | jingzuo | cheng-men-li-xue | described_in |
 | jingzuo | farias-adverse-events-2020 | investigates |
 | jingzuo | mindfulness-meta-analysis-2014 | investigates |
@@ -165,6 +175,9 @@ Knowledge-graph edges — 279 total. Top-level key: `items` in
 | liezi-compilation | zhuangzi-compilation | related_to |
 | lindahl-2017 | can-sitting-go-wrong | informs |
 | lindahl-2017 | farias-adverse-events-2020 | related_to |
+| mantis-and-chariot | hundun | related_to |
+| mantis-and-chariot | wuwei | concerns |
+| mantis-and-chariot | zhuangzi | described_in |
 | must-i-sit-cross-legged | exp-010-lotus-pain | related_to |
 | must-i-sit-cross-legged | jingzuo | concerns |
 | must-i-sit-cross-legged | leg-numbness-pain | related_to |
@@ -190,6 +203,10 @@ Knowledge-graph edges — 279 total. Top-level key: `items` in
 | seeing-light-in-sitting | jingzuo | concerns |
 | seeing-light-in-sitting | xu | concerns |
 | seeing-light-in-sitting | zhuangzi | described_in |
+| shangqing-revelations | cunsi | concerns |
+| shangqing-revelations | huangting-jing | concerns |
+| shangqing-revelations | kou-qianzhi-reform | related_to |
+| shangqing-revelations | yang-xi | associated_with |
 | shen | jing-qi-shen | concerns |
 | shouyi | baopuzi-shouyi | described_in |
 | shouyi | daodejing | described_in |
@@ -273,6 +290,15 @@ Knowledge-graph edges — 279 total. Top-level key: `items` in
 | xu | zuowang | related_to |
 | xuan | daodejing | described_in |
 | xuan | qingjing-jing | concerns |
+| yang-xi | cunsi | concerns |
+| yang-xi | huangting-jing | associated_with |
+| yang-xi | shangqing-revelations | associated_with |
+| yang-xi | wei-huacun | associated_with |
+| yingning | jing | concerns |
+| yingning | restlessness-in-sitting | concerns |
+| yingning | zhi-shui | related_to |
+| yingning | zhuangzi | described_in |
+| yingning | zuochi | related_to |
 | yongxin-ruo-jing-passage | jing | concerns |
 | yongxin-ruo-jing-passage | virtual-room-passage | related_to |
 | yongxin-ruo-jing-passage | zhi-shui | related_to |

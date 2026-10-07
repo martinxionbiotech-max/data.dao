@@ -7,7 +7,7 @@ search index, 163.com teacher Q&A, Xinli001 Q&A, Baidu Health, Zhihu columns).
 All records paraphrased and anonymized; no usernames, no direct quotes without
 permission.
 
-## Current records — 11
+## Current records — 12
 
 | id | theme | confidence | page |
 |---|---|---|
@@ -22,6 +22,7 @@ permission.
 | EXP-009 | EXP-009: Dissolving Into the Void — and the Teacher's Diagnosis | medium | /experiences/exp-009-dissolving-void/ |
 | EXP-010 | EXP-010: The Beginner's Lotus Pain — and the Endurance Counsel | medium | /experiences/exp-010-lotus-pain/ |
 | EXP-011 | EXP-011: Closing the Session — the Shougong Protocol and Forced Breathing | medium | /experiences/exp-011-shougong-protocol/ |
+| EXP-012 | EXP-012: The Restless Body — Involuntary Movements, Phlegm, and the Lute-String Counsel | medium | /experiences/exp-012-restless-body/ |
 
 ## Privacy rules
 
