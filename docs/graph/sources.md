@@ -1,6 +1,6 @@
 # Sources Registry
 
-All sources used on the site — 70 total. Registry file:
+All sources used on the site — 74 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
@@ -8,20 +8,21 @@ All sources used on the site — 70 total. Registry file:
 | type | count |
 |---|---|
 | academic_study | 2 |
-| community | 10 |
+| community | 11 |
 | historical_record | 1 |
 | historical_text | 1 |
-| primary_text | 37 |
+| primary_text | 39 |
 | reference_work | 1 |
 | research | 4 |
 | scholarly | 3 |
 | scholarship | 9 |
-| traditional_record | 2 |
+| traditional_record | 3 |
 
 ## Full registry
 
 | id | title | type | pages used in |
 |---|---|---|---|
+| 163-taishi-25 | Taishi cultivation Q&A no. 25 (163.com community column, 2021): why double-lotus is required | community | /experiences/exp-014-double-lotus-doctrine/ |
 | 163-taishi-28 | Taishi cultivation Q&A no. 28 (163.com community column, 2021) | community | /experiences/exp-010-lotus-pain/; /questions/must-i-sit-cross-legged/ |
 | 163-taishi-29 | Taishi cultivation Q&A no. 29 (163.com community column, 2021) | community | /experiences/exp-011-shougong-protocol/ |
 | 163-taishi-36 | Taishi cultivation Q&A no. 36 (163.com community column, 2021) | community | /experiences/exp-012-restless-body/ |
@@ -32,6 +33,7 @@ All sources used on the site — 70 total. Registry file:
 | ccdi-tangbi-dangche | CCDI study column on the idiom 螳臂当车 (sense-drift from Zhuangzi to Huainanzi to modern usage) | scholarly | /stories/mantis-and-chariot/ |
 | cook-2012 | Cook, Scott. The Bamboo Texts of Guodian. Cornell East Asia Series, 2012 | scholarship | /texts/daodejing/ |
 | daodejing | Daodejing (received Wang Bi text, 81 chapters) | primary_text | /concepts/wuwei/; /concepts/shouyi/; /concepts/qi/; /texts/daodejing/ |
+| daodejing-01-editions | Daodejing ch. 1: received text with teaching editions, full-text 81-chapter edition, and the punctuation-variant discussion (Wang Bi cutting vs received cutting) | primary_text | /translations/daodejing-01/ |
 | daodejing-05-editions | Daodejing ch. 5: received text with Wang Bi and Su Zhe commentaries (Daodejing.org), Gushiwen teaching edition, CCDI study column | primary_text | /translations/daodejing-05/ |
 | daodejing-48-editions | Daodejing ch. 48: received text with Wang Bi commentary transmission, Baike teaching edition, Daodejing.org | primary_text | /translations/daodejing-48/ |
 | daoshu | Daoshu (道枢), comp. Zeng Zao, Southern Song | primary_text | /timeline/daoshu-neiguan-zuowang/; /glossary/neiguan/ |
@@ -41,6 +43,7 @@ All sources used on the site — 70 total. Registry file:
 | guodian-report | Jingmen City Museum, 'Jingmen Guodian yihao Chumu', Wenwu 1997.7 (Guodian tomb no. 1 excavation report) | research | /timeline/guodian-daodejing/ |
 | health-baidu-dazuo | Baidu Health: 'Why the body warms during sitting' (medical popularization) | community | /patterns/warmth-and-qi-sensations/ |
 | henricks-1989 | Henricks, Robert G., trans. Lao-Tzu Te-Tao Ching (Mawangdui text). Ballantine, 1989 | scholarship | /texts/daodejing/ |
+| heshang-gong-sources | Heshang Gong dossier: Shenxian Zhuan ch. 8 (Ctext edition), Global Daoist database entry (dao.jic.io), Shuge edition note (Lu Zuqian recension), Shiji Yue Yi liezhuan transmission line | traditional_record | /people/heshang-gong/ |
 | huangting-jing | Huangting neijing jing (Yellow Court inner scripture), Shangqing tradition | primary_text | /glossary/dantian/; /timeline/huangting-jing-dantian/ |
 | iep-zhuangzi | Internet Encyclopedia of Philosophy, 'Zhuangzi' | scholarship | /texts/zhuangzi/ |
 | jin-shu-ge-hong | Jin shu (Book of Jin), biography of Ge Hong | historical_text | /people/ge-hong/; /texts/baopuzi/; /timeline/baopuzi-composition/ |
@@ -54,6 +57,7 @@ All sources used on the site — 70 total. Registry file:
 | qingjing-jing | Qingjing Jing (Scripture of Constant Clarity and Stillness) | primary_text | /texts/qingjing-jing/ |
 | robinet-1993 | Robinet, Isabelle. Taoist Meditation: The Mao-shan Tradition of Great Purity. SUNY Press, 1993 | scholarship | /concepts/shouyi/ |
 | shidian-daodejing-25 | Daodejing ch. 25, Heshang Gong recension (Shidian Guji edition) | primary_text | /translations/daodejing-25/ |
+| shidian-yihai-zuanwei-qiushui | Nanhua Zhenjing Yihai Zuanwei (Shidian Guji edition), Qiushui chapter with Guo Xiang/Lu/other commentary chain (turtle and phoenix passages) | primary_text | /stories/turtle-in-the-mud/; /stories/phoenix-and-owl/ |
 | shidian-zhuangzi-neipianzhu-dazongshi | Zhuangzi Neipian Zhu (Shidian Guji edition), Dazongshi chapter with commentary (yingning passage) | primary_text | /glossary/yingning/ |
 | shidian-zhuangzi-tongyi-renjianshi | Zhuangzi Tongyi (Shidian Guji edition), Renjianshi chapter with commentary | primary_text | /stories/mantis-and-chariot/ |
 | shiji-63 | Shiji (Records of the Grand Historian), ch. 63, 'Laozi Han Fei liezhuan' | primary_text | /people/laozi/; /people/zhuang-zhou/; /stories/confucius-meets-laozi/ |
@@ -70,10 +74,10 @@ All sources used on the site — 70 total. Registry file:
 | watson-1968 | Watson, Burton, trans. The Complete Works of Chuang Tzu. Columbia University Press, 1968 | scholarship | /texts/zhuangzi/; /concepts/zuowang/ |
 | wei-huacun-biography | Wei Huacun biographical tradition (251/252-334; Wei Shu's daughter; posthumous titles Wei Furen / Nanyue Furen); Shangqing revelation lineage | traditional_record | /people/wei-huacun/ |
 | weishu-shilao-zhi | Wei shu, Shilao zhi (treatise on Buddhism and Daoism); Bei shi, biography of Kou Zan | historical_record | /people/kou-qianzhi/; /timeline/kou-qianzhi-reform/ |
-| wikisource-zhuangzi-dasheng | Zhuangzi ch. 19 (Dasheng), Wikisource | primary_text | /stories/wooden-rooster/; /stories/artisan-qing/; /stories/cicada-catcher/; /translations/artisan-qing-passage/; /blog/three-craftsmen-dazheng/; /glossary/shen/; /stories/boatman/ |
-| wikisource-zhuangzi-dazongshi | Zhuangzi ch. 6 (Dazongshi), full text (Gushiwen and teaching editions, cross-checked with ctext parallel text) | primary_text | /stories/fish-in-the-dry-spring/; /glossary/liang-wang/; /translations/yingning-passage/ |
+| wikisource-zhuangzi-dasheng | Zhuangzi ch. 19 (Dasheng), Wikisource | primary_text | /stories/wooden-rooster/; /stories/artisan-qing/; /stories/cicada-catcher/; /translations/artisan-qing-passage/; /blog/three-craftsmen-dazheng/; /glossary/shen/; /stories/boatman/; /stories/swimmer-lvliang/ |
+| wikisource-zhuangzi-dazongshi | Zhuangzi ch. 6 (Dazongshi), full text (Gushiwen and teaching editions, cross-checked with ctext parallel text) | primary_text | /stories/fish-in-the-dry-spring/; /glossary/liang-wang/; /translations/yingning-passage/; /glossary/zhaoche/ |
 | wikisource-zhuangzi-dechongfu | Zhuangzi ch. 5 (Dechongfu): 'ren mo jian yu liushui er jian yu zhishui', as quoted in Sun Mingjun 2022 | primary_text | /glossary/zhi-shui/ |
-| wikisource-zhuangzi-qiushui | Zhuangzi ch. 17 (Qiushui), received text (Wikisource) | primary_text | /stories/fish-happiness/; /stories/handan-walk/; /stories/jingdi-zhiwa/; /stories/wangyang-xingtan/ |
+| wikisource-zhuangzi-qiushui | Zhuangzi ch. 17 (Qiushui), received text (Wikisource) | primary_text | /stories/fish-happiness/; /stories/handan-walk/; /stories/jingdi-zhiwa/; /stories/wangyang-xingtan/; /stories/phoenix-and-owl/; /stories/turtle-in-the-mud/ |
 | wikisource-zhuangzi-qiwulun | Zhuangzi ch. 2 (Qiwulun), received text (Wikisource) | primary_text | /stories/three-in-the-morning/ |
 | wikisource-zhuangzi-renjianshi | Zhuangzi ch. 4 (Renjian shi), Wikisource | primary_text | /concepts/xu/; /problems/seeing-light-in-sitting/ |
 | wikisource-zhuangzi-tianyun | Zhuangzi ch. 14 (Tianyun), full text (Gushiwen-classical, Hong Kong Education Bureau teaching edition, Taiwan Ministry of Education idiom dictionary) | primary_text | /stories/dongshi-frowning/ |

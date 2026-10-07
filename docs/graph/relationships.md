@@ -1,24 +1,24 @@
 # Relationship Registry
 
-Knowledge-graph edges — 331 total. Top-level key: `items` in
+Knowledge-graph edges — 361 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
 
 | relation | count |
 |---|---|
-| associated_with | 17 |
+| associated_with | 20 |
 | authored | 2 |
-| concerns | 133 |
+| concerns | 140 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 65 |
+| described_in | 69 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 76 |
-| translated_as | 14 |
+| related_to | 91 |
+| translated_as | 15 |
 
 ## All edges
 
@@ -76,6 +76,12 @@ Knowledge-graph edges — 331 total. Top-level key: `items` in
 | dantian | qi | related_to |
 | dantian | shouyi | related_to |
 | daodejing | guodian-daodejing | described_in |
+| daodejing-01 | dao | concerns |
+| daodejing-01 | daodejing | translated_as |
+| daodejing-01 | daodejing-25 | related_to |
+| daodejing-01 | guan | concerns |
+| daodejing-01 | qingjing-jing-opening | related_to |
+| daodejing-01 | xu | concerns |
 | daodejing-05 | daodejing | translated_as |
 | daodejing-05 | daodejing-25 | related_to |
 | daodejing-05 | tuoyue | related_to |
@@ -121,6 +127,9 @@ Knowledge-graph edges — 331 total. Top-level key: `items` in
 | exp-013-buddhist-daoist-boundary | combine-zuowang-mindfulness | related_to |
 | exp-013-buddhist-daoist-boundary | drowsiness-in-sitting | related_to |
 | exp-013-buddhist-daoist-boundary | must-i-sit-cross-legged | related_to |
+| exp-014-double-lotus-doctrine | exp-010-lotus-pain | related_to |
+| exp-014-double-lotus-doctrine | exp-012-restless-body | related_to |
+| exp-014-double-lotus-doctrine | must-i-sit-cross-legged | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -140,6 +149,11 @@ Knowledge-graph edges — 331 total. Top-level key: `items` in
 | handan-walk | fish-happiness | related_to |
 | handan-walk | zhuangzi | described_in |
 | handan-walk | ziran | concerns |
+| heshang-gong | daodejing | associated_with |
+| heshang-gong | daodejing-05 | related_to |
+| heshang-gong | daodejing-25 | related_to |
+| heshang-gong | ge-hong | associated_with |
+| heshang-gong | laozi | associated_with |
 | how-long-should-i-sit | drowsiness-in-sitting | concerns |
 | how-long-should-i-sit | jingzuo | concerns |
 | huangting-jing | dantian | concerns |
@@ -207,6 +221,10 @@ Knowledge-graph edges — 331 total. Top-level key: `items` in
 | peng-bird | drumming-basin | related_to |
 | peng-bird | zhuangzi | described_in |
 | peng-bird | ziran | concerns |
+| phoenix-and-owl | carpenter-shi | related_to |
+| phoenix-and-owl | fish-happiness | related_to |
+| phoenix-and-owl | turtle-in-the-mud | related_to |
+| phoenix-and-owl | zhuangzi | described_in |
 | qi | daodejing | described_in |
 | qi | qi-belief-necessary | concerns |
 | qi | zhuangzi | described_in |
@@ -237,6 +255,10 @@ Knowledge-graph edges — 331 total. Top-level key: `items` in
 | sima-chengzhen | zuowang-lun | discusses |
 | sima-chengzhen | zuowang-lun-composition | described_in |
 | standing-in-snow | jingzuo | concerns |
+| swimmer-lvliang | boatman | related_to |
+| swimmer-lvliang | zhuangzi | described_in |
+| swimmer-lvliang | ziran | concerns |
+| swimmer-lvliang | zuowang | concerns |
 | taiping-jing | jing-qi-shen | concerns |
 | taiping-jing | qi | concerns |
 | taiping-jing | shouyi | concerns |
@@ -266,6 +288,10 @@ Knowledge-graph edges — 331 total. Top-level key: `items` in
 | tuoyue | daodejing | described_in |
 | tuoyue | jing | concerns |
 | tuoyue | xu | concerns |
+| turtle-in-the-mud | phoenix-and-owl | related_to |
+| turtle-in-the-mud | tao-hongjing | related_to |
+| turtle-in-the-mud | zhuang-zhou | related_to |
+| turtle-in-the-mud | zhuangzi | described_in |
 | useless-gourd | peng-bird | related_to |
 | useless-gourd | wuwei | concerns |
 | useless-gourd | zhuangzi | described_in |
@@ -329,6 +355,10 @@ Knowledge-graph edges — 331 total. Top-level key: `items` in
 | yongxin-ruo-jing-passage | virtual-room-passage | related_to |
 | yongxin-ruo-jing-passage | zhi-shui | related_to |
 | yongxin-ruo-jing-passage | zhuangzi | translated_as |
+| zhaoche | jing | concerns |
+| zhaoche | yingning | concerns |
+| zhaoche | yingning-passage | related_to |
+| zhaoche | zhuangzi | described_in |
 | zhi-shui | jing | concerns |
 | zhi-shui | zhuangzi | described_in |
 | zhiyi | xiao-zhiguan | authored |

@@ -1,10 +1,11 @@
 # People
 
-person records from the people content collection — 9 records.
+person records from the people content collection — 10 records.
 
 | id | title | chinese | dates | tradition | historicity | page |
 |---|---|---|---|---|---|
 | ge-hong | Ge Hong | 葛洪 | c. 283 – 343 CE (some sources: died 363) | Daoist (Eastern Jin; alchemical lineage of Zuo Ci – Ge Xuan – Zheng Yin) | historical | /people/ge-hong/ |
+| heshang-gong | Heshang Gong (河上公) | 河上公 |  |  | legendary | /people/heshang-gong/ |
 | kou-qianzhi | Kou Qianzhi (寇谦之) | 寇谦之 |  |  | historical | /people/kou-qianzhi/ |
 | laozi | Laozi | 老子 |  |  | uncertain | /people/laozi/ |
 | sima-chengzhen | Sima Chengzhen | 司马承祯 |  |  | historical | /people/sima-chengzhen/ |
