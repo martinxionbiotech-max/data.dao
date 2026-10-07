@@ -1,10 +1,11 @@
 # People
 
-person records from the people content collection — 21 records.
+person records from the people content collection — 22 records.
 
 | id | title | chinese | dates | tradition | historicity | page |
 |---|---|---|---|---|---|
 | chen-tuan | Chen Tuan (陈抟) | 陈抟 |  |  | historical | /people/chen-tuan/ |
+| cheng-xuanying | Cheng Xuanying (成玄英) | 成玄英 |  |  | historical | /people/cheng-xuanying/ |
 | fu-yi | Fu Yi (傅奕) | 傅奕 |  |  | historical | /people/fu-yi/ |
 | ge-hong | Ge Hong | 葛洪 | c. 283 – 343 CE (some sources: died 363) | Daoist (Eastern Jin; alchemical lineage of Zuo Ci – Ge Xuan – Zheng Yin) | historical | /people/ge-hong/ |
 | guo-xiang | Guo Xiang (郭象) | 郭象 |  |  | historical | /people/guo-xiang/ |

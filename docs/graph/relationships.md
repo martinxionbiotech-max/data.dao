@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 965 total. Top-level key: `items` in
+Knowledge-graph edges — 1026 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -12,12 +12,12 @@ Knowledge-graph edges — 965 total. Top-level key: `items` in
 | concerns | 217 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 119 |
+| described_in | 124 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 546 |
+| related_to | 602 |
 | translated_as | 23 |
 
 ## All edges
@@ -118,6 +118,15 @@ Knowledge-graph edges — 965 total. Top-level key: `items` in
 | chen-tuan | peng-bird | related_to |
 | chen-tuan | zhuang-zhou | related_to |
 | chen-tuan | zhuangzi | associated_with |
+| cheng-xuanying | bao-guang | related_to |
+| cheng-xuanying | daodejing | related_to |
+| cheng-xuanying | daodejing-01 | related_to |
+| cheng-xuanying | daodejing-02 | related_to |
+| cheng-xuanying | guo-xiang | related_to |
+| cheng-xuanying | tao-hongjing | related_to |
+| cheng-xuanying | wang-bi | related_to |
+| cheng-xuanying | xuan | related_to |
+| cheng-xuanying | zhuangzi | related_to |
 | chui-gou-zhe | artisan-qing | related_to |
 | chui-gou-zhe | cicada-catcher | related_to |
 | chui-gou-zhe | cook-ding | related_to |
@@ -216,6 +225,12 @@ Knowledge-graph edges — 965 total. Top-level key: `items` in
 | daodejing-12 | xiao-zhiguan | related_to |
 | daodejing-12 | xinzhai-passage | related_to |
 | daodejing-12 | xu | concerns |
+| daodejing-13 | daodejing | described_in |
+| daodejing-13 | daodejing-02 | related_to |
+| daodejing-13 | daodejing-07 | related_to |
+| daodejing-13 | jing | related_to |
+| daodejing-13 | should-i-meditate-when-sick | related_to |
+| daodejing-13 | wu-sang-wo | related_to |
 | daodejing-14 | chen-tuan | related_to |
 | daodejing-14 | dao | concerns |
 | daodejing-14 | daodejing | translated_as |
@@ -483,6 +498,32 @@ Knowledge-graph edges — 965 total. Top-level key: `items` in
 | how-long-until-results | should-i-meditate-when-sick | related_to |
 | how-long-until-results | wooden-rooster-passage | related_to |
 | how-long-until-results | yingning-passage | related_to |
+| hua | butterfly-dream | related_to |
+| hua | da-kuai | related_to |
+| hua | daodejing-40 | related_to |
+| hua | daye-zhu-jin | related_to |
+| hua | peng-bird | related_to |
+| hua | tian-ji | related_to |
+| hua | zhi-yan | related_to |
+| hua | zhuangzi | described_in |
+| hua | ziran | related_to |
+| huan-gong-jian-gui | exp-020-false-first-dhyana | related_to |
+| huan-gong-jian-gui | huzi-jixian | related_to |
+| huan-gong-jian-gui | qinshi-mourning | related_to |
+| huan-gong-jian-gui | seeing-light-in-sitting | related_to |
+| huan-gong-jian-gui | xushi-sheng-bai | related_to |
+| huan-gong-jian-gui | zhuangzi | described_in |
+| huan-gong-jian-gui | zhuangzi-skeleton | related_to |
+| huan-zhong | huzi-jixian | related_to |
+| huan-zhong | qiwu | related_to |
+| huan-zhong | qiwulun-wu-sang-wo | related_to |
+| huan-zhong | three-in-the-morning | related_to |
+| huan-zhong | tian-jun | related_to |
+| huan-zhong | xuzhou-empty-boat | related_to |
+| huan-zhong | yongxin-ruo-jing-passage | related_to |
+| huan-zhong | zhen-zai | related_to |
+| huan-zhong | zhi-shui | related_to |
+| huan-zhong | zhuangzi | described_in |
 | huangting-jing | dantian | concerns |
 | huangting-jing-dantian | dantian | concerns |
 | huangting-jing-dantian | huangting-jing | described_in |
@@ -828,6 +869,17 @@ Knowledge-graph edges — 965 total. Top-level key: `items` in
 | what-is-stillness | jingzuo | concerns |
 | wheelwright-bian | zhuangzi | described_in |
 | wheelwright-bian | ziran | concerns |
+| why-do-i-keep-quitting | daodejing-64 | related_to |
+| why-do-i-keep-quitting | drowsiness-vs-stillness | related_to |
+| why-do-i-keep-quitting | exp-012-restless-body | related_to |
+| why-do-i-keep-quitting | exp-020-false-first-dhyana | related_to |
+| why-do-i-keep-quitting | exp-024-standing-and-sitting | related_to |
+| why-do-i-keep-quitting | how-long-should-i-sit | related_to |
+| why-do-i-keep-quitting | how-long-until-results | related_to |
+| why-do-i-keep-quitting | marsh-pheasant | related_to |
+| why-do-i-keep-quitting | ren-gongzi-fishing | related_to |
+| why-do-i-keep-quitting | tu-long-zhi-ji | related_to |
+| why-do-i-keep-quitting | what-counts-as-progress | related_to |
 | wooden-rooster | shouyi | concerns |
 | wooden-rooster | wuwei | concerns |
 | wooden-rooster | zhuangzi | described_in |
@@ -954,6 +1006,15 @@ Knowledge-graph edges — 965 total. Top-level key: `items` in
 | zhen-zai | ziran | concerns |
 | zhi-shui | jing | concerns |
 | zhi-shui | zhuangzi | described_in |
+| zhi-yan | bao-guang | related_to |
+| zhi-yan | butterfly-dream | related_to |
+| zhi-yan | daodejing-02 | related_to |
+| zhi-yan | qiwu | related_to |
+| zhi-yan | ren-gongzi-fishing | related_to |
+| zhi-yan | three-in-the-morning | related_to |
+| zhi-yan | tian-jun | related_to |
+| zhi-yan | zhuangzi | described_in |
+| zhi-yan | ziran | related_to |
 | zhili-shu | liang-wang | related_to |
 | zhili-shu | mountain-tree-goose | related_to |
 | zhili-shu | useless-gourd | related_to |

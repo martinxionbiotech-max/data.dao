@@ -1,6 +1,6 @@
 # Sources Registry
 
-All sources used on the site — 149 total. Registry file:
+All sources used on the site — 153 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
@@ -12,9 +12,9 @@ All sources used on the site — 149 total. Registry file:
 | community | 21 |
 | community_archive | 1 |
 | historical | 5 |
-| historical_record | 6 |
+| historical_record | 7 |
 | historical_text | 1 |
-| primary_text | 85 |
+| primary_text | 88 |
 | reference | 1 |
 | reference_work | 1 |
 | research | 4 |
@@ -48,6 +48,7 @@ All sources used on the site — 149 total. Registry file:
 | baopuzi-shizhi | Baopuzi, Inner Chapters, Shizhi chapter (释滞): taixi definition and moving-qi conditions | primary_text | /practices/taixi/; /problems/breath-stopping-anxiety/ |
 | ccdi-tangbi-dangche | CCDI study column on the idiom 螳臂当车 (sense-drift from Zhuangzi to Huainanzi to modern usage) | scholarly | /stories/mantis-and-chariot/ |
 | chen-tuan-sources | Chen Tuan dossier: Wikipedia (zh) with Song shi ch. 457 and Tang caizi zhuan citations; Baidu Baike with the Song shi quotations (Shizong's yellow-white question, Taizong's praise) | historical | /people/chen-tuan/ |
+| cheng-xuanying-sources | Cheng Xuanying (608-669): the Baidu Baike Zhuangzi zhushu biographical entry (Zishi, Shanzhou, Xihua fashi title Zhenguan 5, Yuntai mountain retreat, Chongxuan school, the three works); the Daoist Culture Centre database record of the Nanhua zhenjing zhushu (35 juan, Zhengtong Daozang, Guo Qingfan incorporation, Zhonghua shuju 1998 edition); the Gong Pengcheng study of his Buddhist absorption (Chengguan's charge, the huahu thesis, the Wude 7 three-teachings debates) | historical_record | /people/cheng-xuanying/ |
 | cook-2012 | Cook, Scott. The Bamboo Texts of Guodian. Cornell East Asia Series, 2012 | scholarship | /texts/daodejing/ |
 | daodejing | Daodejing (received Wang Bi text, 81 chapters) | primary_text | /concepts/wuwei/; /concepts/shouyi/; /concepts/qi/; /texts/daodejing/ |
 | daodejing-01-editions | Daodejing ch. 1: received text with teaching editions, full-text 81-chapter edition, and the punctuation-variant discussion (Wang Bi cutting vs received cutting) | primary_text | /translations/daodejing-01/ |
@@ -59,6 +60,7 @@ All sources used on the site — 149 total. Registry file:
 | daodejing-08-editions | Daodejing ch. 8, received text, verified against three independent reproductions that agree (a Douban Read column quoting Su Zhe Laozi jie glosses on the seven skills; a traditional-text reading; the Our China Story column, which records 政善治 for received 正善治) | primary_text | /translations/daodejing-08/ |
 | daodejing-11-editions | Daodejing ch. 11, received text, verified against four independent reproductions that agree (the Zhihu full-text edition; the Jingangjin bilingual edition; the Daodejing.org chapter page with glosses; the Chinese Text Project Heshang Gong zhangju parallel, whose chapter title is Wu Yong) | primary_text | /translations/daodejing-11/ |
 | daodejing-12-editions | Daodejing ch. 12, received text, verified against four independent reproductions that agree (the Zhihu Wang Bi edition with glosses; the Baidu Baike entry with translation; the Shandong University chapter page; the Daodejing.org chapter page), with the kou shuang injury-sense gloss and the Heshang Gong chapter title jianyu registered | primary_text | /translations/daodejing-12/ |
+| daodejing-13-editions | Daodejing ch. 13, verified against the Mawangdui silk A collation (6dsy.cn, recording the 贵为身于为天下 and 宠之为下 readings), the Shandong University chapter page, the Qstheory reprint of the Guangming Daily study by Zhang Jing (Gao Heng, Chen Guying, Zhang Songhui, Feng Youlan, Ren Jiyu interpretations; the two idioms both from this chapter), and the Daodejing.org chapter page | primary_text | /translations/daodejing-13/ |
 | daodejing-14-editions | Daodejing ch. 14, received text: two independent full-text reproductions agreeing (mindiver.se; a Sheng sheng xuetang teaching edition with Heshang Gong gloss 无色曰夷无声曰希无形曰微) | primary_text | /translations/daodejing-14/ |
 | daodejing-17-editions | Daodejing ch. 17, received text with the 下知有之/不知有之 variant, from the site's earlier Daodejing verification passes | primary_text | /translations/daodejing-17/ |
 | daodejing-22-editions | Daodejing ch. 22: Gushiwen teaching edition and the Mawangdui manuscript variants (曲则金/枉则定; 执一以为天下牧) | primary_text | /translations/daodejing-22/ |
@@ -71,6 +73,7 @@ All sources used on the site — 149 total. Registry file:
 | daodejing-63-editions | Daodejing ch. 63, received text: Sreading full-text edition and a second full-text reproduction; the editions' treatment of 报怨以德 recorded without adjudication | primary_text | /translations/daodejing-63/ |
 | daodejing-64-editions | Daodejing ch. 64, received text: Taiji Shuguan edition with notes (the ch. 29 misplaced-strip tradition recorded); Wikipedia entry on the idiom; Kekenet bilingual edition; Dudianji bilingual edition | primary_text | /translations/daodejing-64/ |
 | daoshu | Daoshu (道枢), comp. Zeng Zao, Southern Song | primary_text | /timeline/daoshu-neiguan-zuowang/; /glossary/neiguan/ |
+| dasheng-huangong-editions | Zhuangzi ch. 19 (Da Sheng), the Duke Huan ghost passage, verified against the Wikisource full chapter, the with.org chapter text, the Wang Xianqian jijie edition (zdic, with Lu Deming glosses, Sima Biao ghost names, the vermillion-cap variant, and the Guo Xiang chapter note), and the ctext parallel passage | primary_text | /stories/huan-gong-jian-gui/ |
 | dasheng-shanbao-editions | Zhuangzi ch. 19 (Da Sheng), the Shan Bao and Zhang Yi passage, verified against the Wikisource full text, the Zhihu full-text commentary, the 8bei8 reading text, the Wang Xianqian Zhuangzi jijie (zdic.net), and the Chinese Text Project parallel text, which agree verbatim (游/游 and 縣/悬 gloss variants registered) | primary_text | /stories/shanbao-zhangyi/ |
 | dazongshi-daye-editions | Zhuangzi ch. 6 (Da Zong Shi), the Zi Lai smelter passage, verified against the Wikisource full chapter, the Xiang Xiu-Guo Xiang commentary edition (ab.newdu.com, with full glosses), the with.org chapter text, and the Education Encyclopedia survey, which agree (variants: 大块载我以形/大块以载我以形, 造化者/造物者) | primary_text | /stories/daye-zhu-jin/ |
 | er-cheng-waishu | Er Cheng waishu (Outer Collection of the Two Chengs), juan 12 | primary_text | /concepts/jingzuo/; /practices/jingzuo/ |
@@ -163,6 +166,7 @@ All sources used on the site — 149 total. Registry file:
 | xinli001-qa | Xinli001 (Yixinli) meditation Q&A — anonymous user questions | community | /experiences/exp-001-falling-asleep/; /questions/falling-asleep-during-meditation/ |
 | xuwugui-editions | Zhuangzi ch. 24 (Xu Wugui) passage at Huizi's grave: Shidian guji full text (SBCK108) and the Gushiwen teaching edition with notes, agreeing throughout | primary_text | /stories/yun-jin-cheng-feng/ |
 | yan-zun-sources | Yan Zun dossier: Baidu Baike biography (Hanshu and Gaoshi zhuan material, the rich man exchange, the Junping well); a National Taiwan Normal University thesis on the Laozi zhiguì via Airiti; Wikisource listing of the zhiguì among Daodejing commentary editions | historical | /people/yan-zun/ |
+| yuyan-zhiyan-editions | Zhuangzi ch. 27 (Yu Yan), the opening self-summary of the three modes of speech (yuyan/zhongyan/zhiyan), verified against the Wikisource full chapter and the Tsinghua literary research center close reading (quoting the Guo Qingfan punctuated text), with the commentary tradition registered from the Guangming Daily study by Song Xiaoke (Chinawriter reprint: Sima Biao, Guo Xiang, Cheng Xuanying, Luo Miandao readings plus the modern Li Binghai and Guo Changbao proposals) | primary_text | /stories/zhi-yan/; /glossary/hua/ |
 | zdic-jiafuzuo | Zdic dictionary entry: jiafuzuo (with Faxian, Foguo Ji attestation) | reference_work | /glossary/jiafuzuo/ |
 | zeyang-editions | Zhuangzi ch. 25 (Zeyang) King Wei Ying passage: I-Kuan Tao classics full text (with.org), Wix temple teaching edition, and the Taiping yulan parallel noted by ctext | primary_text | /stories/snail-horn-war/ |
 | zhang-boduan-sources | Zhang Boduan (984-1082): Global Daoism database (dao.jic.io, citing the Wuzhen pian prefaces and Qing Xitai); Shaoyang Yuqing Gong biography (quoting the preface verbatim, the Lu Yanfu record, the death-verse); Zheng Weiyi study in Hongdao 58 (2014) on the two threes in the postface; Airiti thesis abstract on the Wuzhen pian; Zhejiang CPPCC cultural-history entry (1075 completion, Yongzheng enfeoffment); Baidu Baike | historical_record | /people/zhang-boduan/ |

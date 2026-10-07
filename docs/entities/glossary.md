@@ -1,6 +1,6 @@
 # Glossary
 
-term records from the glossary content collection — 41 records.
+term records from the glossary content collection — 43 records.
 
 | id | title | chinese | pinyin | literalMeaning | recommended |
 |---|---|---|---|---|
@@ -11,6 +11,8 @@ term records from the glossary content collection — 41 records.
 | dao | Dao | 道 | dào | way, path, road; to speak | keep romanized as Dao/dào; capitalize 'Way' when the technical sense is meant |
 | de | De | 德 | dé | virtue, power, inner potency | keep romanized as De/dé where technical; 'virtue/power' gloss on first use |
 | guan | Guan | 观 | guān | to observe; to watch; to look deeply into | observation (inner observation where the target is the interior); 'contemplation' only with Buddhist contexts flagged |
+| hua | Hua (化) | 化 | huà |  |  |
+| huan-zhong | Huanzhong (环中) | 环中 | huánzhōng |  |  |
 | ji-ren | Jiren (畸人) | 畸人 | jīrén |  |  |
 | ji-xin | Jixin (机心) | 机心 | jīxīn |  |  |
 | jiafuzuo | Jiafuzuo | 结跏趺坐 | jiéjiāfūzuò | bound sitting with folded soles: 结 tie/bind, 跏 cross, 趺 instep/sole, 坐 sit — the ankles and insteps crossed and settled on the thighs | 'full-lotus posture' when the double-crossed form is meant; 'cross-legged sitting' for the general family (and never just 'lotus,' which is a flower loan) |

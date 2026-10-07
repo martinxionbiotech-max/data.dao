@@ -1,6 +1,6 @@
 # Translations
 
-translation records from the translations content collection — 32 records.
+translation records from the translations content collection — 33 records.
 
 | id | title | sourceText | chapter |
 |---|---|---|
@@ -14,6 +14,7 @@ translation records from the translations content collection — 32 records.
 | daodejing-10-shouyi | Daodejing ch. 10 (shouyi line): Full Translation | daodejing |  |
 | daodejing-11 | Thirty Spokes Share One Hub (Daodejing 11) | daodejing | Ch. 11 |
 | daodejing-12 | The Five Colors Blind the Eye (Daodejing 12) | daodejing | Ch. 12 |
+| daodejing-13 | Favor and Disgrace Both Startle (Daodejing 13) | daodejing | Ch. 13 |
 | daodejing-14 | Looked for and Not Seen (Daodejing 14) | daodejing | Ch. 14 |
 | daodejing-16 | 'Reach Emptiness at the Limit' (Daodejing 16) | daodejing |  |
 | daodejing-17 | The Best Ruler Is Barely Known (Daodejing 17) | daodejing | Ch. 17 |

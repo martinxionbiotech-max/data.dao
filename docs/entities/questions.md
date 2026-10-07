@@ -1,6 +1,6 @@
 # Questions
 
-question records from the questions content collection — 20 records.
+question records from the questions content collection — 21 records.
 
 | id | title | question | answerState |
 |---|---|---|
@@ -22,5 +22,6 @@ question records from the questions content collection — 20 records.
 | warmth-tingling-when-sitting | Is It Normal to Feel Warmth or Tingling When I Sit? | When I sit, I sometimes feel warmth spreading, or tingling and small movements. Is this normal, and should I do anything about it? | answered |
 | what-counts-as-progress | What Counts as Progress? | How do I know if my practice is progressing? Am I advancing toward something, or just sitting? | answered |
 | what-is-stillness | What Is Stillness (Jing), Really? | What is 'stillness' (静 jing) in the Daoist sense — just being quiet, or something more? | answered |
+| why-do-i-keep-quitting | Why Do I Keep Quitting? | I keep starting a sitting practice and stopping after a few days or weeks. I feel like I lack discipline. Why do I keep quitting, and how do I actually stick with it? | answered |
 | zuowang-safety-without-teacher | Is Daoist Sitting Safe to Practice Without a Teacher? | Can I practice Daoist sitting (zuowang / jingzuo) without a teacher? | open |
 | zuowang-vs-jingzuo | What Is the Difference Between Zuowang and Jingzuo? | What is the difference between zuowang and jingzuo? | answered |

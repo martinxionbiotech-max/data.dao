@@ -1,6 +1,6 @@
 # Stories
 
-story records from the stories content collection — 54 records.
+story records from the stories content collection — 56 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
@@ -26,6 +26,7 @@ story records from the stories content collection — 54 records.
 | guangchengzi | The Yellow Emperor Asks Guangchengzi | Daoist | zhuangzi |
 | handan-walk | The Handan Walk: What the Imitator Loses on the Way | Daoist | zhuangzi |
 | hezhe-zhi-fu | The Fish in the Dried-Up Rut | Daoist | zhuangzi |
+| huan-gong-jian-gui | The Duke Who Saw a Ghost | Daoist | zhuangzi |
 | hundun | Hundun: The Story of the Seven Holes | Daoist | zhuangzi |
 | huzi-jixian | Huzi and the Shaman: Four Depths of Stillness | Daoist | zhuangzi |
 | jingdi-zhiwa | The Well Frog and the Sea Turtle: The Three Limits of Knowing | Daoist | zhuangzi |
@@ -56,5 +57,6 @@ story records from the stories content collection — 54 records.
 | wooden-rooster | The Wooden Rooster | Daoist | zhuangzi |
 | xuzhou-empty-boat | The Empty Boat | Daoist | zhuangzi |
 | yun-jin-cheng-feng | The Axe Sweeping the Wind | Daoist | zhuangzi |
+| zhi-yan | Goblet Words | Daoist | zhuangzi |
 | zhili-shu | Zhili Shu: The Broken Body That Outlived the Draft | Daoist | zhuangzi |
 | zhuangzi-skeleton | Zhuangzi and the Skull | Daoist | zhuangzi |
