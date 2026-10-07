@@ -1,6 +1,6 @@
 # Translations
 
-translation records from the translations content collection — 36 records.
+translation records from the translations content collection — 37 records.
 
 | id | title | sourceText | chapter |
 |---|---|---|
@@ -25,6 +25,7 @@ translation records from the translations content collection — 36 records.
 | daodejing-36 | What Is to Be Gathered Must First Be Spread (Daodejing 36) | daodejing | Ch. 36 |
 | daodejing-37 | Non-Acting and Nothing Left Undone (Daodejing 37) | daodejing | Ch. 37 |
 | daodejing-40 | Returning Is the Motion of the Way (Daodejing 40) | daodejing | Ch. 40 |
+| daodejing-42 | The Way Gives Birth to One (Daodejing 42) | daodejing | Ch. 42 |
 | daodejing-45 | The Great Completion Seems Broken (Daodejing 45) | daodejing | Ch. 45 |
 | daodejing-46 | When the World Has the Way (Daodejing 46) | daodejing | Ch. 46 |
 | daodejing-48 | Learning Adds, the Way Pairs Away (Daodejing 48) | daodejing | Ch. 48 |

@@ -7,7 +7,7 @@ search index, 163.com teacher Q&A, Xinli001 Q&A, Baidu Health, Zhihu columns).
 All records paraphrased and anonymized; no usernames, no direct quotes without
 permission.
 
-## Current records — 29
+## Current records — 30
 
 | id | theme | confidence | page |
 |---|---|---|
@@ -40,6 +40,7 @@ permission.
 | EXP-027 | Finding a Teacher | — | /experiences/exp-027-finding-a-teacher/ |
 | EXP-028 | Abdominal Breathing | — | /experiences/exp-028-abdominal-breathing/ |
 | EXP-029 | The Human Body | — | /experiences/exp-029-the-human-body/ |
+| EXP-030 | The Pain Ledger | — | /experiences/exp-030-the-pain-ledger/ |
 
 ## Privacy rules
 

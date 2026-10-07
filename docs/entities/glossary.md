@@ -1,6 +1,6 @@
 # Glossary
 
-term records from the glossary content collection — 47 records.
+term records from the glossary content collection — 48 records.
 
 | id | title | chinese | pinyin | literalMeaning | recommended |
 |---|---|---|---|---|
@@ -45,6 +45,7 @@ term records from the glossary content collection — 47 records.
 | xuan | Xuan | 玄 | xuán | dark; deep; distant beyond sight; the color of depth | dark/depth (with 'beyond naming' glossed); avoid 'mysterious' where it suggests the occult |
 | xushi-sheng-bai | Xushi sheng bai (虚室生白) | 虚室生白 | xūshì shēng bái |  |  |
 | yingning | Yingning (撄宁) | 撄宁 | yīngníng |  |  |
+| yuan-du-yi-wei-jing | Yuandu Yiwei Jing (缘督以为经) | 缘督以为经 | yuán dū yǐ wéi jīng |  |  |
 | zhao-che | Zhaoche (朝彻) | 朝彻 | zhāochè |  |  |
 | zhaoche | Zhaoche (朝彻) | 朝彻 | zhāochè |  |  |
 | zhen-zai | Zhenzai (真宰) | 真宰 | zhēnzǎi |  |  |

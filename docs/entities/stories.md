@@ -1,6 +1,6 @@
 # Stories
 
-story records from the stories content collection — 64 records.
+story records from the stories content collection — 66 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
@@ -20,6 +20,7 @@ story records from the stories content collection — 64 records.
 | dao-yi-you-dao | The Robber's Five Virtues | Daoist | zhuangzi |
 | daye-zhu-jin | The Metal That Demanded Its Shape | Daoist | zhuangzi |
 | diao-ling-yi-que | The Magpie at Diaoling | Daoist | zhuangzi |
+| dongguo-zi-asks | The Way Is in the Dung | Daoist | zhuangzi |
 | dongshi-frowning | The Woman Who Copied the Frown: Imitation Without Its Ground | Daoist | zhuangzi |
 | drumming-basin | Drumming on the Basin: Zhuangzi Sings When His Wife Dies | Daoist | zhuangzi |
 | fish-happiness | The Joy of the Fish: Zhuangzi and Hui Shi on the Bridge | Daoist | zhuangzi |
@@ -65,6 +66,7 @@ story records from the stories content collection — 64 records.
 | yanshi-wind-song | The Song of the Yanshi Wind | Daoist | zhuangzi |
 | yi-dai-niao | The Dithering Bird | Daoist | zhuangzi |
 | yun-jin-cheng-feng | The Axe Sweeping the Wind | Daoist | zhuangzi |
+| zhi-wen-wuwei | The Three Answers That Aren't | Daoist | zhuangzi |
 | zhi-yan | Goblet Words | Daoist | zhuangzi |
 | zhili-shu | Zhili Shu: The Broken Body That Outlived the Draft | Daoist | zhuangzi |
 | zhuangzi-skeleton | Zhuangzi and the Skull | Daoist | zhuangzi |

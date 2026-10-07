@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 1247 total. Top-level key: `items` in
+Knowledge-graph edges — 1302 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -12,13 +12,13 @@ Knowledge-graph edges — 1247 total. Top-level key: `items` in
 | concerns | 217 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 140 |
+| described_in | 144 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 807 |
-| translated_as | 23 |
+| related_to | 857 |
+| translated_as | 24 |
 
 ## All edges
 
@@ -320,6 +320,16 @@ Knowledge-graph edges — 1247 total. Top-level key: `items` in
 | daodejing-40 | daodejing-25 | related_to |
 | daodejing-40 | daodejing-36 | related_to |
 | daodejing-40 | wuwei | concerns |
+| daodejing-42 | dao | related_to |
+| daodejing-42 | daodejing | translated_as |
+| daodejing-42 | daodejing | described_in |
+| daodejing-42 | daodejing-22 | related_to |
+| daodejing-42 | daodejing-25 | related_to |
+| daodejing-42 | daodejing-40 | related_to |
+| daodejing-42 | daodejing-45 | related_to |
+| daodejing-42 | qi | related_to |
+| daodejing-42 | xu | related_to |
+| daodejing-42 | ziran | related_to |
 | daodejing-45 | artisan-qing | related_to |
 | daodejing-45 | bei-gong-she | related_to |
 | daodejing-45 | daodejing | translated_as |
@@ -422,6 +432,14 @@ Knowledge-graph edges — 1247 total. Top-level key: `items` in
 | does-practice-need-faith | zhang-boduan | related_to |
 | does-practice-need-faith | zuowang | related_to |
 | does-practice-need-faith | zuowang-passage | related_to |
+| dongguo-zi-asks | dao | related_to |
+| dongguo-zi-asks | qiwu | related_to |
+| dongguo-zi-asks | tushan-shuo | related_to |
+| dongguo-zi-asks | xiaoyao | related_to |
+| dongguo-zi-asks | xu | related_to |
+| dongguo-zi-asks | zhi-wen-wuwei | related_to |
+| dongguo-zi-asks | zhuangzi | described_in |
+| dongguo-zi-asks | ziran | related_to |
 | dongshi-frowning | handan-walk | related_to |
 | dongshi-frowning | zhuangzi | described_in |
 | dongshi-frowning | ziran | concerns |
@@ -551,6 +569,15 @@ Knowledge-graph edges — 1247 total. Top-level key: `items` in
 | exp-029-the-human-body | tiaoxi | related_to |
 | exp-029-the-human-body | what-counts-as-progress | related_to |
 | exp-029-the-human-body | why-am-i-so-sleepy | related_to |
+| exp-030-the-pain-ledger | exp-003-leg-pain-filling | related_to |
+| exp-030-the-pain-ledger | exp-006-leg-numbness | related_to |
+| exp-030-the-pain-ledger | exp-010-lotus-pain | related_to |
+| exp-030-the-pain-ledger | exp-018-halflotus-to-full-lotus | related_to |
+| exp-030-the-pain-ledger | exp-029-the-human-body | related_to |
+| exp-030-the-pain-ledger | how-long-should-i-sit | related_to |
+| exp-030-the-pain-ledger | jingzuo | related_to |
+| exp-030-the-pain-ledger | must-i-sit-cross-legged | related_to |
+| exp-030-the-pain-ledger | what-counts-as-progress | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -780,6 +807,11 @@ Knowledge-graph edges — 1247 total. Top-level key: `items` in
 | luhou-yang-niao | phoenix-and-owl | related_to |
 | luhou-yang-niao | zhuangzi | described_in |
 | luhou-yang-niao | ziran | concerns |
+| ma-yu | jingzuo | related_to |
+| ma-yu | lin-hui-qi-bi | related_to |
+| ma-yu | qiu-chuji | related_to |
+| ma-yu | wang-chongyang | related_to |
+| ma-yu | wang-chuyi | related_to |
 | mantis-and-chariot | hundun | related_to |
 | mantis-and-chariot | wuwei | concerns |
 | mantis-and-chariot | zhuangzi | described_in |
@@ -1076,6 +1108,13 @@ Knowledge-graph edges — 1247 total. Top-level key: `items` in
 | why-do-i-keep-quitting | ren-gongzi-fishing | related_to |
 | why-do-i-keep-quitting | tu-long-zhi-ji | related_to |
 | why-do-i-keep-quitting | what-counts-as-progress | related_to |
+| why-do-i-see-lights | exp-016-nine-dhyanas-map | related_to |
+| why-do-i-see-lights | exp-020-false-first-dhyana | related_to |
+| why-do-i-see-lights | jingzuo | related_to |
+| why-do-i-see-lights | warmth-tingling-when-sitting | related_to |
+| why-do-i-see-lights | what-counts-as-progress | related_to |
+| why-do-i-see-lights | xinzhai | related_to |
+| why-do-i-see-lights | xu | related_to |
 | wooden-rooster | shouyi | concerns |
 | wooden-rooster | wuwei | concerns |
 | wooden-rooster | zhuangzi | described_in |
@@ -1187,6 +1226,12 @@ Knowledge-graph edges — 1247 total. Top-level key: `items` in
 | yongxin-ruo-jing-passage | virtual-room-passage | related_to |
 | yongxin-ruo-jing-passage | zhi-shui | related_to |
 | yongxin-ruo-jing-passage | zhuangzi | translated_as |
+| yuan-du-yi-wei-jing | cook-ding | related_to |
+| yuan-du-yi-wei-jing | dao | related_to |
+| yuan-du-yi-wei-jing | jingzuo | related_to |
+| yuan-du-yi-wei-jing | xu | related_to |
+| yuan-du-yi-wei-jing | zhuangzi | described_in |
+| yuan-du-yi-wei-jing | ziran | related_to |
 | yun-jin-cheng-feng | carpenter-shi | related_to |
 | yun-jin-cheng-feng | fish-happiness | related_to |
 | yun-jin-cheng-feng | useless-gourd | related_to |
@@ -1227,6 +1272,16 @@ Knowledge-graph edges — 1247 total. Top-level key: `items` in
 | zhen-zai | ziran | concerns |
 | zhi-shui | jing | concerns |
 | zhi-shui | zhuangzi | described_in |
+| zhi-wen-wuwei | butterfly-dream | related_to |
+| zhi-wen-wuwei | dao | related_to |
+| zhi-wen-wuwei | daodejing-02 | related_to |
+| zhi-wen-wuwei | daodejing-48 | related_to |
+| zhi-wen-wuwei | dongguo-zi-asks | related_to |
+| zhi-wen-wuwei | qi | related_to |
+| zhi-wen-wuwei | qiwu | related_to |
+| zhi-wen-wuwei | wuwei | related_to |
+| zhi-wen-wuwei | zhuangzi | described_in |
+| zhi-wen-wuwei | ziran | related_to |
 | zhi-yan | bao-guang | related_to |
 | zhi-yan | butterfly-dream | related_to |
 | zhi-yan | daodejing-02 | related_to |

@@ -1,6 +1,6 @@
 # Questions
 
-question records from the questions content collection — 25 records.
+question records from the questions content collection — 26 records.
 
 | id | title | question | answerState |
 |---|---|---|
@@ -27,5 +27,6 @@ question records from the questions content collection — 25 records.
 | what-is-stillness | What Is Stillness (Jing), Really? | What is 'stillness' (静 jing) in the Daoist sense — just being quiet, or something more? | answered |
 | why-am-i-so-sleepy | Why Am I So Sleepy When I Sit? | Every time I sit down to meditate I get drowsy — sometimes I actually fall asleep. Am I doing it wrong? Is this a sign that meditation isn't for me, or that I'm too tense? | answered |
 | why-do-i-keep-quitting | Why Do I Keep Quitting? | I keep starting a sitting practice and stopping after a few days or weeks. I feel like I lack discipline. Why do I keep quitting, and how do I actually stick with it? | answered |
+| why-do-i-see-lights | Why Do I See Lights? | During sitting I sometimes see light, colors, or images. Is this progress? The archive's teacher seems to both name it and dismiss it, and this site's problem page says not to chase it — but what does it actually mean? | answered |
 | zuowang-safety-without-teacher | Is Daoist Sitting Safe to Practice Without a Teacher? | Can I practice Daoist sitting (zuowang / jingzuo) without a teacher? | open |
 | zuowang-vs-jingzuo | What Is the Difference Between Zuowang and Jingzuo? | What is the difference between zuowang and jingzuo? | answered |
