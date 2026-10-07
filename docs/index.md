@@ -21,12 +21,12 @@ collections (`texts/`, `people/`, `translations/`, `timeline/`, `questions/`).
 | Research pages | 1 |
 | Tools | 2 |
 | Questions | 5 (2 open, 2 answered, 1 investigating) |
-| Knowledge-graph edges | 78 |
-| Sources | 31 (14 primary texts, 9 scholarship, 3 research, 5 community) |
+| Knowledge-graph edges | 90 |
+| Sources | 33 (16 primary texts, 9 scholarship, 3 research, 5 community) |
 
 - **Experience system**: seeded with 8 anonymized experiences, 3 patterns,
   5 questions from Chinese community sources (see the source map in the main repo).
-- Main site: 92 pages built, 0 errors.
+- Main site: 96 pages built, 0 errors.
 
 ## What is here
 

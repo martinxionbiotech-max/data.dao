@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 78 total. Top-level key: `items` in
+Knowledge-graph edges — 90 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -8,12 +8,13 @@ Knowledge-graph edges — 78 total. Top-level key: `items` in
 | relation | count |
 |---|---|
 | associated_with | 6 |
-| concerns | 21 |
-| derived_from | 9 |
+| concerns | 23 |
+| contrasts_with | 1 |
+| derived_from | 10 |
 | described_in | 21 |
-| discusses | 1 |
+| discusses | 3 |
 | investigates | 2 |
-| related_to | 13 |
+| related_to | 19 |
 | translated_as | 5 |
 
 ## All edges
@@ -35,7 +36,14 @@ Knowledge-graph edges — 78 total. Top-level key: `items` in
 | confucius-meets-laozi | laozi | associated_with |
 | cook-ding | wuwei | concerns |
 | cook-ding | zhuangzi | described_in |
+| dantian | jing-qi-shen | related_to |
+| dantian | qi | related_to |
+| dantian | shouyi | related_to |
 | daodejing | guodian-daodejing | described_in |
+| drowsiness-in-sitting | drowsiness-vs-stillness | derived_from |
+| drowsiness-in-sitting | falling-asleep-during-meditation | related_to |
+| drowsiness-in-sitting | jingzuo | concerns |
+| drowsiness-in-sitting | zuowang | concerns |
 | drowsiness-vs-stillness | EXP-001 | derived_from |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
@@ -53,7 +61,10 @@ Knowledge-graph edges — 78 total. Top-level key: `items` in
 | jingzuo | xinzhai | related_to |
 | jingzuo | zhuzi-yulei-jingzuo | described_in |
 | jingzuo | zuowang | related_to |
+| jingzuo | zuowang | contrasts_with |
 | jingzuo | zuowang-vs-jingzuo | concerns |
+| jingzuo-vs-zuowang | jingzuo | discusses |
+| jingzuo-vs-zuowang | zuowang | discusses |
 | laozi | daodejing | associated_with |
 | laozi | shiji-biographies | described_in |
 | leg-numbness-pain | EXP-003 | derived_from |
@@ -74,6 +85,8 @@ Knowledge-graph edges — 78 total. Top-level key: `items` in
 | sima-chengzhen | zuowang-lun-composition | described_in |
 | standing-in-snow | jingzuo | concerns |
 | taiping-jing | taiping-jing-shouyi | described_in |
+| tiaoxi | jingzuo | related_to |
+| tiaoxi | qi | related_to |
 | warmth-and-qi-sensations | EXP-002 | derived_from |
 | warmth-and-qi-sensations | EXP-003 | derived_from |
 | wooden-rooster | shouyi | concerns |
@@ -98,12 +111,5 @@ Knowledge-graph edges — 78 total. Top-level key: `items` in
 | zuowang | zuowang-safety-without-teacher | concerns |
 | zuowang-lun | neiguan-jing | derived_from |
 | zuowang-lun | qingjing-jing | derived_from |
-
-Relationship semantics: `described_in` (text documents the entity),
-`derived_from` (one item derives from another), `concerns` (item is about
-an entity), `related_to` (mutual association), `investigates` (research
-addresses an entity), `associated_with` (historical association),
-`translated_as` (translation renders a text passage), `discusses`,
-`contrasts_with`.
 
 Generated from the site data file; do not edit by hand.

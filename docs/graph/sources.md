@@ -1,6 +1,6 @@
 # Sources Registry
 
-All sources used on the site — 31 total. Registry file:
+All sources used on the site — 33 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
@@ -8,7 +8,7 @@ All sources used on the site — 31 total. Registry file:
 | type | count |
 |---|---|
 | community | 5 |
-| primary_text | 14 |
+| primary_text | 16 |
 | research | 3 |
 | scholarship | 9 |
 
@@ -24,6 +24,7 @@ All sources used on the site — 31 total. Registry file:
 | guodian-report | Jingmen City Museum, 'Jingmen Guodian yihao Chumu', Wenwu 1997.7 (Guodian tomb no. 1 excavation report) | research | /timeline/guodian-daodejing/ |
 | health-baidu-dazuo | Baidu Health: 'Why the body warms during sitting' (medical popularization) | community | /patterns/warmth-and-qi-sensations/ |
 | henricks-1989 | Henricks, Robert G., trans. Lao-Tzu Te-Tao Ching (Mawangdui text). Ballantine, 1989 | scholarship | /texts/daodejing/ |
+| huangting-jing | Huangting neijing jing (Yellow Court inner scripture), Shangqing tradition | primary_text | /glossary/dantian/ |
 | iep-zhuangzi | Internet Encyclopedia of Philosophy, 'Zhuangzi' | scholarship | /texts/zhuangzi/ |
 | kohn-1998 | Kohn, Livia. God of the Dao: Lord Lao in History and Myth. Center for Chinese Studies, University of Michigan, 1998 | scholarship | /people/laozi/ |
 | kohn-2010 | Kohn, Livia. Sitting in Oblivion: The Heart of Daoist Meditation. Three Pines Press, 2010 | scholarship | /concepts/zuowang/; /practices/zuowang/; /texts/zuowang-lun/ |
@@ -42,6 +43,7 @@ All sources used on the site — 31 total. Registry file:
 | wikisource-zhuangzi-yingdiwang | Zhuangzi ch. 7 (Ying diwang), Wikisource | primary_text | /stories/huzi-jixian/ |
 | wikisource-zhuangzi-ys | Zhuangzi ch. 3 (Yangsheng zhu), Wikisource | primary_text | /stories/cook-ding/ |
 | wikisource-zhuangzi-zaiyou | Zhuangzi ch. 11 (Zaiyou), Wikisource | primary_text | /stories/guangchengzi/ |
+| xiao-zhiguan | Zhiyi, Xiao zhiguan (Tongmeng zhiguan), Tiaohe chapter | primary_text | /glossary/tiaoxi/; /problems/drowsiness-in-sitting/ |
 | xinli001-qa | Xinli001 (Yixinli) meditation Q&A — anonymous user questions | community | /experiences/exp-001-falling-asleep/; /questions/falling-asleep-during-meditation/ |
 | zhihu-daozuo-method | Zhihu column: 'Correct Daoist sitting method' (drowsiness vs. stillness) | community | /patterns/drowsiness-vs-stillness/; /questions/falling-asleep-during-meditation/ |
 | zhuangzi | Zhuangzi (received text, Guo Xiang recension) | primary_text | /concepts/zuowang/; /concepts/xinzhai/; /concepts/qi/; /texts/zhuangzi/ |
