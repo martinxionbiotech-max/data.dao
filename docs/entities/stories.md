@@ -1,7 +1,7 @@
 # Stories Collection
 
 Narrative content — classical parables and traditional episodes, each with
-explicit framing of what is legend vs history. 9 records.
+explicit framing of what is legend vs history. 10 records.
 
 | id | tradition | source text | framing |
 |---|---|---|---|

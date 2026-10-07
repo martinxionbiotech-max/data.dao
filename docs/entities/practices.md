@@ -1,6 +1,6 @@
 # Practices
 
-Structured practice records from `data/practices.json` — 2 records.
+Structured practice records from `data/practices.json` — 4 records.
 
 | id | name | 中文 | tradition | evidence | related |
 |---|---|---|---|---|---|

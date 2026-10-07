@@ -1,6 +1,6 @@
 # Research Collection
 
-Peer-reviewed literature pages — 2 records.
+Peer-reviewed literature pages — 3 records.
 
 | id | study | journal | what it covers |
 |---|---|---|---|

@@ -1,6 +1,6 @@
 # Glossary Collection
 
-Terminology pages — 13 records.
+Terminology pages — 15 records.
 
 | id | term | literal meaning |
 |---|---|---|

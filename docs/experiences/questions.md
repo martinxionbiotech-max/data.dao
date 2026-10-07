@@ -19,3 +19,4 @@ terminology or the record; questions where empirical literature is missing
 stay `open` (or `investigating` when adjacent evidence exists) with the
 absence stated explicitly — never closed by assertion.
 | combine-zuowang-mindfulness | answered | practical combination yes; accounts kept separate |
+| how-long-should-i-sit | answered | regulation not clocks; 10-20 min start |
