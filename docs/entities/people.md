@@ -1,6 +1,6 @@
 # People
 
-person records from the people content collection — 22 records.
+person records from the people content collection — 23 records.
 
 | id | title | chinese | dates | tradition | historicity | page |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@ person records from the people content collection — 22 records.
 | laozi | Laozi | 老子 |  |  | uncertain | /people/laozi/ |
 | li-ao | Li Ao (李翱) | 李翱 |  |  | historical | /people/li-ao/ |
 | lu-xiujing | Lu Xiujing (陆修静) | 陆修静 |  |  | historical | /people/lu-xiujing/ |
+| qiu-chuji | Qiu Chuji (丘处机) | 丘处机 |  |  | historical | /people/qiu-chuji/ |
 | sima-chengzhen | Sima Chengzhen | 司马承祯 |  |  | historical | /people/sima-chengzhen/ |
 | tao-hongjing | Tao Hongjing (陶弘景) | 陶弘景 |  |  | historical | /people/tao-hongjing/ |
 | wang-bi | Wang Bi (王弼) | 王弼 |  |  | historical | /people/wang-bi/ |

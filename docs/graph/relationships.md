@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 1026 total. Top-level key: `items` in
+Knowledge-graph edges — 1084 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -12,12 +12,12 @@ Knowledge-graph edges — 1026 total. Top-level key: `items` in
 | concerns | 217 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 124 |
+| described_in | 128 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 602 |
+| related_to | 656 |
 | translated_as | 23 |
 
 ## All edges
@@ -253,6 +253,13 @@ Knowledge-graph edges — 1026 total. Top-level key: `items` in
 | daodejing-25 | daodejing | translated_as |
 | daodejing-25 | daodejing-16 | related_to |
 | daodejing-25 | ziran | concerns |
+| daodejing-32 | daodejing | described_in |
+| daodejing-32 | daodejing-01 | related_to |
+| daodejing-32 | daodejing-25 | related_to |
+| daodejing-32 | daodejing-37 | related_to |
+| daodejing-32 | wuwei | related_to |
+| daodejing-32 | zhi-shui | related_to |
+| daodejing-32 | ziran | related_to |
 | daodejing-33 | daodejing | described_in |
 | daodejing-33 | daodejing-22 | related_to |
 | daodejing-33 | daodejing-45 | related_to |
@@ -323,6 +330,17 @@ Knowledge-graph edges — 1026 total. Top-level key: `items` in
 | does-daoism-believe-in-a-creator | tian-ji | related_to |
 | does-daoism-believe-in-a-creator | zhen-zai | related_to |
 | does-daoism-believe-in-a-creator | ziran | concerns |
+| does-diet-matter | daodejing-12 | related_to |
+| does-diet-matter | does-practice-need-faith | related_to |
+| does-diet-matter | exp-007-digestive-release | related_to |
+| does-diet-matter | exp-024-standing-and-sitting | related_to |
+| does-diet-matter | exp-026-diet-gate | related_to |
+| does-diet-matter | is-sitting-religious | related_to |
+| does-diet-matter | jingzuo | related_to |
+| does-diet-matter | must-i-sit-cross-legged | related_to |
+| does-diet-matter | wuwei | related_to |
+| does-diet-matter | xinzhai-passage | related_to |
+| does-diet-matter | zuowang | related_to |
 | does-practice-need-faith | dao | related_to |
 | does-practice-need-faith | exp-016-nine-dhyanas-map | related_to |
 | does-practice-need-faith | is-sitting-religious | related_to |
@@ -431,6 +449,14 @@ Knowledge-graph edges — 1026 total. Top-level key: `items` in
 | exp-025-lying-down-innovation | farias-adverse-events-2020 | related_to |
 | exp-025-lying-down-innovation | jingzuo | related_to |
 | exp-025-lying-down-innovation | what-counts-as-progress | related_to |
+| exp-026-diet-gate | does-diet-matter | related_to |
+| exp-026-diet-gate | does-practice-need-faith | related_to |
+| exp-026-diet-gate | drowsiness-in-sitting | related_to |
+| exp-026-diet-gate | drowsiness-vs-stillness | related_to |
+| exp-026-diet-gate | exp-007-digestive-release | related_to |
+| exp-026-diet-gate | exp-013-buddhist-daoist-boundary | related_to |
+| exp-026-diet-gate | exp-016-nine-dhyanas-map | related_to |
+| exp-026-diet-gate | exp-024-standing-and-sitting | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -527,6 +553,14 @@ Knowledge-graph edges — 1026 total. Top-level key: `items` in
 | huangting-jing | dantian | concerns |
 | huangting-jing-dantian | dantian | concerns |
 | huangting-jing-dantian | huangting-jing | described_in |
+| hui-shi-wu-che | daodejing-02 | related_to |
+| hui-shi-wu-che | fish-happiness | related_to |
+| hui-shi-wu-che | phoenix-and-owl | related_to |
+| hui-shi-wu-che | qiwu | related_to |
+| hui-shi-wu-che | three-in-the-morning | related_to |
+| hui-shi-wu-che | useless-gourd | related_to |
+| hui-shi-wu-che | yun-jin-cheng-feng | related_to |
+| hui-shi-wu-che | zhuangzi | described_in |
 | hundun | jing | concerns |
 | hundun | zhuangzi | described_in |
 | hundun | zuowang | concerns |
@@ -674,6 +708,22 @@ Knowledge-graph edges — 1026 total. Top-level key: `items` in
 | qinshi-mourning | four-friends | related_to |
 | qinshi-mourning | laozi | related_to |
 | qinshi-mourning | zhuangzi | described_in |
+| qiu-chuji | daodejing | related_to |
+| qiu-chuji | kou-qianzhi | related_to |
+| qiu-chuji | shouyi | related_to |
+| qiu-chuji | sima-chengzhen | related_to |
+| qiu-chuji | wang-chongyang | related_to |
+| qiu-chuji | zhang-daoling | related_to |
+| qiu-chuji | zuowang | related_to |
+| qiu-hao | butterfly-dream | related_to |
+| qiu-hao | daodejing-02 | related_to |
+| qiu-hao | hua | related_to |
+| qiu-hao | peng-bird | related_to |
+| qiu-hao | qiwu | related_to |
+| qiu-hao | three-in-the-morning | related_to |
+| qiu-hao | tian-jun | related_to |
+| qiu-hao | wu-sang-wo | related_to |
+| qiu-hao | zhuangzi | described_in |
 | qiwu | bao-guang | related_to |
 | qiwu | butterfly-dream | related_to |
 | qiwu | dao | related_to |
@@ -885,6 +935,14 @@ Knowledge-graph edges — 1026 total. Top-level key: `items` in
 | wooden-rooster | zhuangzi | described_in |
 | wooden-rooster-passage | wooden-rooster | concerns |
 | wooden-rooster-passage | zhuangzi | described_in |
+| wu-hua | butterfly-dream | related_to |
+| wu-hua | da-kuai | related_to |
+| wu-hua | daye-zhu-jin | related_to |
+| wu-hua | hua | related_to |
+| wu-hua | qiwu | related_to |
+| wu-hua | tian-ji | related_to |
+| wu-hua | zhi-yan | related_to |
+| wu-hua | zhuangzi | described_in |
 | wu-sang-wo | butterfly-dream | related_to |
 | wu-sang-wo | qiwulun-wu-sang-wo | related_to |
 | wu-sang-wo | tian-lai | related_to |

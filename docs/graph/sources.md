@@ -1,6 +1,6 @@
 # Sources Registry
 
-All sources used on the site — 153 total. Registry file:
+All sources used on the site — 158 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
@@ -12,9 +12,9 @@ All sources used on the site — 153 total. Registry file:
 | community | 21 |
 | community_archive | 1 |
 | historical | 5 |
-| historical_record | 7 |
+| historical_record | 8 |
 | historical_text | 1 |
-| primary_text | 88 |
+| primary_text | 91 |
 | reference | 1 |
 | reference_work | 1 |
 | research | 4 |
@@ -22,6 +22,7 @@ All sources used on the site — 153 total. Registry file:
 | scholarly_interpretation | 1 |
 | scholarship | 9 |
 | traditional_record | 3 |
+| web_archive | 1 |
 
 ## Full registry
 
@@ -64,6 +65,7 @@ All sources used on the site — 153 total. Registry file:
 | daodejing-14-editions | Daodejing ch. 14, received text: two independent full-text reproductions agreeing (mindiver.se; a Sheng sheng xuetang teaching edition with Heshang Gong gloss 无色曰夷无声曰希无形曰微) | primary_text | /translations/daodejing-14/ |
 | daodejing-17-editions | Daodejing ch. 17, received text with the 下知有之/不知有之 variant, from the site's earlier Daodejing verification passes | primary_text | /translations/daodejing-17/ |
 | daodejing-22-editions | Daodejing ch. 22: Gushiwen teaching edition and the Mawangdui manuscript variants (曲则金/枉则定; 执一以为天下牧) | primary_text | /translations/daodejing-22/ |
+| daodejing-32-editions | Daodejing ch. 32, verified against the Mindiver chapter study (道常无名，朴。虽小，天下莫能臣。侯王若能守之，万物将自宾。天地相合，以降甘露，民莫之令而自均。始制有名，名亦既有，夫亦将知止。知止可以不殆。譬道之在天下，犹川谷之于江海) and the Beijing Institute of Technology traditional-text archive (unpunctuated received form), with the two competing punctuations of the opening registered without adjudication | primary_text | /translations/daodejing-32/ |
 | daodejing-33-editions | Daodejing ch. 33, received text, verified against the 5000yan edition with Wang Bi commentary quoted and the Gushiwen famous-line page, which agree verbatim; a Hong Kong Education Bureau classics handout supplies the standard gloss | primary_text | /translations/daodejing-33/ |
 | daodejing-36-editions | Daodejing ch. 36, received text, verified against four independent reproductions that agree (the Shandong University page with glosses; the Zhihu Wang Bi Laozi Daodejing zhu column; the Daodejing.org chapter page; the Baidu Baike entry with the interpretive tradition), variant qu zhi/duo zhi registered | primary_text | /translations/daodejing-36/ |
 | daodejing-37-editions | Daodejing ch. 37: received text editions and the Guodian manuscript variant (道恒无为也, without 而无不为) | primary_text | /translations/daodejing-37/ |
@@ -106,7 +108,9 @@ All sources used on the site — 153 total. Registry file:
 | pku-2009-qiwulun-study | Peking University Journal (2009), 'Doubts in reading Zhuangzi Qiwu Lun and their analysis': Lu Deming's one-character gloss (sang), Cheng Xuanying's subcommentary (天机自张莫知其宰), Liu Fengbao's Nanhua xuexin bian, and the study's own reading | scholarly | /stories/wang-liang-wen-jing/; /glossary/tian-ji/ |
 | plos-one-e0216643 | Schlosser et al. 2019, PLoS ONE 14(5): e0216643 | academic_study | /research/schlosser-2019/; /questions/warmth-tingling-when-sitting/ |
 | qingjing-jing | Qingjing Jing (Scripture of Constant Clarity and Stillness) | primary_text | /texts/qingjing-jing/ |
+| qiu-chuji-sources | Qiu Chuji (1148-1227): Baidu Baike and Wikipedia biographical records (Tongmi, Changchunzi, Qixia, youngest of the Seven, the western journey at 74, the 尊卑虽异性命各同耳 line, Longmen lineage founder, the imperial titles, the one-word-stops-killing praise and its recorded dispute); the Daoist database record (dao.jic.io: ordained at nineteen, Wang Chongyang disciple the next year, Panxi cave six years, Longmen seven years, Straw-cloak Master); the Beijing Evening News historical article (2021: died 1227 in Yanjing at 79, original name Qiu Ge, tax exemptions for the order) | historical_record | /people/qiu-chuji/ |
 | qiwulun-baoguang-editions | Zhuangzi ch. 2 (Qiwu Lun), the baoguang passage, verified against the Wikisource full text, the Dudianji interactive text, and a Zhihu full-text column, which agree verbatim; plus a Zhuzi xuekan study of the term (reprinted at homeinmists) linking baoguang to the Daodejing xuanlan | primary_text | /glossary/bao-guang/ |
+| qiwulun-qiuhao-editions | Zhuangzi ch. 2 (Qi Wu Lun), the scale-reversal and oneness passage (天下莫大于秋豪之末，而太山为小；莫寿乎殇子，而彭祖为夭。天地与我并生，而万物与我为一), verified against the Wikisource full chapter and the Taiji Shuguan annotated chapter text (agreeing, including the 秋豪/秋毫 variant and the glosses), plus the Peking University journal article on Qi Wu Lun difficulties (quoting the passage and discussing the 一与言为二 counting puzzle) | primary_text | /stories/qiu-hao/ |
 | qiwulun-tianlai-editions | Zhuangzi ch. 2 (Qiwu Lun), the three-pipes passage, verified against the Wikisource full text, the Zhuangzi yi commentary (Shidian guji, HY1406, Guo Xiang note quoted in full), a 2011 sinoss.net study of the term, and the ht.org.tw teaching column on the modern drift | primary_text | /glossary/tian-lai/ |
 | qiwulun-title-readings | The Qi Wu Lun title ambiguity, registered from the scholarly record: the Peking University Journal (2009) survey with Yang Liuqiao evidence (early readers took qiwu together, Wang Yinglin the later wulun reading, and the observation that the character qi never occurs in the chapter body); the Chinese Academy of Social Sciences survey (2022); the Guangming Daily survey; and the 8bei8 chapter introduction | scholarly_interpretation | /glossary/qiwu/ |
 | qiwulun-wusangwo-editions | Zhuangzi ch. 2 (Qi Wu Lun), the opening wu sang wo passage, verified against the Wikisource full chapter, the Zhihu full-text column, and the Dudianji text, with the Guo Xiang commentary registered from the tradition (wu sang wo = self-forgetting, the dissolution of the paired body) | primary_text | /glossary/wu-sang-wo/ |
@@ -131,12 +135,14 @@ All sources used on the site — 153 total. Registry file:
 | song-shi-yangshi | Song shi, 'Yang Shi zhuan' (ch. 428), Cheng Men Li Xue episode | primary_text | /concepts/jingzuo/; /timeline/cheng-men-li-xue/; /stories/standing-in-snow/ |
 | sun-mingjun-2022 | Sun Mingjun, 'Dao and De in the Zhuangzi' (National Office for Philosophy and Social Science, 2022) | scholarly | /translations/yongxin-ruo-jing-passage/; /glossary/zhi-shui/ |
 | sxu-zhuangzi-renjianshi | Zhuangzi ch. 4 (Renjianshi) full text and translation (Shanxi University Philosophy Dept) | primary_text | /translations/virtual-room-passage/; /glossary/zuochi/ |
+| taiguanglin-zuochan-jiexing-07 | Taiguanglin official Sit-in Q&A collection (坐禅问答录), ch. 2 on precepts, section 7, Vegetarianism is the necessary choice (full text retrieved 2026-10-07 from taiguanglin.org; original posts 2014-02-20): the animals-have-consciousness claim, the meat-blocks-the-dhyanas gate, the Four Heavenly Kings rebirth, the three-stage dream-test with its seven-year frame, the eye-test, the Buddha two-stage narrative with the Shurangama line, the honesty rule, and the nutrition exchange (ten years one meal a day, no colds; the transition-period correction; tofu daily; no coffee/cola/tea; Pu-er tea), with the community counter-voices (the diabetes report, the gradual-protein advice) | web_archive | /experiences/exp-026-diet-gate/; /questions/does-diet-matter/ |
 | taiping-jing | Taiping Jing (Scripture of Great Peace) | primary_text | /concepts/shouyi/; /problems/wandering-mind-in-sitting/; /problems/restlessness-in-sitting/ |
 | taiping-jing-received | Taiping Jing, received text (57 juan / 126 pian in the Ming Daoist Canon; Wang Ming, Taiping Jing Hejiao, 1960) | primary_text | /texts/taiping-jing/; /practices/shouyi/ |
 | taishi-qa-163 | Taishi xiuxing wenda (meditation teacher Q&A column), 163.com no. 34 | community | /experiences/exp-002-warmth-rotation/; /experiences/exp-003-leg-pain-filling/ |
 | tao-hongjing-biography | Tao Hongjing biography: standard biography tradition, Wikipedia entry, Taiwan MOE encyclopedia, Nanjing gazetteer office 2024 profile (456-536, 488 manuscript discovery, 492 retirement, 'prime minister in the mountains') | scholarly | /people/tao-hongjing/ |
 | taylor-1988 | Taylor, Rodney L. The Confucian Way of Contemplation: Okada Takehiko and the Tradition of Quiet-Sitting. University of South Carolina Press, 1988 | scholarship | /concepts/jingzuo/; /practices/jingzuo/ |
 | tiandi-baoweng-editions | Zhuangzi ch. 12 (Tiandi), Han-shade gardener passage: a Cambridge Chinese studies reading-group PDF with running glosses (citing Li Mian's Zhuangzi zonglun for 卬/挈/泆/槔 readings); CText parallel-text snippet; People's Daily essay (2024-05); the chapter's authorship noted as disputed in the study notes | primary_text | /stories/bao-weng-guan-qi/ |
+| tianxia-huishi-editions | Zhuangzi ch. 33 (Tian Xia), the Huishi section (惠施多方，其书五车，其道舛驳，其言也不中 — the ten theses, the twenty-one paradoxes, the closing verdict through 悲夫), verified against the Wikisource full chapter and the Taiji Shuguan chapter text, with the Ministry of Education Idiom Dictionary (2020) entry for 惠施五车/学富五车 (provenance, glosses, Huishi dates, and the idiom drift record) | primary_text | /stories/hui-shi-wu-che/ |
 | tianzifang-archer-editions | Zhuangzi ch. 21 (Tian Zifang), the archery passage: Taiji Shuguan edition with translation and chapter-structure notes; Zhuangzi at 5000yan full text; CText parallel snippet; Lawforever teaching essay | primary_text | /stories/boshun-archer/ |
 | tieba-dazuo-bar | Baidu Tieba 打坐吧/冥想吧 threads (search-indexed snippets) | community | /experiences/exp-004-emotional-surfacing/; /experiences/exp-005-night-qi-movement/ |
 | waiwu-editions | Zhuangzi ch. 26 (Waiwu), borrowing-grain passage: Gushiwen full text with translation and notes; Baidu Baike entry (zhuang zhou dai su); CText parallel-verse snippet (recording the 监河侯/监何侯 variant) | primary_text | /stories/hezhe-zhi-fu/ |

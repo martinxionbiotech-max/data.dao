@@ -1,6 +1,6 @@
 # Stories
 
-story records from the stories content collection — 56 records.
+story records from the stories content collection — 58 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
@@ -27,6 +27,7 @@ story records from the stories content collection — 56 records.
 | handan-walk | The Handan Walk: What the Imitator Loses on the Way | Daoist | zhuangzi |
 | hezhe-zhi-fu | The Fish in the Dried-Up Rut | Daoist | zhuangzi |
 | huan-gong-jian-gui | The Duke Who Saw a Ghost | Daoist | zhuangzi |
+| hui-shi-wu-che | Huishi's Five Cartloads | Daoist | zhuangzi |
 | hundun | Hundun: The Story of the Seven Holes | Daoist | zhuangzi |
 | huzi-jixian | Huzi and the Shaman: Four Depths of Stillness | Daoist | zhuangzi |
 | jingdi-zhiwa | The Well Frog and the Sea Turtle: The Three Limits of Knowing | Daoist | zhuangzi |
@@ -40,6 +41,7 @@ story records from the stories content collection — 56 records.
 | peng-bird | The Peng Bird: The Book's Opening Image of Scale | Daoist | zhuangzi |
 | phoenix-and-owl | The Phoenix and the Owl: What the Rotten Rat Is Worth | Daoist | zhuangzi |
 | qinshi-mourning | Three Cries, and Out: Qin Shi Mourns Laozi | Daoist | zhuangzi |
+| qiu-hao | The Tip of an Autumn Hair | Daoist | zhuangzi |
 | ren-gongzi-fishing | Lord Ren's Giant Fish | Daoist | zhuangzi |
 | sanghu-friends | Singing at the Corpse: The Friends of Sang Hu | Daoist | zhuangzi |
 | shanbao-zhangyi | The Two Deaths: One-Sided Cultivation | Daoist | zhuangzi |

@@ -1,6 +1,6 @@
 # Glossary
 
-term records from the glossary content collection — 43 records.
+term records from the glossary content collection — 44 records.
 
 | id | title | chinese | pinyin | literalMeaning | recommended |
 |---|---|---|---|---|
@@ -30,6 +30,7 @@ term records from the glossary content collection — 43 records.
 | tian-lai | Tianlai (天籁) | 天籁 | tiānlài |  |  |
 | tiaoxi | Tiaoxi (调息) | 调息 | tiáoxī | regulating the breath | 'regulating the breath' — keep the tiao-shen/tiao-xi/tiao-xin trio visible in translation |
 | tuoyue | Tuoyue | 橐籥 | tuóyuè | bellows: 橐 the leather bag, 籥 the blowpipe tubes — the smith's double-valved air machine | bellows (with 'the smith's air machine' glossed where the emptiness-productivity point matters) |
+| wu-hua | Wuhua (物化) | 物化 | wùhuà |  |  |
 | wu-sang-wo | Wu Sang Wo (吾丧我) | 吾丧我 | wú sàng wǒ |  |  |
 | wuwei | Wuwei | 无为 | wúwéi | no-doing | non-action, with the note that it is the negation of forced/contrived action, not of activity |
 | xi | Xi | 息 | xī | breath; rest; to rest; the fine continuous breath | 'rest breath' in the four-breath ladder; plain 'breath' elsewhere (真人之息以踵 = 'the true person's breathing reaches the heels') |
