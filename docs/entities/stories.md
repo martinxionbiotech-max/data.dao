@@ -1,10 +1,11 @@
 # Stories
 
-story records from the stories content collection — 23 records.
+story records from the stories content collection — 25 records.
 
 | id | title | tradition | sourceText |
 |---|---|---|
 | artisan-qing | Artisan Qing and the Bell-Stand: A Seven-Day Fast | Daoist | zhuangzi |
+| boatman | The Ferryman and the Diver: When the Water Is Forgotten | Daoist | zhuangzi |
 | butterfly-dream | Zhuang Zhou Dreams of a Butterfly | Daoist | zhuangzi |
 | carpenter-shi | The Carpenter and the Plaster: What Practice Loses Without a Partner | Daoist | zhuangzi |
 | cicada-catcher | The Hunchback and the Cicada | Daoist | zhuangzi |
@@ -25,5 +26,6 @@ story records from the stories content collection — 23 records.
 | standing-in-snow | Standing in the Snow at Cheng Yi's Gate | Neo-Confucian |  |
 | three-in-the-morning | Three in the Morning: The Monkeys Who Confused the Order for the Amount | Daoist | zhuangzi |
 | useless-gourd | The Giant Gourd: On the Uses of Uselessness | Daoist | zhuangzi |
+| wangyang-xingtan | The River God Looks Out to Sea: When the Flood Meets the Floodless | Daoist | zhuangzi |
 | wheelwright-bian | Wheelwright Bian: What Cannot Be Put into Words | Daoist | zhuangzi |
 | wooden-rooster | The Wooden Rooster | Daoist | zhuangzi |

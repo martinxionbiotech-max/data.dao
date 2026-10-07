@@ -1,6 +1,6 @@
 # Sources Registry
 
-All sources used on the site — 67 total. Registry file:
+All sources used on the site — 70 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
@@ -8,13 +8,13 @@ All sources used on the site — 67 total. Registry file:
 | type | count |
 |---|---|
 | academic_study | 2 |
-| community | 9 |
+| community | 10 |
 | historical_record | 1 |
 | historical_text | 1 |
-| primary_text | 36 |
+| primary_text | 37 |
 | reference_work | 1 |
 | research | 4 |
-| scholarly | 2 |
+| scholarly | 3 |
 | scholarship | 9 |
 | traditional_record | 2 |
 
@@ -25,6 +25,7 @@ All sources used on the site — 67 total. Registry file:
 | 163-taishi-28 | Taishi cultivation Q&A no. 28 (163.com community column, 2021) | community | /experiences/exp-010-lotus-pain/; /questions/must-i-sit-cross-legged/ |
 | 163-taishi-29 | Taishi cultivation Q&A no. 29 (163.com community column, 2021) | community | /experiences/exp-011-shougong-protocol/ |
 | 163-taishi-36 | Taishi cultivation Q&A no. 36 (163.com community column, 2021) | community | /experiences/exp-012-restless-body/ |
+| 163-taishi-38 | Taishi cultivation Q&A no. 38 (163.com community column, 2021): the Buddhist-Daoist boundary question | community | /experiences/exp-013-buddhist-daoist-boundary/ |
 | 163-taishi-49 | Taishi cultivation Q&A no. 49 (163.com community column, 2021) | community | /experiences/exp-009-dissolving-void/ |
 | baopuzi-received | Baopuzi, received text (inner 20 juan, outer 52 juan as received) | primary_text | /texts/baopuzi/ |
 | baopuzi-shizhi | Baopuzi, Inner Chapters, Shizhi chapter (释滞): taixi definition and moving-qi conditions | primary_text | /practices/taixi/; /problems/breath-stopping-anxiety/ |
@@ -32,6 +33,7 @@ All sources used on the site — 67 total. Registry file:
 | cook-2012 | Cook, Scott. The Bamboo Texts of Guodian. Cornell East Asia Series, 2012 | scholarship | /texts/daodejing/ |
 | daodejing | Daodejing (received Wang Bi text, 81 chapters) | primary_text | /concepts/wuwei/; /concepts/shouyi/; /concepts/qi/; /texts/daodejing/ |
 | daodejing-05-editions | Daodejing ch. 5: received text with Wang Bi and Su Zhe commentaries (Daodejing.org), Gushiwen teaching edition, CCDI study column | primary_text | /translations/daodejing-05/ |
+| daodejing-48-editions | Daodejing ch. 48: received text with Wang Bi commentary transmission, Baike teaching edition, Daodejing.org | primary_text | /translations/daodejing-48/ |
 | daoshu | Daoshu (道枢), comp. Zeng Zao, Southern Song | primary_text | /timeline/daoshu-neiguan-zuowang/; /glossary/neiguan/ |
 | er-cheng-waishu | Er Cheng waishu (Outer Collection of the Two Chengs), juan 12 | primary_text | /concepts/jingzuo/; /practices/jingzuo/ |
 | farias-2020 | Farias et al., 'Adverse events in meditation practices and meditation-based therapies: a systematic review', Acta Psychiatr Scand 142(5):374-393 (2020) | research | /research/farias-adverse-events-2020/; /questions/can-sitting-go-wrong/ |
@@ -62,15 +64,16 @@ All sources used on the site — 67 total. Registry file:
 | taiping-jing | Taiping Jing (Scripture of Great Peace) | primary_text | /concepts/shouyi/; /problems/wandering-mind-in-sitting/; /problems/restlessness-in-sitting/ |
 | taiping-jing-received | Taiping Jing, received text (57 juan / 126 pian in the Ming Daoist Canon; Wang Ming, Taiping Jing Hejiao, 1960) | primary_text | /texts/taiping-jing/; /practices/shouyi/ |
 | taishi-qa-163 | Taishi xiuxing wenda (meditation teacher Q&A column), 163.com no. 34 | community | /experiences/exp-002-warmth-rotation/; /experiences/exp-003-leg-pain-filling/ |
+| tao-hongjing-biography | Tao Hongjing biography: standard biography tradition, Wikipedia entry, Taiwan MOE encyclopedia, Nanjing gazetteer office 2024 profile (456-536, 488 manuscript discovery, 492 retirement, 'prime minister in the mountains') | scholarly | /people/tao-hongjing/ |
 | taylor-1988 | Taylor, Rodney L. The Confucian Way of Contemplation: Okada Takehiko and the Tradition of Quiet-Sitting. University of South Carolina Press, 1988 | scholarship | /concepts/jingzuo/; /practices/jingzuo/ |
 | tieba-dazuo-bar | Baidu Tieba 打坐吧/冥想吧 threads (search-indexed snippets) | community | /experiences/exp-004-emotional-surfacing/; /experiences/exp-005-night-qi-movement/ |
 | watson-1968 | Watson, Burton, trans. The Complete Works of Chuang Tzu. Columbia University Press, 1968 | scholarship | /texts/zhuangzi/; /concepts/zuowang/ |
 | wei-huacun-biography | Wei Huacun biographical tradition (251/252-334; Wei Shu's daughter; posthumous titles Wei Furen / Nanyue Furen); Shangqing revelation lineage | traditional_record | /people/wei-huacun/ |
 | weishu-shilao-zhi | Wei shu, Shilao zhi (treatise on Buddhism and Daoism); Bei shi, biography of Kou Zan | historical_record | /people/kou-qianzhi/; /timeline/kou-qianzhi-reform/ |
-| wikisource-zhuangzi-dasheng | Zhuangzi ch. 19 (Dasheng), Wikisource | primary_text | /stories/wooden-rooster/; /stories/artisan-qing/; /stories/cicada-catcher/; /translations/artisan-qing-passage/; /blog/three-craftsmen-dazheng/; /glossary/shen/ |
-| wikisource-zhuangzi-dazongshi | Zhuangzi ch. 6 (Dazongshi), full text (Gushiwen and teaching editions, cross-checked with ctext parallel text) | primary_text | /stories/fish-in-the-dry-spring/ |
+| wikisource-zhuangzi-dasheng | Zhuangzi ch. 19 (Dasheng), Wikisource | primary_text | /stories/wooden-rooster/; /stories/artisan-qing/; /stories/cicada-catcher/; /translations/artisan-qing-passage/; /blog/three-craftsmen-dazheng/; /glossary/shen/; /stories/boatman/ |
+| wikisource-zhuangzi-dazongshi | Zhuangzi ch. 6 (Dazongshi), full text (Gushiwen and teaching editions, cross-checked with ctext parallel text) | primary_text | /stories/fish-in-the-dry-spring/; /glossary/liang-wang/; /translations/yingning-passage/ |
 | wikisource-zhuangzi-dechongfu | Zhuangzi ch. 5 (Dechongfu): 'ren mo jian yu liushui er jian yu zhishui', as quoted in Sun Mingjun 2022 | primary_text | /glossary/zhi-shui/ |
-| wikisource-zhuangzi-qiushui | Zhuangzi ch. 17 (Qiushui), received text (Wikisource) | primary_text | /stories/fish-happiness/; /stories/handan-walk/; /stories/jingdi-zhiwa/ |
+| wikisource-zhuangzi-qiushui | Zhuangzi ch. 17 (Qiushui), received text (Wikisource) | primary_text | /stories/fish-happiness/; /stories/handan-walk/; /stories/jingdi-zhiwa/; /stories/wangyang-xingtan/ |
 | wikisource-zhuangzi-qiwulun | Zhuangzi ch. 2 (Qiwulun), received text (Wikisource) | primary_text | /stories/three-in-the-morning/ |
 | wikisource-zhuangzi-renjianshi | Zhuangzi ch. 4 (Renjian shi), Wikisource | primary_text | /concepts/xu/; /problems/seeing-light-in-sitting/ |
 | wikisource-zhuangzi-tianyun | Zhuangzi ch. 14 (Tianyun), full text (Gushiwen-classical, Hong Kong Education Bureau teaching edition, Taiwan Ministry of Education idiom dictionary) | primary_text | /stories/dongshi-frowning/ |

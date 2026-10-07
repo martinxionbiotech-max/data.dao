@@ -1,6 +1,6 @@
 # Glossary
 
-term records from the glossary content collection — 23 records.
+term records from the glossary content collection — 24 records.
 
 | id | title | chinese | pinyin | literalMeaning | recommended |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@ term records from the glossary content collection — 23 records.
 | jiafuzuo | Jiafuzuo | 结跏趺坐 | jiéjiāfūzuò | bound sitting with folded soles: 结 tie/bind, 跏 cross, 趺 instep/sole, 坐 sit — the ankles and insteps crossed and settled on the thighs | 'full-lotus posture' when the double-crossed form is meant; 'cross-legged sitting' for the general family (and never just 'lotus,' which is a flower loan) |
 | jing-qi-shen | Jing-Qi-Shen | 精气神 | jīng-qì-shén | essence–vitality–spirit | the three treasures (jing, qi, shen), glossed once; never 'body-fluids-energy-mind' literally |
 | jingzuo | Jingzuo | 静坐 | jìngzuò | still/quiet sitting | quiet sitting; hyphenate 'quiet-sitting' in scholarly contexts |
+| liang-wang | Liangwang (两忘) | 两忘 | liǎngwàng |  |  |
 | neiguan | Neiguan (内观) | 内观 | nèiguān | inner contemplation; inner vision | 'inner contemplation' — 'inner observation' for contexts emphasizing the inspecting function; avoid 'inner visualization' unless the source explicitly describes images |
 | qi | Qi | 气 | qì | vapor, breath, vital substrate | keep romanized as qi with a gloss; use 'breath' only in breathing contexts, 'energy' only with qualification |
 | shen | Shen | 神 | shén | spirit; numen; the luminous-animating aspect of the mind | spirit (with 'luminous-animating mind' glossed where the context is meditative) |

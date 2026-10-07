@@ -7,7 +7,7 @@ search index, 163.com teacher Q&A, Xinli001 Q&A, Baidu Health, Zhihu columns).
 All records paraphrased and anonymized; no usernames, no direct quotes without
 permission.
 
-## Current records — 12
+## Current records — 13
 
 | id | theme | confidence | page |
 |---|---|---|
@@ -23,6 +23,7 @@ permission.
 | EXP-010 | EXP-010: The Beginner's Lotus Pain — and the Endurance Counsel | medium | /experiences/exp-010-lotus-pain/ |
 | EXP-011 | EXP-011: Closing the Session — the Shougong Protocol and Forced Breathing | medium | /experiences/exp-011-shougong-protocol/ |
 | EXP-012 | EXP-012: The Restless Body — Involuntary Movements, Phlegm, and the Lute-String Counsel | medium | /experiences/exp-012-restless-body/ |
+| EXP-013 | EXP-013: The Boundary Question — A Buddhist Teacher Draws the Line Against Daoist Visualization | medium | /experiences/exp-013-buddhist-daoist-boundary/ |
 
 ## Privacy rules
 

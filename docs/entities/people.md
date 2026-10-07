@@ -1,6 +1,6 @@
 # People
 
-person records from the people content collection — 8 records.
+person records from the people content collection — 9 records.
 
 | id | title | chinese | dates | tradition | historicity | page |
 |---|---|---|---|---|---|
@@ -8,6 +8,7 @@ person records from the people content collection — 8 records.
 | kou-qianzhi | Kou Qianzhi (寇谦之) | 寇谦之 |  |  | historical | /people/kou-qianzhi/ |
 | laozi | Laozi | 老子 |  |  | uncertain | /people/laozi/ |
 | sima-chengzhen | Sima Chengzhen | 司马承祯 |  |  | historical | /people/sima-chengzhen/ |
+| tao-hongjing | Tao Hongjing (陶弘景) | 陶弘景 |  |  | historical | /people/tao-hongjing/ |
 | wei-huacun | Wei Huacun (魏华存) | 魏华存 |  |  | historical | /people/wei-huacun/ |
 | yang-xi | Yang Xi (杨羲) | 杨羲 |  |  | historical | /people/yang-xi/ |
 | zhiyi | Zhiyi (智顗) | 智顗 |  |  | historical | /people/zhiyi/ |

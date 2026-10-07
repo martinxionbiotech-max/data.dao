@@ -1,24 +1,24 @@
 # Relationship Registry
 
-Knowledge-graph edges — 305 total. Top-level key: `items` in
+Knowledge-graph edges — 331 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
 
 | relation | count |
 |---|---|
-| associated_with | 15 |
+| associated_with | 17 |
 | authored | 2 |
-| concerns | 126 |
+| concerns | 133 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 62 |
+| described_in | 65 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 64 |
-| translated_as | 12 |
+| related_to | 76 |
+| translated_as | 14 |
 
 ## All edges
 
@@ -44,6 +44,10 @@ Knowledge-graph edges — 305 total. Top-level key: `items` in
 | baopuzi-composition | ge-hong | concerns |
 | baoyi | daodejing | described_in |
 | baoyi | shouyi | concerns |
+| boatman | cicada-catcher | related_to |
+| boatman | xinzhai-passage | related_to |
+| boatman | zhuangzi | described_in |
+| boatman | zuowang | concerns |
 | breath-stopping-anxiety | exp-008-breath-stopping | concerns |
 | breath-stopping-anxiety | taixi | concerns |
 | breath-stopping-anxiety | tiaoxi | concerns |
@@ -82,6 +86,10 @@ Knowledge-graph edges — 305 total. Top-level key: `items` in
 | daodejing-25 | daodejing | translated_as |
 | daodejing-25 | daodejing-16 | related_to |
 | daodejing-25 | ziran | concerns |
+| daodejing-48 | daodejing | translated_as |
+| daodejing-48 | three-craftsmen-dazheng | related_to |
+| daodejing-48 | wuwei | concerns |
+| daodejing-48 | zuowang | concerns |
 | daoshu-neiguan-zuowang | daoshu | described_in |
 | daoshu-neiguan-zuowang | neiguan | concerns |
 | daoshu-neiguan-zuowang | zuowang | concerns |
@@ -110,6 +118,9 @@ Knowledge-graph edges — 305 total. Top-level key: `items` in
 | exp-011-shougong-protocol | jiafuzuo | concerns |
 | exp-012-restless-body | exp-011-shougong-protocol | related_to |
 | exp-012-restless-body | restlessness-in-sitting | related_to |
+| exp-013-buddhist-daoist-boundary | combine-zuowang-mindfulness | related_to |
+| exp-013-buddhist-daoist-boundary | drowsiness-in-sitting | related_to |
+| exp-013-buddhist-daoist-boundary | must-i-sit-cross-legged | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -168,6 +179,10 @@ Knowledge-graph edges — 305 total. Top-level key: `items` in
 | laozi | shiji-biographies | described_in |
 | leg-numbness-pain | EXP-003 | derived_from |
 | leg-numbness-pain | EXP-006 | derived_from |
+| liang-wang | fish-in-the-dry-spring | related_to |
+| liang-wang | yongxin-ruo-jing-passage | related_to |
+| liang-wang | zhuangzi | described_in |
+| liang-wang | zuowang | concerns |
 | liezi | daodejing | related_to |
 | liezi | xu | concerns |
 | liezi | zhuangzi | references |
@@ -230,6 +245,9 @@ Knowledge-graph edges — 305 total. Top-level key: `items` in
 | taixi | qi | concerns |
 | taixi | tiaoxi | concerns |
 | tang-2015 | mindfulness-meta-analysis-2014 | related_to |
+| tao-hongjing | shangqing-revelations | associated_with |
+| tao-hongjing | yang-xi | associated_with |
+| tao-hongjing | zhiyi | related_to |
 | three-craftsmen-dazheng | wuwei | concerns |
 | three-craftsmen-dazheng | zhuangzi | discusses |
 | three-in-the-morning | fish-happiness | related_to |
@@ -254,6 +272,10 @@ Knowledge-graph edges — 305 total. Top-level key: `items` in
 | virtual-room-passage | seeing-light-in-sitting | concerns |
 | virtual-room-passage | xinzhai | concerns |
 | virtual-room-passage | zhuangzi | described_in |
+| wangyang-xingtan | guan | concerns |
+| wangyang-xingtan | jingdi-zhiwa | related_to |
+| wangyang-xingtan | peng-bird | related_to |
+| wangyang-xingtan | zhuangzi | described_in |
 | warmth-and-qi-sensations | EXP-002 | derived_from |
 | warmth-and-qi-sensations | EXP-003 | derived_from |
 | warmth-tingling-when-sitting | dantian | concerns |
@@ -299,6 +321,10 @@ Knowledge-graph edges — 305 total. Top-level key: `items` in
 | yingning | zhi-shui | related_to |
 | yingning | zhuangzi | described_in |
 | yingning | zuochi | related_to |
+| yingning-passage | how-long-should-i-sit | related_to |
+| yingning-passage | shouyi | concerns |
+| yingning-passage | yingning | concerns |
+| yingning-passage | zhuangzi | translated_as |
 | yongxin-ruo-jing-passage | jing | concerns |
 | yongxin-ruo-jing-passage | virtual-room-passage | related_to |
 | yongxin-ruo-jing-passage | zhi-shui | related_to |
