@@ -1,16 +1,17 @@
 # Sources Registry
 
-All sources used on the site — 46 total. Registry file:
+All sources used on the site — 52 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
 
 | type | count |
 |---|---|
-| academic_study | 1 |
-| community | 5 |
+| academic_study | 2 |
+| community | 6 |
 | historical_text | 1 |
-| primary_text | 26 |
+| primary_text | 29 |
+| reference_work | 1 |
 | research | 4 |
 | scholarship | 9 |
 
@@ -18,6 +19,7 @@ All sources used on the site — 46 total. Registry file:
 
 | id | title | type | pages used in |
 |---|---|---|---|
+| 163-taishi-49 | Taishi cultivation Q&A no. 49 (163.com community column, 2021) | community | /experiences/exp-009-dissolving-void/ |
 | baopuzi-received | Baopuzi, received text (inner 20 juan, outer 52 juan as received) | primary_text | /texts/baopuzi/ |
 | baopuzi-shizhi | Baopuzi, Inner Chapters, Shizhi chapter (释滞): taixi definition and moving-qi conditions | primary_text | /practices/taixi/; /problems/breath-stopping-anxiety/ |
 | cook-2012 | Cook, Scott. The Bamboo Texts of Guodian. Cornell East Asia Series, 2012 | scholarship | /texts/daodejing/ |
@@ -34,7 +36,9 @@ All sources used on the site — 46 total. Registry file:
 | jin-shu-ge-hong | Jin shu (Book of Jin), biography of Ge Hong | historical_text | /people/ge-hong/; /texts/baopuzi/; /timeline/baopuzi-composition/ |
 | kohn-1998 | Kohn, Livia. God of the Dao: Lord Lao in History and Myth. Center for Chinese Studies, University of Michigan, 1998 | scholarship | /people/laozi/ |
 | kohn-2010 | Kohn, Livia. Sitting in Oblivion: The Heart of Daoist Meditation. Three Pines Press, 2010 | scholarship | /concepts/zuowang/; /practices/zuowang/; /texts/zuowang-lun/ |
+| liezi-received | Liezi, received text in eight chapters with Zhang Zhan's commentary; Hanshu Yiwenzhi bibliography; Ma Xulun, Liezi Weishu Kao; Ji Xianlin on the Sheng Jing borrowing | primary_text | /texts/liezi/ |
 | lindahl-2017 | Lindahl et al., The varieties of contemplative experience, PLoS ONE 12(5):e0176239 (2017) | research | /research/lindahl-2017/ |
+| nature-reviews-nrn3916 | Tang, Hölzel & Posner 2015, Nature Reviews Neuroscience 16: 213-225 | academic_study | /research/tang-2015/ |
 | neiguan-jing | Neiguan Jing (Scripture of Inner Observation), Daozang; Yunji Qiqian juan 17 | primary_text | /texts/neiguan-jing/ |
 | plos-one-e0216643 | Schlosser et al. 2019, PLoS ONE 14(5): e0216643 | academic_study | /research/schlosser-2019/; /questions/warmth-tingling-when-sitting/ |
 | qingjing-jing | Qingjing Jing (Scripture of Constant Clarity and Stillness) | primary_text | /texts/qingjing-jing/ |
@@ -51,8 +55,10 @@ All sources used on the site — 46 total. Registry file:
 | watson-1968 | Watson, Burton, trans. The Complete Works of Chuang Tzu. Columbia University Press, 1968 | scholarship | /texts/zhuangzi/; /concepts/zuowang/ |
 | wikisource-zhuangzi-dasheng | Zhuangzi ch. 19 (Dasheng), Wikisource | primary_text | /stories/wooden-rooster/; /stories/artisan-qing/; /stories/cicada-catcher/; /translations/artisan-qing-passage/; /blog/three-craftsmen-dazheng/; /glossary/shen/ |
 | wikisource-zhuangzi-qiushui | Zhuangzi ch. 17 (Qiushui), received text (Wikisource) | primary_text | /stories/fish-happiness/ |
+| wikisource-zhuangzi-qiwulun | Zhuangzi ch. 2 (Qiwulun), received text (Wikisource) | primary_text | /stories/three-in-the-morning/ |
 | wikisource-zhuangzi-renjianshi | Zhuangzi ch. 4 (Renjian shi), Wikisource | primary_text | /concepts/xu/; /problems/seeing-light-in-sitting/ |
 | wikisource-zhuangzi-tianzifang | Zhuangzi ch. 21 (Tian Zifang), received text (Wikisource) | primary_text | /stories/painter-unrobed/ |
+| wikisource-zhuangzi-xiaoyaoyou | Zhuangzi ch. 1 (Xiaoyaoyou), received text (Wikisource / Gushiwen) | primary_text | /stories/peng-bird/ |
 | wikisource-zhuangzi-xuwugui | Zhuangzi ch. 24 (Xuwugui), received text (Wikisource / Shidian Guji edition) | primary_text | /stories/carpenter-shi/ |
 | wikisource-zhuangzi-yingdiwang | Zhuangzi ch. 7 (Ying diwang), Wikisource | primary_text | /stories/huzi-jixian/ |
 | wikisource-zhuangzi-ys | Zhuangzi ch. 3 (Yangsheng zhu), Wikisource | primary_text | /stories/cook-ding/ |
@@ -60,6 +66,7 @@ All sources used on the site — 46 total. Registry file:
 | wikisource-zhuangzi-zhile | Zhuangzi ch. 18 (Zhile), received text (Wikisource / Shidian Guji) | primary_text | /stories/drumming-basin/ |
 | xiao-zhiguan | Zhiyi, Xiao zhiguan (Tongmeng zhiguan), Tiaohe chapter | primary_text | /glossary/tiaoxi/; /problems/drowsiness-in-sitting/; /timeline/xiao-zhiguan-five-adjustments/ |
 | xinli001-qa | Xinli001 (Yixinli) meditation Q&A — anonymous user questions | community | /experiences/exp-001-falling-asleep/; /questions/falling-asleep-during-meditation/ |
+| zdic-jiafuzuo | Zdic dictionary entry: jiafuzuo (with Faxian, Foguo Ji attestation) | reference_work | /glossary/jiafuzuo/ |
 | zhihu-daozuo-method | Zhihu column: 'Correct Daoist sitting method' (drowsiness vs. stillness) | community | /patterns/drowsiness-vs-stillness/; /questions/falling-asleep-during-meditation/ |
 | zhuangzi | Zhuangzi (received text, Guo Xiang recension) | primary_text | /concepts/zuowang/; /concepts/xinzhai/; /concepts/qi/; /texts/zhuangzi/ |
 | zhuzi-yulei | Zhu Xi yulei (Classified Conversations of Master Zhu), juan 116 | primary_text | /concepts/jingzuo/; /practices/jingzuo/; /problems/wandering-mind-in-sitting/ |

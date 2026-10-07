@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 223 total. Top-level key: `items` in
+Knowledge-graph edges — 241 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -9,16 +9,16 @@ Knowledge-graph edges — 223 total. Top-level key: `items` in
 |---|---|
 | associated_with | 8 |
 | authored | 2 |
-| concerns | 100 |
+| concerns | 105 |
 | contrasts_with | 4 |
 | derived_from | 11 |
-| described_in | 52 |
+| described_in | 54 |
 | discusses | 4 |
 | informs | 1 |
 | investigates | 2 |
-| references | 1 |
-| related_to | 30 |
-| translated_as | 8 |
+| references | 2 |
+| related_to | 39 |
+| translated_as | 9 |
 
 ## All edges
 
@@ -86,6 +86,12 @@ Knowledge-graph edges — 223 total. Top-level key: `items` in
 | drumming-basin | butterfly-dream | related_to |
 | drumming-basin | qi | concerns |
 | drumming-basin | zhuangzi | described_in |
+| drumming-basin-passage | drumming-basin | related_to |
+| drumming-basin-passage | qiwulun-wu-sang-wo | related_to |
+| drumming-basin-passage | zhuangzi | translated_as |
+| exp-009-dissolving-void | drowsiness-vs-stillness | related_to |
+| exp-009-dissolving-void | three-languages | related_to |
+| exp-009-dissolving-void | zuochi | concerns |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -109,6 +115,8 @@ Knowledge-graph edges — 223 total. Top-level key: `items` in
 | huzi-jixian | qi | concerns |
 | huzi-jixian | zhuangzi | described_in |
 | huzi-jixian | zuowang | concerns |
+| jiafuzuo | jingzuo | concerns |
+| jiafuzuo | sitting-protocol | related_to |
 | jing | daodejing | described_in |
 | jing | jingzuo | concerns |
 | jing | qingjing-jing | described_in |
@@ -129,6 +137,9 @@ Knowledge-graph edges — 223 total. Top-level key: `items` in
 | laozi | shiji-biographies | described_in |
 | leg-numbness-pain | EXP-003 | derived_from |
 | leg-numbness-pain | EXP-006 | derived_from |
+| liezi | daodejing | related_to |
+| liezi | xu | concerns |
+| liezi | zhuangzi | references |
 | lindahl-2017 | can-sitting-go-wrong | informs |
 | lindahl-2017 | farias-adverse-events-2020 | related_to |
 | neiguan | neiguan-jing | described_in |
@@ -138,6 +149,9 @@ Knowledge-graph edges — 223 total. Top-level key: `items` in
 | painter-unrobed | jing | concerns |
 | painter-unrobed | zhuangzi | described_in |
 | painter-unrobed | ziran | concerns |
+| peng-bird | drumming-basin | related_to |
+| peng-bird | zhuangzi | described_in |
+| peng-bird | ziran | concerns |
 | qi | daodejing | described_in |
 | qi | qi-belief-necessary | concerns |
 | qi | zhuangzi | described_in |
@@ -171,8 +185,12 @@ Knowledge-graph edges — 223 total. Top-level key: `items` in
 | taixi | exp-008-breath-stopping | concerns |
 | taixi | qi | concerns |
 | taixi | tiaoxi | concerns |
+| tang-2015 | mindfulness-meta-analysis-2014 | related_to |
 | three-craftsmen-dazheng | wuwei | concerns |
 | three-craftsmen-dazheng | zhuangzi | discusses |
+| three-in-the-morning | fish-happiness | related_to |
+| three-in-the-morning | jing | concerns |
+| three-in-the-morning | zhuangzi | described_in |
 | three-languages | jingzuo | concerns |
 | three-languages | qi | concerns |
 | tiaoxi | jingzuo | related_to |

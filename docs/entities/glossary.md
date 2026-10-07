@@ -1,6 +1,6 @@
 # Glossary
 
-term records from the glossary content collection — 20 records.
+term records from the glossary content collection — 21 records.
 
 | id | title | chinese | pinyin | literalMeaning | recommended |
 |---|---|---|---|---|
@@ -9,6 +9,7 @@ term records from the glossary content collection — 20 records.
 | dao | Dao | 道 | dào | way, path, road; to speak | keep romanized as Dao/dào; capitalize 'Way' when the technical sense is meant |
 | de | De | 德 | dé | virtue, power, inner potency | keep romanized as De/dé where technical; 'virtue/power' gloss on first use |
 | guan | Guan | 观 | guān | to observe; to watch; to look deeply into | observation (inner observation where the target is the interior); 'contemplation' only with Buddhist contexts flagged |
+| jiafuzuo | Jiafuzuo | 结跏趺坐 | jiéjiāfūzuò | bound sitting with folded soles: 结 tie/bind, 跏 cross, 趺 instep/sole, 坐 sit — the ankles and insteps crossed and settled on the thighs | 'full-lotus posture' when the double-crossed form is meant; 'cross-legged sitting' for the general family (and never just 'lotus,' which is a flower loan) |
 | jing-qi-shen | Jing-Qi-Shen | 精气神 | jīng-qì-shén | essence–vitality–spirit | the three treasures (jing, qi, shen), glossed once; never 'body-fluids-energy-mind' literally |
 | jingzuo | Jingzuo | 静坐 | jìngzuò | still/quiet sitting | quiet sitting; hyphenate 'quiet-sitting' in scholarly contexts |
 | neiguan | Neiguan (内观) | 内观 | nèiguān | inner contemplation; inner vision | 'inner contemplation' — 'inner observation' for contexts emphasizing the inspecting function; avoid 'inner visualization' unless the source explicitly describes images |

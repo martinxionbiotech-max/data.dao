@@ -7,7 +7,7 @@ search index, 163.com teacher Q&A, Xinli001 Q&A, Baidu Health, Zhihu columns).
 All records paraphrased and anonymized; no usernames, no direct quotes without
 permission.
 
-## Current records — 8
+## Current records — 9
 
 | id | theme | confidence | page |
 |---|---|---|
@@ -19,6 +19,7 @@ permission.
 | EXP-006 | EXP-006: Pins-and-Needles in the First Cross-Legged Session | medium | /experiences/exp-006-leg-numbness/ |
 | EXP-007 | EXP-007: Belching, Passing Wind, and a Calmer Stomach in Sitting | medium | /experiences/exp-007-digestive-release/ |
 | EXP-008 | EXP-008: The Breath That Seems to Stop on Its Own | low | /experiences/exp-008-breath-stopping/ |
+| EXP-009 | EXP-009: Dissolving Into the Void — and the Teacher's Diagnosis | medium | /experiences/exp-009-dissolving-void/ |
 
 ## Privacy rules
 
