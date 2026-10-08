@@ -1,6 +1,6 @@
 # Sources Registry
 
-All sources used on the site — 192 total. Registry file:
+All sources used on the site — 200 total. Registry file:
 `site/src/data/sources.json`.
 
 ## By type
@@ -14,9 +14,11 @@ All sources used on the site — 192 total. Registry file:
 | community | 22 |
 | community_archive | 3 |
 | historical | 5 |
+| historical_artifact | 1 |
 | historical_record | 12 |
 | historical_text | 1 |
-| primary_text | 109 |
+| journal_article | 4 |
+| primary_text | 112 |
 | reference | 1 |
 | reference_work | 1 |
 | research | 4 |
@@ -50,6 +52,7 @@ All sources used on the site — 192 total. Registry file:
 | bai-yuchan-sources | Bai Yuchan (1134-1229): Wikipedia, the Guwendao author page, and the Daoist Culture Centre database (agreeing on the biography: born Ge Changgeng, adopted Bai, Qiongzhou birth, the prodigy record, the examination failure, the flight to Wuyi after a killing, nine years with Chen Nan, the Luofu transmission of 1212, the disciples of 1217, the open teaching seat, the Ningzong title, the Yulong Palace state jiao, the Lin-an memorial and the heterodox-arts accusation; the essence-breath-spirit and thunder-rites doctrine; the collections and the Palace Museum calligraphy), with the Daozhan source registering the birth-date dispute (1134 vs 1194) and the sohu biography carrying the 道情 poem | historical_record | /people/bai-yuchan/ |
 | baopuzi-received | Baopuzi, received text (inner 20 juan, outer 52 juan as received) | primary_text | /texts/baopuzi/ |
 | baopuzi-shizhi | Baopuzi, Inner Chapters, Shizhi chapter (释滞): taixi definition and moving-qi conditions | primary_text | /practices/taixi/; /problems/breath-stopping-anxiety/ |
+| britton-2021 | Britton et al., 'Defining and measuring meditation-related adverse effects in mindfulness-based programs' (Clinical Psychological Science, 2021) | journal_article | /research/britton-2021/ |
 | ccdi-tangbi-dangche | CCDI study column on the idiom 螳臂当车 (sense-drift from Zhuangzi to Huainanzi to modern usage) | scholarly | /stories/mantis-and-chariot/ |
 | chen-nan-sources | Chen Nan (d. 1213), fourth patriarch of the southern lineage: the Baidu Baike Nan Wu Zu entry and the Wikipedia Nan Wu Zu article (agreeing on the biography: courtesy name Nanmu, style Cuixu; from Boluo, Huizhou; worked as a barrel-hooper; received the Guigen Fuming pian from Xue Daoguang; studied the Taiyi Daogui golden-elixir method under Xue; received the Jingxiao Dalei langshu thunder-scripture from a spirit-man of Limu Mountain; the mud-pill healing practice and the name Chen Niwan; the mad-sage image; his own transmission poem naming Bai Yuchan and the 1212 Luofu date; the Hun Yuan Lie Xian Tu record of four disciples and 南宗自陈楠起门徒始众; the three-grade inner-alchemy doctrine), with the Li Yuanguo study (陈楠与神霄派) and the Zhihu study of the Xiuzhen Bianhuo Lun (海南白玉蟾自幼事陈泥丸忽已九年) confirming the teacher-student line | historical_record | /people/chen-nan/ |
 | chen-tuan-sources | Chen Tuan dossier: Wikipedia (zh) with Song shi ch. 457 and Tang caizi zhuan citations; Baidu Baike with the Song shi quotations (Shizong's yellow-white question, Taizong's praise) | historical | /people/chen-tuan/ |
@@ -107,6 +110,7 @@ All sources used on the site — 192 total. Registry file:
 | iep-zhuangzi | Internet Encyclopedia of Philosophy, 'Zhuangzi' | scholarship | /texts/zhuangzi/ |
 | ikt-classics-zhuangzi-ch6 | Zhuangzi ch. 6 (Dazongshi), I-Kuan Tao classics full-text edition (with.org) | primary_text | /stories/sanghu-friends/ |
 | jin-shu-ge-hong | Jin shu (Book of Jin), biography of Ge Hong | historical_text | /people/ge-hong/; /texts/baopuzi/; /timeline/baopuzi-composition/ |
+| khalsa-2018 | Khalsa et al., 'Interoception and mental health: a roadmap' (Biological Psychiatry: CNNI, 2018) | journal_article | /research/khalsa-2018/; /problems/body-feels-very-large/ |
 | kohn-1998 | Kohn, Livia. God of the Dao: Lord Lao in History and Myth. Center for Chinese Studies, University of Michigan, 1998 | scholarship | /people/laozi/ |
 | kohn-2010 | Kohn, Livia. Sitting in Oblivion: The Heart of Daoist Meditation. Three Pines Press, 2010 | scholarship | /concepts/zuowang/; /practices/zuowang/; /texts/zuowang-lun/ |
 | li-ao-sources | Li Ao dossier: Gushiwen author biography (772-841, Xizhi, Didao in Longxi, Han Yu's student, anti-Buddhist-Daoist, Fuxing Shu); Gushiwen page for 'To the Eminent Monk Weiyan of Yaoshan' (both poems with variants, Jingde chuandeng lu ch. 14 background); Baidu Baike entry on 'cloud in the blue sky, water in the bottle' | historical | /people/li-ao/ |
@@ -117,9 +121,11 @@ All sources used on the site — 192 total. Registry file:
 | lu-xiujing-sources | Lu Xiujing (406-477): Baidu Baike (biography, 437 Lingbao jing mu, 461 Lu Shan Taixu guan, 467 Chongxu guan, 471 San Dong jing shu mu lu with 1,228 scrolls, zhaijiao codes); Taiwan Ministry of the Interior religion database; Chinese Taoist Association essay (southern reform, three teachings); Tushuguan xuekan 2013 library-science study (three-caverns classification attested from the 471 catalog); Wikipedia | historical_record | /people/lu-xiujing/ |
 | ma-yu-sources | Biographical records on Ma Yu (马钰, Danyang Zi, 1123-1183; Wikipedia 1123-1185 registered): Baidu Baike Quanzhen-seven entry, Chinese Wikipedia, China Daoist Association profile, Weihai municipal government Quanzhen founding story, Sohu survey, Kaiwind survey — agreeing on the Ninghai wealth, the Quanzhen Hermitage funding, the renaming, the 1170 coffin journey, the three-year mourning, and the Yuxian branch | historical_record | /people/ma-yu/ |
 | mati-editions | Zhuangzi ch. 9 (Ma Ti, outer chapter), the Bole passage, verified against the Wikisource full text, the Zhuangzi yi commentary (Shidian guji, DZ1487, Ma Ti di jiu, verbatim), and the Haitang Shishe reading text with translation, which agree verbatim | primary_text | /stories/bole-horses/ |
+| mawangdui-daoyin-tu | Mawangdui tomb 3 silk manuscript 'Daoyin tu' (导引图), sealed 168 BCE — 44 figures in movement postures | historical_artifact | /practices/daoyin/; /glossary/daoyin/ |
 | nanya-yangshengzhu-paper | Zhao Shiwei, 'Problems in the Zhuangzi Yangsheng Zhu' (Nanya University teaching-research paper): the marsh pheasant passage and the chapter's argument | scholarly | /stories/marsh-pheasant/ |
 | nature-reviews-nrn3916 | Tang, Hölzel & Posner 2015, Nature Reviews Neuroscience 16: 213-225 | academic_study | /research/tang-2015/ |
 | neiguan-jing | Neiguan Jing (Scripture of Inner Observation), Daozang; Yunji Qiqian juan 17 | primary_text | /texts/neiguan-jing/; /practices/neiguan/ |
+| noble-hochman-2019 | Noble & Hochman, 'Pulmonary afferent activity patterns during slow, deep breathing' (Frontiers in Physiology, 2019) | journal_article | /research/noble-hochman-2019/ |
 | pedia-cloud-edu-yangshengzhu | Education encyclopedia (pedia.cloud.edu.tw) entry on Yangsheng Zhu: the chapter's structure and the 帝之悬解 gloss | reference | /stories/qinshi-mourning/; /glossary/xian-jie/ |
 | pku-2009-qiwulun-study | Peking University Journal (2009), 'Doubts in reading Zhuangzi Qiwu Lun and their analysis': Lu Deming's one-character gloss (sang), Cheng Xuanying's subcommentary (天机自张莫知其宰), Liu Fengbao's Nanhua xuexin bian, and the study's own reading | scholarly | /stories/wang-liang-wen-jing/; /glossary/tian-ji/ |
 | plos-one-e0216643 | Schlosser et al. 2019, PLoS ONE 14(5): e0216643 | academic_study | /research/schlosser-2019/; /questions/warmth-tingling-when-sitting/ |
@@ -208,6 +214,7 @@ All sources used on the site — 192 total. Registry file:
 | yan-zun-sources | Yan Zun dossier: Baidu Baike biography (Hanshu and Gaoshi zhuan material, the rich man exchange, the Junping well); a National Taiwan Normal University thesis on the Laozi zhiguì via Airiti; Wikisource listing of the zhiguì among Daodejing commentary editions | historical | /people/yan-zun/ |
 | yangshengzhu-03-editions | Zhuangzi ch. 3 (Yang Sheng Zhu, inner chapter), opening lines with the commentary trail: Wikisource full chapter (retrieved 2026-10-07) and the Shidianguji Zhuangzi Yi edition carrying Guo Xiang's notes (缘督以为经者，顺中以为常也), plus the China Daoist Association study and the Renmin University philosophy faculty essay carrying Guo Xiang, Cheng Xuanying, Zhao Yifu, Wang Fuzhi, and Zhu Xi's recorded critique | primary_text | /glossary/yuan-du-yi-wei-jing/ |
 | yuyan-zhiyan-editions | Zhuangzi ch. 27 (Yu Yan), the opening self-summary of the three modes of speech (yuyan/zhongyan/zhiyan), verified against the Wikisource full chapter and the Tsinghua literary research center close reading (quoting the Guo Qingfan punctuated text), with the commentary tradition registered from the Guangming Daily study by Song Xiaoke (Chinawriter reprint: Sima Biao, Guo Xiang, Cheng Xuanying, Luo Miandao readings plus the modern Li Binghai and Guo Changbao proposals) | primary_text | /stories/zhi-yan/; /glossary/hua/ |
+| zaccaro-2018 | Zaccaro et al., 'How breath-control can change your life' (Frontiers in Human Neuroscience, 2018) | journal_article | /research/zaccaro-2018/; /problems/breathing-gets-shallow/ |
 | zdic-jiafuzuo | Zdic dictionary entry: jiafuzuo (with Faxian, Foguo Ji attestation) | reference_work | /glossary/jiafuzuo/ |
 | zeyang-editions | Zhuangzi ch. 25 (Zeyang) King Wei Ying passage: I-Kuan Tao classics full text (with.org), Wix temple teaching edition, and the Taiping yulan parallel noted by ctext | primary_text | /stories/snail-horn-war/ |
 | zhang-boduan-sources | Zhang Boduan (984-1082): Global Daoism database (dao.jic.io, citing the Wuzhen pian prefaces and Qing Xitai); Shaoyang Yuqing Gong biography (quoting the preface verbatim, the Lu Yanfu record, the death-verse); Zheng Weiyi study in Hongdao 58 (2014) on the two threes in the postface; Airiti thesis abstract on the Wuzhen pian; Zhejiang CPPCC cultural-history entry (1075 completion, Yongzheng enfeoffment); Baidu Baike | historical_record | /people/zhang-boduan/ |
@@ -220,6 +227,9 @@ All sources used on the site — 192 total. Registry file:
 | zhile-editions | Zhuangzi ch. 18 (Zhile), seabird passage: full text quoted verbatim in a teaching essay (mmh.org.tw) and the Guwendao teaching edition with translation; the Baidu Baike idiom entry (luhou yang niao) confirms location and standard reading | primary_text | /stories/luhou-yang-niao/ |
 | zhile-skeleton-editions | Zhuangzi ch. 18 (Zhile), skull passage: Zhihu annotated edition, Baidu Baike full text, Ziyexing full text, CText parallel snippet (dream dialogue verified verbatim across all four); an education-encyclopedia entry (pedia.cloud.edu.tw) on the chapter's two-skull structure | primary_text | /stories/zhuangzi-skeleton/ |
 | zhuangzi | Zhuangzi (received text, Guo Xiang recension) | primary_text | /concepts/zuowang/; /concepts/xinzhai/; /concepts/qi/; /texts/zhuangzi/; /concepts/dao/; /concepts/wu-you/ |
+| zhuangzi-an-zhi-ruo-ming | Zhuangzi ch. 4 (Renjian shi): 'knowing what cannot be helped and settling into it as fate' (安之若命) | primary_text | /concepts/ming/; /glossary/ming/ |
+| zhuangzi-keyi-daoyin | Zhuangzi ch. 15 (Keyi): the daoyin passage — 'blowing and breathing, expelling the old and drawing in the new, the bear's strides and the bird's stretch' | primary_text | /practices/daoyin/; /practices/qigong/; /glossary/daoyin/ |
+| zhuangzi-pianmu-xing | Zhuangzi ch. 8 (Pianmu): the webbed-toes defense of the inborn nature (性) | primary_text | /concepts/xing/; /glossary/xing/ |
 | zhuzi-yulei | Zhu Xi yulei (Classified Conversations of Master Zhu), juan 116 | primary_text | /concepts/jingzuo/; /practices/jingzuo/; /problems/wandering-mind-in-sitting/ |
 | zuowang-lun | Sima Chengzhen, Zuowang lun (Treatise on Sitting in Oblivion) | primary_text | /concepts/zuowang/; /practices/zuowang/; /texts/zuowang-lun/ |
 

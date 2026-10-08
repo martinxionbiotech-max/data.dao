@@ -1,6 +1,6 @@
 # Glossary
 
-term records from the glossary content collection — 50 records.
+term records from the glossary content collection — 56 records.
 
 | id | title | chinese | pinyin | literalMeaning | recommended |
 |---|---|---|---|---|---|
@@ -10,6 +10,7 @@ term records from the glossary content collection — 50 records.
 | dantian | Dantian (丹田) | 丹田 | dāntián | cinnabar field | dantian (transliterated) — 'cinnabar field' for explanatory contexts |
 | dao-shu | Daoshu (道枢) | 道枢 | dàoshū |  |  |
 | dao | Dao | 道 | dào | way, path, road; to speak | keep romanized as Dao/dào; capitalize 'Way' when the technical sense is meant |
+| daoyin |  |  |  |  |  |
 | de | De | 德 | dé | virtue, power, inner potency | keep romanized as De/dé where technical; 'virtue/power' gloss on first use |
 | guan | Guan | 观 | guān | to observe; to watch; to look deeply into | observation (inner observation where the target is the interior); 'contemplation' only with Buddhist contexts flagged |
 | hua | Hua (化) | 化 | huà |  |  |
@@ -22,9 +23,12 @@ term records from the glossary content collection — 50 records.
 | jingzuo | Jingzuo | 静坐 | jìngzuò | still/quiet sitting | quiet sitting; hyphenate 'quiet-sitting' in scholarly contexts |
 | liang-wang | Liangwang (两忘) | 两忘 | liǎngwàng |  |  |
 | liang-xing | Liangxing (两行) | 两行 | liǎngxíng |  |  |
+| ming |  |  |  |  |  |
 | mo-ruo-yi-ming | Moruo Yiming (莫若以明) | 莫若以明 | mòruò yǐ míng |  |  |
+| neigong |  |  |  |  |  |
 | neiguan | Neiguan (内观) | 内观 | nèiguān | inner contemplation; inner vision | 'inner contemplation' — 'inner observation' for contexts emphasizing the inspecting function; avoid 'inner visualization' unless the source explicitly describes images |
 | qi | Qi | 气 | qì | vapor, breath, vital substrate | keep romanized as qi with a gloss; use 'breath' only in breathing contexts, 'energy' only with qualification |
+| qigong |  |  |  |  |  |
 | qiwu | Qiwu (齐物) | 齐物 | qíwù |  |  |
 | shen | Shen | 神 | shén | spirit; numen; the luminous-animating aspect of the mind | spirit (with 'luminous-animating mind' glossed where the context is meditative) |
 | shouyi | Shouyi | 守一 | shǒuyī | guarding-keeping the One | guarding the One (standard in Robinet and Kohn) |
@@ -42,10 +46,12 @@ term records from the glossary content collection — 50 records.
 | xian-jie | Xianjie (县解) | 县解 | xuánjiě |  |  |
 | xiaoyao | Xiaoyao (逍遥) | 逍遥 | xiāoyáo |  |  |
 | xin | Xin | 心 | xīn | heart; mind; heart-mind | heart-mind on first use in philosophical contexts; then plain 'mind' if the context is cognitive |
+| xing |  |  |  |  |  |
 | xinzhai | Xinzhai | 心斋 | xīnzhāi | mind/heart-fasting | fasting of the mind (with the note that xin covers both heart and mind) |
 | xuan-pin | Xuanpin (玄牝) | 玄牝 | xuánpìn |  |  |
 | xuan | Xuan | 玄 | xuán | dark; deep; distant beyond sight; the color of depth | dark/depth (with 'beyond naming' glossed); avoid 'mysterious' where it suggests the occult |
 | xushi-sheng-bai | Xushi sheng bai (虚室生白) | 虚室生白 | xūshì shēng bái |  |  |
+| yi |  |  |  |  |  |
 | yingning | Yingning (撄宁) | 撄宁 | yīngníng |  |  |
 | yuan-du-yi-wei-jing | Yuandu Yiwei Jing (缘督以为经) | 缘督以为经 | yuán dū yǐ wéi jīng |  |  |
 | zhao-che | Zhaoche (朝彻) | 朝彻 | zhāochè |  |  |

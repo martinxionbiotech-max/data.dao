@@ -1,22 +1,22 @@
 # Relationship Registry
 
-Knowledge-graph edges — 1466 total. Top-level key: `items` in
+Knowledge-graph edges — 1538 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
 
 | relation | count |
 |---|---|
-| associated_with | 67 |
+| associated_with | 82 |
 | authored | 2 |
-| concerns | 337 |
-| contrasts_with | 5 |
-| derived_from | 11 |
-| described_in | 153 |
-| discusses | 10 |
+| concerns | 351 |
+| contrasts_with | 8 |
+| derived_from | 12 |
+| described_in | 157 |
+| discusses | 34 |
 | informs | 1 |
-| investigates | 2 |
-| references | 36 |
+| investigates | 7 |
+| references | 42 |
 | related_to | 818 |
 | translated_as | 24 |
 
@@ -165,6 +165,15 @@ Knowledge-graph edges — 1466 total. Top-level key: `items` in
 | cicada-catcher | zhuangzi | described_in |
 | combine-zuowang-mindfulness | mindfulness-meta-analysis-2014 | references |
 | combine-zuowang-mindfulness | zuowang | concerns |
+| comparisons/daoist-vs-buddhist-meditation | jingzuo | discusses |
+| comparisons/daoist-vs-buddhist-meditation | shouyi | discusses |
+| comparisons/daoist-vs-buddhist-meditation | xinzhai | discusses |
+| comparisons/daoist-vs-buddhist-meditation | zuowang | discusses |
+| comparisons/jingzuo-vs-zazen | jingzuo | discusses |
+| comparisons/qi-vs-prana | qi | discusses |
+| comparisons/shouyi-vs-concentration | shouyi | discusses |
+| comparisons/wuwei-vs-non-action | wuwei | discusses |
+| comparisons/xinzhai-vs-mindfulness | xinzhai | discusses |
 | confucius-meets-laozi | laozi | associated_with |
 | cook-ding | wuwei | concerns |
 | cook-ding | zhuangzi | described_in |
@@ -409,6 +418,8 @@ Knowledge-graph edges — 1466 total. Top-level key: `items` in
 | daoshu-neiguan-zuowang | daoshu | described_in |
 | daoshu-neiguan-zuowang | neiguan | concerns |
 | daoshu-neiguan-zuowang | zuowang | concerns |
+| daoyin | mawangdui-daoyin-tu | described_in |
+| daoyin | zhuangzi | described_in |
 | daye-zhu-jin | can-meditation-cure-illness | related_to |
 | daye-zhu-jin | four-friends | related_to |
 | daye-zhu-jin | qinshi-mourning | related_to |
@@ -671,6 +682,24 @@ Knowledge-graph edges — 1466 total. Top-level key: `items` in
 | guides/chinese-meditation-explained | tiaoxi | discusses |
 | guides/chinese-meditation-explained | xinzhai | discusses |
 | guides/chinese-meditation-explained | zuowang | discusses |
+| guides/daoist-meditation-explained | cunsi | discusses |
+| guides/daoist-meditation-explained | jingzuo | discusses |
+| guides/daoist-meditation-explained | neiguan | discusses |
+| guides/daoist-meditation-explained | shouyi | discusses |
+| guides/daoist-meditation-explained | xinzhai | discusses |
+| guides/daoist-meditation-explained | xu | discusses |
+| guides/daoist-meditation-explained | zuowang | discusses |
+| guides/how-to-read-daoist-meditation-texts | baopuzi | references |
+| guides/how-to-read-daoist-meditation-texts | zhuangzi | references |
+| guides/how-to-read-daoist-meditation-texts | zuowang-lun | references |
+| guides/map-of-chinese-contemplative-traditions | jingzuo | discusses |
+| guides/map-of-chinese-contemplative-traditions | qi | discusses |
+| guides/map-of-chinese-contemplative-traditions | shouyi | discusses |
+| guides/map-of-chinese-contemplative-traditions | taixi | discusses |
+| guides/map-of-chinese-contemplative-traditions | xinzhai | discusses |
+| guides/map-of-chinese-contemplative-traditions | zuowang | discusses |
+| guides/what-is-shouyi | shouyi | discusses |
+| guides/what-is-zuowang | zuowang | discusses |
 | guo-xiang | da-kuai | related_to |
 | guo-xiang | does-daoism-believe-in-a-creator | related_to |
 | guo-xiang | wang-bi | related_to |
@@ -918,6 +947,9 @@ Knowledge-graph edges — 1466 total. Top-level key: `items` in
 | marsh-pheasant | turtle-in-the-mud | related_to |
 | marsh-pheasant | zhuangzi | described_in |
 | marsh-pheasant | ziran | concerns |
+| ming | wu-you | associated_with |
+| ming | xing | associated_with |
+| ming | zhuangzi | described_in |
 | mo-ruo-yi-ming | dao-shu | related_to |
 | mo-ruo-yi-ming | huan-zhong | related_to |
 | mo-ruo-yi-ming | liang-xing | related_to |
@@ -935,6 +967,9 @@ Knowledge-graph edges — 1466 total. Top-level key: `items` in
 | must-i-sit-cross-legged | jingzuo | concerns |
 | must-i-sit-cross-legged | leg-numbness-pain | related_to |
 | must-i-sit-cross-legged | sitting-protocol | related_to |
+| neigong | daoyin | associated_with |
+| neigong | taixi | associated_with |
+| neigong | tiaoxi | associated_with |
 | neiguan | cunsi | contrasts_with |
 | neiguan | neiguan-jing | described_in |
 | neiguan | qingjing-jing | described_in |
@@ -954,6 +989,22 @@ Knowledge-graph edges — 1466 total. Top-level key: `items` in
 | phoenix-and-owl | fish-happiness | related_to |
 | phoenix-and-owl | turtle-in-the-mud | related_to |
 | phoenix-and-owl | zhuangzi | described_in |
+| problems/body-feels-very-large | khalsa-2018 | references |
+| problems/body-feels-very-large | qi | concerns |
+| problems/body-feels-very-large | zuowang | concerns |
+| problems/breath-retention-daoist | taixi | concerns |
+| problems/breath-stopping-intentional-spontaneous | taixi | concerns |
+| problems/breathing-gets-shallow | noble-hochman-2019 | references |
+| problems/breathing-gets-shallow | tiaoxi | concerns |
+| problems/breathing-gets-shallow | zaccaro-2018 | references |
+| problems/falling-asleep-during-sitting | jingzuo | concerns |
+| problems/falling-asleep-during-sitting | zuowang | concerns |
+| problems/forgetting-the-body-daoist-texts | zuowang | concerns |
+| problems/losing-body-awareness | xu | concerns |
+| problems/losing-body-awareness | zuowang | concerns |
+| problems/stillness-uncomfortable | xu | concerns |
+| problems/thoughts-become-stronger | xinzhai | concerns |
+| problems/vibrations-during-sitting | qi | concerns |
 | problems/wandering-mind-in-sitting | xinzhai | concerns |
 | problems/wandering-mind-in-sitting | zuochi | concerns |
 | problems/wandering-mind-in-sitting | zuowang | concerns |
@@ -961,8 +1012,10 @@ Knowledge-graph edges — 1466 total. Top-level key: `items` in
 | pu | wuwei | associated_with |
 | pu | ziran | associated_with |
 | qi | daodejing | described_in |
+| qi | prana | contrasts_with |
 | qi | qi-belief-necessary | concerns |
 | qi | zhuangzi | described_in |
+| qigong | daoyin | derived_from |
 | qingjing-jing | qingjing-jing-opening | translated_as |
 | qinshi-mourning | confucius-meets-laozi | related_to |
 | qinshi-mourning | drumming-basin | related_to |
@@ -1015,6 +1068,14 @@ Knowledge-graph edges — 1466 total. Top-level key: `items` in
 | ren-gongzi-fishing | what-counts-as-progress | related_to |
 | ren-gongzi-fishing | zhuangzi | described_in |
 | ren-gongzi-fishing | ziran | concerns |
+| research/britton-2021 | farias-adverse-events-2020 | associated_with |
+| research/britton-2021 | jingzuo | investigates |
+| research/britton-2021 | lindahl-2017 | associated_with |
+| research/britton-2021 | zuowang | investigates |
+| research/khalsa-2018 | qi | investigates |
+| research/noble-hochman-2019 | tiaoxi | investigates |
+| research/zaccaro-2018 | noble-hochman-2019 | associated_with |
+| research/zaccaro-2018 | tiaoxi | investigates |
 | sanghu-friends | fish-in-the-dry-spring | related_to |
 | sanghu-friends | four-friends | related_to |
 | sanghu-friends | liang-wang | concerns |
@@ -1299,6 +1360,7 @@ Knowledge-graph edges — 1466 total. Top-level key: `items` in
 | wu-you | zhuangzi | described_in |
 | wuwei | daodejing | described_in |
 | wuwei | daodejing-48 | translated_as |
+| wuwei | non-action | contrasts_with |
 | wuwei | zuowang | related_to |
 | xi | taixi | concerns |
 | xi | tiaoxi | concerns |
@@ -1320,6 +1382,11 @@ Knowledge-graph edges — 1466 total. Top-level key: `items` in
 | xiaoyao | zhili-shu | related_to |
 | xiaoyao | zhuangzi | described_in |
 | xiaoyao | ziran | concerns |
+| xing | de | associated_with |
+| xing | ming | associated_with |
+| xing | zhuangzi | described_in |
+| xing | ziran | associated_with |
+| xinzhai | mindfulness | contrasts_with |
 | xinzhai | qingjing-jing | related_to |
 | xinzhai | xinzhai-passage | translated_as |
 | xinzhai | xu | derived_from |
@@ -1364,6 +1431,11 @@ Knowledge-graph edges — 1466 total. Top-level key: `items` in
 | yanshi-wind-song | yi-dai-niao | related_to |
 | yanshi-wind-song | zhuangzi | described_in |
 | yanshi-wind-song | ziran | concerns |
+| yi | neiguan | associated_with |
+| yi | shen | associated_with |
+| yi | tiaoxi | concerns |
+| yi | wuwei | associated_with |
+| yi | xin | associated_with |
 | yi-dai-niao | daodejing-22 | references |
 | yi-dai-niao | marsh-pheasant | related_to |
 | yi-dai-niao | mountain-tree-goose | related_to |
