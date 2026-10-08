@@ -1,37 +1,30 @@
 # Relationship Registry
 
-Knowledge-graph edges — 1538 total. Top-level key: `items` in
+Knowledge-graph edges — 1534 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
 
 | relation | count |
 |---|---|
-| associated_with | 82 |
+| associated_with | 86 |
 | authored | 2 |
-| concerns | 351 |
-| contrasts_with | 8 |
+| compared_with | 1 |
+| concerns | 349 |
+| contrasts_with | 10 |
 | derived_from | 12 |
-| described_in | 157 |
+| described_in | 156 |
 | discusses | 34 |
 | informs | 1 |
 | investigates | 7 |
 | references | 42 |
-| related_to | 818 |
+| related_to | 810 |
 | translated_as | 24 |
 
 ## All edges
 
 | from | to | relation |
 |---|---|---|
-| EXP-001 | jingzuo | concerns |
-| EXP-002 | jingzuo | concerns |
-| EXP-003 | jingzuo | concerns |
-| EXP-004 | jingzuo | concerns |
-| EXP-005 | qi | concerns |
-| EXP-006 | jingzuo | concerns |
-| EXP-007 | jingzuo | concerns |
-| EXP-008 | jingzuo | concerns |
 | artisan-qing | xinzhai | concerns |
 | artisan-qing | xu | concerns |
 | artisan-qing | zhuangzi | described_in |
@@ -72,12 +65,13 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | bei-gong-she | xuzhou-empty-boat | related_to |
 | bei-gong-she | zhuangzi | described_in |
 | bei-gong-she | ziran | concerns |
-| blog/zuowang-for-modern-practitioner | farias-adverse-events-2020 | references |
-| blog/zuowang-for-modern-practitioner | zuowang | concerns |
 | boatman | cicada-catcher | related_to |
 | boatman | xinzhai-passage | references |
 | boatman | zhuangzi | described_in |
 | boatman | zuowang | concerns |
+| body-feels-very-large | khalsa-2018 | references |
+| body-feels-very-large | qi | concerns |
+| body-feels-very-large | zuowang | concerns |
 | bole-horses | artisan-qing | related_to |
 | bole-horses | bao-weng-guan-qi | related_to |
 | bole-horses | cao-shang | related_to |
@@ -94,9 +88,18 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | boshun-archer | wooden-rooster | related_to |
 | boshun-archer | zhuangzi | described_in |
 | boshun-archer | zuochi | concerns |
+| breath-retention-daoist | taixi | concerns |
 | breath-stopping-anxiety | exp-008-breath-stopping | concerns |
 | breath-stopping-anxiety | taixi | concerns |
 | breath-stopping-anxiety | tiaoxi | concerns |
+| breath-stopping-intentional-spontaneous | taixi | concerns |
+| breathing-gets-shallow | noble-hochman-2019 | references |
+| breathing-gets-shallow | tiaoxi | concerns |
+| breathing-gets-shallow | zaccaro-2018 | references |
+| britton-2021 | farias-adverse-events-2020 | associated_with |
+| britton-2021 | jingzuo | investigates |
+| britton-2021 | lindahl-2017 | associated_with |
+| britton-2021 | zuowang | investigates |
 | butterfly-dream | zhuang-zhou | associated_with |
 | butterfly-dream | zhuangzi | described_in |
 | can-i-sit-in-bed | does-practice-need-faith | related_to |
@@ -151,6 +154,10 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | cheng-xuanying | wang-bi | related_to |
 | cheng-xuanying | xuan | related_to |
 | cheng-xuanying | zhuangzi | related_to |
+| chinese-meditation-explained | jingzuo | discusses |
+| chinese-meditation-explained | tiaoxi | discusses |
+| chinese-meditation-explained | xinzhai | discusses |
+| chinese-meditation-explained | zuowang | discusses |
 | chui-gou-zhe | artisan-qing | related_to |
 | chui-gou-zhe | cicada-catcher | related_to |
 | chui-gou-zhe | cook-ding | related_to |
@@ -165,15 +172,6 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | cicada-catcher | zhuangzi | described_in |
 | combine-zuowang-mindfulness | mindfulness-meta-analysis-2014 | references |
 | combine-zuowang-mindfulness | zuowang | concerns |
-| comparisons/daoist-vs-buddhist-meditation | jingzuo | discusses |
-| comparisons/daoist-vs-buddhist-meditation | shouyi | discusses |
-| comparisons/daoist-vs-buddhist-meditation | xinzhai | discusses |
-| comparisons/daoist-vs-buddhist-meditation | zuowang | discusses |
-| comparisons/jingzuo-vs-zazen | jingzuo | discusses |
-| comparisons/qi-vs-prana | qi | discusses |
-| comparisons/shouyi-vs-concentration | shouyi | discusses |
-| comparisons/wuwei-vs-non-action | wuwei | discusses |
-| comparisons/xinzhai-vs-mindfulness | xinzhai | discusses |
 | confucius-meets-laozi | laozi | associated_with |
 | cook-ding | wuwei | concerns |
 | cook-ding | zhuangzi | described_in |
@@ -415,6 +413,17 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | daodejing-78 | fan | concerns |
 | daodejing-78 | wuwei | related_to |
 | daodejing-78 | ziran | related_to |
+| daoist-meditation-explained | cunsi | discusses |
+| daoist-meditation-explained | jingzuo | discusses |
+| daoist-meditation-explained | neiguan | discusses |
+| daoist-meditation-explained | shouyi | discusses |
+| daoist-meditation-explained | xinzhai | discusses |
+| daoist-meditation-explained | xu | discusses |
+| daoist-meditation-explained | zuowang | discusses |
+| daoist-vs-buddhist-meditation | jingzuo | discusses |
+| daoist-vs-buddhist-meditation | shouyi | discusses |
+| daoist-vs-buddhist-meditation | xinzhai | discusses |
+| daoist-vs-buddhist-meditation | zuowang | discusses |
 | daoshu-neiguan-zuowang | daoshu | described_in |
 | daoshu-neiguan-zuowang | neiguan | concerns |
 | daoshu-neiguan-zuowang | zuowang | concerns |
@@ -494,15 +503,22 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | drowsiness-in-sitting | falling-asleep-during-meditation | related_to |
 | drowsiness-in-sitting | jingzuo | concerns |
 | drowsiness-in-sitting | zuowang | concerns |
-| drowsiness-vs-stillness | EXP-001 | derived_from |
+| drowsiness-vs-stillness | exp-001-falling-asleep | derived_from |
 | drumming-basin | butterfly-dream | related_to |
 | drumming-basin | qi | concerns |
 | drumming-basin | zhuangzi | described_in |
 | drumming-basin-passage | drumming-basin | related_to |
 | drumming-basin-passage | qiwulun-wu-sang-wo | related_to |
 | drumming-basin-passage | zhuangzi | translated_as |
+| exp-001-falling-asleep | jingzuo | concerns |
+| exp-002-warmth-rotation | jingzuo | concerns |
+| exp-003-leg-pain-filling | jingzuo | concerns |
+| exp-004-emotional-surfacing | jingzuo | concerns |
 | exp-005-night-qi-movement | qi | concerns |
 | exp-005-night-qi-movement | xu | associated_with |
+| exp-006-leg-numbness | jingzuo | concerns |
+| exp-007-digestive-release | jingzuo | concerns |
+| exp-008-breath-stopping | jingzuo | concerns |
 | exp-009-dissolving-void | drowsiness-vs-stillness | related_to |
 | exp-009-dissolving-void | three-languages | related_to |
 | exp-009-dissolving-void | zuochi | concerns |
@@ -652,6 +668,8 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | exp-032-from-zero-to-desire-realm | what-counts-as-progress | concerns |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
+| falling-asleep-during-sitting | jingzuo | concerns |
+| falling-asleep-during-sitting | zuowang | concerns |
 | fan | daodejing | described_in |
 | fan | jing | associated_with |
 | fan | wu-you | associated_with |
@@ -663,6 +681,7 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | fish-in-the-dry-spring | drumming-basin | related_to |
 | fish-in-the-dry-spring | zhuangzi | described_in |
 | fish-in-the-dry-spring | ziran | concerns |
+| forgetting-the-body-daoist-texts | zuowang | concerns |
 | four-friends | drumming-basin | related_to |
 | four-friends | qinshi-mourning | related_to |
 | four-friends | zhuangzi | described_in |
@@ -678,28 +697,6 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | guangchengzi | jingzuo | concerns |
 | guangchengzi | shouyi | concerns |
 | guangchengzi | zhuangzi | described_in |
-| guides/chinese-meditation-explained | jingzuo | discusses |
-| guides/chinese-meditation-explained | tiaoxi | discusses |
-| guides/chinese-meditation-explained | xinzhai | discusses |
-| guides/chinese-meditation-explained | zuowang | discusses |
-| guides/daoist-meditation-explained | cunsi | discusses |
-| guides/daoist-meditation-explained | jingzuo | discusses |
-| guides/daoist-meditation-explained | neiguan | discusses |
-| guides/daoist-meditation-explained | shouyi | discusses |
-| guides/daoist-meditation-explained | xinzhai | discusses |
-| guides/daoist-meditation-explained | xu | discusses |
-| guides/daoist-meditation-explained | zuowang | discusses |
-| guides/how-to-read-daoist-meditation-texts | baopuzi | references |
-| guides/how-to-read-daoist-meditation-texts | zhuangzi | references |
-| guides/how-to-read-daoist-meditation-texts | zuowang-lun | references |
-| guides/map-of-chinese-contemplative-traditions | jingzuo | discusses |
-| guides/map-of-chinese-contemplative-traditions | qi | discusses |
-| guides/map-of-chinese-contemplative-traditions | shouyi | discusses |
-| guides/map-of-chinese-contemplative-traditions | taixi | discusses |
-| guides/map-of-chinese-contemplative-traditions | xinzhai | discusses |
-| guides/map-of-chinese-contemplative-traditions | zuowang | discusses |
-| guides/what-is-shouyi | shouyi | discusses |
-| guides/what-is-zuowang | zuowang | discusses |
 | guo-xiang | da-kuai | related_to |
 | guo-xiang | does-daoism-believe-in-a-creator | related_to |
 | guo-xiang | wang-bi | related_to |
@@ -759,6 +756,10 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | how-long-until-results | should-i-meditate-when-sick | related_to |
 | how-long-until-results | wooden-rooster-passage | related_to |
 | how-long-until-results | yingning-passage | related_to |
+| how-to-read-daoist-meditation-texts | baopuzi | references |
+| how-to-read-daoist-meditation-texts | zhuangzi | references |
+| how-to-read-daoist-meditation-texts | zuowang-lun | references |
+| how-to-verify-sources | chinese-meditation-explained | associated_with |
 | hua | butterfly-dream | related_to |
 | hua | da-kuai | related_to |
 | hua | daodejing-40 | related_to |
@@ -858,11 +859,13 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | jingzuo | shouyi | related_to |
 | jingzuo | xinzhai | related_to |
 | jingzuo | zhuzi-yulei-jingzuo | described_in |
-| jingzuo | zuowang | related_to |
+| jingzuo | zuowang | contrasts_with |
 | jingzuo | zuowang | contrasts_with |
 | jingzuo | zuowang-vs-jingzuo | concerns |
+| jingzuo-vs-zazen | jingzuo | discusses |
 | jingzuo-vs-zuowang | jingzuo | discusses |
 | jingzuo-vs-zuowang | zuowang | discusses |
+| khalsa-2018 | qi | investigates |
 | kou-qianzhi | kou-qianzhi-reform | associated_with |
 | kou-qianzhi-reform | kou-qianzhi | associated_with |
 | kui-xian-chain | peng-bird | related_to |
@@ -872,8 +875,8 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | kui-xian-chain | ziran | concerns |
 | laozi | daodejing | associated_with |
 | laozi | shiji-biographies | described_in |
-| leg-numbness-pain | EXP-003 | derived_from |
-| leg-numbness-pain | EXP-006 | derived_from |
+| leg-numbness-pain | exp-003-leg-pain-filling | derived_from |
+| leg-numbness-pain | exp-006-leg-numbness | derived_from |
 | li-ao | exp-013-buddhist-daoist-boundary | related_to |
 | li-ao | fu-yi | related_to |
 | li-ao | jingzuo | concerns |
@@ -915,6 +918,8 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | lin-hui-qi-bi | zhuangzi | described_in |
 | lindahl-2017 | can-sitting-go-wrong | informs |
 | lindahl-2017 | farias-adverse-events-2020 | related_to |
+| losing-body-awareness | xu | concerns |
+| losing-body-awareness | zuowang | concerns |
 | lu-xiujing | kou-qianzhi | related_to |
 | lu-xiujing | kou-qianzhi-reform | related_to |
 | lu-xiujing | shangqing-revelations | related_to |
@@ -943,6 +948,12 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | mantis-stalks-cicada | zhuangzi | described_in |
 | mantis-stalks-cicada | zuochi | concerns |
 | mantis-stalks-cicada | zuowang | concerns |
+| map-of-chinese-contemplative-traditions | jingzuo | discusses |
+| map-of-chinese-contemplative-traditions | qi | discusses |
+| map-of-chinese-contemplative-traditions | shouyi | discusses |
+| map-of-chinese-contemplative-traditions | taixi | discusses |
+| map-of-chinese-contemplative-traditions | xinzhai | discusses |
+| map-of-chinese-contemplative-traditions | zuowang | discusses |
 | marsh-pheasant | phoenix-and-owl | related_to |
 | marsh-pheasant | turtle-in-the-mud | related_to |
 | marsh-pheasant | zhuangzi | described_in |
@@ -976,8 +987,9 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | neiguan | shouyi | associated_with |
 | neiguan | xinzhai | associated_with |
 | neiguan | xu | associated_with |
-| neiguan | zuowang | related_to |
+| neiguan | zuowang | associated_with |
 | neiguan-jing | qingjing-jing | related_to |
+| noble-hochman-2019 | tiaoxi | investigates |
 | painter-unrobed | artisan-qing | related_to |
 | painter-unrobed | jing | concerns |
 | painter-unrobed | zhuangzi | described_in |
@@ -989,25 +1001,6 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | phoenix-and-owl | fish-happiness | related_to |
 | phoenix-and-owl | turtle-in-the-mud | related_to |
 | phoenix-and-owl | zhuangzi | described_in |
-| problems/body-feels-very-large | khalsa-2018 | references |
-| problems/body-feels-very-large | qi | concerns |
-| problems/body-feels-very-large | zuowang | concerns |
-| problems/breath-retention-daoist | taixi | concerns |
-| problems/breath-stopping-intentional-spontaneous | taixi | concerns |
-| problems/breathing-gets-shallow | noble-hochman-2019 | references |
-| problems/breathing-gets-shallow | tiaoxi | concerns |
-| problems/breathing-gets-shallow | zaccaro-2018 | references |
-| problems/falling-asleep-during-sitting | jingzuo | concerns |
-| problems/falling-asleep-during-sitting | zuowang | concerns |
-| problems/forgetting-the-body-daoist-texts | zuowang | concerns |
-| problems/losing-body-awareness | xu | concerns |
-| problems/losing-body-awareness | zuowang | concerns |
-| problems/stillness-uncomfortable | xu | concerns |
-| problems/thoughts-become-stronger | xinzhai | concerns |
-| problems/vibrations-during-sitting | qi | concerns |
-| problems/wandering-mind-in-sitting | xinzhai | concerns |
-| problems/wandering-mind-in-sitting | zuochi | concerns |
-| problems/wandering-mind-in-sitting | zuowang | concerns |
 | pu | daodejing | described_in |
 | pu | wuwei | associated_with |
 | pu | ziran | associated_with |
@@ -1015,8 +1008,12 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | qi | prana | contrasts_with |
 | qi | qi-belief-necessary | concerns |
 | qi | zhuangzi | described_in |
+| qi-vs-prana | qi | discusses |
 | qigong | daoyin | derived_from |
 | qingjing-jing | qingjing-jing-opening | translated_as |
+| qingjing-neiguan-jing | neiguan | concerns |
+| qingjing-neiguan-jing | neiguan-jing | references |
+| qingjing-neiguan-jing | qingjing-jing | references |
 | qinshi-mourning | confucius-meets-laozi | related_to |
 | qinshi-mourning | drumming-basin | related_to |
 | qinshi-mourning | four-friends | related_to |
@@ -1068,14 +1065,6 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | ren-gongzi-fishing | what-counts-as-progress | related_to |
 | ren-gongzi-fishing | zhuangzi | described_in |
 | ren-gongzi-fishing | ziran | concerns |
-| research/britton-2021 | farias-adverse-events-2020 | associated_with |
-| research/britton-2021 | jingzuo | investigates |
-| research/britton-2021 | lindahl-2017 | associated_with |
-| research/britton-2021 | zuowang | investigates |
-| research/khalsa-2018 | qi | investigates |
-| research/noble-hochman-2019 | tiaoxi | investigates |
-| research/zaccaro-2018 | noble-hochman-2019 | associated_with |
-| research/zaccaro-2018 | tiaoxi | investigates |
 | sanghu-friends | fish-in-the-dry-spring | related_to |
 | sanghu-friends | four-friends | related_to |
 | sanghu-friends | liang-wang | concerns |
@@ -1120,17 +1109,16 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | should-i-use-timers | what-counts-as-progress | related_to |
 | should-i-use-timers | why-do-i-keep-quitting | related_to |
 | should-i-use-timers | zuowang | related_to |
+| shouyi | baopuzi | described_in |
 | shouyi | baopuzi-shouyi | described_in |
 | shouyi | daodejing | described_in |
 | shouyi | daodejing-10-shouyi | translated_as |
 | shouyi | neiguan-jing | related_to |
 | shouyi | qi | associated_with |
+| shouyi | taiping-jing | described_in |
 | shouyi | wuwei | related_to |
-| shouyi | zuowang | related_to |
-| shouyi-practice | baopuzi | described_in |
-| shouyi-practice | daodejing | described_in |
-| shouyi-practice | shouyi | concerns |
-| shouyi-practice | taiping-jing | described_in |
+| shouyi | zuowang | contrasts_with |
+| shouyi-vs-concentration | shouyi | discusses |
 | sima-chengzhen | zuowang-lun | discusses |
 | sima-chengzhen | zuowang-lun-composition | described_in |
 | snail-horn-war | jingdi-zhiwa | related_to |
@@ -1138,6 +1126,7 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | snail-horn-war | wangyang-xingtan | related_to |
 | snail-horn-war | zhuangzi | described_in |
 | standing-in-snow | jingzuo | concerns |
+| stillness-uncomfortable | xu | concerns |
 | sun-buer | ma-yu | related_to |
 | sun-buer | qiu-chuji | related_to |
 | sun-buer | wang-chongyang | related_to |
@@ -1168,6 +1157,7 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | tao-hongjing | shangqing-revelations | associated_with |
 | tao-hongjing | yang-xi | associated_with |
 | tao-hongjing | zhiyi | related_to |
+| thoughts-become-stronger | xinzhai | concerns |
 | three-craftsmen-dazheng | wuwei | concerns |
 | three-craftsmen-dazheng | zhuangzi | discusses |
 | three-in-the-morning | fish-happiness | related_to |
@@ -1191,16 +1181,11 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | tian-lai | zhen-zai | related_to |
 | tian-lai | zhuangzi | described_in |
 | tian-lai | ziran | concerns |
+| tiaoxi | breath-stopping-anxiety | concerns |
 | tiaoxi | jingzuo | related_to |
 | tiaoxi | qi | related_to |
-| tiaoxi-practice | breath-stopping-anxiety | concerns |
-| tiaoxi-practice | taixi | concerns |
-| tiaoxi-practice | tiaoxi | concerns |
-| tiaoxi-practice | xiao-zhiguan | described_in |
-| timeline/qingjing-neiguan-jing | neiguan | concerns |
-| timeline/qingjing-neiguan-jing | neiguan-jing | references |
-| timeline/qingjing-neiguan-jing | qingjing-jing | references |
-| tools/how-to-verify-sources | chinese-meditation-explained | associated_with |
+| tiaoxi | taixi | concerns |
+| tiaoxi | xiao-zhiguan | described_in |
 | translation-policy | wuwei | concerns |
 | translation-policy | ziran | concerns |
 | tu-long-zhi-ji | chui-gou-zhe | related_to |
@@ -1225,9 +1210,13 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | useless-gourd | peng-bird | related_to |
 | useless-gourd | wuwei | concerns |
 | useless-gourd | zhuangzi | described_in |
+| vibrations-during-sitting | qi | concerns |
 | virtual-room-passage | seeing-light-in-sitting | concerns |
 | virtual-room-passage | xinzhai | concerns |
 | virtual-room-passage | zhuangzi | described_in |
+| wandering-mind-in-sitting | xinzhai | concerns |
+| wandering-mind-in-sitting | zuochi | concerns |
+| wandering-mind-in-sitting | zuowang | concerns |
 | wang-bi | daodejing | associated_with |
 | wang-bi | daodejing-01 | related_to |
 | wang-bi | daodejing-37 | related_to |
@@ -1262,8 +1251,8 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | wangyang-xingtan | jingdi-zhiwa | related_to |
 | wangyang-xingtan | peng-bird | related_to |
 | wangyang-xingtan | zhuangzi | described_in |
-| warmth-and-qi-sensations | EXP-002 | derived_from |
-| warmth-and-qi-sensations | EXP-003 | derived_from |
+| warmth-and-qi-sensations | exp-002-warmth-rotation | derived_from |
+| warmth-and-qi-sensations | exp-003-leg-pain-filling | derived_from |
 | warmth-tingling-when-sitting | dantian | concerns |
 | warmth-tingling-when-sitting | jingzuo | concerns |
 | warmth-tingling-when-sitting | qi | concerns |
@@ -1286,8 +1275,10 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | what-counts-as-progress | shanbao-zhangyi | related_to |
 | what-counts-as-progress | tiaoxi | related_to |
 | what-counts-as-progress | zuowang | related_to |
+| what-is-shouyi | shouyi | discusses |
 | what-is-stillness | jing | concerns |
 | what-is-stillness | jingzuo | concerns |
+| what-is-zuowang | zuowang | discusses |
 | wheelwright-bian | zhuangzi | described_in |
 | wheelwright-bian | ziran | concerns |
 | why-am-i-so-sleepy | can-i-sit-in-bed | related_to |
@@ -1361,7 +1352,8 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | wuwei | daodejing | described_in |
 | wuwei | daodejing-48 | translated_as |
 | wuwei | non-action | contrasts_with |
-| wuwei | zuowang | related_to |
+| wuwei | zuowang | associated_with |
+| wuwei-vs-non-action | wuwei | discusses |
 | xi | taixi | concerns |
 | xi | tiaoxi | concerns |
 | xi | xiao-zhiguan | described_in |
@@ -1391,9 +1383,10 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | xinzhai | xinzhai-passage | translated_as |
 | xinzhai | xu | derived_from |
 | xinzhai | zhuangzi | described_in |
+| xinzhai-vs-mindfulness | xinzhai | discusses |
 | xu | xinzhai | related_to |
 | xu | zhuangzi | described_in |
-| xu | zuowang | related_to |
+| xu | zuowang | concerns |
 | xuan | daodejing | described_in |
 | xuan | qingjing-jing | concerns |
 | xuan-pin | dao | concerns |
@@ -1473,6 +1466,8 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | yun-jin-cheng-feng | useless-gourd | related_to |
 | yun-jin-cheng-feng | zhi-shui | concerns |
 | yun-jin-cheng-feng | zhuangzi | described_in |
+| zaccaro-2018 | noble-hochman-2019 | associated_with |
+| zaccaro-2018 | tiaoxi | investigates |
 | zhang-boduan | daoshu-neiguan-zuowang | related_to |
 | zhang-boduan | jing-qi-shen | related_to |
 | zhang-boduan | lu-xiujing | related_to |
@@ -1548,16 +1543,18 @@ Knowledge-graph edges — 1538 total. Top-level key: `items` in
 | zuochi | jing | concerns |
 | zuochi | zhuangzi | described_in |
 | zuochi | zuowang | related_to |
-| zuowang | mindfulness | related_to |
+| zuowang | mindfulness | compared_with |
 | zuowang | qi | associated_with |
 | zuowang | reading-order | described_in |
 | zuowang | sitting-protocol | described_in |
-| zuowang | wuwei | related_to |
-| zuowang | xinzhai | related_to |
+| zuowang | wuwei | associated_with |
+| zuowang | xinzhai | associated_with |
 | zuowang | zhuangzi | described_in |
 | zuowang | zuowang-lun | described_in |
 | zuowang | zuowang-passage | translated_as |
 | zuowang | zuowang-safety-without-teacher | concerns |
+| zuowang-for-modern-practitioner | farias-adverse-events-2020 | references |
+| zuowang-for-modern-practitioner | zuowang | concerns |
 | zuowang-lun | neiguan-jing | derived_from |
 | zuowang-lun | qingjing-jing | derived_from |
 | zuowang-vs-shouyi | shouyi | contrasts_with |
