@@ -1,19 +1,19 @@
 # Relationship Registry
 
-Knowledge-graph edges — 1404 total. Top-level key: `items` in
+Knowledge-graph edges — 1451 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
 
 | relation | count |
 |---|---|
-| associated_with | 34 |
+| associated_with | 57 |
 | authored | 2 |
-| concerns | 217 |
-| contrasts_with | 4 |
+| concerns | 229 |
+| contrasts_with | 5 |
 | derived_from | 11 |
-| described_in | 144 |
-| discusses | 4 |
+| described_in | 153 |
+| discusses | 6 |
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
@@ -180,6 +180,15 @@ Knowledge-graph edges — 1404 total. Top-level key: `items` in
 | dantian | jing-qi-shen | related_to |
 | dantian | qi | related_to |
 | dantian | shouyi | related_to |
+| dao | daodejing | described_in |
+| dao | de | associated_with |
+| dao | fan | associated_with |
+| dao | pu | associated_with |
+| dao | wu-you | associated_with |
+| dao | wuwei | associated_with |
+| dao | xu | associated_with |
+| dao | zhuangzi | described_in |
+| dao | ziran | associated_with |
 | dao-shu | huan-zhong | related_to |
 | dao-shu | liang-xing | related_to |
 | dao-shu | qiwu | related_to |
@@ -200,6 +209,7 @@ Knowledge-graph edges — 1404 total. Top-level key: `items` in
 | daodejing-01 | daodejing-25 | related_to |
 | daodejing-01 | guan | concerns |
 | daodejing-01 | qingjing-jing-opening | related_to |
+| daodejing-01 | wu-you | concerns |
 | daodejing-01 | xu | concerns |
 | daodejing-02 | daodejing | described_in |
 | daodejing-02 | daodejing-08 | related_to |
@@ -207,6 +217,7 @@ Knowledge-graph edges — 1404 total. Top-level key: `items` in
 | daodejing-02 | daodejing-22 | related_to |
 | daodejing-02 | qiwulun-wu-sang-wo | related_to |
 | daodejing-02 | wheelwright-bian | related_to |
+| daodejing-02 | wu-you | concerns |
 | daodejing-02 | wuwei | concerns |
 | daodejing-02 | ziran | concerns |
 | daodejing-05 | daodejing | translated_as |
@@ -244,6 +255,7 @@ Knowledge-graph edges — 1404 total. Top-level key: `items` in
 | daodejing-11 | daodejing-02 | related_to |
 | daodejing-11 | daodejing-05 | related_to |
 | daodejing-11 | useless-gourd | related_to |
+| daodejing-11 | wu-you | concerns |
 | daodejing-11 | wuwei | concerns |
 | daodejing-11 | xu | related_to |
 | daodejing-11 | zhi-shui | related_to |
@@ -267,6 +279,7 @@ Knowledge-graph edges — 1404 total. Top-level key: `items` in
 | daodejing-14 | daodejing-25 | related_to |
 | daodejing-14 | ziran | concerns |
 | daodejing-16 | daodejing | translated_as |
+| daodejing-16 | fan | concerns |
 | daodejing-16 | xu | concerns |
 | daodejing-16 | ziran | concerns |
 | daodejing-17 | daodejing | translated_as |
@@ -281,11 +294,13 @@ Knowledge-graph edges — 1404 total. Top-level key: `items` in
 | daodejing-22 | xu | concerns |
 | daodejing-25 | daodejing | translated_as |
 | daodejing-25 | daodejing-16 | related_to |
+| daodejing-25 | fan | concerns |
 | daodejing-25 | ziran | concerns |
 | daodejing-32 | daodejing | described_in |
 | daodejing-32 | daodejing-01 | related_to |
 | daodejing-32 | daodejing-25 | related_to |
 | daodejing-32 | daodejing-37 | related_to |
+| daodejing-32 | pu | concerns |
 | daodejing-32 | wuwei | related_to |
 | daodejing-32 | zhi-shui | related_to |
 | daodejing-32 | ziran | related_to |
@@ -311,6 +326,7 @@ Knowledge-graph edges — 1404 total. Top-level key: `items` in
 | daodejing-37 | daodejing-10-shouyi | related_to |
 | daodejing-37 | daodejing-48 | related_to |
 | daodejing-37 | jing | concerns |
+| daodejing-37 | pu | concerns |
 | daodejing-37 | wuwei | concerns |
 | daodejing-37 | ziran | concerns |
 | daodejing-40 | bao-guang | related_to |
@@ -319,6 +335,8 @@ Knowledge-graph edges — 1404 total. Top-level key: `items` in
 | daodejing-40 | daodejing-11 | related_to |
 | daodejing-40 | daodejing-25 | related_to |
 | daodejing-40 | daodejing-36 | related_to |
+| daodejing-40 | fan | concerns |
+| daodejing-40 | wu-you | concerns |
 | daodejing-40 | wuwei | concerns |
 | daodejing-42 | dao | related_to |
 | daodejing-42 | daodejing | translated_as |
@@ -329,6 +347,7 @@ Knowledge-graph edges — 1404 total. Top-level key: `items` in
 | daodejing-42 | daodejing-45 | related_to |
 | daodejing-42 | qi | related_to |
 | daodejing-42 | xu | related_to |
+| daodejing-42 | yin-yang | concerns |
 | daodejing-42 | ziran | related_to |
 | daodejing-45 | artisan-qing | related_to |
 | daodejing-45 | bei-gong-she | related_to |
@@ -382,6 +401,7 @@ Knowledge-graph edges — 1404 total. Top-level key: `items` in
 | daodejing-64 | wuwei | concerns |
 | daodejing-64 | ziran | concerns |
 | daodejing-78 | daodejing | related_to |
+| daodejing-78 | fan | concerns |
 | daodejing-78 | wuwei | related_to |
 | daodejing-78 | ziran | related_to |
 | daoshu-neiguan-zuowang | daoshu | described_in |
@@ -394,6 +414,10 @@ Knowledge-graph edges — 1404 total. Top-level key: `items` in
 | daye-zhu-jin | zhili-shu | related_to |
 | daye-zhu-jin | zhuangzi | described_in |
 | daye-zhu-jin | ziran | concerns |
+| de | daodejing | described_in |
+| de | pu | associated_with |
+| de | wuwei | associated_with |
+| de | ziran | associated_with |
 | diao-ling-yi-que | luhou-yang-niao | related_to |
 | diao-ling-yi-que | mantis-stalks-cicada | related_to |
 | diao-ling-yi-que | mountain-tree-goose | related_to |
@@ -613,6 +637,10 @@ Knowledge-graph edges — 1404 total. Top-level key: `items` in
 | exp-032-from-zero-to-desire-realm | what-counts-as-progress | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
+| fan | daodejing | described_in |
+| fan | jing | associated_with |
+| fan | wu-you | associated_with |
+| fan | yin-yang | associated_with |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
 | fish-happiness | guan | concerns |
 | fish-happiness | jing | concerns |
@@ -638,6 +666,7 @@ Knowledge-graph edges — 1404 total. Top-level key: `items` in
 | guo-xiang | da-kuai | related_to |
 | guo-xiang | does-daoism-believe-in-a-creator | related_to |
 | guo-xiang | wang-bi | related_to |
+| guo-xiang | wu-you | discusses |
 | guo-xiang | zhen-zai | related_to |
 | guo-xiang | zhuang-zhou | related_to |
 | guo-xiang | zhuangzi | associated_with |
@@ -835,6 +864,7 @@ Knowledge-graph edges — 1404 total. Top-level key: `items` in
 | light-brightness-asks-nothingness | dao | related_to |
 | light-brightness-asks-nothingness | dongguo-zi-asks | related_to |
 | light-brightness-asks-nothingness | wu-sang-wo | related_to |
+| light-brightness-asks-nothingness | wu-you | concerns |
 | light-brightness-asks-nothingness | wuwei | related_to |
 | light-brightness-asks-nothingness | xu | related_to |
 | light-brightness-asks-nothingness | zhi-wen-wuwei | related_to |
@@ -897,7 +927,12 @@ Knowledge-graph edges — 1404 total. Top-level key: `items` in
 | must-i-sit-cross-legged | jingzuo | concerns |
 | must-i-sit-cross-legged | leg-numbness-pain | related_to |
 | must-i-sit-cross-legged | sitting-protocol | related_to |
+| neiguan | cunsi | contrasts_with |
 | neiguan | neiguan-jing | described_in |
+| neiguan | qingjing-jing | described_in |
+| neiguan | shouyi | associated_with |
+| neiguan | xinzhai | associated_with |
+| neiguan | xu | associated_with |
 | neiguan | zuowang | related_to |
 | neiguan-jing | qingjing-jing | related_to |
 | painter-unrobed | artisan-qing | related_to |
@@ -911,6 +946,9 @@ Knowledge-graph edges — 1404 total. Top-level key: `items` in
 | phoenix-and-owl | fish-happiness | related_to |
 | phoenix-and-owl | turtle-in-the-mud | related_to |
 | phoenix-and-owl | zhuangzi | described_in |
+| pu | daodejing | described_in |
+| pu | wuwei | associated_with |
+| pu | ziran | associated_with |
 | qi | daodejing | described_in |
 | qi | qi-belief-necessary | concerns |
 | qi | zhuangzi | described_in |
@@ -1120,6 +1158,7 @@ Knowledge-graph edges — 1404 total. Top-level key: `items` in
 | wang-bi | heshang-gong | associated_with |
 | wang-bi | heshang-gong-commentary | related_to |
 | wang-bi | laozi | associated_with |
+| wang-bi | wu-you | discusses |
 | wang-chongyang | chen-tuan | related_to |
 | wang-chongyang | daoshu-neiguan-zuowang | related_to |
 | wang-chongyang | jing-qi-shen | related_to |
@@ -1239,6 +1278,10 @@ Knowledge-graph edges — 1404 total. Top-level key: `items` in
 | wu-shi-wu-zhong | zhi-wen-wuwei | related_to |
 | wu-shi-wu-zhong | zhuangzi | related_to |
 | wu-shi-wu-zhong | ziran | related_to |
+| wu-you | daodejing | described_in |
+| wu-you | fan | associated_with |
+| wu-you | xu | associated_with |
+| wu-you | zhuangzi | described_in |
 | wuwei | daodejing | described_in |
 | wuwei | daodejing-48 | translated_as |
 | wuwei | zuowang | related_to |
@@ -1315,6 +1358,10 @@ Knowledge-graph edges — 1404 total. Top-level key: `items` in
 | yi-dai-niao | wuwei | related_to |
 | yi-dai-niao | zhuangzi | described_in |
 | yi-dai-niao | ziran | related_to |
+| yin-yang | daodejing | described_in |
+| yin-yang | fan | associated_with |
+| yin-yang | jing | associated_with |
+| yin-yang | qi | associated_with |
 | yingning | jing | concerns |
 | yingning | restlessness-in-sitting | concerns |
 | yingning | zhi-shui | related_to |
