@@ -1,6 +1,6 @@
 # People
 
-person records from the people content collection — 29 records.
+person records from the people content collection — 31 records.
 
 | id | title | chinese | dates | tradition | historicity | page |
 |---|---|---|---|---|---|---|
@@ -11,10 +11,12 @@ person records from the people content collection — 29 records.
 | fu-yi | Fu Yi (傅奕) | 傅奕 |  |  | historical | /people/fu-yi/ |
 | ge-hong | Ge Hong | 葛洪 | c. 283 – 343 CE (some sources: died 363) | Daoist (Eastern Jin; alchemical lineage of Zuo Ci – Ge Xuan – Zheng Yin) | historical | /people/ge-hong/ |
 | guo-xiang | Guo Xiang (郭象) | 郭象 |  |  | historical | /people/guo-xiang/ |
+| hao-datong | Hao Datong (郝大通) |  |  |  | historical | /people/hao-datong/ |
 | heshang-gong | Heshang Gong (河上公) | 河上公 |  |  | legendary | /people/heshang-gong/ |
 | kou-qianzhi | Kou Qianzhi (寇谦之) | 寇谦之 |  |  | historical | /people/kou-qianzhi/ |
 | laozi | Laozi | 老子 |  |  | uncertain | /people/laozi/ |
 | li-ao | Li Ao (李翱) | 李翱 |  |  | historical | /people/li-ao/ |
+| liu-chuxuan | Liu Chuxuan (刘处玄) |  |  |  | historical | /people/liu-chuxuan/ |
 | lu-xiujing | Lu Xiujing (陆修静) | 陆修静 |  |  | historical | /people/lu-xiujing/ |
 | ma-yu | Ma Yu (马钰) | 马钰 |  |  | historical | /people/ma-yu/ |
 | qiu-chuji | Qiu Chuji (丘处机) | 丘处机 |  |  | historical | /people/qiu-chuji/ |

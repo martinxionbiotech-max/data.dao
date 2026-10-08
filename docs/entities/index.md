@@ -7,7 +7,7 @@ graph relationships use bare slug IDs (shared across collections).
 |---|---|---|---|
 | concepts | concept | 18 | [index](/entities/concepts/) |
 | practices | practice | 10 | [index](/entities/practices/) |
-| people | person | 29 | [index](/entities/people/) |
+| people | person | 31 | [index](/entities/people/) |
 | texts | text | 10 | [index](/entities/texts/) |
 | translations | translation | 39 | [index](/entities/translations/) |
 | timeline | event | 18 | [index](/entities/timeline/) |

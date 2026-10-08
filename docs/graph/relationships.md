@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 1553 total. Top-level key: `items` in
+Knowledge-graph edges — 1562 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -8,17 +8,17 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | relation | count |
 |---|---|
 | associated_with | 86 |
-| authored | 2 |
+| authored | 3 |
 | compared_with | 1 |
 | concerns | 354 |
 | contrasts_with | 10 |
 | derived_from | 12 |
 | described_in | 156 |
-| discusses | 43 |
+| discusses | 42 |
 | informs | 1 |
 | investigates | 7 |
 | references | 47 |
-| related_to | 810 |
+| related_to | 819 |
 | translated_as | 24 |
 
 ## All edges
@@ -717,6 +717,10 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | handan-walk | fish-happiness | related_to |
 | handan-walk | zhuangzi | described_in |
 | handan-walk | ziran | concerns |
+| hao-datong | liu-chuxuan | related_to |
+| hao-datong | ma-yu | related_to |
+| hao-datong | wang-chongyang | related_to |
+| hao-datong | wang-chuyi | related_to |
 | head-pressure-during-sitting | qi | concerns |
 | head-pressure-during-sitting | tiaoxi | concerns |
 | heshang-gong | daodejing | associated_with |
@@ -929,6 +933,11 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | lin-hui-qi-bi | zhuangzi | described_in |
 | lindahl-2017 | can-sitting-go-wrong | informs |
 | lindahl-2017 | farias-adverse-events-2020 | related_to |
+| liu-chuxuan | hao-datong | related_to |
+| liu-chuxuan | ma-yu | related_to |
+| liu-chuxuan | qiu-chuji | related_to |
+| liu-chuxuan | tan-chuduan | related_to |
+| liu-chuxuan | wang-chongyang | related_to |
 | losing-body-awareness | xu | concerns |
 | losing-body-awareness | zuowang | concerns |
 | lu-xiujing | kou-qianzhi | related_to |
@@ -1132,7 +1141,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | shouyi | wuwei | related_to |
 | shouyi | zuowang | contrasts_with |
 | shouyi-vs-concentration | shouyi | discusses |
-| sima-chengzhen | zuowang-lun | discusses |
+| sima-chengzhen | zuowang-lun | authored |
 | sima-chengzhen | zuowang-lun-composition | described_in |
 | snail-horn-war | jingdi-zhiwa | related_to |
 | snail-horn-war | peng-bird | related_to |
