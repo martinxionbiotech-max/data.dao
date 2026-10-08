@@ -10,7 +10,7 @@ permission.
 ## Current records — 31
 
 | id | theme | confidence | page |
-|---|---|---|
+|---|---|---|---|
 | EXP-001 | EXP-001: Falling Asleep in Guided Mindfulness Sessions | high | /experiences/exp-001-falling-asleep/ |
 | EXP-002 | EXP-002: Warmth, Sweating, and a Turning Sensation in Early Sitting | high | /experiences/exp-002-warmth-rotation/ |
 | EXP-003 | EXP-003: Two Months of Leg Pain and a Felt 'Filling' of the Abdomen | high | /experiences/exp-003-leg-pain-filling/ |

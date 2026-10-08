@@ -3,7 +3,7 @@
 practice records from the practices content collection — 6 records.
 
 | id | title | chinese | pinyin | tradition | difficulty |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | cunsi | Cunsi: Inner Visualization | 存思 | cúnsī | Daoist (Shangqing visualization; earlier strata in Baopuzi) | structured; image-based; requires learned inner geography |
 | jingzuo | Jingzuo: Quiet Sitting as a Practice | 静坐 | jìngzuò | Neo-Confucian (Song–Ming); Daoist and Chan-influenced | simple form; sustained practice is demanding |
 | shouyi | Shouyi: Guarding the One | 守一 | shǒuyī | Daoist (Daodejing root; Han Taiping Jing protocol; Baopuzi consolidation) | the classic beginner anchor; its full chamber form is elaborate |

@@ -3,7 +3,7 @@
 translation records from the translations content collection — 38 records.
 
 | id | title | sourceText | chapter |
-|---|---|---|
+|---|---|---|---|
 | artisan-qing-passage | Artisan Qing's Seven-Day Fast (Zhuangzi 19) | zhuangzi |  |
 | daodejing-01 | The Gate of All Subtleties (Daodejing 1) | daodejing | Ch. 1 |
 | daodejing-02 | Being and Non-Being Give Rise to Each Other (Daodejing 2) | daodejing | Ch. 2 |

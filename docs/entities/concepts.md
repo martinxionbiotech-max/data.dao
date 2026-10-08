@@ -3,7 +3,7 @@
 concept records from the concepts content collection — 9 records.
 
 | id | title | chinese | pinyin | tradition | evidence |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | jing | Jing: Stillness | 静 | jìng | Daoist (Daodejing, Zhuangzi); adopted by Neo-Confucian jingzuo | ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"] |
 | jingzuo | Jingzuo (Quiet Sitting) | 静坐 | jìngzuò | Neo-Confucian (Song–Ming); with Daoist and Chan antecedents | ["PRIMARY SOURCE", "HISTORICAL EVIDENCE", "SCHOLARLY INTERPR |
 | qi | Qi | 气 | qì | Pan-Chinese (Daoist, Confucian, medical, cosmological) | ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"] |

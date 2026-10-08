@@ -3,7 +3,7 @@
 event records from the timeline content collection — 18 records.
 
 | id | title | periodStart | periodEnd | eventType |
-|---|---|---|---|
+|---|---|---|---|---|
 | baopuzi-composition | Baopuzi Composed (c. 314–320s CE) | c. 314 CE | c. 320s CE | text compilation |
 | baopuzi-shouyi | Ge Hong's Baopuzi: Shouyi Systematized (c. 320 CE) | c. 320 CE | c. 320 CE | text compilation |
 | cheng-men-li-xue | Cheng Yi and Yang Shi: Standing in Snow (1093 CE) | 1093 CE | 1093 CE | foundational episode |

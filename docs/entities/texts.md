@@ -3,7 +3,7 @@
 text records from the texts content collection — 10 records.
 
 | id | title | chinese | author | dynasty | genre |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | baopuzi | Baopuzi (The Master Who Embraces the Uncarved Block) | 抱朴子 | Ge Hong 葛洪 (283–343/363) | Eastern Jin (composed c. 314–320s CE) | Daoist compendium: inner chapters (esoteric practice), outer chapters (essays on government and society) |
 | daodejing | Daodejing (the Book) | 道德经 | Laozi (traditional attribution; authorship uncertain) | Traditional date 6th c. BCE; earliest manuscripts pre-300 BCE (Guodian) | compiled aphorisms and verse on the Way and its power |
 | huangting-jing | Huangting Jing (the Book) | 黄庭内景经 | Traditional attribution to Lady Wei Huacun (魏华存); actual author unknown | Dated variously late Han to 4th c. CE; associated with the Shangqing (Highest Clarity) revelations | revealed scripture; inner visualization and alchemy in verse |

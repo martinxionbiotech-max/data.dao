@@ -1,9 +1,9 @@
 # Glossary
 
-term records from the glossary content collection — 49 records.
+term records from the glossary content collection — 50 records.
 
 | id | title | chinese | pinyin | literalMeaning | recommended |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | bao-guang | Baoguang (葆光) | 葆光 | bǎoguāng |  |  |
 | baoyi | Baoyi | 抱一 | bàoyī | embracing/holding the One | embracing the One (parallel to the standard 'guarding the One' for shouyi) |
 | da-kuai | Dakuai (大块) | 大块 | dàkuài |  |  |
@@ -36,6 +36,7 @@ term records from the glossary content collection — 49 records.
 | wu-he-you-zhi-xiang | Wu He You Zhi Xiang — 无何有之乡 (The Land of Not-Having-Anything) | 无何有之乡 | wú hé yǒu zhī xiāng |  |  |
 | wu-hua | Wuhua (物化) | 物化 | wùhuà |  |  |
 | wu-sang-wo | Wu Sang Wo (吾丧我) | 吾丧我 | wú sàng wǒ |  |  |
+| wu-shi-wu-zhong | Wu Shi Wu Zhong — 无始无终 (No Beginning, No End) | 无始无终 | wú shǐ wú zhōng |  |  |
 | wuwei | Wuwei | 无为 | wúwéi | no-doing | non-action, with the note that it is the negation of forced/contrived action, not of activity |
 | xi | Xi | 息 | xī | breath; rest; to rest; the fine continuous breath | 'rest breath' in the four-breath ladder; plain 'breath' elsewhere (真人之息以踵 = 'the true person's breathing reaches the heels') |
 | xian-jie | Xianjie (县解) | 县解 | xuánjiě |  |  |

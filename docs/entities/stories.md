@@ -1,9 +1,9 @@
 # Stories
 
-story records from the stories content collection — 68 records.
+story records from the stories content collection — 70 records.
 
 | id | title | tradition | sourceText |
-|---|---|---|
+|---|---|---|---|
 | artisan-qing | Artisan Qing and the Bell-Stand: A Seven-Day Fast | Daoist | zhuangzi |
 | bao-weng-guan-qi | The Gardener and the Well-Sweep | Daoist | zhuangzi |
 | bei-gong-she | Beigong She's Bell | Daoist | zhuangzi |
@@ -48,6 +48,7 @@ story records from the stories content collection — 68 records.
 | phoenix-and-owl | The Phoenix and the Owl: What the Rotten Rat Is Worth | Daoist | zhuangzi |
 | qinshi-mourning | Three Cries, and Out: Qin Shi Mourns Laozi | Daoist | zhuangzi |
 | qiu-hao | The Tip of an Autumn Hair | Daoist | zhuangzi |
+| ran-qiu-asks-zhongni | Ran Qiu Asks Zhongni |  | Zhuangzi, Zhi Bei You 22 (知北游) |
 | ren-gongzi-fishing | Lord Ren's Giant Fish | Daoist | zhuangzi |
 | sanghu-friends | Singing at the Corpse: The Friends of Sang Hu | Daoist | zhuangzi |
 | shanbao-zhangyi | The Two Deaths: One-Sided Cultivation | Daoist | zhuangzi |
@@ -55,6 +56,7 @@ story records from the stories content collection — 68 records.
 | snail-horn-war | The Snail-Horn War | Daoist | zhuangzi |
 | standing-in-snow | Standing in the Snow at Cheng Yi's Gate | Neo-Confucian |  |
 | swimmer-lvliang | The Swimmer of Lüliang: Native, Grown, Complete | Daoist | zhuangzi |
+| taiqing-asks-wuqiong | Taiqing Asks the Infinite |  | Zhuangzi, Zhi Bei You 22 (知北游) |
 | three-in-the-morning | Three in the Morning: The Monkeys Who Confused the Order for the Amount | Daoist | zhuangzi |
 | tu-long-zhi-ji | Dragon-Slaying Skill | Daoist | zhuangzi |
 | turtle-in-the-mud | The Turtle of Pu: Dragging Its Tail in the Mud | Daoist | zhuangzi |

@@ -3,7 +3,7 @@
 person records from the people content collection — 28 records.
 
 | id | title | chinese | dates | tradition | historicity | page |
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | bai-yuchan | Bai Yuchan (白玉蟾) | 白玉蟾 |  |  | historical | /people/bai-yuchan/ |
 | chen-nan | Chen Nan (陈楠) | 陈楠 |  |  | historical | /people/chen-nan/ |
 | chen-tuan | Chen Tuan (陈抟) | 陈抟 |  |  | historical | /people/chen-tuan/ |
