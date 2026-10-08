@@ -15,10 +15,10 @@ graph relationships use bare slug IDs (shared across collections).
 | stories | story | 70 | [index](/entities/stories/) |
 | research | study | 9 | [index](/entities/research/) |
 | comparisons | comparison | 9 | [index](/entities/comparisons/) |
-| problems | problem | 15 | [index](/entities/problems/) |
+| problems | problem | 17 | [index](/entities/problems/) |
 | questions | question | 28 | [index](/entities/questions/) |
 | tools | tool | 3 | [index](/entities/tools/) |
-| guides | guide | 6 | [index](/entities/guides/) |
+| guides | guide | 9 | [index](/entities/guides/) |
 | blog | post | 4 | [index](/entities/blog/) |
 | patterns | pattern | 3 | [index](/entities/patterns/) |
 

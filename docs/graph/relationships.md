@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 1534 total. Top-level key: `items` in
+Knowledge-graph edges — 1549 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -10,14 +10,14 @@ Knowledge-graph edges — 1534 total. Top-level key: `items` in
 | associated_with | 86 |
 | authored | 2 |
 | compared_with | 1 |
-| concerns | 349 |
+| concerns | 354 |
 | contrasts_with | 10 |
 | derived_from | 12 |
 | described_in | 156 |
-| discusses | 34 |
+| discusses | 39 |
 | informs | 1 |
 | investigates | 7 |
-| references | 42 |
+| references | 47 |
 | related_to | 810 |
 | translated_as | 24 |
 
@@ -158,6 +158,10 @@ Knowledge-graph edges — 1534 total. Top-level key: `items` in
 | chinese-meditation-explained | tiaoxi | discusses |
 | chinese-meditation-explained | xinzhai | discusses |
 | chinese-meditation-explained | zuowang | discusses |
+| chinese-meditation-terms-explained | jingzuo | discusses |
+| chinese-meditation-terms-explained | qi | discusses |
+| chinese-meditation-terms-explained | tiaoxi | discusses |
+| chinese-meditation-terms-explained | zuowang | discusses |
 | chui-gou-zhe | artisan-qing | related_to |
 | chui-gou-zhe | cicada-catcher | related_to |
 | chui-gou-zhe | cook-ding | related_to |
@@ -449,6 +453,9 @@ Knowledge-graph edges — 1534 total. Top-level key: `items` in
 | diao-ling-yi-que | yi-dai-niao | related_to |
 | diao-ling-yi-que | zhuangzi | described_in |
 | diao-ling-yi-que | ziran | concerns |
+| dizziness-during-sitting | jingzuo | concerns |
+| dizziness-during-sitting | qi | concerns |
+| dizziness-during-sitting | tiaoxi | concerns |
 | do-i-need-a-teacher | does-practice-need-faith | related_to |
 | do-i-need-a-teacher | exp-017-why-he-began | related_to |
 | do-i-need-a-teacher | exp-025-lying-down-innovation | related_to |
@@ -708,6 +715,8 @@ Knowledge-graph edges — 1534 total. Top-level key: `items` in
 | handan-walk | fish-happiness | related_to |
 | handan-walk | zhuangzi | described_in |
 | handan-walk | ziran | concerns |
+| head-pressure-during-sitting | qi | concerns |
+| head-pressure-during-sitting | tiaoxi | concerns |
 | heshang-gong | daodejing | associated_with |
 | heshang-gong | daodejing-05 | related_to |
 | heshang-gong | daodejing-25 | related_to |
@@ -1275,10 +1284,16 @@ Knowledge-graph edges — 1534 total. Top-level key: `items` in
 | what-counts-as-progress | shanbao-zhangyi | related_to |
 | what-counts-as-progress | tiaoxi | related_to |
 | what-counts-as-progress | zuowang | related_to |
+| what-is-neiguan | neiguan | discusses |
+| what-is-neiguan | neiguan-jing | references |
 | what-is-shouyi | shouyi | discusses |
 | what-is-stillness | jing | concerns |
 | what-is-stillness | jingzuo | concerns |
 | what-is-zuowang | zuowang | discusses |
+| what-modern-research-can-and-cannot-tell-us | britton-2021 | references |
+| what-modern-research-can-and-cannot-tell-us | farias-adverse-events-2020 | references |
+| what-modern-research-can-and-cannot-tell-us | mindfulness-meta-analysis-2014 | references |
+| what-modern-research-can-and-cannot-tell-us | zaccaro-2018 | references |
 | wheelwright-bian | zhuangzi | described_in |
 | wheelwright-bian | ziran | concerns |
 | why-am-i-so-sleepy | can-i-sit-in-bed | related_to |
