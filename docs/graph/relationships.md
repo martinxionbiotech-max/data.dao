@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 1350 total. Top-level key: `items` in
+Knowledge-graph edges — 1404 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -17,7 +17,7 @@ Knowledge-graph edges — 1350 total. Top-level key: `items` in
 | informs | 1 |
 | investigates | 2 |
 | references | 2 |
-| related_to | 905 |
+| related_to | 959 |
 | translated_as | 24 |
 
 ## All edges
@@ -356,6 +356,13 @@ Knowledge-graph edges — 1350 total. Top-level key: `items` in
 | daodejing-48 | three-craftsmen-dazheng | related_to |
 | daodejing-48 | wuwei | concerns |
 | daodejing-48 | zuowang | concerns |
+| daodejing-51 | dao | related_to |
+| daodejing-51 | daodejing | related_to |
+| daodejing-51 | daodejing-02 | related_to |
+| daodejing-51 | daodejing-10-shouyi | related_to |
+| daodejing-51 | daodejing-42 | related_to |
+| daodejing-51 | de | related_to |
+| daodejing-51 | ziran | related_to |
 | daodejing-55 | daodejing | described_in |
 | daodejing-55 | daodejing-10-shouyi | related_to |
 | daodejing-55 | daodejing-16 | related_to |
@@ -593,6 +600,17 @@ Knowledge-graph edges — 1350 total. Top-level key: `items` in
 | exp-031-lotus-posture-chapter | jingzuo | related_to |
 | exp-031-lotus-posture-chapter | must-i-sit-cross-legged | related_to |
 | exp-031-lotus-posture-chapter | should-i-use-timers | related_to |
+| exp-032-from-zero-to-desire-realm | does-practice-need-faith | related_to |
+| exp-032-from-zero-to-desire-realm | exp-014-double-lotus-doctrine | related_to |
+| exp-032-from-zero-to-desire-realm | exp-016-nine-dhyanas-map | related_to |
+| exp-032-from-zero-to-desire-realm | exp-023-breath-is-the-key | related_to |
+| exp-032-from-zero-to-desire-realm | exp-026-diet-gate | related_to |
+| exp-032-from-zero-to-desire-realm | exp-028-abdominal-breathing | related_to |
+| exp-032-from-zero-to-desire-realm | exp-030-the-pain-ledger | related_to |
+| exp-032-from-zero-to-desire-realm | exp-031-lotus-posture-chapter | related_to |
+| exp-032-from-zero-to-desire-realm | how-long-until-results | related_to |
+| exp-032-from-zero-to-desire-realm | jingzuo | related_to |
+| exp-032-from-zero-to-desire-realm | what-counts-as-progress | related_to |
 | falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
@@ -653,6 +671,12 @@ Knowledge-graph edges — 1350 total. Top-level key: `items` in
 | hook-smith | xu | related_to |
 | hook-smith | zhuangzi | related_to |
 | hook-smith | ziran | related_to |
+| how-do-i-know-my-posture-is-right | can-i-sit-in-bed | related_to |
+| how-do-i-know-my-posture-is-right | jingzuo | related_to |
+| how-do-i-know-my-posture-is-right | must-i-sit-cross-legged | related_to |
+| how-do-i-know-my-posture-is-right | should-i-use-timers | related_to |
+| how-do-i-know-my-posture-is-right | sitting-protocol | related_to |
+| how-do-i-know-my-posture-is-right | tiaoxi | related_to |
 | how-long-should-i-sit | drowsiness-in-sitting | concerns |
 | how-long-should-i-sit | jingzuo | concerns |
 | how-long-until-results | artisan-qing-passage | related_to |
@@ -924,6 +948,15 @@ Knowledge-graph edges — 1350 total. Top-level key: `items` in
 | qiwu | zhuangzi | described_in |
 | qiwulun-wu-sang-wo | zhuangzi | translated_as |
 | qiwulun-wu-sang-wo | zuowang | concerns |
+| ran-qiu-asks-zhongni | dao | related_to |
+| ran-qiu-asks-zhongni | drumming-basin | related_to |
+| ran-qiu-asks-zhongni | four-friends | related_to |
+| ran-qiu-asks-zhongni | hua | related_to |
+| ran-qiu-asks-zhongni | wu-shi-wu-zhong | related_to |
+| ran-qiu-asks-zhongni | wuwei | related_to |
+| ran-qiu-asks-zhongni | zhi-wen-wuwei | related_to |
+| ran-qiu-asks-zhongni | zhuangzi | related_to |
+| ran-qiu-asks-zhongni | ziran | related_to |
 | ren-gongzi-fishing | cao-shang | related_to |
 | ren-gongzi-fishing | da-kuai | related_to |
 | ren-gongzi-fishing | jingdi-zhiwa | related_to |
@@ -1006,9 +1039,21 @@ Knowledge-graph edges — 1350 total. Top-level key: `items` in
 | taiping-jing | qi | concerns |
 | taiping-jing | shouyi | concerns |
 | taiping-jing | taiping-jing-shouyi | described_in |
+| taiqing-asks-wuqiong | dao | related_to |
+| taiqing-asks-wuqiong | dongguo-zi-asks | related_to |
+| taiqing-asks-wuqiong | light-brightness-asks-nothingness | related_to |
+| taiqing-asks-wuqiong | wu-shi-wu-zhong | related_to |
+| taiqing-asks-wuqiong | wuwei | related_to |
+| taiqing-asks-wuqiong | xu | related_to |
+| taiqing-asks-wuqiong | zhi-wen-wuwei | related_to |
+| taiqing-asks-wuqiong | zhuangzi | related_to |
 | taixi | exp-008-breath-stopping | concerns |
 | taixi | qi | concerns |
 | taixi | tiaoxi | concerns |
+| tan-chuduan | ma-yu | related_to |
+| tan-chuduan | qiu-chuji | related_to |
+| tan-chuduan | wang-chongyang | related_to |
+| tan-chuduan | wang-chuyi | related_to |
 | tang-2015 | mindfulness-meta-analysis-2014 | related_to |
 | tao-hongjing | shangqing-revelations | associated_with |
 | tao-hongjing | yang-xi | associated_with |
@@ -1185,6 +1230,15 @@ Knowledge-graph edges — 1350 total. Top-level key: `items` in
 | wu-sang-wo | zhuangzi | described_in |
 | wu-sang-wo | zuowang | related_to |
 | wu-sang-wo | zuowang-passage | related_to |
+| wu-shi-wu-zhong | dao | related_to |
+| wu-shi-wu-zhong | four-friends | related_to |
+| wu-shi-wu-zhong | hua | related_to |
+| wu-shi-wu-zhong | ran-qiu-asks-zhongni | related_to |
+| wu-shi-wu-zhong | tian-ji | related_to |
+| wu-shi-wu-zhong | xu | related_to |
+| wu-shi-wu-zhong | zhi-wen-wuwei | related_to |
+| wu-shi-wu-zhong | zhuangzi | related_to |
+| wu-shi-wu-zhong | ziran | related_to |
 | wuwei | daodejing | described_in |
 | wuwei | daodejing-48 | translated_as |
 | wuwei | zuowang | related_to |

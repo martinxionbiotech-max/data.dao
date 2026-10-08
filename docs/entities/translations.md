@@ -1,6 +1,6 @@
 # Translations
 
-translation records from the translations content collection — 38 records.
+translation records from the translations content collection — 39 records.
 
 | id | title | sourceText | chapter |
 |---|---|---|---|
@@ -29,6 +29,7 @@ translation records from the translations content collection — 38 records.
 | daodejing-45 | The Great Completion Seems Broken (Daodejing 45) | daodejing | Ch. 45 |
 | daodejing-46 | When the World Has the Way (Daodejing 46) | daodejing | Ch. 46 |
 | daodejing-48 | Learning Adds, the Way Pairs Away (Daodejing 48) | daodejing | Ch. 48 |
+| daodejing-51 | Daodejing 51 — The Dao Gives Them Life, the De Nurtures Them | Daodejing, Chapter 51 |  |
 | daodejing-55 | Holding Virtue Thick as a Newborn (Daodejing 55) | daodejing | Ch. 55 |
 | daodejing-63 | Planning the Hard in Its Easy Stage (Daodejing 63) | daodejing | Ch. 63 |
 | daodejing-64 | A Journey of a Thousand Li Begins Under the Foot (Daodejing 64) | daodejing | Ch. 64 |

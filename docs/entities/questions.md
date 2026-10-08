@@ -1,6 +1,6 @@
 # Questions
 
-question records from the questions content collection — 27 records.
+question records from the questions content collection — 28 records.
 
 | id | title | question | answerState |
 |---|---|---|---|
@@ -14,6 +14,7 @@ question records from the questions content collection — 27 records.
 | does-diet-matter | Does Diet Matter for Sitting Practice? | Do I need to change my diet to practice? Do Daoist traditions require vegetarianism, fasting, or giving up certain foods before or during sitting meditation? | answered |
 | does-practice-need-faith | Does Practice Need Faith? | Do I need to believe in anything — Dao, qi, deities, a cosmology — for the sitting practice to work? | answered |
 | falling-asleep-during-meditation | Why Do I Keep Falling Asleep During Meditation? | Why do I keep falling asleep during meditation, and does it mean meditation doesn't suit me? | answered |
+| how-do-i-know-my-posture-is-right | How Do I Know My Posture Is Right? | How do I know if my sitting posture is right? I keep adjusting my back and legs and I don't know what 'correct' means. | answered |
 | how-long-should-i-sit | How Long Should I Sit? | How long should a sitting session be? Is there a classical minimum or maximum? | answered |
 | how-long-until-results | How Long Until I See Results? | How long until I see results from sitting practice? Days? Months? Years? | answered |
 | i-feel-nothing-when-i-sit | I Sit and Feel Nothing — Am I Doing It Wrong? | I sit and feel nothing. No warmth, no tingling, no peace — just quiet boredom. Am I doing it wrong? | answered |

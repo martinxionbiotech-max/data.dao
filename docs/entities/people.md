@@ -1,6 +1,6 @@
 # People
 
-person records from the people content collection — 28 records.
+person records from the people content collection — 29 records.
 
 | id | title | chinese | dates | tradition | historicity | page |
 |---|---|---|---|---|---|---|
@@ -20,6 +20,7 @@ person records from the people content collection — 28 records.
 | qiu-chuji | Qiu Chuji (丘处机) | 丘处机 |  |  | historical | /people/qiu-chuji/ |
 | sima-chengzhen | Sima Chengzhen | 司马承祯 |  |  | historical | /people/sima-chengzhen/ |
 | sun-buer | Sun Bu'er (孙不二) |  |  |  | historical | /people/sun-buer/ |
+| tan-chuduan | Tan Chuduan (谭处端) |  |  |  | historical | /people/tan-chuduan/ |
 | tao-hongjing | Tao Hongjing (陶弘景) | 陶弘景 |  |  | historical | /people/tao-hongjing/ |
 | wang-bi | Wang Bi (王弼) | 王弼 |  |  | historical | /people/wang-bi/ |
 | wang-chongyang | Wang Chongyang (王重阳) | 王重阳 |  |  | historical | /people/wang-chongyang/ |

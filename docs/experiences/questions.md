@@ -1,6 +1,6 @@
 # Questions
 
-The question collection — 27 records, with answer states.
+The question collection — 28 records, with answer states.
 
 | id | answer state | question | page |
 |---|---|---|---|
@@ -14,6 +14,7 @@ The question collection — 27 records, with answer states.
 | does-diet-matter | answered | Do I need to change my diet to practice? Do Daoist traditions require vegetarianism, fasting, or giving up certain foods before or during sitting meditation? | /questions/does-diet-matter/ |
 | does-practice-need-faith | answered | Do I need to believe in anything — Dao, qi, deities, a cosmology — for the sitting practice to work? | /questions/does-practice-need-faith/ |
 | falling-asleep-during-meditation | answered | Why do I keep falling asleep during meditation, and does it mean meditation doesn't suit me? | /questions/falling-asleep-during-meditation/ |
+| how-do-i-know-my-posture-is-right | answered | How do I know if my sitting posture is right? I keep adjusting my back and legs and I don't know what 'correct' means. | /questions/how-do-i-know-my-posture-is-right/ |
 | how-long-should-i-sit | answered | How long should a sitting session be? Is there a classical minimum or maximum? | /questions/how-long-should-i-sit/ |
 | how-long-until-results | answered | How long until I see results from sitting practice? Days? Months? Years? | /questions/how-long-until-results/ |
 | i-feel-nothing-when-i-sit | answered | I sit and feel nothing. No warmth, no tingling, no peace — just quiet boredom. Am I doing it wrong? | /questions/i-feel-nothing-when-i-sit/ |

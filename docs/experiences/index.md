@@ -7,7 +7,7 @@ search index, 163.com teacher Q&A, Xinli001 Q&A, Baidu Health, Zhihu columns).
 All records paraphrased and anonymized; no usernames, no direct quotes without
 permission.
 
-## Current records — 31
+## Current records — 32
 
 | id | theme | confidence | page |
 |---|---|---|---|
@@ -42,6 +42,7 @@ permission.
 | EXP-029 | The Human Body | — | /experiences/exp-029-the-human-body/ |
 | EXP-030 | The Pain Ledger | — | /experiences/exp-030-the-pain-ledger/ |
 | EXP-031 | The Lotus Posture Chapter | — | /experiences/exp-031-lotus-posture-chapter/ |
+| EXP-032 | From Zero to the Desire-Realm Dhyana | — | /experiences/exp-032-from-zero-to-desire-realm/ |
 
 ## Privacy rules
 
