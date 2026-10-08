@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 1549 total. Top-level key: `items` in
+Knowledge-graph edges — 1553 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation types
@@ -14,7 +14,7 @@ Knowledge-graph edges — 1549 total. Top-level key: `items` in
 | contrasts_with | 10 |
 | derived_from | 12 |
 | described_in | 156 |
-| discusses | 39 |
+| discusses | 43 |
 | informs | 1 |
 | investigates | 7 |
 | references | 47 |
@@ -185,6 +185,8 @@ Knowledge-graph edges — 1549 total. Top-level key: `items` in
 | cunsi-or-zuowang | cunsi | concerns |
 | cunsi-or-zuowang | shouyi | concerns |
 | cunsi-or-zuowang | zuowang | concerns |
+| cunsi-vs-zuowang | cunsi | discusses |
+| cunsi-vs-zuowang | zuowang | discusses |
 | da-kuai | four-friends | related_to |
 | da-kuai | qiwulun-wu-sang-wo | related_to |
 | da-kuai | tian-ji | related_to |
@@ -998,6 +1000,8 @@ Knowledge-graph edges — 1549 total. Top-level key: `items` in
 | neiguan | xu | associated_with |
 | neiguan | zuowang | associated_with |
 | neiguan-jing | qingjing-jing | related_to |
+| neiguan-vs-vipassana | neiguan | discusses |
+| neiguan-vs-vipassana | vipassana | discusses |
 | noble-hochman-2019 | tiaoxi | investigates |
 | painter-unrobed | artisan-qing | related_to |
 | painter-unrobed | jing | concerns |

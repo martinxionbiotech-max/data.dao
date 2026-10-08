@@ -1,12 +1,14 @@
 # Comparisons
 
-comparison records from the comparisons content collection — 9 records.
+comparison records from the comparisons content collection — 11 records.
 
 | id | title | entities |
 |---|---|---|
+| cunsi-vs-zuowang | Cunsi vs. Zuowang: A Structured Comparison | ['cunsi', 'zuowang'] |
 | daoist-vs-buddhist-meditation | Daoist Meditation vs. Buddhist Meditation: A Structured Comparison | ['zuowang', 'zuochan'] |
 | jingzuo-vs-zazen | Jingzuo vs. Zazen: A Structured Comparison | ['jingzuo', 'zazen'] |
 | jingzuo-vs-zuowang | Jingzuo vs Zuowang: Two Kinds of Quiet Sitting | ["jingzuo", "zuowang"] |
+| neiguan-vs-vipassana | Neiguan vs. Vipassana: A Structured Comparison | ['neiguan', 'vipassana'] |
 | qi-vs-prana | Qi vs. Prana: A Structured Comparison | ['qi', 'prana'] |
 | shouyi-vs-concentration | Shouyi vs. Concentration: A Structured Comparison | ['shouyi', 'concentration'] |
 | wuwei-vs-non-action | Wuwei vs. Non-Action: A Structured Comparison | ['wuwei', 'non-action'] |
