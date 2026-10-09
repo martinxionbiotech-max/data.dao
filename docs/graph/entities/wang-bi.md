@@ -20,8 +20,8 @@ Graph entity ID: `wang-bi` - 12 direct relationships.
 
 | from | relation |
 |---|---|
-| cheng-xuanying | related_to |
-| fu-yi | related_to |
-| guo-xiang | related_to |
+| cheng-xuanying | associated_with |
+| fu-yi | associated_with |
+| guo-xiang | associated_with |
 | wangbi-laozi-commentary | associated_with |
-| yan-zun | related_to |
+| yan-zun | associated_with |

@@ -11,7 +11,7 @@ Graph entity ID: `xuan-pin` - 6 direct relationships.
 | dao | concerns |
 | daodejing | described_in |
 | daodejing-01 | related_to |
-| tuoyue | related_to |
+| tuoyue | associated_with |
 | xu | associated_with |
 
 ## Incoming (1)

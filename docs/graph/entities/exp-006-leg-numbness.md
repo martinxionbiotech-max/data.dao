@@ -14,6 +14,6 @@ Graph entity ID: `exp-006-leg-numbness` - 4 direct relationships.
 
 | from | relation |
 |---|---|
-| exp-030-the-pain-ledger | related_to |
-| exp-031-lotus-posture-chapter | related_to |
+| exp-030-the-pain-ledger | associated_with |
+| exp-031-lotus-posture-chapter | associated_with |
 | leg-numbness-pain | derived_from |

@@ -16,5 +16,5 @@ Graph entity ID: `what-is-stillness` - 5 direct relationships.
 | from | relation |
 |---|---|
 | daodejing-33 | related_to |
-| why-am-i-so-sleepy | related_to |
+| why-am-i-so-sleepy | associated_with |
 | xiaoyao | related_to |

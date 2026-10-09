@@ -30,7 +30,7 @@ Graph entity ID: `xinzhai` - 23 direct relationships.
 | thoughts-become-stronger | concerns |
 | virtual-room-passage | concerns |
 | wandering-mind-in-sitting | concerns |
-| why-do-i-see-lights | related_to |
+| why-do-i-see-lights | discusses |
 | wu-sang-wo | related_to |
 | xinzhai-vs-mindfulness | discusses |
 | xu | related_to |

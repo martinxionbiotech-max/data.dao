@@ -9,8 +9,8 @@ Graph entity ID: `daodejing-63` - 6 direct relationships.
 | to | relation |
 |---|---|
 | daodejing | translated_as |
-| daodejing-17 | related_to |
-| daodejing-22 | related_to |
+| daodejing-17 | associated_with |
+| daodejing-22 | associated_with |
 | de | concerns |
 | wuwei | concerns |
 
@@ -18,4 +18,4 @@ Graph entity ID: `daodejing-63` - 6 direct relationships.
 
 | from | relation |
 |---|---|
-| daodejing-64 | related_to |
+| daodejing-64 | associated_with |

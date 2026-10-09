@@ -11,7 +11,7 @@ graph relationships use bare slug IDs (shared across collections).
 | texts | text | 10 | [index](/entities/texts/) |
 | translations | translation | 39 | [index](/entities/translations/) |
 | timeline | event | 18 | [index](/entities/timeline/) |
-| glossary | term | 56 | [index](/entities/glossary/) |
+| glossary | term | 55 | [index](/entities/glossary/) |
 | stories | story | 70 | [index](/entities/stories/) |
 | research | study | 9 | [index](/entities/research/) |
 | comparisons | comparison | 11 | [index](/entities/comparisons/) |

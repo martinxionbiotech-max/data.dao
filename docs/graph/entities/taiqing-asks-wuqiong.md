@@ -9,12 +9,12 @@ Graph entity ID: `taiqing-asks-wuqiong` - 8 direct relationships.
 | to | relation |
 |---|---|
 | dao | concerns |
-| dongguo-zi-asks | related_to |
-| light-brightness-asks-nothingness | related_to |
+| dongguo-zi-asks | associated_with |
+| light-brightness-asks-nothingness | associated_with |
 | wu-shi-wu-zhong | concerns |
 | wuwei | concerns |
 | xu | concerns |
-| zhi-wen-wuwei | related_to |
+| zhi-wen-wuwei | associated_with |
 | zhuangzi | references |
 
 ## Incoming (0)

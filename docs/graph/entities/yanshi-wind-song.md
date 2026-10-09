@@ -8,12 +8,12 @@ Graph entity ID: `yanshi-wind-song` - 8 direct relationships.
 
 | to | relation |
 |---|---|
-| diao-ling-yi-que | related_to |
+| diao-ling-yi-que | associated_with |
 | liang-wang | concerns |
-| lin-hui-qi-bi | related_to |
-| mountain-tree-goose | related_to |
+| lin-hui-qi-bi | associated_with |
+| mountain-tree-goose | associated_with |
 | wuwei | concerns |
-| yi-dai-niao | related_to |
+| yi-dai-niao | associated_with |
 | zhuangzi | described_in |
 | ziran | concerns |
 

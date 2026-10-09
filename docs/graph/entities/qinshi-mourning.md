@@ -8,9 +8,9 @@ Graph entity ID: `qinshi-mourning` - 10 direct relationships.
 
 | to | relation |
 |---|---|
-| confucius-meets-laozi | related_to |
-| drumming-basin | related_to |
-| four-friends | related_to |
+| confucius-meets-laozi | associated_with |
+| drumming-basin | associated_with |
+| four-friends | associated_with |
 | laozi | related_to |
 | zhuangzi | described_in |
 
@@ -18,8 +18,8 @@ Graph entity ID: `qinshi-mourning` - 10 direct relationships.
 
 | from | relation |
 |---|---|
-| daye-zhu-jin | related_to |
-| four-friends | related_to |
-| huan-gong-jian-gui | related_to |
-| sanghu-friends | related_to |
+| daye-zhu-jin | associated_with |
+| four-friends | associated_with |
+| huan-gong-jian-gui | associated_with |
+| sanghu-friends | associated_with |
 | xian-jie | related_to |

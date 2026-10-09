@@ -9,9 +9,9 @@ Graph entity ID: `exp-027-finding-a-teacher` - 8 direct relationships.
 | to | relation |
 |---|---|
 | do-i-need-a-teacher | concerns |
-| exp-017-why-he-began | related_to |
-| exp-021-prostrations-channel-circuit | related_to |
-| exp-025-lying-down-innovation | related_to |
+| exp-017-why-he-began | associated_with |
+| exp-021-prostrations-channel-circuit | associated_with |
+| exp-025-lying-down-innovation | associated_with |
 | jingzuo | related_to |
 | zuowang-safety-without-teacher | concerns |
 
@@ -19,5 +19,5 @@ Graph entity ID: `exp-027-finding-a-teacher` - 8 direct relationships.
 
 | from | relation |
 |---|---|
-| do-i-need-a-teacher | related_to |
-| is-one-style-enough | related_to |
+| do-i-need-a-teacher | references |
+| is-one-style-enough | references |

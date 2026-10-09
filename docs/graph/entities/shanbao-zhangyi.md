@@ -8,10 +8,10 @@ Graph entity ID: `shanbao-zhangyi` - 9 direct relationships.
 
 | to | relation |
 |---|---|
-| mountain-tree-goose | related_to |
+| mountain-tree-goose | associated_with |
 | sitting-protocol | related_to |
 | what-counts-as-progress | related_to |
-| zhili-shu | related_to |
+| zhili-shu | associated_with |
 | zhuangzi | described_in |
 | ziran | concerns |
 
@@ -19,6 +19,6 @@ Graph entity ID: `shanbao-zhangyi` - 9 direct relationships.
 
 | from | relation |
 |---|---|
-| chui-gou-zhe | related_to |
-| ren-gongzi-fishing | related_to |
+| chui-gou-zhe | associated_with |
+| ren-gongzi-fishing | associated_with |
 | what-counts-as-progress | related_to |

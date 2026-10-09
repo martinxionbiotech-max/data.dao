@@ -8,9 +8,9 @@ Graph entity ID: `sun-buer` - 3 direct relationships.
 
 | to | relation |
 |---|---|
-| ma-yu | related_to |
-| qiu-chuji | related_to |
-| wang-chongyang | related_to |
+| ma-yu | associated_with |
+| qiu-chuji | associated_with |
+| wang-chongyang | associated_with |
 
 ## Incoming (0)
 

@@ -8,7 +8,7 @@ Graph entity ID: `dantian` - 8 direct relationships.
 
 | to | relation |
 |---|---|
-| jing-qi-shen | related_to |
+| jing-qi-shen | associated_with |
 | qi | related_to |
 | shouyi | related_to |
 

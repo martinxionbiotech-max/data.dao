@@ -8,12 +8,12 @@ Graph entity ID: `ren-gongzi-fishing` - 13 direct relationships.
 
 | to | relation |
 |---|---|
-| cao-shang | related_to |
+| cao-shang | associated_with |
 | da-kuai | concerns |
-| jingdi-zhiwa | related_to |
-| peng-bird | related_to |
-| shanbao-zhangyi | related_to |
-| useless-gourd | related_to |
+| jingdi-zhiwa | associated_with |
+| peng-bird | associated_with |
+| shanbao-zhangyi | associated_with |
+| useless-gourd | associated_with |
 | what-counts-as-progress | related_to |
 | zhuangzi | described_in |
 | ziran | concerns |
@@ -22,7 +22,7 @@ Graph entity ID: `ren-gongzi-fishing` - 13 direct relationships.
 
 | from | relation |
 |---|---|
-| bei-gong-she | related_to |
-| tu-long-zhi-ji | related_to |
+| bei-gong-she | associated_with |
+| tu-long-zhi-ji | associated_with |
 | why-do-i-keep-quitting | related_to |
-| zhi-yan | related_to |
+| zhi-yan | associated_with |

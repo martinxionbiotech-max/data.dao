@@ -8,15 +8,15 @@ Graph entity ID: `tushan-shuo` - 7 direct relationships.
 
 | to | relation |
 |---|---|
-| cao-shang | related_to |
-| phoenix-and-owl | related_to |
-| turtle-in-the-mud | related_to |
-| xuzhou-empty-boat | related_to |
+| cao-shang | associated_with |
+| phoenix-and-owl | associated_with |
+| turtle-in-the-mud | associated_with |
+| xuzhou-empty-boat | associated_with |
 | zhuangzi | described_in |
 
 ## Incoming (2)
 
 | from | relation |
 |---|---|
-| dao-yi-you-dao | related_to |
-| dongguo-zi-asks | related_to |
+| dao-yi-you-dao | associated_with |
+| dongguo-zi-asks | associated_with |

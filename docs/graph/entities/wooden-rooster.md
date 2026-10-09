@@ -16,6 +16,6 @@ Graph entity ID: `wooden-rooster` - 6 direct relationships.
 
 | from | relation |
 |---|---|
-| boshun-archer | related_to |
+| boshun-archer | associated_with |
 | wooden-rooster-passage | concerns |
-| yi-dai-niao | related_to |
+| yi-dai-niao | associated_with |

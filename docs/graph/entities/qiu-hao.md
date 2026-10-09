@@ -8,12 +8,12 @@ Graph entity ID: `qiu-hao` - 10 direct relationships.
 
 | to | relation |
 |---|---|
-| butterfly-dream | related_to |
+| butterfly-dream | associated_with |
 | daodejing-02 | references |
 | hua | concerns |
-| peng-bird | related_to |
+| peng-bird | associated_with |
 | qiwu | concerns |
-| three-in-the-morning | related_to |
+| three-in-the-morning | associated_with |
 | tian-jun | concerns |
 | wu-sang-wo | concerns |
 | zhuangzi | described_in |
@@ -22,4 +22,4 @@ Graph entity ID: `qiu-hao` - 10 direct relationships.
 
 | from | relation |
 |---|---|
-| bei-gong-she | related_to |
+| bei-gong-she | associated_with |

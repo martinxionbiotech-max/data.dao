@@ -15,7 +15,7 @@ Graph entity ID: `zhuang-zhou` - 6 direct relationships.
 | from | relation |
 |---|---|
 | butterfly-dream | associated_with |
-| chen-tuan | related_to |
-| guo-xiang | related_to |
+| chen-tuan | associated_with |
+| guo-xiang | associated_with |
 | turtle-in-the-mud | related_to |
 | zhuangzi-compilation | concerns |

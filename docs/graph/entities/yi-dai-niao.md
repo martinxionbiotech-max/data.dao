@@ -9,11 +9,11 @@ Graph entity ID: `yi-dai-niao` - 12 direct relationships.
 | to | relation |
 |---|---|
 | daodejing-22 | references |
-| marsh-pheasant | related_to |
-| mountain-tree-goose | related_to |
+| marsh-pheasant | associated_with |
+| mountain-tree-goose | associated_with |
 | qiwu | concerns |
-| shinan-yiliao | related_to |
-| wooden-rooster | related_to |
+| shinan-yiliao | associated_with |
+| wooden-rooster | associated_with |
 | wuwei | concerns |
 | zhuangzi | described_in |
 | ziran | concerns |
@@ -22,6 +22,6 @@ Graph entity ID: `yi-dai-niao` - 12 direct relationships.
 
 | from | relation |
 |---|---|
-| diao-ling-yi-que | related_to |
-| lin-hui-qi-bi | related_to |
-| yanshi-wind-song | related_to |
+| diao-ling-yi-que | associated_with |
+| lin-hui-qi-bi | associated_with |
+| yanshi-wind-song | associated_with |

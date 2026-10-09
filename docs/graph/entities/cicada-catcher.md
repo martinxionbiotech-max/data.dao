@@ -16,7 +16,7 @@ Graph entity ID: `cicada-catcher` - 7 direct relationships.
 
 | from | relation |
 |---|---|
-| boatman | related_to |
-| boshun-archer | related_to |
-| chui-gou-zhe | related_to |
-| hook-smith | related_to |
+| boatman | associated_with |
+| boshun-archer | associated_with |
+| chui-gou-zhe | associated_with |
+| hook-smith | associated_with |

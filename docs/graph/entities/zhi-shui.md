@@ -15,13 +15,13 @@ Graph entity ID: `zhi-shui` - 12 direct relationships.
 
 | from | relation |
 |---|---|
-| bao-guang | related_to |
+| bao-guang | associated_with |
 | daodejing-08 | related_to |
 | daodejing-11 | related_to |
 | daodejing-32 | related_to |
 | daodejing-46 | related_to |
-| huan-zhong | related_to |
+| huan-zhong | associated_with |
 | xuzhou-empty-boat | concerns |
-| yingning | related_to |
+| yingning | associated_with |
 | yongxin-ruo-jing-passage | related_to |
 | yun-jin-cheng-feng | concerns |

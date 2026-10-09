@@ -8,9 +8,9 @@ Graph entity ID: `mantis-stalks-cicada` - 7 direct relationships.
 
 | to | relation |
 |---|---|
-| huzi-jixian | related_to |
-| kui-xian-chain | related_to |
-| xuzhou-empty-boat | related_to |
+| huzi-jixian | associated_with |
+| kui-xian-chain | associated_with |
+| xuzhou-empty-boat | associated_with |
 | zhuangzi | described_in |
 | zuochi | concerns |
 | zuowang | concerns |
@@ -19,4 +19,4 @@ Graph entity ID: `mantis-stalks-cicada` - 7 direct relationships.
 
 | from | relation |
 |---|---|
-| diao-ling-yi-que | related_to |
+| diao-ling-yi-que | associated_with |

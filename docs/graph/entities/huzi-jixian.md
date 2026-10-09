@@ -16,9 +16,9 @@ Graph entity ID: `huzi-jixian` - 9 direct relationships.
 
 | from | relation |
 |---|---|
-| huan-gong-jian-gui | related_to |
+| huan-gong-jian-gui | associated_with |
 | huan-zhong | related_to |
-| mantis-stalks-cicada | related_to |
+| mantis-stalks-cicada | associated_with |
 | qiwu | related_to |
-| wang-liang-wen-jing | related_to |
+| wang-liang-wen-jing | associated_with |
 | wu-he-you-zhi-xiang | related_to |

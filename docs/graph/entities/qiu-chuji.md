@@ -9,20 +9,20 @@ Graph entity ID: `qiu-chuji` - 13 direct relationships.
 | to | relation |
 |---|---|
 | daodejing | related_to |
-| kou-qianzhi | related_to |
+| kou-qianzhi | associated_with |
 | shouyi | related_to |
-| sima-chengzhen | related_to |
-| wang-chongyang | related_to |
-| zhang-daoling | related_to |
+| sima-chengzhen | associated_with |
+| wang-chongyang | associated_with |
+| zhang-daoling | associated_with |
 | zuowang | related_to |
 
 ## Incoming (6)
 
 | from | relation |
 |---|---|
-| bai-yuchan | related_to |
-| liu-chuxuan | related_to |
-| ma-yu | related_to |
-| sun-buer | related_to |
-| tan-chuduan | related_to |
-| wang-chuyi | related_to |
+| bai-yuchan | associated_with |
+| liu-chuxuan | associated_with |
+| ma-yu | associated_with |
+| sun-buer | associated_with |
+| tan-chuduan | associated_with |
+| wang-chuyi | associated_with |

@@ -8,15 +8,15 @@ Graph entity ID: `exp-019-one-remedy-body` - 7 direct relationships.
 
 | to | relation |
 |---|---|
-| exp-013-buddhist-daoist-boundary | related_to |
-| exp-018-halflotus-to-full-lotus | related_to |
+| exp-013-buddhist-daoist-boundary | associated_with |
+| exp-018-halflotus-to-full-lotus | associated_with |
 | tiaoxi | related_to |
 
 ## Incoming (4)
 
 | from | relation |
 |---|---|
-| can-meditation-cure-illness | related_to |
-| exp-021-prostrations-channel-circuit | related_to |
-| exp-023-breath-is-the-key | related_to |
-| should-i-meditate-when-sick | related_to |
+| can-meditation-cure-illness | references |
+| exp-021-prostrations-channel-circuit | associated_with |
+| exp-023-breath-is-the-key | associated_with |
+| should-i-meditate-when-sick | references |

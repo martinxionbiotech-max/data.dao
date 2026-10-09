@@ -9,15 +9,15 @@ Graph entity ID: `wang-chuyi` - 8 direct relationships.
 | to | relation |
 |---|---|
 | jingzuo | related_to |
-| qiu-chuji | related_to |
+| qiu-chuji | associated_with |
 | shouyi | related_to |
 | standing-in-snow | related_to |
-| wang-chongyang | related_to |
+| wang-chongyang | associated_with |
 
 ## Incoming (3)
 
 | from | relation |
 |---|---|
-| hao-datong | related_to |
-| ma-yu | related_to |
-| tan-chuduan | related_to |
+| hao-datong | associated_with |
+| ma-yu | associated_with |
+| tan-chuduan | associated_with |

@@ -8,16 +8,16 @@ Graph entity ID: `dao-shu` - 8 direct relationships.
 
 | to | relation |
 |---|---|
-| huan-zhong | related_to |
-| liang-xing | related_to |
-| qiwu | related_to |
+| huan-zhong | associated_with |
+| liang-xing | associated_with |
+| qiwu | associated_with |
 | three-in-the-morning | related_to |
-| tian-jun | related_to |
-| zhen-zai | related_to |
+| tian-jun | associated_with |
+| zhen-zai | associated_with |
 | zhuangzi | described_in |
 
 ## Incoming (1)
 
 | from | relation |
 |---|---|
-| mo-ruo-yi-ming | related_to |
+| mo-ruo-yi-ming | associated_with |

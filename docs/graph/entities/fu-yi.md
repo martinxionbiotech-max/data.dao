@@ -10,12 +10,12 @@ Graph entity ID: `fu-yi` - 6 direct relationships.
 |---|---|
 | daodejing | associated_with |
 | exp-013-buddhist-daoist-boundary | related_to |
-| heshang-gong | related_to |
-| wang-bi | related_to |
-| yan-zun | related_to |
+| heshang-gong | associated_with |
+| wang-bi | associated_with |
+| yan-zun | associated_with |
 
 ## Incoming (1)
 
 | from | relation |
 |---|---|
-| li-ao | related_to |
+| li-ao | associated_with |

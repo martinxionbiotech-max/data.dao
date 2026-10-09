@@ -14,6 +14,6 @@ Graph entity ID: `exp-007-digestive-release` - 4 direct relationships.
 
 | from | relation |
 |---|---|
-| does-diet-matter | related_to |
-| exp-015-heat-sweat-qi | related_to |
-| exp-026-diet-gate | related_to |
+| does-diet-matter | references |
+| exp-015-heat-sweat-qi | associated_with |
+| exp-026-diet-gate | associated_with |

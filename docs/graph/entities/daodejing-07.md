@@ -9,9 +9,9 @@ Graph entity ID: `daodejing-07` - 8 direct relationships.
 | to | relation |
 |---|---|
 | daodejing | described_in |
-| daodejing-02 | related_to |
-| daodejing-08 | related_to |
-| daodejing-22 | related_to |
+| daodejing-02 | associated_with |
+| daodejing-08 | associated_with |
+| daodejing-22 | associated_with |
 | what-counts-as-progress | related_to |
 | wuwei | concerns |
 | ziran | related_to |
@@ -20,4 +20,4 @@ Graph entity ID: `daodejing-07` - 8 direct relationships.
 
 | from | relation |
 |---|---|
-| daodejing-13 | related_to |
+| daodejing-13 | associated_with |

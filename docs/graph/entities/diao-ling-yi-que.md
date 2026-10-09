@@ -8,13 +8,13 @@ Graph entity ID: `diao-ling-yi-que` - 10 direct relationships.
 
 | to | relation |
 |---|---|
-| luhou-yang-niao | related_to |
-| mantis-stalks-cicada | related_to |
-| mountain-tree-goose | related_to |
+| luhou-yang-niao | associated_with |
+| mantis-stalks-cicada | associated_with |
+| mountain-tree-goose | associated_with |
 | qiwu | concerns |
-| shinan-yiliao | related_to |
+| shinan-yiliao | associated_with |
 | wuwei | concerns |
-| yi-dai-niao | related_to |
+| yi-dai-niao | associated_with |
 | zhuangzi | described_in |
 | ziran | concerns |
 
@@ -22,4 +22,4 @@ Graph entity ID: `diao-ling-yi-que` - 10 direct relationships.
 
 | from | relation |
 |---|---|
-| yanshi-wind-song | related_to |
+| yanshi-wind-song | associated_with |

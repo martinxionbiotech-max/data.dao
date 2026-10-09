@@ -16,6 +16,6 @@ Graph entity ID: `cook-ding` - 6 direct relationships.
 | from | relation |
 |---|---|
 | chen-nan | related_to |
-| chui-gou-zhe | related_to |
-| hook-smith | related_to |
+| chui-gou-zhe | associated_with |
+| hook-smith | associated_with |
 | yuan-du-yi-wei-jing | related_to |

@@ -17,4 +17,4 @@ Graph entity ID: `combine-zuowang-mindfulness` - 5 direct relationships.
 |---|---|
 | exp-013-buddhist-daoist-boundary | concerns |
 | handan-walk | concerns |
-| is-one-style-enough | related_to |
+| is-one-style-enough | associated_with |

@@ -10,11 +10,11 @@ Graph entity ID: `exp-029-the-human-body` - 14 direct relationships.
 |---|---|
 | can-meditation-cure-illness | concerns |
 | dantian | related_to |
-| exp-008-breath-stopping | related_to |
-| exp-015-heat-sweat-qi | related_to |
-| exp-016-nine-dhyanas-map | related_to |
-| exp-023-breath-is-the-key | related_to |
-| exp-028-abdominal-breathing | related_to |
+| exp-008-breath-stopping | associated_with |
+| exp-015-heat-sweat-qi | associated_with |
+| exp-016-nine-dhyanas-map | associated_with |
+| exp-023-breath-is-the-key | associated_with |
+| exp-028-abdominal-breathing | associated_with |
 | jingzuo | related_to |
 | qi | related_to |
 | tiaoxi | related_to |
@@ -25,5 +25,5 @@ Graph entity ID: `exp-029-the-human-body` - 14 direct relationships.
 
 | from | relation |
 |---|---|
-| exp-030-the-pain-ledger | related_to |
-| exp-031-lotus-posture-chapter | related_to |
+| exp-030-the-pain-ledger | associated_with |
+| exp-031-lotus-posture-chapter | associated_with |

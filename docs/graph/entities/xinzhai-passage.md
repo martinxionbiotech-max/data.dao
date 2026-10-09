@@ -15,8 +15,8 @@ Graph entity ID: `xinzhai-passage` - 6 direct relationships.
 | from | relation |
 |---|---|
 | boatman | references |
-| daodejing-12 | related_to |
-| does-diet-matter | related_to |
-| does-practice-need-faith | related_to |
-| is-sitting-religious | related_to |
+| daodejing-12 | associated_with |
+| does-diet-matter | references |
+| does-practice-need-faith | references |
+| is-sitting-religious | references |
 | xinzhai | translated_as |

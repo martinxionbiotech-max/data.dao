@@ -8,8 +8,8 @@ Graph entity ID: `exp-014-double-lotus-doctrine` - 13 direct relationships.
 
 | to | relation |
 |---|---|
-| exp-010-lotus-pain | related_to |
-| exp-012-restless-body | related_to |
+| exp-010-lotus-pain | associated_with |
+| exp-012-restless-body | associated_with |
 | must-i-sit-cross-legged | concerns |
 
 ## Incoming (10)
@@ -17,12 +17,12 @@ Graph entity ID: `exp-014-double-lotus-doctrine` - 13 direct relationships.
 | from | relation |
 |---|---|
 | can-meditation-cure-illness | related_to |
-| exp-015-heat-sweat-qi | related_to |
-| exp-016-nine-dhyanas-map | related_to |
-| exp-017-why-he-began | related_to |
-| exp-018-halflotus-to-full-lotus | related_to |
-| exp-020-false-first-dhyana | related_to |
-| exp-024-standing-and-sitting | related_to |
-| exp-025-lying-down-innovation | related_to |
-| exp-031-lotus-posture-chapter | related_to |
-| exp-032-from-zero-to-desire-realm | related_to |
+| exp-015-heat-sweat-qi | associated_with |
+| exp-016-nine-dhyanas-map | associated_with |
+| exp-017-why-he-began | associated_with |
+| exp-018-halflotus-to-full-lotus | associated_with |
+| exp-020-false-first-dhyana | associated_with |
+| exp-024-standing-and-sitting | associated_with |
+| exp-025-lying-down-innovation | associated_with |
+| exp-031-lotus-posture-chapter | associated_with |
+| exp-032-from-zero-to-desire-realm | associated_with |

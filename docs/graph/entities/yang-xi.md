@@ -18,6 +18,6 @@ Graph entity ID: `yang-xi` - 8 direct relationships.
 | from | relation |
 |---|---|
 | is-sitting-religious | related_to |
-| lu-xiujing | related_to |
+| lu-xiujing | associated_with |
 | shangqing-revelations | associated_with |
 | tao-hongjing | associated_with |

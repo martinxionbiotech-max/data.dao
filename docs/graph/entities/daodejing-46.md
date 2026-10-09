@@ -9,9 +9,9 @@ Graph entity ID: `daodejing-46` - 5 direct relationships.
 | to | relation |
 |---|---|
 | daodejing | described_in |
-| daodejing-12 | related_to |
-| daodejing-32 | related_to |
-| daodejing-33 | related_to |
+| daodejing-12 | associated_with |
+| daodejing-32 | associated_with |
+| daodejing-33 | associated_with |
 | zhi-shui | related_to |
 
 ## Incoming (0)

@@ -21,8 +21,8 @@ Graph entity ID: `how-long-should-i-sit` - 13 direct relationships.
 | exp-022-its-all-theatre | concerns |
 | exp-030-the-pain-ledger | concerns |
 | exp-031-lotus-posture-chapter | concerns |
-| how-long-until-results | related_to |
-| should-i-use-timers | related_to |
-| why-am-i-so-sleepy | related_to |
-| why-do-i-keep-quitting | related_to |
+| how-long-until-results | associated_with |
+| should-i-use-timers | associated_with |
+| why-am-i-so-sleepy | associated_with |
+| why-do-i-keep-quitting | associated_with |
 | yingning-passage | related_to |

@@ -8,8 +8,8 @@ Graph entity ID: `four-friends` - 13 direct relationships.
 
 | to | relation |
 |---|---|
-| drumming-basin | related_to |
-| qinshi-mourning | related_to |
+| drumming-basin | associated_with |
+| qinshi-mourning | associated_with |
 | zhuangzi | described_in |
 | ziran | concerns |
 
@@ -18,11 +18,11 @@ Graph entity ID: `four-friends` - 13 direct relationships.
 | from | relation |
 |---|---|
 | da-kuai | related_to |
-| daye-zhu-jin | related_to |
+| daye-zhu-jin | associated_with |
 | ji-ren | related_to |
-| lin-hui-qi-bi | related_to |
-| qinshi-mourning | related_to |
-| ran-qiu-asks-zhongni | related_to |
-| sanghu-friends | related_to |
+| lin-hui-qi-bi | associated_with |
+| qinshi-mourning | associated_with |
+| ran-qiu-asks-zhongni | associated_with |
+| sanghu-friends | associated_with |
 | wu-shi-wu-zhong | related_to |
 | xian-jie | related_to |

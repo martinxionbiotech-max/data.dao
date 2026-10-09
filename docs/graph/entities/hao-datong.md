@@ -8,13 +8,13 @@ Graph entity ID: `hao-datong` - 5 direct relationships.
 
 | to | relation |
 |---|---|
-| liu-chuxuan | related_to |
-| ma-yu | related_to |
-| wang-chongyang | related_to |
-| wang-chuyi | related_to |
+| liu-chuxuan | associated_with |
+| ma-yu | associated_with |
+| wang-chongyang | associated_with |
+| wang-chuyi | associated_with |
 
 ## Incoming (1)
 
 | from | relation |
 |---|---|
-| liu-chuxuan | related_to |
+| liu-chuxuan | associated_with |

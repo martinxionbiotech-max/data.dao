@@ -8,11 +8,11 @@ Graph entity ID: `luhou-yang-niao` - 11 direct relationships.
 
 | to | relation |
 |---|---|
-| hundun | related_to |
-| marsh-pheasant | related_to |
-| mountain-tree-goose | related_to |
-| peng-bird | related_to |
-| phoenix-and-owl | related_to |
+| hundun | associated_with |
+| marsh-pheasant | associated_with |
+| mountain-tree-goose | associated_with |
+| peng-bird | associated_with |
+| phoenix-and-owl | associated_with |
 | zhuangzi | described_in |
 | ziran | concerns |
 
@@ -20,7 +20,7 @@ Graph entity ID: `luhou-yang-niao` - 11 direct relationships.
 
 | from | relation |
 |---|---|
-| bole-horses | related_to |
-| cao-shang | related_to |
-| diao-ling-yi-que | related_to |
-| hezhe-zhi-fu | related_to |
+| bole-horses | associated_with |
+| cao-shang | associated_with |
+| diao-ling-yi-que | associated_with |
+| hezhe-zhi-fu | associated_with |

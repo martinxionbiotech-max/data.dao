@@ -16,5 +16,5 @@ Graph entity ID: `exp-009-dissolving-void` - 5 direct relationships.
 
 | from | relation |
 |---|---|
-| exp-016-nine-dhyanas-map | related_to |
-| how-long-until-results | related_to |
+| exp-016-nine-dhyanas-map | associated_with |
+| how-long-until-results | references |

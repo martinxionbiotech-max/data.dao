@@ -16,4 +16,4 @@ Graph entity ID: `virtual-room-passage` - 4 direct relationships.
 
 | from | relation |
 |---|---|
-| yongxin-ruo-jing-passage | related_to |
+| yongxin-ruo-jing-passage | associated_with |

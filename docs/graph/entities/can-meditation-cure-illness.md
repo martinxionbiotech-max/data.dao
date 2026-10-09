@@ -11,7 +11,7 @@ Graph entity ID: `can-meditation-cure-illness` - 16 direct relationships.
 | baopuzi | related_to |
 | breath-stopping-anxiety | concerns |
 | exp-014-double-lotus-doctrine | related_to |
-| exp-019-one-remedy-body | related_to |
+| exp-019-one-remedy-body | references |
 | farias-adverse-events-2020 | references |
 | mindfulness-meta-analysis-2014 | references |
 | taiping-jing | related_to |
@@ -26,6 +26,6 @@ Graph entity ID: `can-meditation-cure-illness` - 16 direct relationships.
 | exp-028-abdominal-breathing | concerns |
 | exp-029-the-human-body | concerns |
 | exp-031-lotus-posture-chapter | concerns |
-| how-long-until-results | related_to |
-| should-i-meditate-when-sick | related_to |
+| how-long-until-results | associated_with |
+| should-i-meditate-when-sick | associated_with |
 | zhuangzi-skeleton | related_to |

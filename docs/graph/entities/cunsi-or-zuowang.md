@@ -16,4 +16,4 @@ Graph entity ID: `cunsi-or-zuowang` - 4 direct relationships.
 
 | from | relation |
 |---|---|
-| is-one-style-enough | related_to |
+| is-one-style-enough | associated_with |

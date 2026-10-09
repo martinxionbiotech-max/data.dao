@@ -15,7 +15,7 @@ Graph entity ID: `kou-qianzhi` - 6 direct relationships.
 | from | relation |
 |---|---|
 | kou-qianzhi-reform | associated_with |
-| lu-xiujing | related_to |
-| qiu-chuji | related_to |
-| wang-chongyang | related_to |
-| zhang-daoling | related_to |
+| lu-xiujing | associated_with |
+| qiu-chuji | associated_with |
+| wang-chongyang | associated_with |
+| zhang-daoling | associated_with |

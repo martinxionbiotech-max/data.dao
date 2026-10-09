@@ -9,9 +9,9 @@ Graph entity ID: `exp-021-prostrations-channel-circuit` - 11 direct relationship
 | to | relation |
 |---|---|
 | can-meditation-cure-illness | concerns |
-| exp-016-nine-dhyanas-map | related_to |
-| exp-018-halflotus-to-full-lotus | related_to |
-| exp-019-one-remedy-body | related_to |
+| exp-016-nine-dhyanas-map | associated_with |
+| exp-018-halflotus-to-full-lotus | associated_with |
+| exp-019-one-remedy-body | associated_with |
 
 ## Incoming (7)
 
@@ -19,8 +19,8 @@ Graph entity ID: `exp-021-prostrations-channel-circuit` - 11 direct relationship
 |---|---|
 | bai-yuchan | related_to |
 | daodejing-36 | related_to |
-| exp-023-breath-is-the-key | related_to |
-| exp-027-finding-a-teacher | related_to |
-| exp-028-abdominal-breathing | related_to |
-| should-i-meditate-when-sick | related_to |
+| exp-023-breath-is-the-key | associated_with |
+| exp-027-finding-a-teacher | associated_with |
+| exp-028-abdominal-breathing | associated_with |
+| should-i-meditate-when-sick | references |
 | what-counts-as-progress | related_to |

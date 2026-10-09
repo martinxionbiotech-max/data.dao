@@ -8,7 +8,7 @@ Graph entity ID: `swimmer-lvliang` - 6 direct relationships.
 
 | to | relation |
 |---|---|
-| boatman | related_to |
+| boatman | associated_with |
 | zhuangzi | described_in |
 | ziran | concerns |
 | zuowang | concerns |
@@ -18,4 +18,4 @@ Graph entity ID: `swimmer-lvliang` - 6 direct relationships.
 | from | relation |
 |---|---|
 | daodejing-08 | related_to |
-| xuzhou-empty-boat | related_to |
+| xuzhou-empty-boat | associated_with |

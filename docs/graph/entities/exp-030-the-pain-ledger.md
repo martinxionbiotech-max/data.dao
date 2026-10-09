@@ -8,11 +8,11 @@ Graph entity ID: `exp-030-the-pain-ledger` - 11 direct relationships.
 
 | to | relation |
 |---|---|
-| exp-003-leg-pain-filling | related_to |
-| exp-006-leg-numbness | related_to |
-| exp-010-lotus-pain | related_to |
-| exp-018-halflotus-to-full-lotus | related_to |
-| exp-029-the-human-body | related_to |
+| exp-003-leg-pain-filling | associated_with |
+| exp-006-leg-numbness | associated_with |
+| exp-010-lotus-pain | associated_with |
+| exp-018-halflotus-to-full-lotus | associated_with |
+| exp-029-the-human-body | associated_with |
 | how-long-should-i-sit | concerns |
 | jingzuo | related_to |
 | must-i-sit-cross-legged | concerns |
@@ -22,5 +22,5 @@ Graph entity ID: `exp-030-the-pain-ledger` - 11 direct relationships.
 
 | from | relation |
 |---|---|
-| exp-031-lotus-posture-chapter | related_to |
-| exp-032-from-zero-to-desire-realm | related_to |
+| exp-031-lotus-posture-chapter | associated_with |
+| exp-032-from-zero-to-desire-realm | associated_with |

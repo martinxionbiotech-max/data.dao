@@ -19,8 +19,8 @@ Graph entity ID: `zuochi` - 11 direct relationships.
 | bao-weng-guan-qi | concerns |
 | boshun-archer | concerns |
 | exp-009-dissolving-void | concerns |
-| ji-xin | related_to |
+| ji-xin | associated_with |
 | mantis-stalks-cicada | concerns |
 | wandering-mind-in-sitting | concerns |
-| xushi-sheng-bai | related_to |
-| yingning | related_to |
+| xushi-sheng-bai | associated_with |
+| yingning | associated_with |

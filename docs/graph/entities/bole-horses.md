@@ -8,12 +8,12 @@ Graph entity ID: `bole-horses` - 11 direct relationships.
 
 | to | relation |
 |---|---|
-| artisan-qing | related_to |
-| bao-weng-guan-qi | related_to |
-| cao-shang | related_to |
-| hundun | related_to |
-| luhou-yang-niao | related_to |
-| marsh-pheasant | related_to |
+| artisan-qing | associated_with |
+| bao-weng-guan-qi | associated_with |
+| cao-shang | associated_with |
+| hundun | associated_with |
+| luhou-yang-niao | associated_with |
+| marsh-pheasant | associated_with |
 | wuwei | concerns |
 | zhuangzi | described_in |
 | ziran | concerns |
@@ -22,5 +22,5 @@ Graph entity ID: `bole-horses` - 11 direct relationships.
 
 | from | relation |
 |---|---|
-| dao-yi-you-dao | related_to |
+| dao-yi-you-dao | associated_with |
 | xiaoyao | related_to |

@@ -31,6 +31,6 @@ Graph entity ID: `jing` - 21 direct relationships.
 | yin-yang | associated_with |
 | yingning | concerns |
 | yongxin-ruo-jing-passage | concerns |
-| zhaoche | concerns |
+| zhao-che | concerns |
 | zhi-shui | concerns |
 | zuochi | concerns |

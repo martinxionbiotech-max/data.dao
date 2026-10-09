@@ -8,11 +8,11 @@ Graph entity ID: `should-i-use-timers` - 8 direct relationships.
 
 | to | relation |
 |---|---|
-| how-long-should-i-sit | related_to |
+| how-long-should-i-sit | associated_with |
 | jingzuo | related_to |
 | restlessness-in-sitting | concerns |
-| what-counts-as-progress | related_to |
-| why-do-i-keep-quitting | related_to |
+| what-counts-as-progress | associated_with |
+| why-do-i-keep-quitting | associated_with |
 | zuowang | related_to |
 
 ## Incoming (2)
@@ -20,4 +20,4 @@ Graph entity ID: `should-i-use-timers` - 8 direct relationships.
 | from | relation |
 |---|---|
 | exp-031-lotus-posture-chapter | concerns |
-| how-do-i-know-my-posture-is-right | related_to |
+| how-do-i-know-my-posture-is-right | associated_with |

@@ -8,14 +8,14 @@ Graph entity ID: `is-one-style-enough` - 8 direct relationships.
 
 | to | relation |
 |---|---|
-| combine-zuowang-mindfulness | related_to |
-| cunsi-or-zuowang | related_to |
-| daodejing-10-shouyi | related_to |
-| exp-023-breath-is-the-key | related_to |
-| exp-027-finding-a-teacher | related_to |
+| combine-zuowang-mindfulness | associated_with |
+| cunsi-or-zuowang | associated_with |
+| daodejing-10-shouyi | references |
+| exp-023-breath-is-the-key | references |
+| exp-027-finding-a-teacher | references |
 | jingzuo | related_to |
-| shouyi | related_to |
-| what-counts-as-progress | related_to |
+| shouyi | discusses |
+| what-counts-as-progress | associated_with |
 
 ## Incoming (0)
 

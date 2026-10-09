@@ -17,7 +17,7 @@ Graph entity ID: `yingning-passage` - 8 direct relationships.
 
 | from | relation |
 |---|---|
-| daodejing-06 | related_to |
-| how-long-until-results | related_to |
+| daodejing-06 | associated_with |
+| how-long-until-results | references |
 | jian-du | related_to |
-| zhaoche | related_to |
+| zhao-che | related_to |

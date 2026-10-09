@@ -16,9 +16,9 @@ Graph entity ID: `hundun` - 9 direct relationships.
 
 | from | relation |
 |---|---|
-| bao-weng-guan-qi | related_to |
-| bole-horses | related_to |
+| bao-weng-guan-qi | associated_with |
+| bole-horses | associated_with |
 | does-daoism-believe-in-a-creator | related_to |
-| luhou-yang-niao | related_to |
-| mantis-and-chariot | related_to |
+| luhou-yang-niao | associated_with |
+| mantis-and-chariot | associated_with |
 | zhen-zai | related_to |

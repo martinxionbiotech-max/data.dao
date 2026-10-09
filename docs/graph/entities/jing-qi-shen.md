@@ -16,9 +16,9 @@ Graph entity ID: `jing-qi-shen` - 10 direct relationships.
 |---|---|
 | bai-yuchan | related_to |
 | chen-nan | related_to |
-| dantian | related_to |
+| dantian | associated_with |
 | daodejing-55 | related_to |
-| does-practice-need-faith | related_to |
+| does-practice-need-faith | discusses |
 | shen | concerns |
 | taiping-jing | concerns |
 | wang-chongyang | related_to |

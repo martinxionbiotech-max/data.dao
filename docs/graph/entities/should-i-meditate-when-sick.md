@@ -9,10 +9,10 @@ Graph entity ID: `should-i-meditate-when-sick` - 9 direct relationships.
 | to | relation |
 |---|---|
 | baopuzi | related_to |
-| can-meditation-cure-illness | related_to |
-| daodejing-64 | related_to |
-| exp-019-one-remedy-body | related_to |
-| exp-021-prostrations-channel-circuit | related_to |
+| can-meditation-cure-illness | associated_with |
+| daodejing-64 | references |
+| exp-019-one-remedy-body | references |
+| exp-021-prostrations-channel-circuit | references |
 | mindfulness-meta-analysis-2014 | references |
 | taiping-jing | related_to |
 
@@ -21,4 +21,4 @@ Graph entity ID: `should-i-meditate-when-sick` - 9 direct relationships.
 | from | relation |
 |---|---|
 | daodejing-13 | related_to |
-| how-long-until-results | related_to |
+| how-long-until-results | associated_with |

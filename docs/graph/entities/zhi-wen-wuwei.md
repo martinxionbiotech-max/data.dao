@@ -8,11 +8,11 @@ Graph entity ID: `zhi-wen-wuwei` - 15 direct relationships.
 
 | to | relation |
 |---|---|
-| butterfly-dream | related_to |
+| butterfly-dream | associated_with |
 | dao | concerns |
 | daodejing-02 | references |
 | daodejing-48 | references |
-| dongguo-zi-asks | related_to |
+| dongguo-zi-asks | associated_with |
 | qi | concerns |
 | qiwu | concerns |
 | wuwei | concerns |
@@ -23,8 +23,8 @@ Graph entity ID: `zhi-wen-wuwei` - 15 direct relationships.
 
 | from | relation |
 |---|---|
-| dongguo-zi-asks | related_to |
-| light-brightness-asks-nothingness | related_to |
-| ran-qiu-asks-zhongni | related_to |
-| taiqing-asks-wuqiong | related_to |
+| dongguo-zi-asks | associated_with |
+| light-brightness-asks-nothingness | associated_with |
+| ran-qiu-asks-zhongni | associated_with |
+| taiqing-asks-wuqiong | associated_with |
 | wu-shi-wu-zhong | related_to |

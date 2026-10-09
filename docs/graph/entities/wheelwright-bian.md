@@ -16,6 +16,6 @@ Graph entity ID: `wheelwright-bian` - 6 direct relationships.
 | from | relation |
 |---|---|
 | chen-nan | related_to |
-| chui-gou-zhe | related_to |
+| chui-gou-zhe | associated_with |
 | daodejing-02 | related_to |
-| hook-smith | related_to |
+| hook-smith | associated_with |

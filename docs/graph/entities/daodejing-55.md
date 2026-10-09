@@ -9,9 +9,9 @@ Graph entity ID: `daodejing-55` - 7 direct relationships.
 | to | relation |
 |---|---|
 | daodejing | described_in |
-| daodejing-10-shouyi | related_to |
-| daodejing-16 | related_to |
-| daodejing-40 | related_to |
+| daodejing-10-shouyi | associated_with |
+| daodejing-16 | associated_with |
+| daodejing-40 | associated_with |
 | jing-qi-shen | related_to |
 | qi | related_to |
 
@@ -19,4 +19,4 @@ Graph entity ID: `daodejing-55` - 7 direct relationships.
 
 | from | relation |
 |---|---|
-| daodejing-45 | related_to |
+| daodejing-45 | associated_with |

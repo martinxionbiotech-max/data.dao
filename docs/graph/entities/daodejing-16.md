@@ -18,6 +18,6 @@ Graph entity ID: `daodejing-16` - 8 direct relationships.
 | from | relation |
 |---|---|
 | chen-nan | related_to |
-| daodejing-25 | related_to |
-| daodejing-45 | related_to |
-| daodejing-55 | related_to |
+| daodejing-25 | associated_with |
+| daodejing-45 | associated_with |
+| daodejing-55 | associated_with |

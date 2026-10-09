@@ -8,7 +8,7 @@ Graph entity ID: `boatman` - 6 direct relationships.
 
 | to | relation |
 |---|---|
-| cicada-catcher | related_to |
+| cicada-catcher | associated_with |
 | xinzhai-passage | references |
 | zhuangzi | described_in |
 | zuowang | concerns |
@@ -17,5 +17,5 @@ Graph entity ID: `boatman` - 6 direct relationships.
 
 | from | relation |
 |---|---|
-| boshun-archer | related_to |
-| swimmer-lvliang | related_to |
+| boshun-archer | associated_with |
+| swimmer-lvliang | associated_with |

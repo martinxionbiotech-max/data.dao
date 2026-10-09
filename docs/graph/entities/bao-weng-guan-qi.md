@@ -8,7 +8,7 @@ Graph entity ID: `bao-weng-guan-qi` - 8 direct relationships.
 
 | to | relation |
 |---|---|
-| hundun | related_to |
+| hundun | associated_with |
 | xinzhai | concerns |
 | xushi-sheng-bai | concerns |
 | zhuangzi | described_in |
@@ -19,5 +19,5 @@ Graph entity ID: `bao-weng-guan-qi` - 8 direct relationships.
 
 | from | relation |
 |---|---|
-| bole-horses | related_to |
+| bole-horses | associated_with |
 | ji-xin | related_to |

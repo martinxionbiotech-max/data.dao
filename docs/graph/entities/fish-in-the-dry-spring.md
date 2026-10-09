@@ -8,7 +8,7 @@ Graph entity ID: `fish-in-the-dry-spring` - 8 direct relationships.
 
 | to | relation |
 |---|---|
-| drumming-basin | related_to |
+| drumming-basin | associated_with |
 | zhuangzi | described_in |
 | ziran | concerns |
 
@@ -18,6 +18,6 @@ Graph entity ID: `fish-in-the-dry-spring` - 8 direct relationships.
 |---|---|
 | daodejing-08 | related_to |
 | daodejing-36 | related_to |
-| hezhe-zhi-fu | related_to |
+| hezhe-zhi-fu | associated_with |
 | liang-wang | related_to |
-| sanghu-friends | related_to |
+| sanghu-friends | associated_with |

@@ -9,8 +9,8 @@ Graph entity ID: `daodejing-64` - 10 direct relationships.
 | to | relation |
 |---|---|
 | daodejing | translated_as |
-| daodejing-48 | related_to |
-| daodejing-63 | related_to |
+| daodejing-48 | associated_with |
+| daodejing-63 | associated_with |
 | how-long-should-i-sit | related_to |
 | i-feel-nothing-when-i-sit | related_to |
 | wuwei | concerns |
@@ -21,5 +21,5 @@ Graph entity ID: `daodejing-64` - 10 direct relationships.
 | from | relation |
 |---|---|
 | how-long-until-results | related_to |
-| should-i-meditate-when-sick | related_to |
-| why-do-i-keep-quitting | related_to |
+| should-i-meditate-when-sick | references |
+| why-do-i-keep-quitting | references |

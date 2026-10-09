@@ -9,8 +9,8 @@ Graph entity ID: `daodejing-17` - 7 direct relationships.
 | to | relation |
 |---|---|
 | daodejing | translated_as |
-| daodejing-22 | related_to |
-| daodejing-37 | related_to |
+| daodejing-22 | associated_with |
+| daodejing-37 | associated_with |
 | wuwei | concerns |
 | ziran | concerns |
 
@@ -19,4 +19,4 @@ Graph entity ID: `daodejing-17` - 7 direct relationships.
 | from | relation |
 |---|---|
 | chen-tuan | related_to |
-| daodejing-63 | related_to |
+| daodejing-63 | associated_with |

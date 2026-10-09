@@ -10,7 +10,7 @@ Graph entity ID: `da-kuai` - 12 direct relationships.
 |---|---|
 | four-friends | related_to |
 | qiwulun-wu-sang-wo | related_to |
-| tian-ji | related_to |
+| tian-ji | associated_with |
 | zhuangzi | described_in |
 | ziran | concerns |
 
@@ -18,10 +18,10 @@ Graph entity ID: `da-kuai` - 12 direct relationships.
 
 | from | relation |
 |---|---|
-| does-daoism-believe-in-a-creator | related_to |
+| does-daoism-believe-in-a-creator | discusses |
 | guo-xiang | related_to |
-| hua | related_to |
+| hua | associated_with |
 | ren-gongzi-fishing | concerns |
-| tian-lai | related_to |
-| wu-hua | related_to |
-| zhen-zai | related_to |
+| tian-lai | associated_with |
+| wu-hua | associated_with |
+| zhen-zai | associated_with |

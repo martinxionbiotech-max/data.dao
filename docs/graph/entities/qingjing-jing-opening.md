@@ -14,5 +14,5 @@ Graph entity ID: `qingjing-jing-opening` - 2 direct relationships.
 
 | from | relation |
 |---|---|
-| daodejing-01 | related_to |
+| daodejing-01 | associated_with |
 | qingjing-jing | translated_as |

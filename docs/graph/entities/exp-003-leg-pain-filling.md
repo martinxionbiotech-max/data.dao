@@ -14,7 +14,7 @@ Graph entity ID: `exp-003-leg-pain-filling` - 5 direct relationships.
 
 | from | relation |
 |---|---|
-| exp-030-the-pain-ledger | related_to |
-| exp-031-lotus-posture-chapter | related_to |
+| exp-030-the-pain-ledger | associated_with |
+| exp-031-lotus-posture-chapter | associated_with |
 | leg-numbness-pain | derived_from |
 | warmth-and-qi-sensations | derived_from |

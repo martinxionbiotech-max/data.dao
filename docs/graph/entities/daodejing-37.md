@@ -9,9 +9,9 @@ Graph entity ID: `daodejing-37` - 14 direct relationships.
 | to | relation |
 |---|---|
 | daodejing | translated_as |
-| daodejing-01 | related_to |
-| daodejing-10-shouyi | related_to |
-| daodejing-48 | related_to |
+| daodejing-01 | associated_with |
+| daodejing-10-shouyi | associated_with |
+| daodejing-48 | associated_with |
 | jing | concerns |
 | pu | concerns |
 | wuwei | concerns |
@@ -21,9 +21,9 @@ Graph entity ID: `daodejing-37` - 14 direct relationships.
 
 | from | relation |
 |---|---|
-| daodejing-17 | related_to |
-| daodejing-22 | related_to |
-| daodejing-32 | related_to |
-| daodejing-45 | related_to |
+| daodejing-17 | associated_with |
+| daodejing-22 | associated_with |
+| daodejing-32 | associated_with |
+| daodejing-45 | associated_with |
 | wang-bi | related_to |
 | wangbi-laozi-commentary | related_to |

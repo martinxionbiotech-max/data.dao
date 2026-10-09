@@ -8,11 +8,11 @@ Graph entity ID: `exp-024-standing-and-sitting` - 11 direct relationships.
 
 | to | relation |
 |---|---|
-| exp-004-emotional-surfacing | related_to |
-| exp-012-restless-body | related_to |
-| exp-014-double-lotus-doctrine | related_to |
-| exp-018-halflotus-to-full-lotus | related_to |
-| exp-023-breath-is-the-key | related_to |
+| exp-004-emotional-surfacing | associated_with |
+| exp-012-restless-body | associated_with |
+| exp-014-double-lotus-doctrine | associated_with |
+| exp-018-halflotus-to-full-lotus | associated_with |
+| exp-023-breath-is-the-key | associated_with |
 | must-i-sit-cross-legged | concerns |
 | tiaoxi | concerns |
 
@@ -20,7 +20,7 @@ Graph entity ID: `exp-024-standing-and-sitting` - 11 direct relationships.
 
 | from | relation |
 |---|---|
-| does-diet-matter | related_to |
-| exp-026-diet-gate | related_to |
-| what-counts-as-progress | related_to |
-| why-do-i-keep-quitting | related_to |
+| does-diet-matter | references |
+| exp-026-diet-gate | associated_with |
+| what-counts-as-progress | references |
+| why-do-i-keep-quitting | references |

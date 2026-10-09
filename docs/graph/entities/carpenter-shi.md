@@ -8,7 +8,7 @@ Graph entity ID: `carpenter-shi` - 5 direct relationships.
 
 | to | relation |
 |---|---|
-| fish-happiness | related_to |
+| fish-happiness | associated_with |
 | zhuangzi | described_in |
 | zuowang-safety-without-teacher | concerns |
 
@@ -16,5 +16,5 @@ Graph entity ID: `carpenter-shi` - 5 direct relationships.
 
 | from | relation |
 |---|---|
-| phoenix-and-owl | related_to |
-| yun-jin-cheng-feng | related_to |
+| phoenix-and-owl | associated_with |
+| yun-jin-cheng-feng | associated_with |

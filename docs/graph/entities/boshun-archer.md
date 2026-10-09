@@ -8,11 +8,11 @@ Graph entity ID: `boshun-archer` - 7 direct relationships.
 
 | to | relation |
 |---|---|
-| artisan-qing | related_to |
-| boatman | related_to |
-| cicada-catcher | related_to |
+| artisan-qing | associated_with |
+| boatman | associated_with |
+| cicada-catcher | associated_with |
 | liezi | references |
-| wooden-rooster | related_to |
+| wooden-rooster | associated_with |
 | zhuangzi | described_in |
 | zuochi | concerns |
 

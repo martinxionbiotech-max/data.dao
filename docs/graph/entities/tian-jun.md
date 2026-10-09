@@ -17,9 +17,9 @@ Graph entity ID: `tian-jun` - 10 direct relationships.
 
 | from | relation |
 |---|---|
-| dao-shu | related_to |
-| huan-zhong | related_to |
-| liang-xing | related_to |
-| mo-ruo-yi-ming | related_to |
+| dao-shu | associated_with |
+| huan-zhong | associated_with |
+| liang-xing | associated_with |
+| mo-ruo-yi-ming | associated_with |
 | qiu-hao | concerns |
 | zhi-yan | concerns |

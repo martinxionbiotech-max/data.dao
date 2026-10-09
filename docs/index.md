@@ -26,14 +26,14 @@ published), graph edges in `relationships.json`, source records in `sources.json
 | Questions | 28 |
 | Problems | 17 |
 | Comparisons | 11 |
-| Glossary entries | 56 |
+| Glossary entries | 55 |
 | Stories | 70 |
 | Experiences | 32 |
 | Patterns | 3 |
 | Guides | 9 |
 | Tools | 3 |
 | Blog posts | 4 |
-| Knowledge-graph edges | 1555 |
+| Knowledge-graph edges | 1553 |
 | Sources | 200 |
 
 - **Experience system**: 32 anonymized experiences, 3 patterns,

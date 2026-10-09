@@ -8,8 +8,8 @@ Graph entity ID: `xuzhou-empty-boat` - 15 direct relationships.
 
 | to | relation |
 |---|---|
-| mountain-tree-goose | related_to |
-| swimmer-lvliang | related_to |
+| mountain-tree-goose | associated_with |
+| swimmer-lvliang | associated_with |
 | xu | concerns |
 | zhi-shui | concerns |
 | zhuangzi | described_in |
@@ -19,12 +19,12 @@ Graph entity ID: `xuzhou-empty-boat` - 15 direct relationships.
 
 | from | relation |
 |---|---|
-| bei-gong-she | related_to |
-| cao-shang | related_to |
+| bei-gong-she | associated_with |
+| cao-shang | associated_with |
 | daodejing-08 | related_to |
-| hezhe-zhi-fu | related_to |
+| hezhe-zhi-fu | associated_with |
 | huan-zhong | related_to |
-| lin-hui-qi-bi | related_to |
-| mantis-stalks-cicada | related_to |
-| shinan-yiliao | related_to |
-| tushan-shuo | related_to |
+| lin-hui-qi-bi | associated_with |
+| mantis-stalks-cicada | associated_with |
+| shinan-yiliao | associated_with |
+| tushan-shuo | associated_with |

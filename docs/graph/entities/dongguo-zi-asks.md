@@ -10,10 +10,10 @@ Graph entity ID: `dongguo-zi-asks` - 12 direct relationships.
 |---|---|
 | dao | concerns |
 | qiwu | concerns |
-| tushan-shuo | related_to |
+| tushan-shuo | associated_with |
 | xiaoyao | concerns |
 | xu | concerns |
-| zhi-wen-wuwei | related_to |
+| zhi-wen-wuwei | associated_with |
 | zhuangzi | described_in |
 | ziran | concerns |
 
@@ -21,7 +21,7 @@ Graph entity ID: `dongguo-zi-asks` - 12 direct relationships.
 
 | from | relation |
 |---|---|
-| light-brightness-asks-nothingness | related_to |
-| taiqing-asks-wuqiong | related_to |
+| light-brightness-asks-nothingness | associated_with |
+| taiqing-asks-wuqiong | associated_with |
 | wu-he-you-zhi-xiang | related_to |
-| zhi-wen-wuwei | related_to |
+| zhi-wen-wuwei | associated_with |

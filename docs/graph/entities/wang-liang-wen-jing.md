@@ -8,8 +8,8 @@ Graph entity ID: `wang-liang-wen-jing` - 7 direct relationships.
 
 | to | relation |
 |---|---|
-| butterfly-dream | related_to |
-| huzi-jixian | related_to |
+| butterfly-dream | associated_with |
+| huzi-jixian | associated_with |
 | qiwulun-wu-sang-wo | references |
 | tian-ji | concerns |
 | zhuangzi | described_in |

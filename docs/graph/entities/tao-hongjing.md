@@ -10,13 +10,13 @@ Graph entity ID: `tao-hongjing` - 7 direct relationships.
 |---|---|
 | shangqing-revelations | associated_with |
 | yang-xi | associated_with |
-| zhiyi | related_to |
+| zhiyi | associated_with |
 
 ## Incoming (4)
 
 | from | relation |
 |---|---|
-| cheng-xuanying | related_to |
-| lu-xiujing | related_to |
+| cheng-xuanying | associated_with |
+| lu-xiujing | associated_with |
 | turtle-in-the-mud | related_to |
-| zhang-daoling | related_to |
+| zhang-daoling | associated_with |

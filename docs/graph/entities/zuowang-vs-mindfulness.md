@@ -14,4 +14,4 @@ Graph entity ID: `zuowang-vs-mindfulness` - 2 direct relationships.
 
 | from | relation |
 |---|---|
-| is-sitting-religious | related_to |
+| is-sitting-religious | discusses |

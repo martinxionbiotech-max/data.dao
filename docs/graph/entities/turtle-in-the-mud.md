@@ -8,7 +8,7 @@ Graph entity ID: `turtle-in-the-mud` - 9 direct relationships.
 
 | to | relation |
 |---|---|
-| phoenix-and-owl | related_to |
+| phoenix-and-owl | associated_with |
 | tao-hongjing | related_to |
 | zhuang-zhou | related_to |
 | zhuangzi | described_in |
@@ -17,8 +17,8 @@ Graph entity ID: `turtle-in-the-mud` - 9 direct relationships.
 
 | from | relation |
 |---|---|
-| cao-shang | related_to |
-| marsh-pheasant | related_to |
-| mountain-tree-goose | related_to |
-| phoenix-and-owl | related_to |
-| tushan-shuo | related_to |
+| cao-shang | associated_with |
+| marsh-pheasant | associated_with |
+| mountain-tree-goose | associated_with |
+| phoenix-and-owl | associated_with |
+| tushan-shuo | associated_with |

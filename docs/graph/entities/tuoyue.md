@@ -18,4 +18,4 @@ Graph entity ID: `tuoyue` - 6 direct relationships.
 |---|---|
 | daodejing-05 | related_to |
 | daodejing-06 | related_to |
-| xuan-pin | related_to |
+| xuan-pin | associated_with |

@@ -8,12 +8,12 @@ Graph entity ID: `tu-long-zhi-ji` - 8 direct relationships.
 
 | to | relation |
 |---|---|
-| chui-gou-zhe | related_to |
-| ren-gongzi-fishing | related_to |
-| useless-gourd | related_to |
+| chui-gou-zhe | associated_with |
+| ren-gongzi-fishing | associated_with |
+| useless-gourd | associated_with |
 | what-counts-as-progress | related_to |
 | wuwei | concerns |
-| zhili-shu | related_to |
+| zhili-shu | associated_with |
 | zhuangzi | described_in |
 
 ## Incoming (1)

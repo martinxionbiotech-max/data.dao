@@ -10,16 +10,16 @@ Graph entity ID: `zhang-boduan` - 10 direct relationships.
 |---|---|
 | daoshu-neiguan-zuowang | related_to |
 | jing-qi-shen | related_to |
-| lu-xiujing | related_to |
-| sima-chengzhen | related_to |
-| zhiyi | related_to |
+| lu-xiujing | associated_with |
+| sima-chengzhen | associated_with |
+| zhiyi | associated_with |
 
 ## Incoming (5)
 
 | from | relation |
 |---|---|
-| bai-yuchan | related_to |
-| chen-nan | related_to |
+| bai-yuchan | associated_with |
+| chen-nan | associated_with |
 | does-practice-need-faith | related_to |
-| wang-chongyang | related_to |
-| zhang-sanfeng | related_to |
+| wang-chongyang | associated_with |
+| zhang-sanfeng | associated_with |

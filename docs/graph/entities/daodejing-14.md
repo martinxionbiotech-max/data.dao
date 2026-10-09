@@ -11,12 +11,12 @@ Graph entity ID: `daodejing-14` - 7 direct relationships.
 | chen-tuan | related_to |
 | dao | concerns |
 | daodejing | translated_as |
-| daodejing-01 | related_to |
-| daodejing-25 | related_to |
+| daodejing-01 | associated_with |
+| daodejing-25 | associated_with |
 | ziran | concerns |
 
 ## Incoming (1)
 
 | from | relation |
 |---|---|
-| daodejing-45 | related_to |
+| daodejing-45 | associated_with |

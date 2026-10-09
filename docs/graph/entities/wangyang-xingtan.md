@@ -9,13 +9,13 @@ Graph entity ID: `wangyang-xingtan` - 6 direct relationships.
 | to | relation |
 |---|---|
 | guan | concerns |
-| jingdi-zhiwa | related_to |
-| peng-bird | related_to |
+| jingdi-zhiwa | associated_with |
+| peng-bird | associated_with |
 | zhuangzi | described_in |
 
 ## Incoming (2)
 
 | from | relation |
 |---|---|
-| kui-xian-chain | related_to |
-| snail-horn-war | related_to |
+| kui-xian-chain | associated_with |
+| snail-horn-war | associated_with |

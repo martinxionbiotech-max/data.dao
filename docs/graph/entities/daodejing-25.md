@@ -9,7 +9,7 @@ Graph entity ID: `daodejing-25` - 13 direct relationships.
 | to | relation |
 |---|---|
 | daodejing | translated_as |
-| daodejing-16 | related_to |
+| daodejing-16 | associated_with |
 | fan | concerns |
 | ziran | concerns |
 
@@ -17,12 +17,12 @@ Graph entity ID: `daodejing-25` - 13 direct relationships.
 
 | from | relation |
 |---|---|
-| daodejing-01 | related_to |
-| daodejing-05 | related_to |
-| daodejing-14 | related_to |
-| daodejing-32 | related_to |
-| daodejing-40 | related_to |
-| daodejing-42 | related_to |
+| daodejing-01 | associated_with |
+| daodejing-05 | associated_with |
+| daodejing-14 | associated_with |
+| daodejing-32 | associated_with |
+| daodejing-40 | associated_with |
+| daodejing-42 | associated_with |
 | heshang-gong | related_to |
 | heshang-gong-commentary | related_to |
 | jian-du | related_to |

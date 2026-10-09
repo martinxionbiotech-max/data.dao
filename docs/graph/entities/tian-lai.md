@@ -8,12 +8,12 @@ Graph entity ID: `tian-lai` - 11 direct relationships.
 
 | to | relation |
 |---|---|
-| da-kuai | related_to |
+| da-kuai | associated_with |
 | does-daoism-believe-in-a-creator | related_to |
 | kui-xian-chain | related_to |
 | qiwulun-wu-sang-wo | related_to |
-| tian-ji | related_to |
-| zhen-zai | related_to |
+| tian-ji | associated_with |
+| zhen-zai | associated_with |
 | zhuangzi | described_in |
 | ziran | concerns |
 
@@ -21,6 +21,6 @@ Graph entity ID: `tian-lai` - 11 direct relationships.
 
 | from | relation |
 |---|---|
-| bao-guang | related_to |
-| qiwu | related_to |
-| wu-sang-wo | related_to |
+| bao-guang | associated_with |
+| qiwu | associated_with |
+| wu-sang-wo | associated_with |

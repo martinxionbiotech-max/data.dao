@@ -39,9 +39,9 @@ Graph entity ID: `zuowang` - 61 direct relationships.
 | daoist-meditation-explained | discusses |
 | daoist-vs-buddhist-meditation | discusses |
 | daoshu-neiguan-zuowang | concerns |
-| do-i-need-a-teacher | related_to |
+| do-i-need-a-teacher | discusses |
 | does-diet-matter | related_to |
-| does-practice-need-faith | related_to |
+| does-practice-need-faith | discusses |
 | drowsiness-in-sitting | concerns |
 | falling-asleep-during-sitting | concerns |
 | forgetting-the-body-daoist-texts | concerns |

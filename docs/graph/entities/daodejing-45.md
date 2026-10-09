@@ -12,13 +12,13 @@ Graph entity ID: `daodejing-45` - 19 direct relationships.
 | bei-gong-she | related_to |
 | daodejing | translated_as |
 | daodejing | described_in |
-| daodejing-11 | related_to |
-| daodejing-14 | related_to |
-| daodejing-16 | related_to |
-| daodejing-22 | related_to |
-| daodejing-37 | related_to |
-| daodejing-40 | related_to |
-| daodejing-55 | related_to |
+| daodejing-11 | associated_with |
+| daodejing-14 | associated_with |
+| daodejing-16 | associated_with |
+| daodejing-22 | associated_with |
+| daodejing-37 | associated_with |
+| daodejing-40 | associated_with |
+| daodejing-55 | associated_with |
 | hui-shi-wu-che | related_to |
 | qingjing-jing | related_to |
 | wuwei | related_to |
@@ -30,5 +30,5 @@ Graph entity ID: `daodejing-45` - 19 direct relationships.
 
 | from | relation |
 |---|---|
-| daodejing-33 | related_to |
-| daodejing-42 | related_to |
+| daodejing-33 | associated_with |
+| daodejing-42 | associated_with |

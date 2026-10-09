@@ -9,7 +9,7 @@ Graph entity ID: `handan-walk` - 7 direct relationships.
 | to | relation |
 |---|---|
 | combine-zuowang-mindfulness | concerns |
-| fish-happiness | related_to |
+| fish-happiness | associated_with |
 | zhuangzi | described_in |
 | ziran | concerns |
 
@@ -17,6 +17,6 @@ Graph entity ID: `handan-walk` - 7 direct relationships.
 
 | from | relation |
 |---|---|
-| dongshi-frowning | related_to |
-| jingdi-zhiwa | related_to |
+| dongshi-frowning | associated_with |
+| jingdi-zhiwa | associated_with |
 | xiaoyao | related_to |

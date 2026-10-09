@@ -16,12 +16,12 @@ Graph entity ID: `fish-happiness` - 12 direct relationships.
 
 | from | relation |
 |---|---|
-| carpenter-shi | related_to |
+| carpenter-shi | associated_with |
 | daodejing-08 | related_to |
-| handan-walk | related_to |
-| hezhe-zhi-fu | related_to |
-| hui-shi-wu-che | related_to |
-| jingdi-zhiwa | related_to |
-| phoenix-and-owl | related_to |
-| three-in-the-morning | related_to |
-| yun-jin-cheng-feng | related_to |
+| handan-walk | associated_with |
+| hezhe-zhi-fu | associated_with |
+| hui-shi-wu-che | associated_with |
+| jingdi-zhiwa | associated_with |
+| phoenix-and-owl | associated_with |
+| three-in-the-morning | associated_with |
+| yun-jin-cheng-feng | associated_with |

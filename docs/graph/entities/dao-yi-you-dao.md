@@ -8,10 +8,10 @@ Graph entity ID: `dao-yi-you-dao` - 9 direct relationships.
 
 | to | relation |
 |---|---|
-| bole-horses | related_to |
-| cao-shang | related_to |
+| bole-horses | associated_with |
+| cao-shang | associated_with |
 | dao | concerns |
-| tushan-shuo | related_to |
+| tushan-shuo | associated_with |
 | wuwei | concerns |
 | zhuangzi | described_in |
 | ziran | concerns |

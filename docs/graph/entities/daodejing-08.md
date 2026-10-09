@@ -24,5 +24,5 @@ Graph entity ID: `daodejing-08` - 13 direct relationships.
 | from | relation |
 |---|---|
 | bao-guang | related_to |
-| daodejing-02 | related_to |
-| daodejing-07 | related_to |
+| daodejing-02 | associated_with |
+| daodejing-07 | associated_with |

@@ -12,9 +12,9 @@ Graph entity ID: `cheng-xuanying` - 9 direct relationships.
 | daodejing | related_to |
 | daodejing-01 | related_to |
 | daodejing-02 | related_to |
-| guo-xiang | related_to |
-| tao-hongjing | related_to |
-| wang-bi | related_to |
+| guo-xiang | associated_with |
+| tao-hongjing | associated_with |
+| wang-bi | associated_with |
 | xuan | related_to |
 | zhuangzi | related_to |
 

@@ -8,10 +8,10 @@ Graph entity ID: `does-daoism-believe-in-a-creator` - 12 direct relationships.
 
 | to | relation |
 |---|---|
-| da-kuai | related_to |
+| da-kuai | discusses |
 | hundun | related_to |
-| tian-ji | related_to |
-| zhen-zai | related_to |
+| tian-ji | discusses |
+| zhen-zai | discusses |
 | ziran | concerns |
 
 ## Incoming (7)
@@ -21,7 +21,7 @@ Graph entity ID: `does-daoism-believe-in-a-creator` - 12 direct relationships.
 | daodejing-06 | related_to |
 | daodejing-08 | related_to |
 | guo-xiang | related_to |
-| is-sitting-religious | related_to |
+| is-sitting-religious | associated_with |
 | tian-lai | related_to |
 | zhen-zai | related_to |
 | zhuangzi-skeleton | related_to |

@@ -1,6 +1,6 @@
 # Glossary
 
-term records from the glossary content collection — 56 records.
+term records from the glossary content collection — 55 records.
 
 | id | title | chinese | pinyin | literalMeaning | recommended |
 |---|---|---|---|---|---|
@@ -55,7 +55,6 @@ term records from the glossary content collection — 56 records.
 | yingning | Yingning (撄宁) | 撄宁 | yīngníng |  |  |
 | yuan-du-yi-wei-jing | Yuandu Yiwei Jing (缘督以为经) | 缘督以为经 | yuán dū yǐ wéi jīng |  |  |
 | zhao-che | Zhaoche (朝彻) | 朝彻 | zhāochè |  |  |
-| zhaoche | Zhaoche (朝彻) | 朝彻 | zhāochè |  |  |
 | zhen-zai | Zhenzai (真宰) | 真宰 | zhēnzǎi |  |  |
 | zhi-shui | Zhishui (止水) | 止水 | zhǐshuǐ |  |  |
 | zuochi | Zuochi | 坐驰 | zuòchí | sitting (坐) while galloping (驰) | 'sitting while galloping' (glossed: the body sits, the mind races) |

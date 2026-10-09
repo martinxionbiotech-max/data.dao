@@ -8,12 +8,12 @@ Graph entity ID: `chui-gou-zhe` - 10 direct relationships.
 
 | to | relation |
 |---|---|
-| artisan-qing | related_to |
-| cicada-catcher | related_to |
-| cook-ding | related_to |
+| artisan-qing | associated_with |
+| cicada-catcher | associated_with |
+| cook-ding | associated_with |
 | daodejing-11 | references |
-| shanbao-zhangyi | related_to |
-| wheelwright-bian | related_to |
+| shanbao-zhangyi | associated_with |
+| wheelwright-bian | associated_with |
 | wuwei | concerns |
 | xin | concerns |
 | zhuangzi | described_in |
@@ -22,4 +22,4 @@ Graph entity ID: `chui-gou-zhe` - 10 direct relationships.
 
 | from | relation |
 |---|---|
-| tu-long-zhi-ji | related_to |
+| tu-long-zhi-ji | associated_with |

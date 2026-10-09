@@ -8,13 +8,13 @@ Graph entity ID: `tan-chuduan` - 5 direct relationships.
 
 | to | relation |
 |---|---|
-| ma-yu | related_to |
-| qiu-chuji | related_to |
-| wang-chongyang | related_to |
-| wang-chuyi | related_to |
+| ma-yu | associated_with |
+| qiu-chuji | associated_with |
+| wang-chongyang | associated_with |
+| wang-chuyi | associated_with |
 
 ## Incoming (1)
 
 | from | relation |
 |---|---|
-| liu-chuxuan | related_to |
+| liu-chuxuan | associated_with |

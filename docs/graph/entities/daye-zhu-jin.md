@@ -9,10 +9,10 @@ Graph entity ID: `daye-zhu-jin` - 9 direct relationships.
 | to | relation |
 |---|---|
 | can-meditation-cure-illness | related_to |
-| four-friends | related_to |
-| qinshi-mourning | related_to |
+| four-friends | associated_with |
+| qinshi-mourning | associated_with |
 | xian-jie | concerns |
-| zhili-shu | related_to |
+| zhili-shu | associated_with |
 | zhuangzi | described_in |
 | ziran | concerns |
 

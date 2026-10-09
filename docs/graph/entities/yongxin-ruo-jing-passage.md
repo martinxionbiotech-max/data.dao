@@ -9,7 +9,7 @@ Graph entity ID: `yongxin-ruo-jing-passage` - 7 direct relationships.
 | to | relation |
 |---|---|
 | jing | concerns |
-| virtual-room-passage | related_to |
+| virtual-room-passage | associated_with |
 | zhi-shui | related_to |
 | zhuangzi | translated_as |
 

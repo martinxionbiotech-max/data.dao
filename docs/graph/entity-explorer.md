@@ -1,6 +1,6 @@
 # Graph Explorer
 
-349 entities participate in the knowledge graph. Each entity page shows direct outgoing and incoming relationships with relation types.
+348 entities participate in the knowledge graph. Each entity page shows direct outgoing and incoming relationships with relation types.
 
 | entity | edges | main site |
 |---|---|---|
@@ -168,7 +168,7 @@
 | [ji-ren](entities/ji-ren.md) | 4 | [/glossary/ji-ren/](https://daoismhub.com/glossary/ji-ren/) |
 | [ji-xin](entities/ji-xin.md) | 6 | [/glossary/ji-xin/](https://daoismhub.com/glossary/ji-xin/) |
 | [jiafuzuo](entities/jiafuzuo.md) | 4 | [/glossary/jiafuzuo/](https://daoismhub.com/glossary/jiafuzuo/) |
-| [jian-du](entities/jian-du.md) | 7 | [/glossary/jian-du/](https://daoismhub.com/glossary/jian-du/) |
+| [jian-du](entities/jian-du.md) | 6 | [/glossary/jian-du/](https://daoismhub.com/glossary/jian-du/) |
 | [jing](entities/jing.md) | 21 | [/concepts/jing/](https://daoismhub.com/concepts/jing/) |
 | [jing-qi-shen](entities/jing-qi-shen.md) | 10 | [/glossary/jing-qi-shen/](https://daoismhub.com/glossary/jing-qi-shen/) |
 | [jingdi-zhiwa](entities/jingdi-zhiwa.md) | 7 | [/stories/jingdi-zhiwa/](https://daoismhub.com/stories/jingdi-zhiwa/) |
@@ -329,8 +329,7 @@
 | [zhang-boduan](entities/zhang-boduan.md) | 10 | [/people/zhang-boduan/](https://daoismhub.com/people/zhang-boduan/) |
 | [zhang-daoling](entities/zhang-daoling.md) | 12 | [/people/zhang-daoling/](https://daoismhub.com/people/zhang-daoling/) |
 | [zhang-sanfeng](entities/zhang-sanfeng.md) | 4 | [/people/zhang-sanfeng/](https://daoismhub.com/people/zhang-sanfeng/) |
-| [zhao-che](entities/zhao-che.md) | 7 | [/glossary/zhao-che/](https://daoismhub.com/glossary/zhao-che/) |
-| [zhaoche](entities/zhaoche.md) | 5 | [/glossary/zhaoche/](https://daoismhub.com/glossary/zhaoche/) |
+| [zhao-che](entities/zhao-che.md) | 10 | [/glossary/zhao-che/](https://daoismhub.com/glossary/zhao-che/) |
 | [zhen-zai](entities/zhen-zai.md) | 13 | [/glossary/zhen-zai/](https://daoismhub.com/glossary/zhen-zai/) |
 | [zhi-shui](entities/zhi-shui.md) | 12 | [/glossary/zhi-shui/](https://daoismhub.com/glossary/zhi-shui/) |
 | [zhi-wen-wuwei](entities/zhi-wen-wuwei.md) | 15 | [/stories/zhi-wen-wuwei/](https://daoismhub.com/stories/zhi-wen-wuwei/) |
@@ -338,7 +337,7 @@
 | [zhili-shu](entities/zhili-shu.md) | 9 | [/stories/zhili-shu/](https://daoismhub.com/stories/zhili-shu/) |
 | [zhiyi](entities/zhiyi.md) | 4 | [/people/zhiyi/](https://daoismhub.com/people/zhiyi/) |
 | [zhuang-zhou](entities/zhuang-zhou.md) | 6 | [/people/zhuang-zhou/](https://daoismhub.com/people/zhuang-zhou/) |
-| [zhuangzi](entities/zhuangzi.md) | 123 | [/texts/zhuangzi/](https://daoismhub.com/texts/zhuangzi/) |
+| [zhuangzi](entities/zhuangzi.md) | 122 | [/texts/zhuangzi/](https://daoismhub.com/texts/zhuangzi/) |
 | [zhuangzi-compilation](entities/zhuangzi-compilation.md) | 3 | [/timeline/zhuangzi-compilation/](https://daoismhub.com/timeline/zhuangzi-compilation/) |
 | [zhuangzi-skeleton](entities/zhuangzi-skeleton.md) | 7 | [/stories/zhuangzi-skeleton/](https://daoismhub.com/stories/zhuangzi-skeleton/) |
 | [zhuzi-yulei-jingzuo](entities/zhuzi-yulei-jingzuo.md) | 3 | [/timeline/zhuzi-yulei-jingzuo/](https://daoismhub.com/timeline/zhuzi-yulei-jingzuo/) |

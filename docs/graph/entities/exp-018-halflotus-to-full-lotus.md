@@ -8,9 +8,9 @@ Graph entity ID: `exp-018-halflotus-to-full-lotus` - 14 direct relationships.
 
 | to | relation |
 |---|---|
-| exp-010-lotus-pain | related_to |
-| exp-013-buddhist-daoist-boundary | related_to |
-| exp-014-double-lotus-doctrine | related_to |
+| exp-010-lotus-pain | associated_with |
+| exp-013-buddhist-daoist-boundary | associated_with |
+| exp-014-double-lotus-doctrine | associated_with |
 | how-long-should-i-sit | concerns |
 | must-i-sit-cross-legged | concerns |
 
@@ -18,12 +18,12 @@ Graph entity ID: `exp-018-halflotus-to-full-lotus` - 14 direct relationships.
 
 | from | relation |
 |---|---|
-| can-i-sit-in-bed | related_to |
-| exp-019-one-remedy-body | related_to |
-| exp-021-prostrations-channel-circuit | related_to |
-| exp-022-its-all-theatre | related_to |
-| exp-024-standing-and-sitting | related_to |
-| exp-025-lying-down-innovation | related_to |
-| exp-030-the-pain-ledger | related_to |
-| exp-031-lotus-posture-chapter | related_to |
-| what-counts-as-progress | related_to |
+| can-i-sit-in-bed | references |
+| exp-019-one-remedy-body | associated_with |
+| exp-021-prostrations-channel-circuit | associated_with |
+| exp-022-its-all-theatre | associated_with |
+| exp-024-standing-and-sitting | associated_with |
+| exp-025-lying-down-innovation | associated_with |
+| exp-030-the-pain-ledger | associated_with |
+| exp-031-lotus-posture-chapter | associated_with |
+| what-counts-as-progress | references |

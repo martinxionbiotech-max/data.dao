@@ -10,9 +10,9 @@ Graph entity ID: `daodejing-01` - 16 direct relationships.
 |---|---|
 | dao | concerns |
 | daodejing | translated_as |
-| daodejing-25 | related_to |
+| daodejing-25 | associated_with |
 | guan | concerns |
-| qingjing-jing-opening | related_to |
+| qingjing-jing-opening | associated_with |
 | wu-you | concerns |
 | xu | concerns |
 
@@ -21,10 +21,10 @@ Graph entity ID: `daodejing-01` - 16 direct relationships.
 | from | relation |
 |---|---|
 | cheng-xuanying | related_to |
-| daodejing-06 | related_to |
-| daodejing-14 | related_to |
-| daodejing-32 | related_to |
-| daodejing-37 | related_to |
+| daodejing-06 | associated_with |
+| daodejing-14 | associated_with |
+| daodejing-32 | associated_with |
+| daodejing-37 | associated_with |
 | heshang-gong-commentary | related_to |
 | wang-bi | related_to |
 | wangbi-laozi-commentary | related_to |

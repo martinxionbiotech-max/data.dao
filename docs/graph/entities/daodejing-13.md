@@ -9,8 +9,8 @@ Graph entity ID: `daodejing-13` - 6 direct relationships.
 | to | relation |
 |---|---|
 | daodejing | described_in |
-| daodejing-02 | related_to |
-| daodejing-07 | related_to |
+| daodejing-02 | associated_with |
+| daodejing-07 | associated_with |
 | jing | related_to |
 | should-i-meditate-when-sick | related_to |
 | wu-sang-wo | related_to |

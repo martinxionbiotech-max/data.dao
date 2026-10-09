@@ -11,13 +11,13 @@ Graph entity ID: `bai-yuchan` - 8 direct relationships.
 | daodejing | related_to |
 | exp-021-prostrations-channel-circuit | related_to |
 | jing-qi-shen | related_to |
-| qiu-chuji | related_to |
-| wang-chongyang | related_to |
-| zhang-boduan | related_to |
+| qiu-chuji | associated_with |
+| wang-chongyang | associated_with |
+| zhang-boduan | associated_with |
 | zuowang | related_to |
 
 ## Incoming (1)
 
 | from | relation |
 |---|---|
-| chen-nan | related_to |
+| chen-nan | associated_with |

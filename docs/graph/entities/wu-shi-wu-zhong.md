@@ -10,9 +10,9 @@ Graph entity ID: `wu-shi-wu-zhong` - 11 direct relationships.
 |---|---|
 | dao | related_to |
 | four-friends | related_to |
-| hua | related_to |
+| hua | associated_with |
 | ran-qiu-asks-zhongni | related_to |
-| tian-ji | related_to |
+| tian-ji | associated_with |
 | xu | associated_with |
 | zhi-wen-wuwei | related_to |
 | zhuangzi | related_to |

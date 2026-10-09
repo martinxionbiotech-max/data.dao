@@ -16,9 +16,9 @@ Graph entity ID: `exp-013-buddhist-daoist-boundary` - 9 direct relationships.
 
 | from | relation |
 |---|---|
-| exp-017-why-he-began | related_to |
-| exp-018-halflotus-to-full-lotus | related_to |
-| exp-019-one-remedy-body | related_to |
-| exp-026-diet-gate | related_to |
+| exp-017-why-he-began | associated_with |
+| exp-018-halflotus-to-full-lotus | associated_with |
+| exp-019-one-remedy-body | associated_with |
+| exp-026-diet-gate | associated_with |
 | fu-yi | related_to |
 | li-ao | related_to |

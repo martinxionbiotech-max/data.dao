@@ -9,11 +9,11 @@ Graph entity ID: `exp-011-shougong-protocol` - 4 direct relationships.
 | to | relation |
 |---|---|
 | breath-stopping-anxiety | related_to |
-| exp-010-lotus-pain | related_to |
+| exp-010-lotus-pain | associated_with |
 | jiafuzuo | concerns |
 
 ## Incoming (1)
 
 | from | relation |
 |---|---|
-| exp-012-restless-body | related_to |
+| exp-012-restless-body | associated_with |

@@ -11,10 +11,10 @@ Graph entity ID: `daodejing-42` - 12 direct relationships.
 | dao | related_to |
 | daodejing | translated_as |
 | daodejing | described_in |
-| daodejing-22 | related_to |
-| daodejing-25 | related_to |
-| daodejing-40 | related_to |
-| daodejing-45 | related_to |
+| daodejing-22 | associated_with |
+| daodejing-25 | associated_with |
+| daodejing-40 | associated_with |
+| daodejing-45 | associated_with |
 | qi | related_to |
 | xu | related_to |
 | yin-yang | concerns |
@@ -24,4 +24,4 @@ Graph entity ID: `daodejing-42` - 12 direct relationships.
 
 | from | relation |
 |---|---|
-| daodejing-51 | related_to |
+| daodejing-51 | associated_with |

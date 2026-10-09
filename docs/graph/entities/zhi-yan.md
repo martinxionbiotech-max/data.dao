@@ -9,11 +9,11 @@ Graph entity ID: `zhi-yan` - 13 direct relationships.
 | to | relation |
 |---|---|
 | bao-guang | concerns |
-| butterfly-dream | related_to |
+| butterfly-dream | associated_with |
 | daodejing-02 | references |
 | qiwu | concerns |
-| ren-gongzi-fishing | related_to |
-| three-in-the-morning | related_to |
+| ren-gongzi-fishing | associated_with |
+| three-in-the-morning | associated_with |
 | tian-jun | concerns |
 | zhuangzi | described_in |
 | ziran | concerns |

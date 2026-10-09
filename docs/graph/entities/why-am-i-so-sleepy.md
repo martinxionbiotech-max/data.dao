@@ -8,13 +8,13 @@ Graph entity ID: `why-am-i-so-sleepy` - 8 direct relationships.
 
 | to | relation |
 |---|---|
-| can-i-sit-in-bed | related_to |
+| can-i-sit-in-bed | associated_with |
 | drowsiness-in-sitting | concerns |
-| drowsiness-vs-stillness | related_to |
-| exp-001-falling-asleep | related_to |
-| exp-028-abdominal-breathing | related_to |
-| how-long-should-i-sit | related_to |
-| what-is-stillness | related_to |
+| drowsiness-vs-stillness | discusses |
+| exp-001-falling-asleep | references |
+| exp-028-abdominal-breathing | references |
+| how-long-should-i-sit | associated_with |
+| what-is-stillness | associated_with |
 
 ## Incoming (1)
 

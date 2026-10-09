@@ -14,10 +14,10 @@ Graph entity ID: `daodejing-10-shouyi` - 7 direct relationships.
 
 | from | relation |
 |---|---|
-| daodejing-02 | related_to |
-| daodejing-22 | related_to |
-| daodejing-37 | related_to |
-| daodejing-51 | related_to |
-| daodejing-55 | related_to |
-| is-one-style-enough | related_to |
+| daodejing-02 | associated_with |
+| daodejing-22 | associated_with |
+| daodejing-37 | associated_with |
+| daodejing-51 | associated_with |
+| daodejing-55 | associated_with |
+| is-one-style-enough | references |
 | shouyi | translated_as |

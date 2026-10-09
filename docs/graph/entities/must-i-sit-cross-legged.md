@@ -8,17 +8,17 @@ Graph entity ID: `must-i-sit-cross-legged` - 14 direct relationships.
 
 | to | relation |
 |---|---|
-| exp-010-lotus-pain | related_to |
+| exp-010-lotus-pain | references |
 | jingzuo | concerns |
-| leg-numbness-pain | related_to |
+| leg-numbness-pain | discusses |
 | sitting-protocol | related_to |
 
 ## Incoming (10)
 
 | from | relation |
 |---|---|
-| can-i-sit-in-bed | related_to |
-| does-diet-matter | related_to |
+| can-i-sit-in-bed | associated_with |
+| does-diet-matter | associated_with |
 | exp-010-lotus-pain | concerns |
 | exp-013-buddhist-daoist-boundary | concerns |
 | exp-014-double-lotus-doctrine | concerns |
@@ -26,4 +26,4 @@ Graph entity ID: `must-i-sit-cross-legged` - 14 direct relationships.
 | exp-024-standing-and-sitting | concerns |
 | exp-030-the-pain-ledger | concerns |
 | exp-031-lotus-posture-chapter | concerns |
-| how-do-i-know-my-posture-is-right | related_to |
+| how-do-i-know-my-posture-is-right | associated_with |

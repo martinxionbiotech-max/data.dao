@@ -8,10 +8,10 @@ Graph entity ID: `hezhe-zhi-fu` - 7 direct relationships.
 
 | to | relation |
 |---|---|
-| fish-happiness | related_to |
-| fish-in-the-dry-spring | related_to |
-| luhou-yang-niao | related_to |
-| xuzhou-empty-boat | related_to |
+| fish-happiness | associated_with |
+| fish-in-the-dry-spring | associated_with |
+| luhou-yang-niao | associated_with |
+| xuzhou-empty-boat | associated_with |
 | zhuangzi | described_in |
 | ziran | concerns |
 
@@ -19,4 +19,4 @@ Graph entity ID: `hezhe-zhi-fu` - 7 direct relationships.
 
 | from | relation |
 |---|---|
-| cao-shang | related_to |
+| cao-shang | associated_with |

@@ -9,12 +9,12 @@ Graph entity ID: `shinan-yiliao` - 12 direct relationships.
 | to | relation |
 |---|---|
 | daodejing-02 | references |
-| marsh-pheasant | related_to |
-| mountain-tree-goose | related_to |
-| phoenix-and-owl | related_to |
+| marsh-pheasant | associated_with |
+| mountain-tree-goose | associated_with |
+| phoenix-and-owl | associated_with |
 | qiwu | concerns |
 | wuwei | concerns |
-| xuzhou-empty-boat | related_to |
+| xuzhou-empty-boat | associated_with |
 | zhuangzi | described_in |
 | ziran | concerns |
 
@@ -22,6 +22,6 @@ Graph entity ID: `shinan-yiliao` - 12 direct relationships.
 
 | from | relation |
 |---|---|
-| diao-ling-yi-que | related_to |
-| lin-hui-qi-bi | related_to |
-| yi-dai-niao | related_to |
+| diao-ling-yi-que | associated_with |
+| lin-hui-qi-bi | associated_with |
+| yi-dai-niao | associated_with |

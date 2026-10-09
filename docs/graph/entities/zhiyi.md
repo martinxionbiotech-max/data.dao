@@ -14,6 +14,6 @@ Graph entity ID: `zhiyi` - 4 direct relationships.
 
 | from | relation |
 |---|---|
-| li-ao | related_to |
-| tao-hongjing | related_to |
-| zhang-boduan | related_to |
+| li-ao | associated_with |
+| tao-hongjing | associated_with |
+| zhang-boduan | associated_with |

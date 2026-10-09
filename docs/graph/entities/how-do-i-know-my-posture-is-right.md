@@ -8,10 +8,10 @@ Graph entity ID: `how-do-i-know-my-posture-is-right` - 6 direct relationships.
 
 | to | relation |
 |---|---|
-| can-i-sit-in-bed | related_to |
+| can-i-sit-in-bed | associated_with |
 | jingzuo | related_to |
-| must-i-sit-cross-legged | related_to |
-| should-i-use-timers | related_to |
+| must-i-sit-cross-legged | associated_with |
+| should-i-use-timers | associated_with |
 | sitting-protocol | related_to |
 | tiaoxi | related_to |
 

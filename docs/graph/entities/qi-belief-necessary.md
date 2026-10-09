@@ -14,8 +14,8 @@ Graph entity ID: `qi-belief-necessary` - 5 direct relationships.
 
 | from | relation |
 |---|---|
-| does-practice-need-faith | related_to |
-| i-feel-nothing-when-i-sit | related_to |
-| is-sitting-religious | related_to |
+| does-practice-need-faith | associated_with |
+| i-feel-nothing-when-i-sit | associated_with |
+| is-sitting-religious | associated_with |
 | qi | concerns |
-| what-counts-as-progress | related_to |
+| what-counts-as-progress | associated_with |

@@ -9,9 +9,9 @@ Graph entity ID: `daodejing-32` - 10 direct relationships.
 | to | relation |
 |---|---|
 | daodejing | described_in |
-| daodejing-01 | related_to |
-| daodejing-25 | related_to |
-| daodejing-37 | related_to |
+| daodejing-01 | associated_with |
+| daodejing-25 | associated_with |
+| daodejing-37 | associated_with |
 | pu | concerns |
 | wuwei | related_to |
 | zhi-shui | related_to |
@@ -22,4 +22,4 @@ Graph entity ID: `daodejing-32` - 10 direct relationships.
 | from | relation |
 |---|---|
 | bei-gong-she | references |
-| daodejing-46 | related_to |
+| daodejing-46 | associated_with |

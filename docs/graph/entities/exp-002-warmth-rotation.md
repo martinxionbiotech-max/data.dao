@@ -14,5 +14,5 @@ Graph entity ID: `exp-002-warmth-rotation` - 3 direct relationships.
 
 | from | relation |
 |---|---|
-| exp-015-heat-sweat-qi | related_to |
+| exp-015-heat-sweat-qi | associated_with |
 | warmth-and-qi-sensations | derived_from |

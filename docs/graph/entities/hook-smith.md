@@ -8,11 +8,11 @@ Graph entity ID: `hook-smith` - 9 direct relationships.
 
 | to | relation |
 |---|---|
-| artisan-qing | related_to |
-| cicada-catcher | related_to |
-| cook-ding | related_to |
+| artisan-qing | associated_with |
+| cicada-catcher | associated_with |
+| cook-ding | associated_with |
 | ji-xin | concerns |
-| wheelwright-bian | related_to |
+| wheelwright-bian | associated_with |
 | wuwei | concerns |
 | xu | concerns |
 | zhuangzi | references |

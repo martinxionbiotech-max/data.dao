@@ -14,4 +14,4 @@ Graph entity ID: `confucius-meets-laozi` - 2 direct relationships.
 
 | from | relation |
 |---|---|
-| qinshi-mourning | related_to |
+| qinshi-mourning | associated_with |

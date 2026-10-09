@@ -8,15 +8,15 @@ Graph entity ID: `zhuangzi-skeleton` - 7 direct relationships.
 
 | to | relation |
 |---|---|
-| butterfly-dream | related_to |
+| butterfly-dream | associated_with |
 | can-meditation-cure-illness | related_to |
 | does-daoism-believe-in-a-creator | related_to |
-| drumming-basin | related_to |
-| sanghu-friends | related_to |
+| drumming-basin | associated_with |
+| sanghu-friends | associated_with |
 | zhuangzi | described_in |
 
 ## Incoming (1)
 
 | from | relation |
 |---|---|
-| huan-gong-jian-gui | related_to |
+| huan-gong-jian-gui | associated_with |

@@ -10,10 +10,10 @@ Graph entity ID: `daodejing-40` - 13 direct relationships.
 |---|---|
 | bao-guang | related_to |
 | daodejing | described_in |
-| daodejing-02 | related_to |
-| daodejing-11 | related_to |
-| daodejing-25 | related_to |
-| daodejing-36 | related_to |
+| daodejing-02 | associated_with |
+| daodejing-11 | associated_with |
+| daodejing-25 | associated_with |
+| daodejing-36 | associated_with |
 | fan | concerns |
 | wu-you | concerns |
 | wuwei | concerns |
@@ -22,7 +22,7 @@ Graph entity ID: `daodejing-40` - 13 direct relationships.
 
 | from | relation |
 |---|---|
-| daodejing-42 | related_to |
-| daodejing-45 | related_to |
-| daodejing-55 | related_to |
+| daodejing-42 | associated_with |
+| daodejing-45 | associated_with |
+| daodejing-55 | associated_with |
 | hua | related_to |

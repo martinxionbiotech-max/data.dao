@@ -10,9 +10,9 @@ Graph entity ID: `bao-guang` - 13 direct relationships.
 |---|---|
 | daodejing-08 | related_to |
 | seeing-light-in-sitting | related_to |
-| tian-lai | related_to |
-| xushi-sheng-bai | related_to |
-| zhi-shui | related_to |
+| tian-lai | associated_with |
+| xushi-sheng-bai | associated_with |
+| zhi-shui | associated_with |
 | zhuangzi | described_in |
 | ziran | concerns |
 
@@ -24,5 +24,5 @@ Graph entity ID: `bao-guang` - 13 direct relationships.
 | daodejing-11 | related_to |
 | daodejing-36 | related_to |
 | daodejing-40 | related_to |
-| qiwu | related_to |
+| qiwu | associated_with |
 | zhi-yan | concerns |

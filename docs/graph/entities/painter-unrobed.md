@@ -8,7 +8,7 @@ Graph entity ID: `painter-unrobed` - 4 direct relationships.
 
 | to | relation |
 |---|---|
-| artisan-qing | related_to |
+| artisan-qing | associated_with |
 | jing | concerns |
 | zhuangzi | described_in |
 | ziran | concerns |

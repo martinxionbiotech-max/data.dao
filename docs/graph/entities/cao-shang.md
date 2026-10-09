@@ -8,19 +8,19 @@ Graph entity ID: `cao-shang` - 11 direct relationships.
 
 | to | relation |
 |---|---|
-| hezhe-zhi-fu | related_to |
-| luhou-yang-niao | related_to |
-| marsh-pheasant | related_to |
-| phoenix-and-owl | related_to |
-| turtle-in-the-mud | related_to |
-| xuzhou-empty-boat | related_to |
+| hezhe-zhi-fu | associated_with |
+| luhou-yang-niao | associated_with |
+| marsh-pheasant | associated_with |
+| phoenix-and-owl | associated_with |
+| turtle-in-the-mud | associated_with |
+| xuzhou-empty-boat | associated_with |
 | zhuangzi | described_in |
 
 ## Incoming (4)
 
 | from | relation |
 |---|---|
-| bole-horses | related_to |
-| dao-yi-you-dao | related_to |
-| ren-gongzi-fishing | related_to |
-| tushan-shuo | related_to |
+| bole-horses | associated_with |
+| dao-yi-you-dao | associated_with |
+| ren-gongzi-fishing | associated_with |
+| tushan-shuo | associated_with |

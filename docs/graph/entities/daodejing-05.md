@@ -9,7 +9,7 @@ Graph entity ID: `daodejing-05` - 7 direct relationships.
 | to | relation |
 |---|---|
 | daodejing | translated_as |
-| daodejing-25 | related_to |
+| daodejing-25 | associated_with |
 | tuoyue | related_to |
 | xu | concerns |
 
@@ -17,6 +17,6 @@ Graph entity ID: `daodejing-05` - 7 direct relationships.
 
 | from | relation |
 |---|---|
-| daodejing-11 | related_to |
+| daodejing-11 | associated_with |
 | heshang-gong | related_to |
 | heshang-gong-commentary | related_to |

@@ -14,5 +14,5 @@ Graph entity ID: `exp-004-emotional-surfacing` - 3 direct relationships.
 
 | from | relation |
 |---|---|
-| exp-024-standing-and-sitting | related_to |
-| what-counts-as-progress | related_to |
+| exp-024-standing-and-sitting | associated_with |
+| what-counts-as-progress | references |

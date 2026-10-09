@@ -9,16 +9,16 @@ Graph entity ID: `light-brightness-asks-nothingness` - 9 direct relationships.
 | to | relation |
 |---|---|
 | dao | concerns |
-| dongguo-zi-asks | related_to |
+| dongguo-zi-asks | associated_with |
 | wu-sang-wo | concerns |
 | wu-you | concerns |
 | wuwei | concerns |
 | xu | concerns |
-| zhi-wen-wuwei | related_to |
+| zhi-wen-wuwei | associated_with |
 | zhuangzi | references |
 
 ## Incoming (1)
 
 | from | relation |
 |---|---|
-| taiqing-asks-wuqiong | related_to |
+| taiqing-asks-wuqiong | associated_with |

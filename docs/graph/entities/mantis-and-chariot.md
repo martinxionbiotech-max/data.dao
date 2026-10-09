@@ -8,7 +8,7 @@ Graph entity ID: `mantis-and-chariot` - 3 direct relationships.
 
 | to | relation |
 |---|---|
-| hundun | related_to |
+| hundun | associated_with |
 | wuwei | concerns |
 | zhuangzi | described_in |
 

@@ -12,15 +12,15 @@ Graph entity ID: `xushi-sheng-bai` - 11 direct relationships.
 | xinzhai | concerns |
 | xu | concerns |
 | zhuangzi | described_in |
-| zuochi | related_to |
+| zuochi | associated_with |
 | zuowang | related_to |
 
 ## Incoming (5)
 
 | from | relation |
 |---|---|
-| bao-guang | related_to |
+| bao-guang | associated_with |
 | bao-weng-guan-qi | concerns |
 | huan-gong-jian-gui | concerns |
-| ji-xin | related_to |
-| wu-sang-wo | related_to |
+| ji-xin | associated_with |
+| wu-sang-wo | associated_with |

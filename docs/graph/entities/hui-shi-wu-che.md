@@ -9,12 +9,12 @@ Graph entity ID: `hui-shi-wu-che` - 9 direct relationships.
 | to | relation |
 |---|---|
 | daodejing-02 | references |
-| fish-happiness | related_to |
-| phoenix-and-owl | related_to |
+| fish-happiness | associated_with |
+| phoenix-and-owl | associated_with |
 | qiwu | concerns |
-| three-in-the-morning | related_to |
-| useless-gourd | related_to |
-| yun-jin-cheng-feng | related_to |
+| three-in-the-morning | associated_with |
+| useless-gourd | associated_with |
+| yun-jin-cheng-feng | associated_with |
 | zhuangzi | described_in |
 
 ## Incoming (1)

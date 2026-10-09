@@ -9,8 +9,8 @@ Graph entity ID: `zhili-shu` - 9 direct relationships.
 | to | relation |
 |---|---|
 | liang-wang | concerns |
-| mountain-tree-goose | related_to |
-| useless-gourd | related_to |
+| mountain-tree-goose | associated_with |
+| useless-gourd | associated_with |
 | zhuangzi | described_in |
 | zuowang | concerns |
 
@@ -18,7 +18,7 @@ Graph entity ID: `zhili-shu` - 9 direct relationships.
 
 | from | relation |
 |---|---|
-| daye-zhu-jin | related_to |
-| shanbao-zhangyi | related_to |
-| tu-long-zhi-ji | related_to |
+| daye-zhu-jin | associated_with |
+| shanbao-zhangyi | associated_with |
+| tu-long-zhi-ji | associated_with |
 | xiaoyao | related_to |

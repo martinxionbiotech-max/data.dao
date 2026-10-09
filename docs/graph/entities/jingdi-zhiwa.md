@@ -8,8 +8,8 @@ Graph entity ID: `jingdi-zhiwa` - 7 direct relationships.
 
 | to | relation |
 |---|---|
-| fish-happiness | related_to |
-| handan-walk | related_to |
+| fish-happiness | associated_with |
+| handan-walk | associated_with |
 | zhuangzi | described_in |
 | ziran | concerns |
 
@@ -17,6 +17,6 @@ Graph entity ID: `jingdi-zhiwa` - 7 direct relationships.
 
 | from | relation |
 |---|---|
-| ren-gongzi-fishing | related_to |
-| snail-horn-war | related_to |
-| wangyang-xingtan | related_to |
+| ren-gongzi-fishing | associated_with |
+| snail-horn-war | associated_with |
+| wangyang-xingtan | associated_with |

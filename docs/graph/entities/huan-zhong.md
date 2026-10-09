@@ -9,20 +9,20 @@ Graph entity ID: `huan-zhong` - 13 direct relationships.
 | to | relation |
 |---|---|
 | huzi-jixian | related_to |
-| qiwu | related_to |
+| qiwu | associated_with |
 | qiwulun-wu-sang-wo | related_to |
 | three-in-the-morning | related_to |
-| tian-jun | related_to |
+| tian-jun | associated_with |
 | xuzhou-empty-boat | related_to |
 | yongxin-ruo-jing-passage | related_to |
-| zhen-zai | related_to |
-| zhi-shui | related_to |
+| zhen-zai | associated_with |
+| zhi-shui | associated_with |
 | zhuangzi | described_in |
 
 ## Incoming (3)
 
 | from | relation |
 |---|---|
-| dao-shu | related_to |
-| liang-xing | related_to |
-| mo-ruo-yi-ming | related_to |
+| dao-shu | associated_with |
+| liang-xing | associated_with |
+| mo-ruo-yi-ming | associated_with |

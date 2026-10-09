@@ -9,12 +9,12 @@ Graph entity ID: `ran-qiu-asks-zhongni` - 10 direct relationships.
 | to | relation |
 |---|---|
 | dao | concerns |
-| drumming-basin | related_to |
-| four-friends | related_to |
+| drumming-basin | associated_with |
+| four-friends | associated_with |
 | hua | concerns |
 | wu-shi-wu-zhong | concerns |
 | wuwei | concerns |
-| zhi-wen-wuwei | related_to |
+| zhi-wen-wuwei | associated_with |
 | zhuangzi | references |
 | ziran | concerns |
 

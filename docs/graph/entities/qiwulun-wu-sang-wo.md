@@ -16,10 +16,10 @@ Graph entity ID: `qiwulun-wu-sang-wo` - 12 direct relationships.
 | from | relation |
 |---|---|
 | da-kuai | related_to |
-| daodejing-02 | related_to |
-| drumming-basin-passage | related_to |
+| daodejing-02 | associated_with |
+| drumming-basin-passage | associated_with |
 | huan-zhong | related_to |
-| is-sitting-religious | related_to |
+| is-sitting-religious | references |
 | qiwu | related_to |
 | tian-jun | related_to |
 | tian-lai | related_to |

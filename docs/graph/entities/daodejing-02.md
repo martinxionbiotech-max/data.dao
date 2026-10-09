@@ -9,10 +9,10 @@ Graph entity ID: `daodejing-02` - 22 direct relationships.
 | to | relation |
 |---|---|
 | daodejing | described_in |
-| daodejing-08 | related_to |
-| daodejing-10-shouyi | related_to |
-| daodejing-22 | related_to |
-| qiwulun-wu-sang-wo | related_to |
+| daodejing-08 | associated_with |
+| daodejing-10-shouyi | associated_with |
+| daodejing-22 | associated_with |
+| qiwulun-wu-sang-wo | associated_with |
 | wheelwright-bian | related_to |
 | wu-you | concerns |
 | wuwei | concerns |
@@ -23,13 +23,13 @@ Graph entity ID: `daodejing-02` - 22 direct relationships.
 | from | relation |
 |---|---|
 | cheng-xuanying | related_to |
-| daodejing-07 | related_to |
-| daodejing-11 | related_to |
-| daodejing-12 | related_to |
-| daodejing-13 | related_to |
-| daodejing-36 | related_to |
-| daodejing-40 | related_to |
-| daodejing-51 | related_to |
+| daodejing-07 | associated_with |
+| daodejing-11 | associated_with |
+| daodejing-12 | associated_with |
+| daodejing-13 | associated_with |
+| daodejing-36 | associated_with |
+| daodejing-40 | associated_with |
+| daodejing-51 | associated_with |
 | hui-shi-wu-che | references |
 | qiu-hao | references |
 | shinan-yiliao | references |

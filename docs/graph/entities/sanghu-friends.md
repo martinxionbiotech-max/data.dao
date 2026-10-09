@@ -8,10 +8,10 @@ Graph entity ID: `sanghu-friends` - 9 direct relationships.
 
 | to | relation |
 |---|---|
-| fish-in-the-dry-spring | related_to |
-| four-friends | related_to |
+| fish-in-the-dry-spring | associated_with |
+| four-friends | associated_with |
 | liang-wang | concerns |
-| qinshi-mourning | related_to |
+| qinshi-mourning | associated_with |
 | zhuangzi | described_in |
 | zuowang-passage | references |
 
@@ -20,5 +20,5 @@ Graph entity ID: `sanghu-friends` - 9 direct relationships.
 | from | relation |
 |---|---|
 | ji-ren | related_to |
-| lin-hui-qi-bi | related_to |
-| zhuangzi-skeleton | related_to |
+| lin-hui-qi-bi | associated_with |
+| zhuangzi-skeleton | associated_with |

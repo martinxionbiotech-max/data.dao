@@ -9,9 +9,9 @@ Graph entity ID: `exp-023-breath-is-the-key` - 14 direct relationships.
 | to | relation |
 |---|---|
 | drowsiness-vs-stillness | related_to |
-| exp-012-restless-body | related_to |
-| exp-019-one-remedy-body | related_to |
-| exp-021-prostrations-channel-circuit | related_to |
+| exp-012-restless-body | associated_with |
+| exp-019-one-remedy-body | associated_with |
+| exp-021-prostrations-channel-circuit | associated_with |
 | seeing-light-in-sitting | related_to |
 | tiaoxi | concerns |
 | warmth-tingling-when-sitting | concerns |
@@ -20,10 +20,10 @@ Graph entity ID: `exp-023-breath-is-the-key` - 14 direct relationships.
 
 | from | relation |
 |---|---|
-| exp-024-standing-and-sitting | related_to |
-| exp-025-lying-down-innovation | related_to |
-| exp-028-abdominal-breathing | related_to |
-| exp-029-the-human-body | related_to |
-| exp-032-from-zero-to-desire-realm | related_to |
-| is-one-style-enough | related_to |
-| what-counts-as-progress | related_to |
+| exp-024-standing-and-sitting | associated_with |
+| exp-025-lying-down-innovation | associated_with |
+| exp-028-abdominal-breathing | associated_with |
+| exp-029-the-human-body | associated_with |
+| exp-032-from-zero-to-desire-realm | associated_with |
+| is-one-style-enough | references |
+| what-counts-as-progress | references |

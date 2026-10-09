@@ -9,12 +9,12 @@ Graph entity ID: `huan-gong-jian-gui` - 7 direct relationships.
 | to | relation |
 |---|---|
 | exp-020-false-first-dhyana | related_to |
-| huzi-jixian | related_to |
-| qinshi-mourning | related_to |
+| huzi-jixian | associated_with |
+| qinshi-mourning | associated_with |
 | seeing-light-in-sitting | related_to |
 | xushi-sheng-bai | concerns |
 | zhuangzi | described_in |
-| zhuangzi-skeleton | related_to |
+| zhuangzi-skeleton | associated_with |
 
 ## Incoming (0)
 

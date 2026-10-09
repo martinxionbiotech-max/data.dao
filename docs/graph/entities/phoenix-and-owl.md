@@ -8,19 +8,19 @@ Graph entity ID: `phoenix-and-owl` - 11 direct relationships.
 
 | to | relation |
 |---|---|
-| carpenter-shi | related_to |
-| fish-happiness | related_to |
-| turtle-in-the-mud | related_to |
+| carpenter-shi | associated_with |
+| fish-happiness | associated_with |
+| turtle-in-the-mud | associated_with |
 | zhuangzi | described_in |
 
 ## Incoming (7)
 
 | from | relation |
 |---|---|
-| cao-shang | related_to |
-| hui-shi-wu-che | related_to |
-| luhou-yang-niao | related_to |
-| marsh-pheasant | related_to |
-| shinan-yiliao | related_to |
-| turtle-in-the-mud | related_to |
-| tushan-shuo | related_to |
+| cao-shang | associated_with |
+| hui-shi-wu-che | associated_with |
+| luhou-yang-niao | associated_with |
+| marsh-pheasant | associated_with |
+| shinan-yiliao | associated_with |
+| turtle-in-the-mud | associated_with |
+| tushan-shuo | associated_with |

@@ -15,4 +15,4 @@ Graph entity ID: `exp-001-falling-asleep` - 3 direct relationships.
 | from | relation |
 |---|---|
 | drowsiness-vs-stillness | derived_from |
-| why-am-i-so-sleepy | related_to |
+| why-am-i-so-sleepy | references |

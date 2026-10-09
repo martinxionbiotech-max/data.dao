@@ -17,8 +17,8 @@ Graph entity ID: `daodejing-48` - 9 direct relationships.
 
 | from | relation |
 |---|---|
-| daodejing-37 | related_to |
-| daodejing-64 | related_to |
+| daodejing-37 | associated_with |
+| daodejing-64 | associated_with |
 | wuwei | translated_as |
 | zhao-che | related_to |
 | zhi-wen-wuwei | references |

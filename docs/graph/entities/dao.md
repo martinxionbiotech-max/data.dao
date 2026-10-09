@@ -27,7 +27,7 @@ Graph entity ID: `dao` - 25 direct relationships.
 | daodejing-14 | concerns |
 | daodejing-42 | related_to |
 | daodejing-51 | related_to |
-| does-practice-need-faith | related_to |
+| does-practice-need-faith | discusses |
 | dongguo-zi-asks | concerns |
 | jian-du | concerns |
 | light-brightness-asks-nothingness | concerns |

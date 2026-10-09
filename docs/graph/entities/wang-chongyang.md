@@ -8,23 +8,23 @@ Graph entity ID: `wang-chongyang` - 15 direct relationships.
 
 | to | relation |
 |---|---|
-| chen-tuan | related_to |
+| chen-tuan | associated_with |
 | daoshu-neiguan-zuowang | related_to |
 | jing-qi-shen | related_to |
-| kou-qianzhi | related_to |
-| lu-xiujing | related_to |
-| zhang-boduan | related_to |
-| zhang-daoling | related_to |
+| kou-qianzhi | associated_with |
+| lu-xiujing | associated_with |
+| zhang-boduan | associated_with |
+| zhang-daoling | associated_with |
 
 ## Incoming (8)
 
 | from | relation |
 |---|---|
-| bai-yuchan | related_to |
-| hao-datong | related_to |
-| liu-chuxuan | related_to |
-| ma-yu | related_to |
-| qiu-chuji | related_to |
-| sun-buer | related_to |
-| tan-chuduan | related_to |
-| wang-chuyi | related_to |
+| bai-yuchan | associated_with |
+| hao-datong | associated_with |
+| liu-chuxuan | associated_with |
+| ma-yu | associated_with |
+| qiu-chuji | associated_with |
+| sun-buer | associated_with |
+| tan-chuduan | associated_with |
+| wang-chuyi | associated_with |

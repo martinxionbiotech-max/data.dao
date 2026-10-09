@@ -8,7 +8,7 @@ Graph entity ID: `dongshi-frowning` - 3 direct relationships.
 
 | to | relation |
 |---|---|
-| handan-walk | related_to |
+| handan-walk | associated_with |
 | zhuangzi | described_in |
 | ziran | concerns |
 

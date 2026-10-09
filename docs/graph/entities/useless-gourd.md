@@ -8,7 +8,7 @@ Graph entity ID: `useless-gourd` - 12 direct relationships.
 
 | to | relation |
 |---|---|
-| peng-bird | related_to |
+| peng-bird | associated_with |
 | wuwei | concerns |
 | zhuangzi | described_in |
 
@@ -17,11 +17,11 @@ Graph entity ID: `useless-gourd` - 12 direct relationships.
 | from | relation |
 |---|---|
 | daodejing-11 | related_to |
-| hui-shi-wu-che | related_to |
-| mountain-tree-goose | related_to |
-| ren-gongzi-fishing | related_to |
-| tu-long-zhi-ji | related_to |
+| hui-shi-wu-che | associated_with |
+| mountain-tree-goose | associated_with |
+| ren-gongzi-fishing | associated_with |
+| tu-long-zhi-ji | associated_with |
 | wu-he-you-zhi-xiang | related_to |
 | xiaoyao | related_to |
-| yun-jin-cheng-feng | related_to |
-| zhili-shu | related_to |
+| yun-jin-cheng-feng | associated_with |
+| zhili-shu | associated_with |

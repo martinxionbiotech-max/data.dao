@@ -8,12 +8,12 @@ Graph entity ID: `mo-ruo-yi-ming` - 8 direct relationships.
 
 | to | relation |
 |---|---|
-| dao-shu | related_to |
-| huan-zhong | related_to |
-| liang-xing | related_to |
-| qiwu | related_to |
+| dao-shu | associated_with |
+| huan-zhong | associated_with |
+| liang-xing | associated_with |
+| qiwu | associated_with |
 | three-in-the-morning | related_to |
-| tian-jun | related_to |
+| tian-jun | associated_with |
 | zhi-yan | related_to |
 | zhuangzi | described_in |
 

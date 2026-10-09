@@ -8,12 +8,12 @@ Graph entity ID: `lin-hui-qi-bi` - 9 direct relationships.
 
 | to | relation |
 |---|---|
-| four-friends | related_to |
+| four-friends | associated_with |
 | liang-wang | concerns |
-| sanghu-friends | related_to |
-| shinan-yiliao | related_to |
-| xuzhou-empty-boat | related_to |
-| yi-dai-niao | related_to |
+| sanghu-friends | associated_with |
+| shinan-yiliao | associated_with |
+| xuzhou-empty-boat | associated_with |
+| yi-dai-niao | associated_with |
 | zhuangzi | described_in |
 
 ## Incoming (2)
@@ -21,4 +21,4 @@ Graph entity ID: `lin-hui-qi-bi` - 9 direct relationships.
 | from | relation |
 |---|---|
 | ma-yu | related_to |
-| yanshi-wind-song | related_to |
+| yanshi-wind-song | associated_with |

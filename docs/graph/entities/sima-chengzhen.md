@@ -15,5 +15,5 @@ Graph entity ID: `sima-chengzhen` - 4 direct relationships.
 
 | from | relation |
 |---|---|
-| qiu-chuji | related_to |
-| zhang-boduan | related_to |
+| qiu-chuji | associated_with |
+| zhang-boduan | associated_with |

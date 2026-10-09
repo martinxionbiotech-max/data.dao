@@ -15,7 +15,7 @@ Graph entity ID: `exp-008-breath-stopping` - 6 direct relationships.
 | from | relation |
 |---|---|
 | breath-stopping-anxiety | concerns |
-| exp-022-its-all-theatre | related_to |
-| exp-028-abdominal-breathing | related_to |
-| exp-029-the-human-body | related_to |
+| exp-022-its-all-theatre | associated_with |
+| exp-028-abdominal-breathing | associated_with |
+| exp-029-the-human-body | associated_with |
 | taixi | concerns |

@@ -15,6 +15,6 @@ Graph entity ID: `zuowang-safety-without-teacher` - 4 direct relationships.
 | from | relation |
 |---|---|
 | carpenter-shi | concerns |
-| do-i-need-a-teacher | related_to |
+| do-i-need-a-teacher | associated_with |
 | exp-027-finding-a-teacher | concerns |
 | zuowang | concerns |

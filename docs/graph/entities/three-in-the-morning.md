@@ -8,7 +8,7 @@ Graph entity ID: `three-in-the-morning` - 12 direct relationships.
 
 | to | relation |
 |---|---|
-| fish-happiness | related_to |
+| fish-happiness | associated_with |
 | jing | concerns |
 | zhuangzi | described_in |
 
@@ -18,10 +18,10 @@ Graph entity ID: `three-in-the-morning` - 12 direct relationships.
 |---|---|
 | dao-shu | related_to |
 | huan-zhong | related_to |
-| hui-shi-wu-che | related_to |
+| hui-shi-wu-che | associated_with |
 | liang-xing | related_to |
 | mo-ruo-yi-ming | related_to |
-| qiu-hao | related_to |
+| qiu-hao | associated_with |
 | qiwu | related_to |
 | tian-jun | related_to |
-| zhi-yan | related_to |
+| zhi-yan | associated_with |

@@ -8,8 +8,8 @@ Graph entity ID: `exp-016-nine-dhyanas-map` - 16 direct relationships.
 
 | to | relation |
 |---|---|
-| exp-009-dissolving-void | related_to |
-| exp-014-double-lotus-doctrine | related_to |
+| exp-009-dissolving-void | associated_with |
+| exp-014-double-lotus-doctrine | associated_with |
 | how-long-should-i-sit | concerns |
 | lindahl-2017 | references |
 | schlosser-2019 | references |
@@ -19,13 +19,13 @@ Graph entity ID: `exp-016-nine-dhyanas-map` - 16 direct relationships.
 | from | relation |
 |---|---|
 | does-practice-need-faith | related_to |
-| exp-020-false-first-dhyana | related_to |
-| exp-021-prostrations-channel-circuit | related_to |
-| exp-022-its-all-theatre | related_to |
-| exp-025-lying-down-innovation | related_to |
-| exp-026-diet-gate | related_to |
-| exp-029-the-human-body | related_to |
-| exp-032-from-zero-to-desire-realm | related_to |
-| how-long-until-results | related_to |
-| what-counts-as-progress | related_to |
-| why-do-i-see-lights | related_to |
+| exp-020-false-first-dhyana | associated_with |
+| exp-021-prostrations-channel-circuit | associated_with |
+| exp-022-its-all-theatre | associated_with |
+| exp-025-lying-down-innovation | associated_with |
+| exp-026-diet-gate | associated_with |
+| exp-029-the-human-body | associated_with |
+| exp-032-from-zero-to-desire-realm | associated_with |
+| how-long-until-results | references |
+| what-counts-as-progress | references |
+| why-do-i-see-lights | references |

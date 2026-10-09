@@ -18,8 +18,8 @@ Graph entity ID: `heshang-gong` - 10 direct relationships.
 
 | from | relation |
 |---|---|
-| fu-yi | related_to |
+| fu-yi | associated_with |
 | heshang-gong-commentary | associated_with |
 | wang-bi | associated_with |
 | wangbi-laozi-commentary | associated_with |
-| yan-zun | related_to |
+| yan-zun | associated_with |

@@ -10,15 +10,15 @@ Graph entity ID: `ma-yu` - 9 direct relationships.
 |---|---|
 | jingzuo | related_to |
 | lin-hui-qi-bi | related_to |
-| qiu-chuji | related_to |
-| wang-chongyang | related_to |
-| wang-chuyi | related_to |
+| qiu-chuji | associated_with |
+| wang-chongyang | associated_with |
+| wang-chuyi | associated_with |
 
 ## Incoming (4)
 
 | from | relation |
 |---|---|
-| hao-datong | related_to |
-| liu-chuxuan | related_to |
-| sun-buer | related_to |
-| tan-chuduan | related_to |
+| hao-datong | associated_with |
+| liu-chuxuan | associated_with |
+| sun-buer | associated_with |
+| tan-chuduan | associated_with |

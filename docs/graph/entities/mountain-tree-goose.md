@@ -8,8 +8,8 @@ Graph entity ID: `mountain-tree-goose` - 13 direct relationships.
 
 | to | relation |
 |---|---|
-| turtle-in-the-mud | related_to |
-| useless-gourd | related_to |
+| turtle-in-the-mud | associated_with |
+| useless-gourd | associated_with |
 | wuwei | concerns |
 | zhuangzi | described_in |
 | ziran | concerns |
@@ -18,11 +18,11 @@ Graph entity ID: `mountain-tree-goose` - 13 direct relationships.
 
 | from | relation |
 |---|---|
-| diao-ling-yi-que | related_to |
-| luhou-yang-niao | related_to |
-| shanbao-zhangyi | related_to |
-| shinan-yiliao | related_to |
-| xuzhou-empty-boat | related_to |
-| yanshi-wind-song | related_to |
-| yi-dai-niao | related_to |
-| zhili-shu | related_to |
+| diao-ling-yi-que | associated_with |
+| luhou-yang-niao | associated_with |
+| shanbao-zhangyi | associated_with |
+| shinan-yiliao | associated_with |
+| xuzhou-empty-boat | associated_with |
+| yanshi-wind-song | associated_with |
+| yi-dai-niao | associated_with |
+| zhili-shu | associated_with |

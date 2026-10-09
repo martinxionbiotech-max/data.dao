@@ -8,16 +8,16 @@ Graph entity ID: `does-diet-matter` - 12 direct relationships.
 
 | to | relation |
 |---|---|
-| daodejing-12 | related_to |
-| does-practice-need-faith | related_to |
-| exp-007-digestive-release | related_to |
-| exp-024-standing-and-sitting | related_to |
-| exp-026-diet-gate | related_to |
-| is-sitting-religious | related_to |
+| daodejing-12 | references |
+| does-practice-need-faith | associated_with |
+| exp-007-digestive-release | references |
+| exp-024-standing-and-sitting | references |
+| exp-026-diet-gate | references |
+| is-sitting-religious | associated_with |
 | jingzuo | related_to |
-| must-i-sit-cross-legged | related_to |
-| wuwei | related_to |
-| xinzhai-passage | related_to |
+| must-i-sit-cross-legged | associated_with |
+| wuwei | discusses |
+| xinzhai-passage | references |
 | zuowang | related_to |
 
 ## Incoming (1)

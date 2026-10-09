@@ -8,10 +8,10 @@ Graph entity ID: `zhen-zai` - 13 direct relationships.
 
 | to | relation |
 |---|---|
-| da-kuai | related_to |
+| da-kuai | associated_with |
 | does-daoism-believe-in-a-creator | related_to |
 | hundun | related_to |
-| tian-ji | related_to |
+| tian-ji | associated_with |
 | wang-liang-wen-jing | related_to |
 | zhuangzi | described_in |
 | ziran | concerns |
@@ -20,9 +20,9 @@ Graph entity ID: `zhen-zai` - 13 direct relationships.
 
 | from | relation |
 |---|---|
-| dao-shu | related_to |
-| does-daoism-believe-in-a-creator | related_to |
+| dao-shu | associated_with |
+| does-daoism-believe-in-a-creator | discusses |
 | guo-xiang | related_to |
-| huan-zhong | related_to |
-| liang-xing | related_to |
-| tian-lai | related_to |
+| huan-zhong | associated_with |
+| liang-xing | associated_with |
+| tian-lai | associated_with |

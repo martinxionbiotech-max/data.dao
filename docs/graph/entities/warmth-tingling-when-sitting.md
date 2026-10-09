@@ -19,5 +19,5 @@ Graph entity ID: `warmth-tingling-when-sitting` - 8 direct relationships.
 |---|---|
 | exp-020-false-first-dhyana | concerns |
 | exp-023-breath-is-the-key | concerns |
-| i-feel-nothing-when-i-sit | related_to |
-| why-do-i-see-lights | related_to |
+| i-feel-nothing-when-i-sit | associated_with |
+| why-do-i-see-lights | associated_with |

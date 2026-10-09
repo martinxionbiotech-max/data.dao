@@ -10,14 +10,14 @@ Graph entity ID: `yingning` - 8 direct relationships.
 |---|---|
 | jing | concerns |
 | restlessness-in-sitting | concerns |
-| zhi-shui | related_to |
+| zhi-shui | associated_with |
 | zhuangzi | described_in |
-| zuochi | related_to |
+| zuochi | associated_with |
 
 ## Incoming (3)
 
 | from | relation |
 |---|---|
 | yingning-passage | concerns |
-| zhao-che | related_to |
-| zhaoche | concerns |
+| zhao-che | concerns |
+| zhao-che | associated_with |

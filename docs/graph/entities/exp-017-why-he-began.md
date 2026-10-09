@@ -8,8 +8,8 @@ Graph entity ID: `exp-017-why-he-began` - 6 direct relationships.
 
 | to | relation |
 |---|---|
-| exp-013-buddhist-daoist-boundary | related_to |
-| exp-014-double-lotus-doctrine | related_to |
+| exp-013-buddhist-daoist-boundary | associated_with |
+| exp-014-double-lotus-doctrine | associated_with |
 | farias-adverse-events-2020 | references |
 | lindahl-2017 | references |
 
@@ -18,4 +18,4 @@ Graph entity ID: `exp-017-why-he-began` - 6 direct relationships.
 | from | relation |
 |---|---|
 | do-i-need-a-teacher | related_to |
-| exp-027-finding-a-teacher | related_to |
+| exp-027-finding-a-teacher | associated_with |

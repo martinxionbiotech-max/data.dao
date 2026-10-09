@@ -16,4 +16,4 @@ Graph entity ID: `leg-numbness-pain` - 4 direct relationships.
 | from | relation |
 |---|---|
 | exp-010-lotus-pain | related_to |
-| must-i-sit-cross-legged | related_to |
+| must-i-sit-cross-legged | discusses |

@@ -8,11 +8,11 @@ Graph entity ID: `i-feel-nothing-when-i-sit` - 10 direct relationships.
 
 | to | relation |
 |---|---|
-| drowsiness-vs-stillness | related_to |
-| falling-asleep-during-meditation | related_to |
+| drowsiness-vs-stillness | discusses |
+| falling-asleep-during-meditation | associated_with |
 | jingzuo | concerns |
-| qi-belief-necessary | related_to |
-| warmth-tingling-when-sitting | related_to |
+| qi-belief-necessary | associated_with |
+| warmth-tingling-when-sitting | associated_with |
 | xu | concerns |
 
 ## Incoming (4)
@@ -21,5 +21,5 @@ Graph entity ID: `i-feel-nothing-when-i-sit` - 10 direct relationships.
 |---|---|
 | daodejing-06 | related_to |
 | daodejing-64 | related_to |
-| how-long-until-results | related_to |
-| what-counts-as-progress | related_to |
+| how-long-until-results | associated_with |
+| what-counts-as-progress | associated_with |

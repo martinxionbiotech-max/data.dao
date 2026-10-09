@@ -8,14 +8,14 @@ Graph entity ID: `liu-chuxuan` - 6 direct relationships.
 
 | to | relation |
 |---|---|
-| hao-datong | related_to |
-| ma-yu | related_to |
-| qiu-chuji | related_to |
-| tan-chuduan | related_to |
-| wang-chongyang | related_to |
+| hao-datong | associated_with |
+| ma-yu | associated_with |
+| qiu-chuji | associated_with |
+| tan-chuduan | associated_with |
+| wang-chongyang | associated_with |
 
 ## Incoming (1)
 
 | from | relation |
 |---|---|
-| hao-datong | related_to |
+| hao-datong | associated_with |

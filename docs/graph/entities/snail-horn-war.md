@@ -8,9 +8,9 @@ Graph entity ID: `snail-horn-war` - 4 direct relationships.
 
 | to | relation |
 |---|---|
-| jingdi-zhiwa | related_to |
-| peng-bird | related_to |
-| wangyang-xingtan | related_to |
+| jingdi-zhiwa | associated_with |
+| peng-bird | associated_with |
+| wangyang-xingtan | associated_with |
 | zhuangzi | described_in |
 
 ## Incoming (0)

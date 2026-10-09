@@ -2,7 +2,7 @@
 
 Main site page: [/texts/zhuangzi/](https://daoismhub.com/texts/zhuangzi/)
 
-Graph entity ID: `zhuangzi` - 123 direct relationships.
+Graph entity ID: `zhuangzi` - 122 direct relationships.
 
 ## Outgoing (0)
 
@@ -10,7 +10,7 @@ Graph entity ID: `zhuangzi` - 123 direct relationships.
 |---|---|
 | - | - |
 
-## Incoming (123)
+## Incoming (122)
 
 | from | relation |
 |---|---|
@@ -126,7 +126,6 @@ Graph entity ID: `zhuangzi` - 123 direct relationships.
 | yuan-du-yi-wei-jing | described_in |
 | yun-jin-cheng-feng | described_in |
 | zhao-che | described_in |
-| zhaoche | described_in |
 | zhen-zai | described_in |
 | zhi-shui | described_in |
 | zhi-wen-wuwei | described_in |

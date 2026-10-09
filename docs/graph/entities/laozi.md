@@ -15,10 +15,10 @@ Graph entity ID: `laozi` - 9 direct relationships.
 
 | from | relation |
 |---|---|
-| chen-tuan | related_to |
+| chen-tuan | associated_with |
 | confucius-meets-laozi | associated_with |
 | heshang-gong | associated_with |
 | heshang-gong-commentary | associated_with |
 | qinshi-mourning | related_to |
 | wang-bi | associated_with |
-| yan-zun | related_to |
+| yan-zun | associated_with |

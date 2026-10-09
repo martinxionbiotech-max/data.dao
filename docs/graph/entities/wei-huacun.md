@@ -15,6 +15,6 @@ Graph entity ID: `wei-huacun` - 5 direct relationships.
 
 | from | relation |
 |---|---|
-| lu-xiujing | related_to |
+| lu-xiujing | associated_with |
 | yang-xi | associated_with |
-| zhang-daoling | related_to |
+| zhang-daoling | associated_with |

@@ -8,9 +8,9 @@ Graph entity ID: `yun-jin-cheng-feng` - 7 direct relationships.
 
 | to | relation |
 |---|---|
-| carpenter-shi | related_to |
-| fish-happiness | related_to |
-| useless-gourd | related_to |
+| carpenter-shi | associated_with |
+| fish-happiness | associated_with |
+| useless-gourd | associated_with |
 | zhi-shui | concerns |
 | zhuangzi | described_in |
 
@@ -19,4 +19,4 @@ Graph entity ID: `yun-jin-cheng-feng` - 7 direct relationships.
 | from | relation |
 |---|---|
 | daodejing-45 | related_to |
-| hui-shi-wu-che | related_to |
+| hui-shi-wu-che | associated_with |

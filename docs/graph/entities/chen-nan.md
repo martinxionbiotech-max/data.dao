@@ -8,13 +8,13 @@ Graph entity ID: `chen-nan` - 7 direct relationships.
 
 | to | relation |
 |---|---|
-| bai-yuchan | related_to |
+| bai-yuchan | associated_with |
 | cook-ding | related_to |
 | daodejing-16 | related_to |
 | jing-qi-shen | related_to |
 | qi | related_to |
 | wheelwright-bian | related_to |
-| zhang-boduan | related_to |
+| zhang-boduan | associated_with |
 
 ## Incoming (0)
 

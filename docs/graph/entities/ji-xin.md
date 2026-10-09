@@ -10,9 +10,9 @@ Graph entity ID: `ji-xin` - 6 direct relationships.
 |---|---|
 | bao-weng-guan-qi | related_to |
 | xinzhai | concerns |
-| xushi-sheng-bai | related_to |
+| xushi-sheng-bai | associated_with |
 | zhuangzi | described_in |
-| zuochi | related_to |
+| zuochi | associated_with |
 
 ## Incoming (1)
 

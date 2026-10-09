@@ -39,7 +39,7 @@ Graph entity ID: `wuwei` - 51 direct relationships.
 | daodejing-78 | related_to |
 | de | associated_with |
 | diao-ling-yi-que | concerns |
-| does-diet-matter | related_to |
+| does-diet-matter | discusses |
 | hook-smith | concerns |
 | kui-xian-chain | concerns |
 | light-brightness-asks-nothingness | concerns |

@@ -9,8 +9,8 @@ Graph entity ID: `daodejing-33` - 10 direct relationships.
 | to | relation |
 |---|---|
 | daodejing | described_in |
-| daodejing-22 | related_to |
-| daodejing-45 | related_to |
+| daodejing-22 | associated_with |
+| daodejing-45 | associated_with |
 | guan | concerns |
 | how-long-until-results | related_to |
 | jian-du | related_to |
@@ -21,5 +21,5 @@ Graph entity ID: `daodejing-33` - 10 direct relationships.
 
 | from | relation |
 |---|---|
-| daodejing-46 | related_to |
-| how-long-until-results | related_to |
+| daodejing-46 | associated_with |
+| how-long-until-results | references |

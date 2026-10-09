@@ -10,9 +10,9 @@ Graph entity ID: `daodejing-51` - 7 direct relationships.
 |---|---|
 | dao | related_to |
 | daodejing | related_to |
-| daodejing-02 | related_to |
-| daodejing-10-shouyi | related_to |
-| daodejing-42 | related_to |
+| daodejing-02 | associated_with |
+| daodejing-10-shouyi | associated_with |
+| daodejing-42 | associated_with |
 | de | related_to |
 | ziran | related_to |
 

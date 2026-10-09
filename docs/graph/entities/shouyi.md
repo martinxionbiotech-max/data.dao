@@ -31,7 +31,7 @@ Graph entity ID: `shouyi` - 31 direct relationships.
 | daoist-meditation-explained | discusses |
 | daoist-vs-buddhist-meditation | discusses |
 | guangchengzi | concerns |
-| is-one-style-enough | related_to |
+| is-one-style-enough | discusses |
 | jingzuo | related_to |
 | map-of-chinese-contemplative-traditions | discusses |
 | neiguan | associated_with |

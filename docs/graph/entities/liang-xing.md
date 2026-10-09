@@ -8,12 +8,12 @@ Graph entity ID: `liang-xing` - 10 direct relationships.
 
 | to | relation |
 |---|---|
-| huan-zhong | related_to |
-| qiwu | related_to |
+| huan-zhong | associated_with |
+| qiwu | associated_with |
 | three-in-the-morning | related_to |
-| tian-jun | related_to |
+| tian-jun | associated_with |
 | yongxin-ruo-jing-passage | related_to |
-| zhen-zai | related_to |
+| zhen-zai | associated_with |
 | zhi-yan | related_to |
 | zhuangzi | described_in |
 
@@ -21,5 +21,5 @@ Graph entity ID: `liang-xing` - 10 direct relationships.
 
 | from | relation |
 |---|---|
-| dao-shu | related_to |
-| mo-ruo-yi-ming | related_to |
+| dao-shu | associated_with |
+| mo-ruo-yi-ming | associated_with |

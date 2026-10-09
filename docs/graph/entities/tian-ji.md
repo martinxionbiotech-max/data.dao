@@ -17,11 +17,11 @@ Graph entity ID: `tian-ji` - 12 direct relationships.
 
 | from | relation |
 |---|---|
-| da-kuai | related_to |
-| does-daoism-believe-in-a-creator | related_to |
-| hua | related_to |
-| tian-lai | related_to |
+| da-kuai | associated_with |
+| does-daoism-believe-in-a-creator | discusses |
+| hua | associated_with |
+| tian-lai | associated_with |
 | wang-liang-wen-jing | concerns |
-| wu-hua | related_to |
-| wu-shi-wu-zhong | related_to |
-| zhen-zai | related_to |
+| wu-hua | associated_with |
+| wu-shi-wu-zhong | associated_with |
+| zhen-zai | associated_with |

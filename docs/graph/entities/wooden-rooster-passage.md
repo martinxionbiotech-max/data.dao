@@ -15,4 +15,4 @@ Graph entity ID: `wooden-rooster-passage` - 3 direct relationships.
 
 | from | relation |
 |---|---|
-| how-long-until-results | related_to |
+| how-long-until-results | references |

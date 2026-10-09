@@ -9,13 +9,13 @@ Graph entity ID: `exp-032-from-zero-to-desire-realm` - 11 direct relationships.
 | to | relation |
 |---|---|
 | does-practice-need-faith | concerns |
-| exp-014-double-lotus-doctrine | related_to |
-| exp-016-nine-dhyanas-map | related_to |
-| exp-023-breath-is-the-key | related_to |
-| exp-026-diet-gate | related_to |
-| exp-028-abdominal-breathing | related_to |
-| exp-030-the-pain-ledger | related_to |
-| exp-031-lotus-posture-chapter | related_to |
+| exp-014-double-lotus-doctrine | associated_with |
+| exp-016-nine-dhyanas-map | associated_with |
+| exp-023-breath-is-the-key | associated_with |
+| exp-026-diet-gate | associated_with |
+| exp-028-abdominal-breathing | associated_with |
+| exp-030-the-pain-ledger | associated_with |
+| exp-031-lotus-posture-chapter | associated_with |
 | how-long-until-results | concerns |
 | jingzuo | related_to |
 | what-counts-as-progress | concerns |

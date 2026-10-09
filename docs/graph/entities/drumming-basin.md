@@ -8,7 +8,7 @@ Graph entity ID: `drumming-basin` - 10 direct relationships.
 
 | to | relation |
 |---|---|
-| butterfly-dream | related_to |
+| butterfly-dream | associated_with |
 | qi | concerns |
 | zhuangzi | described_in |
 
@@ -17,9 +17,9 @@ Graph entity ID: `drumming-basin` - 10 direct relationships.
 | from | relation |
 |---|---|
 | drumming-basin-passage | related_to |
-| fish-in-the-dry-spring | related_to |
-| four-friends | related_to |
-| peng-bird | related_to |
-| qinshi-mourning | related_to |
-| ran-qiu-asks-zhongni | related_to |
-| zhuangzi-skeleton | related_to |
+| fish-in-the-dry-spring | associated_with |
+| four-friends | associated_with |
+| peng-bird | associated_with |
+| qinshi-mourning | associated_with |
+| ran-qiu-asks-zhongni | associated_with |
+| zhuangzi-skeleton | associated_with |

@@ -15,13 +15,13 @@ Graph entity ID: `butterfly-dream` - 12 direct relationships.
 
 | from | relation |
 |---|---|
-| drumming-basin | related_to |
+| drumming-basin | associated_with |
 | hua | related_to |
-| qiu-hao | related_to |
+| qiu-hao | associated_with |
 | qiwu | related_to |
-| wang-liang-wen-jing | related_to |
+| wang-liang-wen-jing | associated_with |
 | wu-hua | related_to |
 | wu-sang-wo | related_to |
-| zhi-wen-wuwei | related_to |
-| zhi-yan | related_to |
-| zhuangzi-skeleton | related_to |
+| zhi-wen-wuwei | associated_with |
+| zhi-yan | associated_with |
+| zhuangzi-skeleton | associated_with |

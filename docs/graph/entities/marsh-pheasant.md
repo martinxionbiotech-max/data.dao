@@ -8,8 +8,8 @@ Graph entity ID: `marsh-pheasant` - 10 direct relationships.
 
 | to | relation |
 |---|---|
-| phoenix-and-owl | related_to |
-| turtle-in-the-mud | related_to |
+| phoenix-and-owl | associated_with |
+| turtle-in-the-mud | associated_with |
 | zhuangzi | described_in |
 | ziran | concerns |
 
@@ -17,9 +17,9 @@ Graph entity ID: `marsh-pheasant` - 10 direct relationships.
 
 | from | relation |
 |---|---|
-| bole-horses | related_to |
-| cao-shang | related_to |
-| luhou-yang-niao | related_to |
-| shinan-yiliao | related_to |
+| bole-horses | associated_with |
+| cao-shang | associated_with |
+| luhou-yang-niao | associated_with |
+| shinan-yiliao | associated_with |
 | why-do-i-keep-quitting | related_to |
-| yi-dai-niao | related_to |
+| yi-dai-niao | associated_with |

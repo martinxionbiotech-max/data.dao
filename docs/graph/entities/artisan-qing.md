@@ -17,9 +17,9 @@ Graph entity ID: `artisan-qing` - 10 direct relationships.
 
 | from | relation |
 |---|---|
-| bole-horses | related_to |
-| boshun-archer | related_to |
-| chui-gou-zhe | related_to |
+| bole-horses | associated_with |
+| boshun-archer | associated_with |
+| chui-gou-zhe | associated_with |
 | daodejing-45 | related_to |
-| hook-smith | related_to |
-| painter-unrobed | related_to |
+| hook-smith | associated_with |
+| painter-unrobed | associated_with |

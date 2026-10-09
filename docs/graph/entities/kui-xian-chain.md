@@ -8,8 +8,8 @@ Graph entity ID: `kui-xian-chain` - 8 direct relationships.
 
 | to | relation |
 |---|---|
-| peng-bird | related_to |
-| wangyang-xingtan | related_to |
+| peng-bird | associated_with |
+| wangyang-xingtan | associated_with |
 | wuwei | concerns |
 | zhuangzi | described_in |
 | ziran | concerns |
@@ -18,6 +18,6 @@ Graph entity ID: `kui-xian-chain` - 8 direct relationships.
 
 | from | relation |
 |---|---|
-| mantis-stalks-cicada | related_to |
+| mantis-stalks-cicada | associated_with |
 | tian-ji | related_to |
 | tian-lai | related_to |

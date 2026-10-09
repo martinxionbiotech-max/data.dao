@@ -15,7 +15,7 @@ Graph entity ID: `falling-asleep-during-meditation` - 6 direct relationships.
 
 | from | relation |
 |---|---|
-| can-i-sit-in-bed | related_to |
+| can-i-sit-in-bed | associated_with |
 | chen-tuan | related_to |
 | drowsiness-in-sitting | related_to |
-| i-feel-nothing-when-i-sit | related_to |
+| i-feel-nothing-when-i-sit | associated_with |

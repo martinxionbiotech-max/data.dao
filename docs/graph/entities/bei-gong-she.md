@@ -10,10 +10,10 @@ Graph entity ID: `bei-gong-she` - 9 direct relationships.
 |---|---|
 | daodejing-32 | references |
 | hua | concerns |
-| qiu-hao | related_to |
-| ren-gongzi-fishing | related_to |
+| qiu-hao | associated_with |
+| ren-gongzi-fishing | associated_with |
 | wuwei | concerns |
-| xuzhou-empty-boat | related_to |
+| xuzhou-empty-boat | associated_with |
 | zhuangzi | described_in |
 | ziran | concerns |
 

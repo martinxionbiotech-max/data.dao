@@ -8,15 +8,15 @@ Graph entity ID: `exp-012-restless-body` - 7 direct relationships.
 
 | to | relation |
 |---|---|
-| exp-011-shougong-protocol | related_to |
+| exp-011-shougong-protocol | associated_with |
 | restlessness-in-sitting | related_to |
 
 ## Incoming (5)
 
 | from | relation |
 |---|---|
-| exp-014-double-lotus-doctrine | related_to |
-| exp-015-heat-sweat-qi | related_to |
-| exp-023-breath-is-the-key | related_to |
-| exp-024-standing-and-sitting | related_to |
-| why-do-i-keep-quitting | related_to |
+| exp-014-double-lotus-doctrine | associated_with |
+| exp-015-heat-sweat-qi | associated_with |
+| exp-023-breath-is-the-key | associated_with |
+| exp-024-standing-and-sitting | associated_with |
+| why-do-i-keep-quitting | references |

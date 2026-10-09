@@ -8,7 +8,7 @@ Graph entity ID: `peng-bird` - 14 direct relationships.
 
 | to | relation |
 |---|---|
-| drumming-basin | related_to |
+| drumming-basin | associated_with |
 | zhuangzi | described_in |
 | ziran | concerns |
 
@@ -18,12 +18,12 @@ Graph entity ID: `peng-bird` - 14 direct relationships.
 |---|---|
 | chen-tuan | related_to |
 | hua | related_to |
-| kui-xian-chain | related_to |
-| luhou-yang-niao | related_to |
-| qiu-hao | related_to |
-| ren-gongzi-fishing | related_to |
-| snail-horn-war | related_to |
-| useless-gourd | related_to |
-| wangyang-xingtan | related_to |
+| kui-xian-chain | associated_with |
+| luhou-yang-niao | associated_with |
+| qiu-hao | associated_with |
+| ren-gongzi-fishing | associated_with |
+| snail-horn-war | associated_with |
+| useless-gourd | associated_with |
+| wangyang-xingtan | associated_with |
 | wu-he-you-zhi-xiang | related_to |
 | xiaoyao | related_to |
