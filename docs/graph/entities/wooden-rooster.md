@@ -1,0 +1,21 @@
+# wooden-rooster
+
+Main site page: [/stories/wooden-rooster/](https://dao-7g5.pages.dev/stories/wooden-rooster/)
+
+Graph entity ID: `wooden-rooster` - 6 direct relationships.
+
+## Outgoing (3)
+
+| to | relation |
+|---|---|
+| shouyi | concerns |
+| wuwei | concerns |
+| zhuangzi | described_in |
+
+## Incoming (3)
+
+| from | relation |
+|---|---|
+| boshun-archer | related_to |
+| wooden-rooster-passage | concerns |
+| yi-dai-niao | related_to |

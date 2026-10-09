@@ -1,19 +1,36 @@
 # Relationship Registry
 
-Knowledge-graph edges — 1562 total. Top-level key: `items` in
+Knowledge-graph edges — 1555 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
-## Relation types
+## Relation type definitions
+
+| relation | subject (from) | object (to) | meaning | usage condition | evidence requirement |
+|---|---|---|---|---|---|
+| described_in | concept/practice/story | text/classic | subject appears in or is taught by the text | textual locus verifiable | chapter/section citation |
+| concerns | page | entity | page is substantially about the entity | page really covers it | page sources cover entity |
+| discusses | comparison/question page | entity | page compares/discusses the entity | entity is a real term of the discussion | page-level evidence |
+| contrasts_with | entity | entity | two terms/ideas are explicitly opposed | opposition stated in sources | at least one source for each side |
+| compared_with | entity | entity | terms are juxtaposed in comparison content | comparison page exists | comparison page sources |
+| associated_with | entity | entity | weaker, non-specific connection | no stronger type applies | any source |
+| related_to | entity | entity | cross-collection editorial association | last resort; never the default | any source; should be upgraded when a stronger type fits |
+| references | page | source/study | page cites the record | citation present on page | the cited record |
+| investigates | study/problem | topic | research studies the topic | study actually addresses it | study methods |
+| derived_from | entity | entity | later term derives from earlier one | lineage documented | philological evidence |
+| translated_as | text/passage | translation page | translation renders the passage | translation page exists | the translation page |
+| authored | person | text | person wrote/compiled the text | historicity checked | traditional or historical record |
+| informs | entity | entity | one body of knowledge informs another | direction explicit | source for the influence |
+
+## Relation type counts
 
 | relation | count |
 |---|---|
 | associated_with | 86 |
 | authored | 3 |
-| compared_with | 1 |
 | concerns | 354 |
-| contrasts_with | 10 |
+| contrasts_with | 6 |
 | derived_from | 12 |
-| described_in | 156 |
+| described_in | 154 |
 | discusses | 42 |
 | informs | 1 |
 | investigates | 7 |
@@ -430,10 +447,8 @@ Knowledge-graph edges — 1562 total. Top-level key: `items` in
 | daoist-vs-buddhist-meditation | shouyi | discusses |
 | daoist-vs-buddhist-meditation | xinzhai | discusses |
 | daoist-vs-buddhist-meditation | zuowang | discusses |
-| daoshu-neiguan-zuowang | daoshu | described_in |
 | daoshu-neiguan-zuowang | neiguan | concerns |
 | daoshu-neiguan-zuowang | zuowang | concerns |
-| daoyin | mawangdui-daoyin-tu | described_in |
 | daoyin | zhuangzi | described_in |
 | daye-zhu-jin | can-meditation-cure-illness | related_to |
 | daye-zhu-jin | four-friends | related_to |
@@ -875,7 +890,6 @@ Knowledge-graph edges — 1562 total. Top-level key: `items` in
 | jingzuo | xinzhai | related_to |
 | jingzuo | zhuzi-yulei-jingzuo | described_in |
 | jingzuo | zuowang | contrasts_with |
-| jingzuo | zuowang | contrasts_with |
 | jingzuo | zuowang-vs-jingzuo | concerns |
 | jingzuo-vs-zazen | jingzuo | discusses |
 | jingzuo-vs-zuowang | jingzuo | discusses |
@@ -1010,7 +1024,6 @@ Knowledge-graph edges — 1562 total. Top-level key: `items` in
 | neiguan | zuowang | associated_with |
 | neiguan-jing | qingjing-jing | related_to |
 | neiguan-vs-vipassana | neiguan | discusses |
-| neiguan-vs-vipassana | vipassana | discusses |
 | noble-hochman-2019 | tiaoxi | investigates |
 | painter-unrobed | artisan-qing | related_to |
 | painter-unrobed | jing | concerns |
@@ -1027,7 +1040,6 @@ Knowledge-graph edges — 1562 total. Top-level key: `items` in
 | pu | wuwei | associated_with |
 | pu | ziran | associated_with |
 | qi | daodejing | described_in |
-| qi | prana | contrasts_with |
 | qi | qi-belief-necessary | concerns |
 | qi | zhuangzi | described_in |
 | qi-vs-prana | qi | discusses |
@@ -1379,7 +1391,6 @@ Knowledge-graph edges — 1562 total. Top-level key: `items` in
 | wu-you | zhuangzi | described_in |
 | wuwei | daodejing | described_in |
 | wuwei | daodejing-48 | translated_as |
-| wuwei | non-action | contrasts_with |
 | wuwei | zuowang | associated_with |
 | wuwei-vs-non-action | wuwei | discusses |
 | xi | taixi | concerns |
@@ -1406,7 +1417,6 @@ Knowledge-graph edges — 1562 total. Top-level key: `items` in
 | xing | ming | associated_with |
 | xing | zhuangzi | described_in |
 | xing | ziran | associated_with |
-| xinzhai | mindfulness | contrasts_with |
 | xinzhai | qingjing-jing | related_to |
 | xinzhai | xinzhai-passage | translated_as |
 | xinzhai | xu | derived_from |
@@ -1571,7 +1581,6 @@ Knowledge-graph edges — 1562 total. Top-level key: `items` in
 | zuochi | jing | concerns |
 | zuochi | zhuangzi | described_in |
 | zuochi | zuowang | related_to |
-| zuowang | mindfulness | compared_with |
 | zuowang | qi | associated_with |
 | zuowang | reading-order | described_in |
 | zuowang | sitting-protocol | described_in |
@@ -1585,6 +1594,7 @@ Knowledge-graph edges — 1562 total. Top-level key: `items` in
 | zuowang-for-modern-practitioner | zuowang | concerns |
 | zuowang-lun | neiguan-jing | derived_from |
 | zuowang-lun | qingjing-jing | derived_from |
+| zuowang-vs-mindfulness | zuowang | discusses |
 | zuowang-vs-shouyi | shouyi | contrasts_with |
 | zuowang-vs-shouyi | zuowang | contrasts_with |
 

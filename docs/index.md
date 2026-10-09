@@ -1,6 +1,6 @@
 # Dao Data
 
-Structured data hub for the [Dao knowledge base](/) — the machine-readable layer
+Structured data hub for the [Dao knowledge base](https://dao-7g5.pages.dev/) — the machine-readable layer
 behind the knowledge graph.
 
 This site documents entities, relationships, sources and schemas. Data files live
@@ -8,25 +8,37 @@ in the main repository under `src/data/` (`concepts.json`, `practices.json`,
 `relationships.json`, `sources.json`); authored entities live in the content
 collections (`texts/`, `people/`, `translations/`, `timeline/`, `questions/`).
 
-## Current state (P2, 2026-10-07)
+## Current state
+
+Generated automatically from the main-site content collections and data files;
+do not edit by hand. Counting basis: published records per collection (status:
+published), graph edges in `relationships.json`, source records in `sources.json`.
 
 | Layer | Count |
 |---|---|
-| Concepts | 6 |
-| Practices | 2 |
-| People | 3 |
-| Texts | 5 |
-| Translations | 5 |
-| Timeline events | 8 |
-| Research pages | 1 |
-| Tools | 2 |
-| Questions | 5 (2 open, 2 answered, 1 investigating) |
-| Knowledge-graph edges | 178 |
-| Sources | 39 (20 primary texts, 10 scholarship, 4 research, 5 community) |
+| Concepts | 18 |
+| Practices | 10 |
+| People | 31 |
+| Texts | 10 |
+| Translations | 39 |
+| Timeline events | 18 |
+| Research pages | 9 |
+| Questions | 28 |
+| Problems | 17 |
+| Comparisons | 11 |
+| Glossary entries | 56 |
+| Stories | 70 |
+| Experiences | 32 |
+| Patterns | 3 |
+| Guides | 9 |
+| Tools | 3 |
+| Blog posts | 4 |
+| Knowledge-graph edges | 1555 |
+| Sources | 200 |
 
-- **Experience system**: seeded with 8 anonymized experiences, 3 patterns,
-  5 questions from Chinese community sources (see the source map in the main repo).
-- Main site: 135 pages built, 0 errors.
+- **Experience system**: 32 anonymized experiences, 3 patterns,
+  28 questions from Chinese community sources (see the source map in the main repo).
+- Main site: see [dao-7g5.pages.dev](https://dao-7g5.pages.dev/).
 
 ## What is here
 

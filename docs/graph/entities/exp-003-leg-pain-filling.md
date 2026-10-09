@@ -1,0 +1,20 @@
+# exp-003-leg-pain-filling
+
+Main site page: [/experiences/exp-003-leg-pain-filling/](https://dao-7g5.pages.dev/experiences/exp-003-leg-pain-filling/)
+
+Graph entity ID: `exp-003-leg-pain-filling` - 5 direct relationships.
+
+## Outgoing (1)
+
+| to | relation |
+|---|---|
+| jingzuo | concerns |
+
+## Incoming (4)
+
+| from | relation |
+|---|---|
+| exp-030-the-pain-ledger | related_to |
+| exp-031-lotus-posture-chapter | related_to |
+| leg-numbness-pain | derived_from |
+| warmth-and-qi-sensations | derived_from |

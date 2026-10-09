@@ -1,0 +1,139 @@
+# zhuangzi
+
+Main site page: [/texts/zhuangzi/](https://dao-7g5.pages.dev/texts/zhuangzi/)
+
+Graph entity ID: `zhuangzi` - 123 direct relationships.
+
+## Outgoing (0)
+
+| to | relation |
+|---|---|
+| - | - |
+
+## Incoming (123)
+
+| from | relation |
+|---|---|
+| artisan-qing | described_in |
+| artisan-qing-passage | translated_as |
+| bao-guang | described_in |
+| bao-weng-guan-qi | described_in |
+| bei-gong-she | described_in |
+| boatman | described_in |
+| bole-horses | described_in |
+| boshun-archer | described_in |
+| butterfly-dream | described_in |
+| cao-shang | described_in |
+| carpenter-shi | described_in |
+| chen-tuan | associated_with |
+| cheng-xuanying | related_to |
+| chui-gou-zhe | described_in |
+| cicada-catcher | described_in |
+| cook-ding | described_in |
+| da-kuai | described_in |
+| dao | described_in |
+| dao-shu | described_in |
+| dao-yi-you-dao | described_in |
+| daoyin | described_in |
+| daye-zhu-jin | described_in |
+| diao-ling-yi-que | described_in |
+| dongguo-zi-asks | described_in |
+| dongshi-frowning | described_in |
+| drumming-basin | described_in |
+| drumming-basin-passage | translated_as |
+| fish-happiness | described_in |
+| fish-in-the-dry-spring | described_in |
+| four-friends | described_in |
+| guangchengzi | described_in |
+| guo-xiang | associated_with |
+| handan-walk | described_in |
+| hezhe-zhi-fu | described_in |
+| hook-smith | references |
+| how-to-read-daoist-meditation-texts | references |
+| hua | described_in |
+| huan-gong-jian-gui | described_in |
+| huan-zhong | described_in |
+| hui-shi-wu-che | described_in |
+| hundun | described_in |
+| huzi-jixian | described_in |
+| ji-ren | described_in |
+| ji-xin | described_in |
+| jian-du | described_in |
+| jing | described_in |
+| jingdi-zhiwa | described_in |
+| kui-xian-chain | described_in |
+| liang-wang | described_in |
+| liang-xing | described_in |
+| liezi | references |
+| light-brightness-asks-nothingness | references |
+| lin-hui-qi-bi | described_in |
+| luhou-yang-niao | described_in |
+| mantis-and-chariot | described_in |
+| mantis-stalks-cicada | described_in |
+| marsh-pheasant | described_in |
+| ming | described_in |
+| mo-ruo-yi-ming | described_in |
+| mountain-tree-goose | described_in |
+| painter-unrobed | described_in |
+| peng-bird | described_in |
+| phoenix-and-owl | described_in |
+| qi | described_in |
+| qinshi-mourning | described_in |
+| qiu-hao | described_in |
+| qiwu | described_in |
+| qiwulun-wu-sang-wo | translated_as |
+| ran-qiu-asks-zhongni | references |
+| ren-gongzi-fishing | described_in |
+| sanghu-friends | described_in |
+| seeing-light-in-sitting | described_in |
+| shanbao-zhangyi | described_in |
+| shinan-yiliao | described_in |
+| snail-horn-war | described_in |
+| swimmer-lvliang | described_in |
+| taiqing-asks-wuqiong | references |
+| three-craftsmen-dazheng | discusses |
+| three-in-the-morning | described_in |
+| tian-ji | described_in |
+| tian-jun | described_in |
+| tian-lai | described_in |
+| tu-long-zhi-ji | described_in |
+| turtle-in-the-mud | described_in |
+| tushan-shuo | described_in |
+| useless-gourd | described_in |
+| virtual-room-passage | described_in |
+| wang-liang-wen-jing | described_in |
+| wangyang-xingtan | described_in |
+| wheelwright-bian | described_in |
+| wooden-rooster | described_in |
+| wooden-rooster-passage | described_in |
+| wu-he-you-zhi-xiang | related_to |
+| wu-hua | described_in |
+| wu-sang-wo | described_in |
+| wu-shi-wu-zhong | related_to |
+| wu-you | described_in |
+| xian-jie | described_in |
+| xiaoyao | described_in |
+| xing | described_in |
+| xinzhai | described_in |
+| xu | described_in |
+| xushi-sheng-bai | described_in |
+| xuzhou-empty-boat | described_in |
+| yanshi-wind-song | described_in |
+| yi-dai-niao | described_in |
+| yingning | described_in |
+| yingning-passage | translated_as |
+| yongxin-ruo-jing-passage | translated_as |
+| yuan-du-yi-wei-jing | described_in |
+| yun-jin-cheng-feng | described_in |
+| zhao-che | described_in |
+| zhaoche | described_in |
+| zhen-zai | described_in |
+| zhi-shui | described_in |
+| zhi-wen-wuwei | described_in |
+| zhi-yan | described_in |
+| zhili-shu | described_in |
+| zhuang-zhou | associated_with |
+| zhuangzi-compilation | concerns |
+| zhuangzi-skeleton | described_in |
+| zuochi | described_in |
+| zuowang | described_in |

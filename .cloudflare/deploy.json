@@ -1,5 +1,5 @@
 {
-  "build_command": "mkdocs build --strict",
+  "build_command": "mkdocs build --strict && cp docs/robots.txt site/robots.txt",
   "build_output_dir": "site",
   "root_dir": "/",
   "environment": {

@@ -1,6 +1,6 @@
 site_name: Dao Data
 site_description: Structured data hub for the Dao knowledge base — entities, relationships, sources and schemas
-site_url: https://data.daoknowledgebase.com/
+site_url: https://data-dao.pages.dev/
 theme:
   name: material
   features:
@@ -30,6 +30,7 @@ nav:
       - Questions: experiences/questions.md
   - Knowledge Graph:
       - Relationships: graph/relationships.md
+      - Graph Explorer: graph/entity-explorer.md
       - Sources Registry: graph/sources.md
   - Schemas:
       - Data Schema: schemas/data-schema.md
