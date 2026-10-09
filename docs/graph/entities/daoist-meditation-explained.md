@@ -1,6 +1,6 @@
 # daoist-meditation-explained
 
-Main site page: [/guides/daoist-meditation-explained/](https://dao-7g5.pages.dev/guides/daoist-meditation-explained/)
+Main site page: [/guides/daoist-meditation-explained/](https://daoismhub.com/guides/daoist-meditation-explained/)
 
 Graph entity ID: `daoist-meditation-explained` - 7 direct relationships.
 

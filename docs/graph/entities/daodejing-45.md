@@ -1,6 +1,6 @@
 # daodejing-45
 
-Main site page: [/translations/daodejing-45/](https://dao-7g5.pages.dev/translations/daodejing-45/)
+Main site page: [/translations/daodejing-45/](https://daoismhub.com/translations/daodejing-45/)
 
 Graph entity ID: `daodejing-45` - 19 direct relationships.
 

@@ -1,6 +1,6 @@
 # xiaoyao
 
-Main site page: [/glossary/xiaoyao/](https://dao-7g5.pages.dev/glossary/xiaoyao/)
+Main site page: [/glossary/xiaoyao/](https://daoismhub.com/glossary/xiaoyao/)
 
 Graph entity ID: `xiaoyao` - 10 direct relationships.
 

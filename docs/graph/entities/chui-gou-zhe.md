@@ -1,6 +1,6 @@
 # chui-gou-zhe
 
-Main site page: [/stories/chui-gou-zhe/](https://dao-7g5.pages.dev/stories/chui-gou-zhe/)
+Main site page: [/stories/chui-gou-zhe/](https://daoismhub.com/stories/chui-gou-zhe/)
 
 Graph entity ID: `chui-gou-zhe` - 10 direct relationships.
 

@@ -1,6 +1,6 @@
 # exp-015-heat-sweat-qi
 
-Main site page: [/experiences/exp-015-heat-sweat-qi/](https://dao-7g5.pages.dev/experiences/exp-015-heat-sweat-qi/)
+Main site page: [/experiences/exp-015-heat-sweat-qi/](https://daoismhub.com/experiences/exp-015-heat-sweat-qi/)
 
 Graph entity ID: `exp-015-heat-sweat-qi` - 6 direct relationships.
 

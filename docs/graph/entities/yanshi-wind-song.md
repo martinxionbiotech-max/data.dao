@@ -1,6 +1,6 @@
 # yanshi-wind-song
 
-Main site page: [/stories/yanshi-wind-song/](https://dao-7g5.pages.dev/stories/yanshi-wind-song/)
+Main site page: [/stories/yanshi-wind-song/](https://daoismhub.com/stories/yanshi-wind-song/)
 
 Graph entity ID: `yanshi-wind-song` - 8 direct relationships.
 

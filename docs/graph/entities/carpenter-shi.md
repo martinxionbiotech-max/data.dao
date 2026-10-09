@@ -1,6 +1,6 @@
 # carpenter-shi
 
-Main site page: [/stories/carpenter-shi/](https://dao-7g5.pages.dev/stories/carpenter-shi/)
+Main site page: [/stories/carpenter-shi/](https://daoismhub.com/stories/carpenter-shi/)
 
 Graph entity ID: `carpenter-shi` - 5 direct relationships.
 

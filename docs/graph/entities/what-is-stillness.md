@@ -1,6 +1,6 @@
 # what-is-stillness
 
-Main site page: [/questions/what-is-stillness/](https://dao-7g5.pages.dev/questions/what-is-stillness/)
+Main site page: [/questions/what-is-stillness/](https://daoismhub.com/questions/what-is-stillness/)
 
 Graph entity ID: `what-is-stillness` - 5 direct relationships.
 

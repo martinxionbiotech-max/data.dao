@@ -1,6 +1,6 @@
 # daodejing
 
-Main site page: [/texts/daodejing/](https://dao-7g5.pages.dev/texts/daodejing/)
+Main site page: [/texts/daodejing/](https://daoismhub.com/texts/daodejing/)
 
 Graph entity ID: `daodejing` - 59 direct relationships.
 

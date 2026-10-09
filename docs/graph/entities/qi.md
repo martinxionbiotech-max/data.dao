@@ -1,6 +1,6 @@
 # qi
 
-Main site page: [/glossary/qi/](https://dao-7g5.pages.dev/glossary/qi/)
+Main site page: [/glossary/qi/](https://daoismhub.com/glossary/qi/)
 
 Graph entity ID: `qi` - 28 direct relationships.
 

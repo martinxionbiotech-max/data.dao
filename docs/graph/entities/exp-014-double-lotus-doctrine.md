@@ -1,6 +1,6 @@
 # exp-014-double-lotus-doctrine
 
-Main site page: [/experiences/exp-014-double-lotus-doctrine/](https://dao-7g5.pages.dev/experiences/exp-014-double-lotus-doctrine/)
+Main site page: [/experiences/exp-014-double-lotus-doctrine/](https://daoismhub.com/experiences/exp-014-double-lotus-doctrine/)
 
 Graph entity ID: `exp-014-double-lotus-doctrine` - 13 direct relationships.
 

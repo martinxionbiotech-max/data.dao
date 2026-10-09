@@ -1,6 +1,6 @@
 # hook-smith
 
-Main site page: [/stories/hook-smith/](https://dao-7g5.pages.dev/stories/hook-smith/)
+Main site page: [/stories/hook-smith/](https://daoismhub.com/stories/hook-smith/)
 
 Graph entity ID: `hook-smith` - 9 direct relationships.
 

@@ -1,6 +1,6 @@
 # translation-policy
 
-Main site page: [/blog/translation-policy/](https://dao-7g5.pages.dev/blog/translation-policy/)
+Main site page: [/blog/translation-policy/](https://daoismhub.com/blog/translation-policy/)
 
 Graph entity ID: `translation-policy` - 2 direct relationships.
 

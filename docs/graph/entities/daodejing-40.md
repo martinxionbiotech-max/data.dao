@@ -1,6 +1,6 @@
 # daodejing-40
 
-Main site page: [/translations/daodejing-40/](https://dao-7g5.pages.dev/translations/daodejing-40/)
+Main site page: [/translations/daodejing-40/](https://daoismhub.com/translations/daodejing-40/)
 
 Graph entity ID: `daodejing-40` - 13 direct relationships.
 

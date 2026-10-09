@@ -1,6 +1,6 @@
 # body-feels-very-large
 
-Main site page: [/problems/body-feels-very-large/](https://dao-7g5.pages.dev/problems/body-feels-very-large/)
+Main site page: [/problems/body-feels-very-large/](https://daoismhub.com/problems/body-feels-very-large/)
 
 Graph entity ID: `body-feels-very-large` - 3 direct relationships.
 

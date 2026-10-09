@@ -1,6 +1,6 @@
 # exp-017-why-he-began
 
-Main site page: [/experiences/exp-017-why-he-began/](https://dao-7g5.pages.dev/experiences/exp-017-why-he-began/)
+Main site page: [/experiences/exp-017-why-he-began/](https://daoismhub.com/experiences/exp-017-why-he-began/)
 
 Graph entity ID: `exp-017-why-he-began` - 6 direct relationships.
 

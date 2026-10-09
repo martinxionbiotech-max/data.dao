@@ -1,6 +1,6 @@
 # lin-hui-qi-bi
 
-Main site page: [/stories/lin-hui-qi-bi/](https://dao-7g5.pages.dev/stories/lin-hui-qi-bi/)
+Main site page: [/stories/lin-hui-qi-bi/](https://daoismhub.com/stories/lin-hui-qi-bi/)
 
 Graph entity ID: `lin-hui-qi-bi` - 9 direct relationships.
 

@@ -1,6 +1,6 @@
 # liang-wang
 
-Main site page: [/glossary/liang-wang/](https://dao-7g5.pages.dev/glossary/liang-wang/)
+Main site page: [/glossary/liang-wang/](https://daoismhub.com/glossary/liang-wang/)
 
 Graph entity ID: `liang-wang` - 8 direct relationships.
 

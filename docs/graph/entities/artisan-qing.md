@@ -1,6 +1,6 @@
 # artisan-qing
 
-Main site page: [/stories/artisan-qing/](https://dao-7g5.pages.dev/stories/artisan-qing/)
+Main site page: [/stories/artisan-qing/](https://daoismhub.com/stories/artisan-qing/)
 
 Graph entity ID: `artisan-qing` - 10 direct relationships.
 

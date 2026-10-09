@@ -1,6 +1,6 @@
 # what-is-zuowang
 
-Main site page: [/guides/what-is-zuowang/](https://dao-7g5.pages.dev/guides/what-is-zuowang/)
+Main site page: [/guides/what-is-zuowang/](https://daoismhub.com/guides/what-is-zuowang/)
 
 Graph entity ID: `what-is-zuowang` - 1 direct relationships.
 

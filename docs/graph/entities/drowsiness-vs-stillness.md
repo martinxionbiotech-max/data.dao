@@ -1,6 +1,6 @@
 # drowsiness-vs-stillness
 
-Main site page: [/patterns/drowsiness-vs-stillness/](https://dao-7g5.pages.dev/patterns/drowsiness-vs-stillness/)
+Main site page: [/patterns/drowsiness-vs-stillness/](https://daoismhub.com/patterns/drowsiness-vs-stillness/)
 
 Graph entity ID: `drowsiness-vs-stillness` - 12 direct relationships.
 

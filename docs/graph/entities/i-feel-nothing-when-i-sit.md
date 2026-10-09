@@ -1,6 +1,6 @@
 # i-feel-nothing-when-i-sit
 
-Main site page: [/questions/i-feel-nothing-when-i-sit/](https://dao-7g5.pages.dev/questions/i-feel-nothing-when-i-sit/)
+Main site page: [/questions/i-feel-nothing-when-i-sit/](https://daoismhub.com/questions/i-feel-nothing-when-i-sit/)
 
 Graph entity ID: `i-feel-nothing-when-i-sit` - 10 direct relationships.
 

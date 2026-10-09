@@ -1,6 +1,6 @@
 # exp-012-restless-body
 
-Main site page: [/experiences/exp-012-restless-body/](https://dao-7g5.pages.dev/experiences/exp-012-restless-body/)
+Main site page: [/experiences/exp-012-restless-body/](https://daoismhub.com/experiences/exp-012-restless-body/)
 
 Graph entity ID: `exp-012-restless-body` - 7 direct relationships.
 

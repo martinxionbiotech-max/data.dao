@@ -1,6 +1,6 @@
 # is-sitting-religious
 
-Main site page: [/questions/is-sitting-religious/](https://dao-7g5.pages.dev/questions/is-sitting-religious/)
+Main site page: [/questions/is-sitting-religious/](https://daoismhub.com/questions/is-sitting-religious/)
 
 Graph entity ID: `is-sitting-religious` - 14 direct relationships.
 

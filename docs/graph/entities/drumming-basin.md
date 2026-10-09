@@ -1,6 +1,6 @@
 # drumming-basin
 
-Main site page: [/stories/drumming-basin/](https://dao-7g5.pages.dev/stories/drumming-basin/)
+Main site page: [/stories/drumming-basin/](https://daoismhub.com/stories/drumming-basin/)
 
 Graph entity ID: `drumming-basin` - 10 direct relationships.
 

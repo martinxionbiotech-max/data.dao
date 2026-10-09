@@ -1,6 +1,6 @@
 # jingzuo
 
-Main site page: [/glossary/jingzuo/](https://dao-7g5.pages.dev/glossary/jingzuo/)
+Main site page: [/glossary/jingzuo/](https://daoismhub.com/glossary/jingzuo/)
 
 Graph entity ID: `jingzuo` - 62 direct relationships.
 

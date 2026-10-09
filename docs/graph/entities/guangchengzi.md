@@ -1,6 +1,6 @@
 # guangchengzi
 
-Main site page: [/stories/guangchengzi/](https://dao-7g5.pages.dev/stories/guangchengzi/)
+Main site page: [/stories/guangchengzi/](https://daoismhub.com/stories/guangchengzi/)
 
 Graph entity ID: `guangchengzi` - 3 direct relationships.
 

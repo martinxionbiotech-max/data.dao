@@ -1,6 +1,6 @@
 # dao-shu
 
-Main site page: [/glossary/dao-shu/](https://dao-7g5.pages.dev/glossary/dao-shu/)
+Main site page: [/glossary/dao-shu/](https://daoismhub.com/glossary/dao-shu/)
 
 Graph entity ID: `dao-shu` - 8 direct relationships.
 

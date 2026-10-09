@@ -1,6 +1,6 @@
 # what-modern-research-can-and-cannot-tell-us
 
-Main site page: [/guides/what-modern-research-can-and-cannot-tell-us/](https://dao-7g5.pages.dev/guides/what-modern-research-can-and-cannot-tell-us/)
+Main site page: [/guides/what-modern-research-can-and-cannot-tell-us/](https://daoismhub.com/guides/what-modern-research-can-and-cannot-tell-us/)
 
 Graph entity ID: `what-modern-research-can-and-cannot-tell-us` - 4 direct relationships.
 

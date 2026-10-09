@@ -1,6 +1,6 @@
 # wu-shi-wu-zhong
 
-Main site page: [/glossary/wu-shi-wu-zhong/](https://dao-7g5.pages.dev/glossary/wu-shi-wu-zhong/)
+Main site page: [/glossary/wu-shi-wu-zhong/](https://daoismhub.com/glossary/wu-shi-wu-zhong/)
 
 Graph entity ID: `wu-shi-wu-zhong` - 11 direct relationships.
 

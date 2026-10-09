@@ -1,6 +1,6 @@
 # xinzhai-passage
 
-Main site page: [/translations/xinzhai-passage/](https://dao-7g5.pages.dev/translations/xinzhai-passage/)
+Main site page: [/translations/xinzhai-passage/](https://daoismhub.com/translations/xinzhai-passage/)
 
 Graph entity ID: `xinzhai-passage` - 6 direct relationships.
 

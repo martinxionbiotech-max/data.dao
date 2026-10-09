@@ -1,6 +1,6 @@
 # liang-xing
 
-Main site page: [/glossary/liang-xing/](https://dao-7g5.pages.dev/glossary/liang-xing/)
+Main site page: [/glossary/liang-xing/](https://daoismhub.com/glossary/liang-xing/)
 
 Graph entity ID: `liang-xing` - 10 direct relationships.
 

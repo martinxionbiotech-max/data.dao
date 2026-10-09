@@ -1,6 +1,6 @@
 # wei-huacun
 
-Main site page: [/people/wei-huacun/](https://dao-7g5.pages.dev/people/wei-huacun/)
+Main site page: [/people/wei-huacun/](https://daoismhub.com/people/wei-huacun/)
 
 Graph entity ID: `wei-huacun` - 5 direct relationships.
 

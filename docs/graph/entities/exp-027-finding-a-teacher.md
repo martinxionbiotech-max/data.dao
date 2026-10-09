@@ -1,6 +1,6 @@
 # exp-027-finding-a-teacher
 
-Main site page: [/experiences/exp-027-finding-a-teacher/](https://dao-7g5.pages.dev/experiences/exp-027-finding-a-teacher/)
+Main site page: [/experiences/exp-027-finding-a-teacher/](https://daoismhub.com/experiences/exp-027-finding-a-teacher/)
 
 Graph entity ID: `exp-027-finding-a-teacher` - 8 direct relationships.
 

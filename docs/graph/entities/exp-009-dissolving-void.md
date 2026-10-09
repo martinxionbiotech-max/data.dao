@@ -1,6 +1,6 @@
 # exp-009-dissolving-void
 
-Main site page: [/experiences/exp-009-dissolving-void/](https://dao-7g5.pages.dev/experiences/exp-009-dissolving-void/)
+Main site page: [/experiences/exp-009-dissolving-void/](https://daoismhub.com/experiences/exp-009-dissolving-void/)
 
 Graph entity ID: `exp-009-dissolving-void` - 5 direct relationships.
 

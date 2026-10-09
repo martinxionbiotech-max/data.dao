@@ -1,6 +1,6 @@
 # huan-gong-jian-gui
 
-Main site page: [/stories/huan-gong-jian-gui/](https://dao-7g5.pages.dev/stories/huan-gong-jian-gui/)
+Main site page: [/stories/huan-gong-jian-gui/](https://daoismhub.com/stories/huan-gong-jian-gui/)
 
 Graph entity ID: `huan-gong-jian-gui` - 7 direct relationships.
 

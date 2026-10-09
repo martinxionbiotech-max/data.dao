@@ -1,6 +1,6 @@
 # zhuangzi-skeleton
 
-Main site page: [/stories/zhuangzi-skeleton/](https://dao-7g5.pages.dev/stories/zhuangzi-skeleton/)
+Main site page: [/stories/zhuangzi-skeleton/](https://daoismhub.com/stories/zhuangzi-skeleton/)
 
 Graph entity ID: `zhuangzi-skeleton` - 7 direct relationships.
 

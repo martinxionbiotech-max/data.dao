@@ -1,6 +1,6 @@
 # huan-zhong
 
-Main site page: [/glossary/huan-zhong/](https://dao-7g5.pages.dev/glossary/huan-zhong/)
+Main site page: [/glossary/huan-zhong/](https://daoismhub.com/glossary/huan-zhong/)
 
 Graph entity ID: `huan-zhong` - 13 direct relationships.
 

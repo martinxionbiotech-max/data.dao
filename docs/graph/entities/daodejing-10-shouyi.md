@@ -1,6 +1,6 @@
 # daodejing-10-shouyi
 
-Main site page: [/translations/daodejing-10-shouyi/](https://dao-7g5.pages.dev/translations/daodejing-10-shouyi/)
+Main site page: [/translations/daodejing-10-shouyi/](https://daoismhub.com/translations/daodejing-10-shouyi/)
 
 Graph entity ID: `daodejing-10-shouyi` - 7 direct relationships.
 

@@ -1,6 +1,6 @@
 # dao
 
-Main site page: [/glossary/dao/](https://dao-7g5.pages.dev/glossary/dao/)
+Main site page: [/glossary/dao/](https://daoismhub.com/glossary/dao/)
 
 Graph entity ID: `dao` - 25 direct relationships.
 

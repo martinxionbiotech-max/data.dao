@@ -1,6 +1,6 @@
 # zhuang-zhou
 
-Main site page: [/people/zhuang-zhou/](https://dao-7g5.pages.dev/people/zhuang-zhou/)
+Main site page: [/people/zhuang-zhou/](https://daoismhub.com/people/zhuang-zhou/)
 
 Graph entity ID: `zhuang-zhou` - 6 direct relationships.
 

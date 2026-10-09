@@ -1,6 +1,6 @@
 # daye-zhu-jin
 
-Main site page: [/stories/daye-zhu-jin/](https://dao-7g5.pages.dev/stories/daye-zhu-jin/)
+Main site page: [/stories/daye-zhu-jin/](https://daoismhub.com/stories/daye-zhu-jin/)
 
 Graph entity ID: `daye-zhu-jin` - 9 direct relationships.
 

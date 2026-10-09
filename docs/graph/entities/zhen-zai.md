@@ -1,6 +1,6 @@
 # zhen-zai
 
-Main site page: [/glossary/zhen-zai/](https://dao-7g5.pages.dev/glossary/zhen-zai/)
+Main site page: [/glossary/zhen-zai/](https://daoismhub.com/glossary/zhen-zai/)
 
 Graph entity ID: `zhen-zai` - 13 direct relationships.
 

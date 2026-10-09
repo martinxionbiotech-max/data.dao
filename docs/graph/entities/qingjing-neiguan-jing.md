@@ -1,6 +1,6 @@
 # qingjing-neiguan-jing
 
-Main site page: [/timeline/qingjing-neiguan-jing/](https://dao-7g5.pages.dev/timeline/qingjing-neiguan-jing/)
+Main site page: [/timeline/qingjing-neiguan-jing/](https://daoismhub.com/timeline/qingjing-neiguan-jing/)
 
 Graph entity ID: `qingjing-neiguan-jing` - 3 direct relationships.
 

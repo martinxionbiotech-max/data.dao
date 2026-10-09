@@ -1,6 +1,6 @@
 # bei-gong-she
 
-Main site page: [/stories/bei-gong-she/](https://dao-7g5.pages.dev/stories/bei-gong-she/)
+Main site page: [/stories/bei-gong-she/](https://daoismhub.com/stories/bei-gong-she/)
 
 Graph entity ID: `bei-gong-she` - 9 direct relationships.
 

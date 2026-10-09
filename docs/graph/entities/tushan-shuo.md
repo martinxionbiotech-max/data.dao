@@ -1,6 +1,6 @@
 # tushan-shuo
 
-Main site page: [/stories/tushan-shuo/](https://dao-7g5.pages.dev/stories/tushan-shuo/)
+Main site page: [/stories/tushan-shuo/](https://daoismhub.com/stories/tushan-shuo/)
 
 Graph entity ID: `tushan-shuo` - 7 direct relationships.
 

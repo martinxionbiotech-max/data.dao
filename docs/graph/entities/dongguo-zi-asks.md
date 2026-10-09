@@ -1,6 +1,6 @@
 # dongguo-zi-asks
 
-Main site page: [/stories/dongguo-zi-asks/](https://dao-7g5.pages.dev/stories/dongguo-zi-asks/)
+Main site page: [/stories/dongguo-zi-asks/](https://daoismhub.com/stories/dongguo-zi-asks/)
 
 Graph entity ID: `dongguo-zi-asks` - 12 direct relationships.
 

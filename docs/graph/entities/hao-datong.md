@@ -1,6 +1,6 @@
 # hao-datong
 
-Main site page: [/people/hao-datong/](https://dao-7g5.pages.dev/people/hao-datong/)
+Main site page: [/people/hao-datong/](https://daoismhub.com/people/hao-datong/)
 
 Graph entity ID: `hao-datong` - 5 direct relationships.
 

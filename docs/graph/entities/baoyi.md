@@ -1,6 +1,6 @@
 # baoyi
 
-Main site page: [/glossary/baoyi/](https://dao-7g5.pages.dev/glossary/baoyi/)
+Main site page: [/glossary/baoyi/](https://daoismhub.com/glossary/baoyi/)
 
 Graph entity ID: `baoyi` - 2 direct relationships.
 

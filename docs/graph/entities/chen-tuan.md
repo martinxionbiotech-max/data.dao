@@ -1,6 +1,6 @@
 # chen-tuan
 
-Main site page: [/people/chen-tuan/](https://dao-7g5.pages.dev/people/chen-tuan/)
+Main site page: [/people/chen-tuan/](https://daoismhub.com/people/chen-tuan/)
 
 Graph entity ID: `chen-tuan` - 11 direct relationships.
 

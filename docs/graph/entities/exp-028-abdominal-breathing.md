@@ -1,6 +1,6 @@
 # exp-028-abdominal-breathing
 
-Main site page: [/experiences/exp-028-abdominal-breathing/](https://dao-7g5.pages.dev/experiences/exp-028-abdominal-breathing/)
+Main site page: [/experiences/exp-028-abdominal-breathing/](https://daoismhub.com/experiences/exp-028-abdominal-breathing/)
 
 Graph entity ID: `exp-028-abdominal-breathing` - 12 direct relationships.
 

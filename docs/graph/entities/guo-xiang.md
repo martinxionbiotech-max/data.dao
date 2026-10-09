@@ -1,6 +1,6 @@
 # guo-xiang
 
-Main site page: [/people/guo-xiang/](https://dao-7g5.pages.dev/people/guo-xiang/)
+Main site page: [/people/guo-xiang/](https://daoismhub.com/people/guo-xiang/)
 
 Graph entity ID: `guo-xiang` - 8 direct relationships.
 

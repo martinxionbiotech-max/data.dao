@@ -1,6 +1,6 @@
 # breath-stopping-intentional-spontaneous
 
-Main site page: [/problems/breath-stopping-intentional-spontaneous/](https://dao-7g5.pages.dev/problems/breath-stopping-intentional-spontaneous/)
+Main site page: [/problems/breath-stopping-intentional-spontaneous/](https://daoismhub.com/problems/breath-stopping-intentional-spontaneous/)
 
 Graph entity ID: `breath-stopping-intentional-spontaneous` - 1 direct relationships.
 

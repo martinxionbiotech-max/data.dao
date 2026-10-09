@@ -1,6 +1,6 @@
 # kou-qianzhi-reform
 
-Main site page: [/timeline/kou-qianzhi-reform/](https://dao-7g5.pages.dev/timeline/kou-qianzhi-reform/)
+Main site page: [/timeline/kou-qianzhi-reform/](https://daoismhub.com/timeline/kou-qianzhi-reform/)
 
 Graph entity ID: `kou-qianzhi-reform` - 5 direct relationships.
 

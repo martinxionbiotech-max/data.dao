@@ -1,6 +1,6 @@
 # tu-long-zhi-ji
 
-Main site page: [/stories/tu-long-zhi-ji/](https://dao-7g5.pages.dev/stories/tu-long-zhi-ji/)
+Main site page: [/stories/tu-long-zhi-ji/](https://daoismhub.com/stories/tu-long-zhi-ji/)
 
 Graph entity ID: `tu-long-zhi-ji` - 8 direct relationships.
 

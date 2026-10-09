@@ -1,6 +1,6 @@
 # does-practice-need-faith
 
-Main site page: [/questions/does-practice-need-faith/](https://dao-7g5.pages.dev/questions/does-practice-need-faith/)
+Main site page: [/questions/does-practice-need-faith/](https://daoismhub.com/questions/does-practice-need-faith/)
 
 Graph entity ID: `does-practice-need-faith` - 20 direct relationships.
 

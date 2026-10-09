@@ -1,6 +1,6 @@
 # mindfulness-meta-analysis-2014
 
-Main site page: [/research/mindfulness-meta-analysis-2014/](https://dao-7g5.pages.dev/research/mindfulness-meta-analysis-2014/)
+Main site page: [/research/mindfulness-meta-analysis-2014/](https://daoismhub.com/research/mindfulness-meta-analysis-2014/)
 
 Graph entity ID: `mindfulness-meta-analysis-2014` - 11 direct relationships.
 

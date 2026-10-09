@@ -1,6 +1,6 @@
 # xuan
 
-Main site page: [/glossary/xuan/](https://dao-7g5.pages.dev/glossary/xuan/)
+Main site page: [/glossary/xuan/](https://daoismhub.com/glossary/xuan/)
 
 Graph entity ID: `xuan` - 3 direct relationships.
 

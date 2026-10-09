@@ -1,6 +1,6 @@
 # zuochi
 
-Main site page: [/glossary/zuochi/](https://dao-7g5.pages.dev/glossary/zuochi/)
+Main site page: [/glossary/zuochi/](https://daoismhub.com/glossary/zuochi/)
 
 Graph entity ID: `zuochi` - 11 direct relationships.
 

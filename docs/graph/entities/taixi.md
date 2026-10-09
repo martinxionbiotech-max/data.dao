@@ -1,6 +1,6 @@
 # taixi
 
-Main site page: [/practices/taixi/](https://dao-7g5.pages.dev/practices/taixi/)
+Main site page: [/practices/taixi/](https://daoismhub.com/practices/taixi/)
 
 Graph entity ID: `taixi` - 12 direct relationships.
 

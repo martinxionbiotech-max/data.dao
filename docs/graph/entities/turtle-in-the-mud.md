@@ -1,6 +1,6 @@
 # turtle-in-the-mud
 
-Main site page: [/stories/turtle-in-the-mud/](https://dao-7g5.pages.dev/stories/turtle-in-the-mud/)
+Main site page: [/stories/turtle-in-the-mud/](https://daoismhub.com/stories/turtle-in-the-mud/)
 
 Graph entity ID: `turtle-in-the-mud` - 9 direct relationships.
 

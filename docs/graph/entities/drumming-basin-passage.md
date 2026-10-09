@@ -1,6 +1,6 @@
 # drumming-basin-passage
 
-Main site page: [/translations/drumming-basin-passage/](https://dao-7g5.pages.dev/translations/drumming-basin-passage/)
+Main site page: [/translations/drumming-basin-passage/](https://daoismhub.com/translations/drumming-basin-passage/)
 
 Graph entity ID: `drumming-basin-passage` - 3 direct relationships.
 

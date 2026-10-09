@@ -1,6 +1,6 @@
 # yin-yang
 
-Main site page: [/concepts/yin-yang/](https://dao-7g5.pages.dev/concepts/yin-yang/)
+Main site page: [/concepts/yin-yang/](https://daoismhub.com/concepts/yin-yang/)
 
 Graph entity ID: `yin-yang` - 6 direct relationships.
 

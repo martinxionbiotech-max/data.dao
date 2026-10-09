@@ -1,6 +1,6 @@
 # zuowang-passage
 
-Main site page: [/translations/zuowang-passage/](https://dao-7g5.pages.dev/translations/zuowang-passage/)
+Main site page: [/translations/zuowang-passage/](https://daoismhub.com/translations/zuowang-passage/)
 
 Graph entity ID: `zuowang-passage` - 4 direct relationships.
 

@@ -1,6 +1,6 @@
 # da-kuai
 
-Main site page: [/glossary/da-kuai/](https://dao-7g5.pages.dev/glossary/da-kuai/)
+Main site page: [/glossary/da-kuai/](https://daoismhub.com/glossary/da-kuai/)
 
 Graph entity ID: `da-kuai` - 12 direct relationships.
 

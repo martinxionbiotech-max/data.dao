@@ -1,6 +1,6 @@
 # three-craftsmen-dazheng
 
-Main site page: [/blog/three-craftsmen-dazheng/](https://dao-7g5.pages.dev/blog/three-craftsmen-dazheng/)
+Main site page: [/blog/three-craftsmen-dazheng/](https://daoismhub.com/blog/three-craftsmen-dazheng/)
 
 Graph entity ID: `three-craftsmen-dazheng` - 3 direct relationships.
 

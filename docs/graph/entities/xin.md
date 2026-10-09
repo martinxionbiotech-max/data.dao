@@ -1,6 +1,6 @@
 # xin
 
-Main site page: [/glossary/xin/](https://dao-7g5.pages.dev/glossary/xin/)
+Main site page: [/glossary/xin/](https://daoismhub.com/glossary/xin/)
 
 Graph entity ID: `xin` - 2 direct relationships.
 

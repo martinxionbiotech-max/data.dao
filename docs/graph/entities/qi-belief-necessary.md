@@ -1,6 +1,6 @@
 # qi-belief-necessary
 
-Main site page: [/questions/qi-belief-necessary/](https://dao-7g5.pages.dev/questions/qi-belief-necessary/)
+Main site page: [/questions/qi-belief-necessary/](https://daoismhub.com/questions/qi-belief-necessary/)
 
 Graph entity ID: `qi-belief-necessary` - 5 direct relationships.
 

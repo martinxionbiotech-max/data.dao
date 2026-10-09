@@ -1,6 +1,6 @@
 # wangbi-laozi-commentary
 
-Main site page: [/timeline/wangbi-laozi-commentary/](https://dao-7g5.pages.dev/timeline/wangbi-laozi-commentary/)
+Main site page: [/timeline/wangbi-laozi-commentary/](https://daoismhub.com/timeline/wangbi-laozi-commentary/)
 
 Graph entity ID: `wangbi-laozi-commentary` - 6 direct relationships.
 

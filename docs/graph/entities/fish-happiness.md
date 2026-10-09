@@ -1,6 +1,6 @@
 # fish-happiness
 
-Main site page: [/stories/fish-happiness/](https://dao-7g5.pages.dev/stories/fish-happiness/)
+Main site page: [/stories/fish-happiness/](https://daoismhub.com/stories/fish-happiness/)
 
 Graph entity ID: `fish-happiness` - 12 direct relationships.
 

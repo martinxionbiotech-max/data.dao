@@ -1,6 +1,6 @@
 # pu
 
-Main site page: [/concepts/pu/](https://dao-7g5.pages.dev/concepts/pu/)
+Main site page: [/concepts/pu/](https://daoismhub.com/concepts/pu/)
 
 Graph entity ID: `pu` - 7 direct relationships.
 

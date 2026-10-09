@@ -1,6 +1,6 @@
 # kui-xian-chain
 
-Main site page: [/stories/kui-xian-chain/](https://dao-7g5.pages.dev/stories/kui-xian-chain/)
+Main site page: [/stories/kui-xian-chain/](https://daoismhub.com/stories/kui-xian-chain/)
 
 Graph entity ID: `kui-xian-chain` - 8 direct relationships.
 

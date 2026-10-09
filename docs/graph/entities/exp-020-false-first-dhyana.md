@@ -1,6 +1,6 @@
 # exp-020-false-first-dhyana
 
-Main site page: [/experiences/exp-020-false-first-dhyana/](https://dao-7g5.pages.dev/experiences/exp-020-false-first-dhyana/)
+Main site page: [/experiences/exp-020-false-first-dhyana/](https://daoismhub.com/experiences/exp-020-false-first-dhyana/)
 
 Graph entity ID: `exp-020-false-first-dhyana` - 11 direct relationships.
 

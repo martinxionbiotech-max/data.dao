@@ -1,6 +1,6 @@
 # dongshi-frowning
 
-Main site page: [/stories/dongshi-frowning/](https://dao-7g5.pages.dev/stories/dongshi-frowning/)
+Main site page: [/stories/dongshi-frowning/](https://daoismhub.com/stories/dongshi-frowning/)
 
 Graph entity ID: `dongshi-frowning` - 3 direct relationships.
 

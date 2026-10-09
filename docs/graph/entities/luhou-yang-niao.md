@@ -1,6 +1,6 @@
 # luhou-yang-niao
 
-Main site page: [/stories/luhou-yang-niao/](https://dao-7g5.pages.dev/stories/luhou-yang-niao/)
+Main site page: [/stories/luhou-yang-niao/](https://daoismhub.com/stories/luhou-yang-niao/)
 
 Graph entity ID: `luhou-yang-niao` - 11 direct relationships.
 

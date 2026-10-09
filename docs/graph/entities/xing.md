@@ -1,6 +1,6 @@
 # xing
 
-Main site page: [/glossary/xing/](https://dao-7g5.pages.dev/glossary/xing/)
+Main site page: [/glossary/xing/](https://daoismhub.com/glossary/xing/)
 
 Graph entity ID: `xing` - 5 direct relationships.
 

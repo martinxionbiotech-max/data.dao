@@ -1,6 +1,6 @@
 # wang-chongyang
 
-Main site page: [/people/wang-chongyang/](https://dao-7g5.pages.dev/people/wang-chongyang/)
+Main site page: [/people/wang-chongyang/](https://daoismhub.com/people/wang-chongyang/)
 
 Graph entity ID: `wang-chongyang` - 15 direct relationships.
 

@@ -1,6 +1,6 @@
 # do-i-need-a-teacher
 
-Main site page: [/questions/do-i-need-a-teacher/](https://dao-7g5.pages.dev/questions/do-i-need-a-teacher/)
+Main site page: [/questions/do-i-need-a-teacher/](https://daoismhub.com/questions/do-i-need-a-teacher/)
 
 Graph entity ID: `do-i-need-a-teacher` - 10 direct relationships.
 

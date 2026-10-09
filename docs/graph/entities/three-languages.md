@@ -1,6 +1,6 @@
 # three-languages
 
-Main site page: [/blog/three-languages/](https://dao-7g5.pages.dev/blog/three-languages/)
+Main site page: [/blog/three-languages/](https://daoismhub.com/blog/three-languages/)
 
 Graph entity ID: `three-languages` - 3 direct relationships.
 

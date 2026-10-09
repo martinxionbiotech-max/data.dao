@@ -1,6 +1,6 @@
 # liu-chuxuan
 
-Main site page: [/people/liu-chuxuan/](https://dao-7g5.pages.dev/people/liu-chuxuan/)
+Main site page: [/people/liu-chuxuan/](https://daoismhub.com/people/liu-chuxuan/)
 
 Graph entity ID: `liu-chuxuan` - 6 direct relationships.
 

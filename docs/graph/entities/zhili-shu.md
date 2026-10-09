@@ -1,6 +1,6 @@
 # zhili-shu
 
-Main site page: [/stories/zhili-shu/](https://dao-7g5.pages.dev/stories/zhili-shu/)
+Main site page: [/stories/zhili-shu/](https://daoismhub.com/stories/zhili-shu/)
 
 Graph entity ID: `zhili-shu` - 9 direct relationships.
 

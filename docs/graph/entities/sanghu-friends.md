@@ -1,6 +1,6 @@
 # sanghu-friends
 
-Main site page: [/stories/sanghu-friends/](https://dao-7g5.pages.dev/stories/sanghu-friends/)
+Main site page: [/stories/sanghu-friends/](https://daoismhub.com/stories/sanghu-friends/)
 
 Graph entity ID: `sanghu-friends` - 9 direct relationships.
 

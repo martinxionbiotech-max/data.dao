@@ -1,6 +1,6 @@
 # falling-asleep-during-meditation
 
-Main site page: [/questions/falling-asleep-during-meditation/](https://dao-7g5.pages.dev/questions/falling-asleep-during-meditation/)
+Main site page: [/questions/falling-asleep-during-meditation/](https://daoismhub.com/questions/falling-asleep-during-meditation/)
 
 Graph entity ID: `falling-asleep-during-meditation` - 6 direct relationships.
 

@@ -1,6 +1,6 @@
 # guan
 
-Main site page: [/glossary/guan/](https://dao-7g5.pages.dev/glossary/guan/)
+Main site page: [/glossary/guan/](https://daoismhub.com/glossary/guan/)
 
 Graph entity ID: `guan` - 6 direct relationships.
 

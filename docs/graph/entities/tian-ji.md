@@ -1,6 +1,6 @@
 # tian-ji
 
-Main site page: [/glossary/tian-ji/](https://dao-7g5.pages.dev/glossary/tian-ji/)
+Main site page: [/glossary/tian-ji/](https://daoismhub.com/glossary/tian-ji/)
 
 Graph entity ID: `tian-ji` - 12 direct relationships.
 

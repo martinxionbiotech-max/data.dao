@@ -1,6 +1,6 @@
 # exp-025-lying-down-innovation
 
-Main site page: [/experiences/exp-025-lying-down-innovation/](https://dao-7g5.pages.dev/experiences/exp-025-lying-down-innovation/)
+Main site page: [/experiences/exp-025-lying-down-innovation/](https://daoismhub.com/experiences/exp-025-lying-down-innovation/)
 
 Graph entity ID: `exp-025-lying-down-innovation` - 16 direct relationships.
 

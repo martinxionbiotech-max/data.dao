@@ -1,6 +1,6 @@
 # exp-024-standing-and-sitting
 
-Main site page: [/experiences/exp-024-standing-and-sitting/](https://dao-7g5.pages.dev/experiences/exp-024-standing-and-sitting/)
+Main site page: [/experiences/exp-024-standing-and-sitting/](https://daoismhub.com/experiences/exp-024-standing-and-sitting/)
 
 Graph entity ID: `exp-024-standing-and-sitting` - 11 direct relationships.
 

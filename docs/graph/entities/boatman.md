@@ -1,6 +1,6 @@
 # boatman
 
-Main site page: [/stories/boatman/](https://dao-7g5.pages.dev/stories/boatman/)
+Main site page: [/stories/boatman/](https://daoismhub.com/stories/boatman/)
 
 Graph entity ID: `boatman` - 6 direct relationships.
 

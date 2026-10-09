@@ -1,6 +1,6 @@
 # zuowang-vs-jingzuo
 
-Main site page: [/questions/zuowang-vs-jingzuo/](https://dao-7g5.pages.dev/questions/zuowang-vs-jingzuo/)
+Main site page: [/questions/zuowang-vs-jingzuo/](https://daoismhub.com/questions/zuowang-vs-jingzuo/)
 
 Graph entity ID: `zuowang-vs-jingzuo` - 1 direct relationships.
 

@@ -1,6 +1,6 @@
 # exp-011-shougong-protocol
 
-Main site page: [/experiences/exp-011-shougong-protocol/](https://dao-7g5.pages.dev/experiences/exp-011-shougong-protocol/)
+Main site page: [/experiences/exp-011-shougong-protocol/](https://daoismhub.com/experiences/exp-011-shougong-protocol/)
 
 Graph entity ID: `exp-011-shougong-protocol` - 4 direct relationships.
 

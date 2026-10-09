@@ -1,6 +1,6 @@
 # exp-006-leg-numbness
 
-Main site page: [/experiences/exp-006-leg-numbness/](https://dao-7g5.pages.dev/experiences/exp-006-leg-numbness/)
+Main site page: [/experiences/exp-006-leg-numbness/](https://daoismhub.com/experiences/exp-006-leg-numbness/)
 
 Graph entity ID: `exp-006-leg-numbness` - 4 direct relationships.
 

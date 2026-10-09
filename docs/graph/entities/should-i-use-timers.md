@@ -1,6 +1,6 @@
 # should-i-use-timers
 
-Main site page: [/questions/should-i-use-timers/](https://dao-7g5.pages.dev/questions/should-i-use-timers/)
+Main site page: [/questions/should-i-use-timers/](https://daoismhub.com/questions/should-i-use-timers/)
 
 Graph entity ID: `should-i-use-timers` - 8 direct relationships.
 

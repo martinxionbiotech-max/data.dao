@@ -1,6 +1,6 @@
 # zhaoche
 
-Main site page: [/glossary/zhaoche/](https://dao-7g5.pages.dev/glossary/zhaoche/)
+Main site page: [/glossary/zhaoche/](https://daoismhub.com/glossary/zhaoche/)
 
 Graph entity ID: `zhaoche` - 5 direct relationships.
 

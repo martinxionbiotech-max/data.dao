@@ -1,6 +1,6 @@
 # daodejing-06
 
-Main site page: [/translations/daodejing-06/](https://dao-7g5.pages.dev/translations/daodejing-06/)
+Main site page: [/translations/daodejing-06/](https://daoismhub.com/translations/daodejing-06/)
 
 Graph entity ID: `daodejing-06` - 8 direct relationships.
 

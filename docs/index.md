@@ -1,6 +1,6 @@
 # Dao Data
 
-Structured data hub for the [Dao knowledge base](https://dao-7g5.pages.dev/) — the machine-readable layer
+Structured data hub for the [Dao knowledge base](https://daoismhub.com/) — the machine-readable layer
 behind the knowledge graph.
 
 This site documents entities, relationships, sources and schemas. Data files live
@@ -38,7 +38,7 @@ published), graph edges in `relationships.json`, source records in `sources.json
 
 - **Experience system**: 32 anonymized experiences, 3 patterns,
   28 questions from Chinese community sources (see the source map in the main repo).
-- Main site: see [dao-7g5.pages.dev](https://dao-7g5.pages.dev/).
+- Main site: see [daoismhub.com](https://daoismhub.com/).
 
 ## What is here
 

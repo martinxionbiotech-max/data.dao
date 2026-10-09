@@ -1,6 +1,6 @@
 # heshang-gong-commentary
 
-Main site page: [/timeline/heshang-gong-commentary/](https://dao-7g5.pages.dev/timeline/heshang-gong-commentary/)
+Main site page: [/timeline/heshang-gong-commentary/](https://daoismhub.com/timeline/heshang-gong-commentary/)
 
 Graph entity ID: `heshang-gong-commentary` - 8 direct relationships.
 

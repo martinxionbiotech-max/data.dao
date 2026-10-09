@@ -1,6 +1,6 @@
 # mo-ruo-yi-ming
 
-Main site page: [/glossary/mo-ruo-yi-ming/](https://dao-7g5.pages.dev/glossary/mo-ruo-yi-ming/)
+Main site page: [/glossary/mo-ruo-yi-ming/](https://daoismhub.com/glossary/mo-ruo-yi-ming/)
 
 Graph entity ID: `mo-ruo-yi-ming` - 8 direct relationships.
 

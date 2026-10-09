@@ -1,6 +1,6 @@
 # chen-nan
 
-Main site page: [/people/chen-nan/](https://dao-7g5.pages.dev/people/chen-nan/)
+Main site page: [/people/chen-nan/](https://daoismhub.com/people/chen-nan/)
 
 Graph entity ID: `chen-nan` - 7 direct relationships.
 

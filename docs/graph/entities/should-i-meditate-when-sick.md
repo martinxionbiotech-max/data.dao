@@ -1,6 +1,6 @@
 # should-i-meditate-when-sick
 
-Main site page: [/questions/should-i-meditate-when-sick/](https://dao-7g5.pages.dev/questions/should-i-meditate-when-sick/)
+Main site page: [/questions/should-i-meditate-when-sick/](https://daoismhub.com/questions/should-i-meditate-when-sick/)
 
 Graph entity ID: `should-i-meditate-when-sick` - 9 direct relationships.
 

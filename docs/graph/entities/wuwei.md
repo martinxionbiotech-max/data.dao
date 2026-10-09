@@ -1,6 +1,6 @@
 # wuwei
 
-Main site page: [/glossary/wuwei/](https://dao-7g5.pages.dev/glossary/wuwei/)
+Main site page: [/glossary/wuwei/](https://daoismhub.com/glossary/wuwei/)
 
 Graph entity ID: `wuwei` - 51 direct relationships.
 

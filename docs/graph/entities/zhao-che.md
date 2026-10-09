@@ -1,6 +1,6 @@
 # zhao-che
 
-Main site page: [/glossary/zhao-che/](https://dao-7g5.pages.dev/glossary/zhao-che/)
+Main site page: [/glossary/zhao-che/](https://daoismhub.com/glossary/zhao-che/)
 
 Graph entity ID: `zhao-che` - 7 direct relationships.
 

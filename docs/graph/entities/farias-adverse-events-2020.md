@@ -1,6 +1,6 @@
 # farias-adverse-events-2020
 
-Main site page: [/research/farias-adverse-events-2020/](https://dao-7g5.pages.dev/research/farias-adverse-events-2020/)
+Main site page: [/research/farias-adverse-events-2020/](https://daoismhub.com/research/farias-adverse-events-2020/)
 
 Graph entity ID: `farias-adverse-events-2020` - 12 direct relationships.
 

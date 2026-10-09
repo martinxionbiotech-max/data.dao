@@ -1,6 +1,6 @@
 # zaccaro-2018
 
-Main site page: [/research/zaccaro-2018/](https://dao-7g5.pages.dev/research/zaccaro-2018/)
+Main site page: [/research/zaccaro-2018/](https://daoismhub.com/research/zaccaro-2018/)
 
 Graph entity ID: `zaccaro-2018` - 4 direct relationships.
 

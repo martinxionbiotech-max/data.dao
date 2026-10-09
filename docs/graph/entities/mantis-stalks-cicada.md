@@ -1,6 +1,6 @@
 # mantis-stalks-cicada
 
-Main site page: [/stories/mantis-stalks-cicada/](https://dao-7g5.pages.dev/stories/mantis-stalks-cicada/)
+Main site page: [/stories/mantis-stalks-cicada/](https://daoismhub.com/stories/mantis-stalks-cicada/)
 
 Graph entity ID: `mantis-stalks-cicada` - 7 direct relationships.
 

@@ -1,6 +1,6 @@
 # exp-007-digestive-release
 
-Main site page: [/experiences/exp-007-digestive-release/](https://dao-7g5.pages.dev/experiences/exp-007-digestive-release/)
+Main site page: [/experiences/exp-007-digestive-release/](https://daoismhub.com/experiences/exp-007-digestive-release/)
 
 Graph entity ID: `exp-007-digestive-release` - 4 direct relationships.
 

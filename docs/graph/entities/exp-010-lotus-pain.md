@@ -1,6 +1,6 @@
 # exp-010-lotus-pain
 
-Main site page: [/experiences/exp-010-lotus-pain/](https://dao-7g5.pages.dev/experiences/exp-010-lotus-pain/)
+Main site page: [/experiences/exp-010-lotus-pain/](https://daoismhub.com/experiences/exp-010-lotus-pain/)
 
 Graph entity ID: `exp-010-lotus-pain` - 10 direct relationships.
 

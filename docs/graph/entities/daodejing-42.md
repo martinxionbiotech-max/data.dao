@@ -1,6 +1,6 @@
 # daodejing-42
 
-Main site page: [/translations/daodejing-42/](https://dao-7g5.pages.dev/translations/daodejing-42/)
+Main site page: [/translations/daodejing-42/](https://daoismhub.com/translations/daodejing-42/)
 
 Graph entity ID: `daodejing-42` - 12 direct relationships.
 

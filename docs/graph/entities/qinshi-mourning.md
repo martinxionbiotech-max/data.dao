@@ -1,6 +1,6 @@
 # qinshi-mourning
 
-Main site page: [/stories/qinshi-mourning/](https://dao-7g5.pages.dev/stories/qinshi-mourning/)
+Main site page: [/stories/qinshi-mourning/](https://daoismhub.com/stories/qinshi-mourning/)
 
 Graph entity ID: `qinshi-mourning` - 10 direct relationships.
 

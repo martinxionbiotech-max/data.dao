@@ -1,6 +1,6 @@
 # wang-bi
 
-Main site page: [/people/wang-bi/](https://dao-7g5.pages.dev/people/wang-bi/)
+Main site page: [/people/wang-bi/](https://daoismhub.com/people/wang-bi/)
 
 Graph entity ID: `wang-bi` - 12 direct relationships.
 

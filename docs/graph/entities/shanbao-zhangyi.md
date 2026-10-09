@@ -1,6 +1,6 @@
 # shanbao-zhangyi
 
-Main site page: [/stories/shanbao-zhangyi/](https://dao-7g5.pages.dev/stories/shanbao-zhangyi/)
+Main site page: [/stories/shanbao-zhangyi/](https://daoismhub.com/stories/shanbao-zhangyi/)
 
 Graph entity ID: `shanbao-zhangyi` - 9 direct relationships.
 

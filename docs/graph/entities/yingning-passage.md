@@ -1,6 +1,6 @@
 # yingning-passage
 
-Main site page: [/translations/yingning-passage/](https://dao-7g5.pages.dev/translations/yingning-passage/)
+Main site page: [/translations/yingning-passage/](https://daoismhub.com/translations/yingning-passage/)
 
 Graph entity ID: `yingning-passage` - 8 direct relationships.
 

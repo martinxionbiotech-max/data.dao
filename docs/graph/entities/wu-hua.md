@@ -1,6 +1,6 @@
 # wu-hua
 
-Main site page: [/glossary/wu-hua/](https://dao-7g5.pages.dev/glossary/wu-hua/)
+Main site page: [/glossary/wu-hua/](https://daoismhub.com/glossary/wu-hua/)
 
 Graph entity ID: `wu-hua` - 8 direct relationships.
 

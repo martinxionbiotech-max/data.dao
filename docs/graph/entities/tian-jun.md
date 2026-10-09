@@ -1,6 +1,6 @@
 # tian-jun
 
-Main site page: [/glossary/tian-jun/](https://dao-7g5.pages.dev/glossary/tian-jun/)
+Main site page: [/glossary/tian-jun/](https://daoismhub.com/glossary/tian-jun/)
 
 Graph entity ID: `tian-jun` - 10 direct relationships.
 

@@ -1,6 +1,6 @@
 # exp-021-prostrations-channel-circuit
 
-Main site page: [/experiences/exp-021-prostrations-channel-circuit/](https://dao-7g5.pages.dev/experiences/exp-021-prostrations-channel-circuit/)
+Main site page: [/experiences/exp-021-prostrations-channel-circuit/](https://daoismhub.com/experiences/exp-021-prostrations-channel-circuit/)
 
 Graph entity ID: `exp-021-prostrations-channel-circuit` - 11 direct relationships.
 

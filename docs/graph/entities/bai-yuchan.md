@@ -1,6 +1,6 @@
 # bai-yuchan
 
-Main site page: [/people/bai-yuchan/](https://dao-7g5.pages.dev/people/bai-yuchan/)
+Main site page: [/people/bai-yuchan/](https://daoismhub.com/people/bai-yuchan/)
 
 Graph entity ID: `bai-yuchan` - 8 direct relationships.
 

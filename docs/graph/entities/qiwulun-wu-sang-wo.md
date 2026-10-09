@@ -1,6 +1,6 @@
 # qiwulun-wu-sang-wo
 
-Main site page: [/translations/qiwulun-wu-sang-wo/](https://dao-7g5.pages.dev/translations/qiwulun-wu-sang-wo/)
+Main site page: [/translations/qiwulun-wu-sang-wo/](https://daoismhub.com/translations/qiwulun-wu-sang-wo/)
 
 Graph entity ID: `qiwulun-wu-sang-wo` - 12 direct relationships.
 

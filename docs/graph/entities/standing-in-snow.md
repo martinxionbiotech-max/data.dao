@@ -1,6 +1,6 @@
 # standing-in-snow
 
-Main site page: [/stories/standing-in-snow/](https://dao-7g5.pages.dev/stories/standing-in-snow/)
+Main site page: [/stories/standing-in-snow/](https://daoismhub.com/stories/standing-in-snow/)
 
 Graph entity ID: `standing-in-snow` - 2 direct relationships.
 

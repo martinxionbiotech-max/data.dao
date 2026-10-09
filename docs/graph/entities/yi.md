@@ -1,6 +1,6 @@
 # yi
 
-Main site page: [/glossary/yi/](https://dao-7g5.pages.dev/glossary/yi/)
+Main site page: [/glossary/yi/](https://daoismhub.com/glossary/yi/)
 
 Graph entity ID: `yi` - 5 direct relationships.
 

@@ -1,6 +1,6 @@
 # what-is-neiguan
 
-Main site page: [/guides/what-is-neiguan/](https://dao-7g5.pages.dev/guides/what-is-neiguan/)
+Main site page: [/guides/what-is-neiguan/](https://daoismhub.com/guides/what-is-neiguan/)
 
 Graph entity ID: `what-is-neiguan` - 2 direct relationships.
 

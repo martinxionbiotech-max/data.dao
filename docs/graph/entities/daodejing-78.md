@@ -1,6 +1,6 @@
 # daodejing-78
 
-Main site page: [/translations/daodejing-78/](https://dao-7g5.pages.dev/translations/daodejing-78/)
+Main site page: [/translations/daodejing-78/](https://daoismhub.com/translations/daodejing-78/)
 
 Graph entity ID: `daodejing-78` - 4 direct relationships.
 

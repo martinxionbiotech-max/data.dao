@@ -1,6 +1,6 @@
 # yingning
 
-Main site page: [/glossary/yingning/](https://dao-7g5.pages.dev/glossary/yingning/)
+Main site page: [/glossary/yingning/](https://daoismhub.com/glossary/yingning/)
 
 Graph entity ID: `yingning` - 8 direct relationships.
 

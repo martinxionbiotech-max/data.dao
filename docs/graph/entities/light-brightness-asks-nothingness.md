@@ -1,6 +1,6 @@
 # light-brightness-asks-nothingness
 
-Main site page: [/stories/light-brightness-asks-nothingness/](https://dao-7g5.pages.dev/stories/light-brightness-asks-nothingness/)
+Main site page: [/stories/light-brightness-asks-nothingness/](https://daoismhub.com/stories/light-brightness-asks-nothingness/)
 
 Graph entity ID: `light-brightness-asks-nothingness` - 9 direct relationships.
 

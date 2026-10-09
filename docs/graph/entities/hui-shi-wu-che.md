@@ -1,6 +1,6 @@
 # hui-shi-wu-che
 
-Main site page: [/stories/hui-shi-wu-che/](https://dao-7g5.pages.dev/stories/hui-shi-wu-che/)
+Main site page: [/stories/hui-shi-wu-che/](https://daoismhub.com/stories/hui-shi-wu-che/)
 
 Graph entity ID: `hui-shi-wu-che` - 9 direct relationships.
 

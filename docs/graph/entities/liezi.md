@@ -1,6 +1,6 @@
 # liezi
 
-Main site page: [/texts/liezi/](https://dao-7g5.pages.dev/texts/liezi/)
+Main site page: [/texts/liezi/](https://daoismhub.com/texts/liezi/)
 
 Graph entity ID: `liezi` - 5 direct relationships.
 

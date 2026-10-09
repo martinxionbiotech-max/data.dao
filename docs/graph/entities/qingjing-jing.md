@@ -1,6 +1,6 @@
 # qingjing-jing
 
-Main site page: [/texts/qingjing-jing/](https://dao-7g5.pages.dev/texts/qingjing-jing/)
+Main site page: [/texts/qingjing-jing/](https://daoismhub.com/texts/qingjing-jing/)
 
 Graph entity ID: `qingjing-jing` - 10 direct relationships.
 

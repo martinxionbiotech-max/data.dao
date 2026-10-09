@@ -1,6 +1,6 @@
 # boshun-archer
 
-Main site page: [/stories/boshun-archer/](https://dao-7g5.pages.dev/stories/boshun-archer/)
+Main site page: [/stories/boshun-archer/](https://daoismhub.com/stories/boshun-archer/)
 
 Graph entity ID: `boshun-archer` - 7 direct relationships.
 

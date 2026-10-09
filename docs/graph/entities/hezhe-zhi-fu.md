@@ -1,6 +1,6 @@
 # hezhe-zhi-fu
 
-Main site page: [/stories/hezhe-zhi-fu/](https://dao-7g5.pages.dev/stories/hezhe-zhi-fu/)
+Main site page: [/stories/hezhe-zhi-fu/](https://daoismhub.com/stories/hezhe-zhi-fu/)
 
 Graph entity ID: `hezhe-zhi-fu` - 7 direct relationships.
 

@@ -1,6 +1,6 @@
 # de
 
-Main site page: [/glossary/de/](https://dao-7g5.pages.dev/glossary/de/)
+Main site page: [/glossary/de/](https://daoismhub.com/glossary/de/)
 
 Graph entity ID: `de` - 8 direct relationships.
 

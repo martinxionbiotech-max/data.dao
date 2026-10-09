@@ -1,6 +1,6 @@
 # wheelwright-bian
 
-Main site page: [/stories/wheelwright-bian/](https://dao-7g5.pages.dev/stories/wheelwright-bian/)
+Main site page: [/stories/wheelwright-bian/](https://daoismhub.com/stories/wheelwright-bian/)
 
 Graph entity ID: `wheelwright-bian` - 6 direct relationships.
 

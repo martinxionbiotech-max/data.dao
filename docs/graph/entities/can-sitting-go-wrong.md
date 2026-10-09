@@ -1,6 +1,6 @@
 # can-sitting-go-wrong
 
-Main site page: [/questions/can-sitting-go-wrong/](https://dao-7g5.pages.dev/questions/can-sitting-go-wrong/)
+Main site page: [/questions/can-sitting-go-wrong/](https://daoismhub.com/questions/can-sitting-go-wrong/)
 
 Graph entity ID: `can-sitting-go-wrong` - 3 direct relationships.
 

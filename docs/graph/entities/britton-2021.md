@@ -1,6 +1,6 @@
 # britton-2021
 
-Main site page: [/research/britton-2021/](https://dao-7g5.pages.dev/research/britton-2021/)
+Main site page: [/research/britton-2021/](https://daoismhub.com/research/britton-2021/)
 
 Graph entity ID: `britton-2021` - 5 direct relationships.
 

@@ -1,6 +1,6 @@
 # tan-chuduan
 
-Main site page: [/people/tan-chuduan/](https://dao-7g5.pages.dev/people/tan-chuduan/)
+Main site page: [/people/tan-chuduan/](https://daoismhub.com/people/tan-chuduan/)
 
 Graph entity ID: `tan-chuduan` - 5 direct relationships.
 

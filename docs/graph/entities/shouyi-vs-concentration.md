@@ -1,6 +1,6 @@
 # shouyi-vs-concentration
 
-Main site page: [/comparisons/shouyi-vs-concentration/](https://dao-7g5.pages.dev/comparisons/shouyi-vs-concentration/)
+Main site page: [/comparisons/shouyi-vs-concentration/](https://daoismhub.com/comparisons/shouyi-vs-concentration/)
 
 Graph entity ID: `shouyi-vs-concentration` - 1 direct relationships.
 

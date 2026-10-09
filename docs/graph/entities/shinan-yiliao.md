@@ -1,6 +1,6 @@
 # shinan-yiliao
 
-Main site page: [/stories/shinan-yiliao/](https://dao-7g5.pages.dev/stories/shinan-yiliao/)
+Main site page: [/stories/shinan-yiliao/](https://daoismhub.com/stories/shinan-yiliao/)
 
 Graph entity ID: `shinan-yiliao` - 12 direct relationships.
 

@@ -1,6 +1,6 @@
 # painter-unrobed
 
-Main site page: [/stories/painter-unrobed/](https://dao-7g5.pages.dev/stories/painter-unrobed/)
+Main site page: [/stories/painter-unrobed/](https://daoismhub.com/stories/painter-unrobed/)
 
 Graph entity ID: `painter-unrobed` - 4 direct relationships.
 

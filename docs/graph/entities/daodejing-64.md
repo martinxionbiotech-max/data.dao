@@ -1,6 +1,6 @@
 # daodejing-64
 
-Main site page: [/translations/daodejing-64/](https://dao-7g5.pages.dev/translations/daodejing-64/)
+Main site page: [/translations/daodejing-64/](https://daoismhub.com/translations/daodejing-64/)
 
 Graph entity ID: `daodejing-64` - 10 direct relationships.
 

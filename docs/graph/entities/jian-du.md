@@ -1,6 +1,6 @@
 # jian-du
 
-Main site page: [/glossary/jian-du/](https://dao-7g5.pages.dev/glossary/jian-du/)
+Main site page: [/glossary/jian-du/](https://daoismhub.com/glossary/jian-du/)
 
 Graph entity ID: `jian-du` - 7 direct relationships.
 

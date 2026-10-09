@@ -1,6 +1,6 @@
 # zhi-yan
 
-Main site page: [/stories/zhi-yan/](https://dao-7g5.pages.dev/stories/zhi-yan/)
+Main site page: [/stories/zhi-yan/](https://daoismhub.com/stories/zhi-yan/)
 
 Graph entity ID: `zhi-yan` - 13 direct relationships.
 

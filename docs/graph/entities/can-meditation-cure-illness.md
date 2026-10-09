@@ -1,6 +1,6 @@
 # can-meditation-cure-illness
 
-Main site page: [/questions/can-meditation-cure-illness/](https://dao-7g5.pages.dev/questions/can-meditation-cure-illness/)
+Main site page: [/questions/can-meditation-cure-illness/](https://daoismhub.com/questions/can-meditation-cure-illness/)
 
 Graph entity ID: `can-meditation-cure-illness` - 16 direct relationships.
 

@@ -1,6 +1,6 @@
 # ming
 
-Main site page: [/glossary/ming/](https://dao-7g5.pages.dev/glossary/ming/)
+Main site page: [/glossary/ming/](https://daoismhub.com/glossary/ming/)
 
 Graph entity ID: `ming` - 4 direct relationships.
 

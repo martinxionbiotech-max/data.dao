@@ -1,6 +1,6 @@
 # useless-gourd
 
-Main site page: [/stories/useless-gourd/](https://dao-7g5.pages.dev/stories/useless-gourd/)
+Main site page: [/stories/useless-gourd/](https://daoismhub.com/stories/useless-gourd/)
 
 Graph entity ID: `useless-gourd` - 12 direct relationships.
 

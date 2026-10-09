@@ -1,6 +1,6 @@
 # kou-qianzhi
 
-Main site page: [/people/kou-qianzhi/](https://dao-7g5.pages.dev/people/kou-qianzhi/)
+Main site page: [/people/kou-qianzhi/](https://daoismhub.com/people/kou-qianzhi/)
 
 Graph entity ID: `kou-qianzhi` - 6 direct relationships.
 

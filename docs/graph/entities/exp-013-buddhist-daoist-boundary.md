@@ -1,6 +1,6 @@
 # exp-013-buddhist-daoist-boundary
 
-Main site page: [/experiences/exp-013-buddhist-daoist-boundary/](https://dao-7g5.pages.dev/experiences/exp-013-buddhist-daoist-boundary/)
+Main site page: [/experiences/exp-013-buddhist-daoist-boundary/](https://daoismhub.com/experiences/exp-013-buddhist-daoist-boundary/)
 
 Graph entity ID: `exp-013-buddhist-daoist-boundary` - 9 direct relationships.
 

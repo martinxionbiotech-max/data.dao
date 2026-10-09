@@ -1,6 +1,6 @@
 # exp-016-nine-dhyanas-map
 
-Main site page: [/experiences/exp-016-nine-dhyanas-map/](https://dao-7g5.pages.dev/experiences/exp-016-nine-dhyanas-map/)
+Main site page: [/experiences/exp-016-nine-dhyanas-map/](https://daoismhub.com/experiences/exp-016-nine-dhyanas-map/)
 
 Graph entity ID: `exp-016-nine-dhyanas-map` - 16 direct relationships.
 

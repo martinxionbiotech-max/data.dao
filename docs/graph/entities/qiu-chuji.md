@@ -1,6 +1,6 @@
 # qiu-chuji
 
-Main site page: [/people/qiu-chuji/](https://dao-7g5.pages.dev/people/qiu-chuji/)
+Main site page: [/people/qiu-chuji/](https://daoismhub.com/people/qiu-chuji/)
 
 Graph entity ID: `qiu-chuji` - 13 direct relationships.
 

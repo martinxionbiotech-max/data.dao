@@ -1,6 +1,6 @@
 # wu-he-you-zhi-xiang
 
-Main site page: [/glossary/wu-he-you-zhi-xiang/](https://dao-7g5.pages.dev/glossary/wu-he-you-zhi-xiang/)
+Main site page: [/glossary/wu-he-you-zhi-xiang/](https://daoismhub.com/glossary/wu-he-you-zhi-xiang/)
 
 Graph entity ID: `wu-he-you-zhi-xiang` - 8 direct relationships.
 

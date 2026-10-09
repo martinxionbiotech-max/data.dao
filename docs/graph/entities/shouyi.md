@@ -1,6 +1,6 @@
 # shouyi
 
-Main site page: [/glossary/shouyi/](https://dao-7g5.pages.dev/glossary/shouyi/)
+Main site page: [/glossary/shouyi/](https://daoismhub.com/glossary/shouyi/)
 
 Graph entity ID: `shouyi` - 31 direct relationships.
 

@@ -1,6 +1,6 @@
 # xiao-zhiguan
 
-Main site page: [/texts/xiao-zhiguan/](https://dao-7g5.pages.dev/texts/xiao-zhiguan/)
+Main site page: [/texts/xiao-zhiguan/](https://daoismhub.com/texts/xiao-zhiguan/)
 
 Graph entity ID: `xiao-zhiguan` - 7 direct relationships.
 

@@ -1,6 +1,6 @@
 # exp-018-halflotus-to-full-lotus
 
-Main site page: [/experiences/exp-018-halflotus-to-full-lotus/](https://dao-7g5.pages.dev/experiences/exp-018-halflotus-to-full-lotus/)
+Main site page: [/experiences/exp-018-halflotus-to-full-lotus/](https://daoismhub.com/experiences/exp-018-halflotus-to-full-lotus/)
 
 Graph entity ID: `exp-018-halflotus-to-full-lotus` - 14 direct relationships.
 

@@ -1,6 +1,6 @@
 # wu-you
 
-Main site page: [/concepts/wu-you/](https://dao-7g5.pages.dev/concepts/wu-you/)
+Main site page: [/concepts/wu-you/](https://daoismhub.com/concepts/wu-you/)
 
 Graph entity ID: `wu-you` - 14 direct relationships.
 

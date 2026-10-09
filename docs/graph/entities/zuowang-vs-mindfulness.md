@@ -1,6 +1,6 @@
 # zuowang-vs-mindfulness
 
-Main site page: [/comparisons/zuowang-vs-mindfulness/](https://dao-7g5.pages.dev/comparisons/zuowang-vs-mindfulness/)
+Main site page: [/comparisons/zuowang-vs-mindfulness/](https://daoismhub.com/comparisons/zuowang-vs-mindfulness/)
 
 Graph entity ID: `zuowang-vs-mindfulness` - 2 direct relationships.
 

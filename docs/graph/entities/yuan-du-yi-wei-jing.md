@@ -1,6 +1,6 @@
 # yuan-du-yi-wei-jing
 
-Main site page: [/glossary/yuan-du-yi-wei-jing/](https://dao-7g5.pages.dev/glossary/yuan-du-yi-wei-jing/)
+Main site page: [/glossary/yuan-du-yi-wei-jing/](https://daoismhub.com/glossary/yuan-du-yi-wei-jing/)
 
 Graph entity ID: `yuan-du-yi-wei-jing` - 6 direct relationships.
 

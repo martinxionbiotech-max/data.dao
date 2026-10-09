@@ -1,6 +1,6 @@
 # how-to-read-daoist-meditation-texts
 
-Main site page: [/guides/how-to-read-daoist-meditation-texts/](https://dao-7g5.pages.dev/guides/how-to-read-daoist-meditation-texts/)
+Main site page: [/guides/how-to-read-daoist-meditation-texts/](https://daoismhub.com/guides/how-to-read-daoist-meditation-texts/)
 
 Graph entity ID: `how-to-read-daoist-meditation-texts` - 3 direct relationships.
 

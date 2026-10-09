@@ -1,6 +1,6 @@
 # cao-shang
 
-Main site page: [/stories/cao-shang/](https://dao-7g5.pages.dev/stories/cao-shang/)
+Main site page: [/stories/cao-shang/](https://daoismhub.com/stories/cao-shang/)
 
 Graph entity ID: `cao-shang` - 11 direct relationships.
 

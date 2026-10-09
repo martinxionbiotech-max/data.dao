@@ -1,6 +1,6 @@
 # diao-ling-yi-que
 
-Main site page: [/stories/diao-ling-yi-que/](https://dao-7g5.pages.dev/stories/diao-ling-yi-que/)
+Main site page: [/stories/diao-ling-yi-que/](https://daoismhub.com/stories/diao-ling-yi-que/)
 
 Graph entity ID: `diao-ling-yi-que` - 10 direct relationships.
 

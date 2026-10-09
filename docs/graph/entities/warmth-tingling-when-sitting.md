@@ -1,6 +1,6 @@
 # warmth-tingling-when-sitting
 
-Main site page: [/questions/warmth-tingling-when-sitting/](https://dao-7g5.pages.dev/questions/warmth-tingling-when-sitting/)
+Main site page: [/questions/warmth-tingling-when-sitting/](https://daoismhub.com/questions/warmth-tingling-when-sitting/)
 
 Graph entity ID: `warmth-tingling-when-sitting` - 8 direct relationships.
 

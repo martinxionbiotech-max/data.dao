@@ -1,6 +1,6 @@
 # how-long-until-results
 
-Main site page: [/questions/how-long-until-results/](https://dao-7g5.pages.dev/questions/how-long-until-results/)
+Main site page: [/questions/how-long-until-results/](https://daoismhub.com/questions/how-long-until-results/)
 
 Graph entity ID: `how-long-until-results` - 18 direct relationships.
 

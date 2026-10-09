@@ -1,6 +1,6 @@
 # huangting-jing-dantian
 
-Main site page: [/timeline/huangting-jing-dantian/](https://dao-7g5.pages.dev/timeline/huangting-jing-dantian/)
+Main site page: [/timeline/huangting-jing-dantian/](https://daoismhub.com/timeline/huangting-jing-dantian/)
 
 Graph entity ID: `huangting-jing-dantian` - 2 direct relationships.
 

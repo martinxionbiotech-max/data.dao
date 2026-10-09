@@ -1,6 +1,6 @@
 # zhang-boduan
 
-Main site page: [/people/zhang-boduan/](https://dao-7g5.pages.dev/people/zhang-boduan/)
+Main site page: [/people/zhang-boduan/](https://daoismhub.com/people/zhang-boduan/)
 
 Graph entity ID: `zhang-boduan` - 10 direct relationships.
 

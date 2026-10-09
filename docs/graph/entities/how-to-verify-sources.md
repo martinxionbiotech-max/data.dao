@@ -1,6 +1,6 @@
 # how-to-verify-sources
 
-Main site page: [/tools/how-to-verify-sources/](https://dao-7g5.pages.dev/tools/how-to-verify-sources/)
+Main site page: [/tools/how-to-verify-sources/](https://daoismhub.com/tools/how-to-verify-sources/)
 
 Graph entity ID: `how-to-verify-sources` - 1 direct relationships.
 

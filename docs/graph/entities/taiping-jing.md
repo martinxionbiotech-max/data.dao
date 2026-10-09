@@ -1,6 +1,6 @@
 # taiping-jing
 
-Main site page: [/texts/taiping-jing/](https://dao-7g5.pages.dev/texts/taiping-jing/)
+Main site page: [/texts/taiping-jing/](https://daoismhub.com/texts/taiping-jing/)
 
 Graph entity ID: `taiping-jing` - 8 direct relationships.
 

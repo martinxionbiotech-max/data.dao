@@ -1,6 +1,6 @@
 # zhiyi
 
-Main site page: [/people/zhiyi/](https://dao-7g5.pages.dev/people/zhiyi/)
+Main site page: [/people/zhiyi/](https://daoismhub.com/people/zhiyi/)
 
 Graph entity ID: `zhiyi` - 4 direct relationships.
 

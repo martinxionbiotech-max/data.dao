@@ -1,6 +1,6 @@
 # sitting-protocol
 
-Main site page: [/tools/sitting-protocol/](https://dao-7g5.pages.dev/tools/sitting-protocol/)
+Main site page: [/tools/sitting-protocol/](https://daoismhub.com/tools/sitting-protocol/)
 
 Graph entity ID: `sitting-protocol` - 6 direct relationships.
 

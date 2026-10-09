@@ -1,6 +1,6 @@
 # neiguan
 
-Main site page: [/glossary/neiguan/](https://dao-7g5.pages.dev/glossary/neiguan/)
+Main site page: [/glossary/neiguan/](https://daoismhub.com/glossary/neiguan/)
 
 Graph entity ID: `neiguan` - 14 direct relationships.
 

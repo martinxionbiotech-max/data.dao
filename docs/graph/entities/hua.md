@@ -1,6 +1,6 @@
 # hua
 
-Main site page: [/glossary/hua/](https://dao-7g5.pages.dev/glossary/hua/)
+Main site page: [/glossary/hua/](https://daoismhub.com/glossary/hua/)
 
 Graph entity ID: `hua` - 14 direct relationships.
 

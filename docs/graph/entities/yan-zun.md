@@ -1,6 +1,6 @@
 # yan-zun
 
-Main site page: [/people/yan-zun/](https://dao-7g5.pages.dev/people/yan-zun/)
+Main site page: [/people/yan-zun/](https://daoismhub.com/people/yan-zun/)
 
 Graph entity ID: `yan-zun` - 7 direct relationships.
 

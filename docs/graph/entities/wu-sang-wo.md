@@ -1,6 +1,6 @@
 # wu-sang-wo
 
-Main site page: [/glossary/wu-sang-wo/](https://dao-7g5.pages.dev/glossary/wu-sang-wo/)
+Main site page: [/glossary/wu-sang-wo/](https://daoismhub.com/glossary/wu-sang-wo/)
 
 Graph entity ID: `wu-sang-wo` - 14 direct relationships.
 

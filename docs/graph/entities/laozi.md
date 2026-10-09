@@ -1,6 +1,6 @@
 # laozi
 
-Main site page: [/people/laozi/](https://dao-7g5.pages.dev/people/laozi/)
+Main site page: [/people/laozi/](https://daoismhub.com/people/laozi/)
 
 Graph entity ID: `laozi` - 9 direct relationships.
 

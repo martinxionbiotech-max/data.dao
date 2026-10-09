@@ -1,6 +1,6 @@
 # wang-chuyi
 
-Main site page: [/people/wang-chuyi/](https://dao-7g5.pages.dev/people/wang-chuyi/)
+Main site page: [/people/wang-chuyi/](https://daoismhub.com/people/wang-chuyi/)
 
 Graph entity ID: `wang-chuyi` - 8 direct relationships.
 

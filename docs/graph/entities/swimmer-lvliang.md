@@ -1,6 +1,6 @@
 # swimmer-lvliang
 
-Main site page: [/stories/swimmer-lvliang/](https://dao-7g5.pages.dev/stories/swimmer-lvliang/)
+Main site page: [/stories/swimmer-lvliang/](https://daoismhub.com/stories/swimmer-lvliang/)
 
 Graph entity ID: `swimmer-lvliang` - 6 direct relationships.
 

@@ -1,6 +1,6 @@
 # forgetting-the-body-daoist-texts
 
-Main site page: [/problems/forgetting-the-body-daoist-texts/](https://dao-7g5.pages.dev/problems/forgetting-the-body-daoist-texts/)
+Main site page: [/problems/forgetting-the-body-daoist-texts/](https://daoismhub.com/problems/forgetting-the-body-daoist-texts/)
 
 Graph entity ID: `forgetting-the-body-daoist-texts` - 1 direct relationships.
 

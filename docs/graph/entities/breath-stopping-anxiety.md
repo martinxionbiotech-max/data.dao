@@ -1,6 +1,6 @@
 # breath-stopping-anxiety
 
-Main site page: [/problems/breath-stopping-anxiety/](https://dao-7g5.pages.dev/problems/breath-stopping-anxiety/)
+Main site page: [/problems/breath-stopping-anxiety/](https://daoismhub.com/problems/breath-stopping-anxiety/)
 
 Graph entity ID: `breath-stopping-anxiety` - 8 direct relationships.
 

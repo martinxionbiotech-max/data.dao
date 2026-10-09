@@ -1,6 +1,6 @@
 # yi-dai-niao
 
-Main site page: [/stories/yi-dai-niao/](https://dao-7g5.pages.dev/stories/yi-dai-niao/)
+Main site page: [/stories/yi-dai-niao/](https://daoismhub.com/stories/yi-dai-niao/)
 
 Graph entity ID: `yi-dai-niao` - 12 direct relationships.
 

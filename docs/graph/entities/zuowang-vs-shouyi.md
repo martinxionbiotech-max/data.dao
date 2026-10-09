@@ -1,6 +1,6 @@
 # zuowang-vs-shouyi
 
-Main site page: [/comparisons/zuowang-vs-shouyi/](https://dao-7g5.pages.dev/comparisons/zuowang-vs-shouyi/)
+Main site page: [/comparisons/zuowang-vs-shouyi/](https://daoismhub.com/comparisons/zuowang-vs-shouyi/)
 
 Graph entity ID: `zuowang-vs-shouyi` - 2 direct relationships.
 

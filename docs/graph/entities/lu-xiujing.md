@@ -1,6 +1,6 @@
 # lu-xiujing
 
-Main site page: [/people/lu-xiujing/](https://dao-7g5.pages.dev/people/lu-xiujing/)
+Main site page: [/people/lu-xiujing/](https://daoismhub.com/people/lu-xiujing/)
 
 Graph entity ID: `lu-xiujing` - 10 direct relationships.
 

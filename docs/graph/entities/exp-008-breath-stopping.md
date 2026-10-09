@@ -1,6 +1,6 @@
 # exp-008-breath-stopping
 
-Main site page: [/experiences/exp-008-breath-stopping/](https://dao-7g5.pages.dev/experiences/exp-008-breath-stopping/)
+Main site page: [/experiences/exp-008-breath-stopping/](https://daoismhub.com/experiences/exp-008-breath-stopping/)
 
 Graph entity ID: `exp-008-breath-stopping` - 6 direct relationships.
 

@@ -1,6 +1,6 @@
 # what-counts-as-progress
 
-Main site page: [/questions/what-counts-as-progress/](https://dao-7g5.pages.dev/questions/what-counts-as-progress/)
+Main site page: [/questions/what-counts-as-progress/](https://daoismhub.com/questions/what-counts-as-progress/)
 
 Graph entity ID: `what-counts-as-progress` - 30 direct relationships.
 

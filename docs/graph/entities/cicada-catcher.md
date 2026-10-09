@@ -1,6 +1,6 @@
 # cicada-catcher
 
-Main site page: [/stories/cicada-catcher/](https://dao-7g5.pages.dev/stories/cicada-catcher/)
+Main site page: [/stories/cicada-catcher/](https://daoismhub.com/stories/cicada-catcher/)
 
 Graph entity ID: `cicada-catcher` - 7 direct relationships.
 

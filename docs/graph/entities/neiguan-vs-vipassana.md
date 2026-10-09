@@ -1,6 +1,6 @@
 # neiguan-vs-vipassana
 
-Main site page: [/comparisons/neiguan-vs-vipassana/](https://dao-7g5.pages.dev/comparisons/neiguan-vs-vipassana/)
+Main site page: [/comparisons/neiguan-vs-vipassana/](https://daoismhub.com/comparisons/neiguan-vs-vipassana/)
 
 Graph entity ID: `neiguan-vs-vipassana` - 1 direct relationships.
 

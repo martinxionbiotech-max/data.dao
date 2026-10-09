@@ -1,6 +1,6 @@
 # dantian
 
-Main site page: [/glossary/dantian/](https://dao-7g5.pages.dev/glossary/dantian/)
+Main site page: [/glossary/dantian/](https://daoismhub.com/glossary/dantian/)
 
 Graph entity ID: `dantian` - 8 direct relationships.
 

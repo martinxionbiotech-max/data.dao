@@ -1,6 +1,6 @@
 # marsh-pheasant
 
-Main site page: [/stories/marsh-pheasant/](https://dao-7g5.pages.dev/stories/marsh-pheasant/)
+Main site page: [/stories/marsh-pheasant/](https://daoismhub.com/stories/marsh-pheasant/)
 
 Graph entity ID: `marsh-pheasant` - 10 direct relationships.
 

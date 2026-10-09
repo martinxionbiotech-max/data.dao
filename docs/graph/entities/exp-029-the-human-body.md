@@ -1,6 +1,6 @@
 # exp-029-the-human-body
 
-Main site page: [/experiences/exp-029-the-human-body/](https://dao-7g5.pages.dev/experiences/exp-029-the-human-body/)
+Main site page: [/experiences/exp-029-the-human-body/](https://daoismhub.com/experiences/exp-029-the-human-body/)
 
 Graph entity ID: `exp-029-the-human-body` - 14 direct relationships.
 

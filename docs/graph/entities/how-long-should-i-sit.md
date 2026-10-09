@@ -1,6 +1,6 @@
 # how-long-should-i-sit
 
-Main site page: [/questions/how-long-should-i-sit/](https://dao-7g5.pages.dev/questions/how-long-should-i-sit/)
+Main site page: [/questions/how-long-should-i-sit/](https://daoismhub.com/questions/how-long-should-i-sit/)
 
 Graph entity ID: `how-long-should-i-sit` - 13 direct relationships.
 

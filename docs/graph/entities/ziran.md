@@ -1,6 +1,6 @@
 # ziran
 
-Main site page: [/concepts/ziran/](https://dao-7g5.pages.dev/concepts/ziran/)
+Main site page: [/concepts/ziran/](https://daoismhub.com/concepts/ziran/)
 
 Graph entity ID: `ziran` - 66 direct relationships.
 

@@ -1,6 +1,6 @@
 # jing
 
-Main site page: [/concepts/jing/](https://dao-7g5.pages.dev/concepts/jing/)
+Main site page: [/concepts/jing/](https://daoismhub.com/concepts/jing/)
 
 Graph entity ID: `jing` - 21 direct relationships.
 

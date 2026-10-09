@@ -1,6 +1,6 @@
 # peng-bird
 
-Main site page: [/stories/peng-bird/](https://dao-7g5.pages.dev/stories/peng-bird/)
+Main site page: [/stories/peng-bird/](https://daoismhub.com/stories/peng-bird/)
 
 Graph entity ID: `peng-bird` - 14 direct relationships.
 

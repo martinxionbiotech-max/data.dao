@@ -1,6 +1,6 @@
 # wooden-rooster-passage
 
-Main site page: [/translations/wooden-rooster-passage/](https://dao-7g5.pages.dev/translations/wooden-rooster-passage/)
+Main site page: [/translations/wooden-rooster-passage/](https://daoismhub.com/translations/wooden-rooster-passage/)
 
 Graph entity ID: `wooden-rooster-passage` - 3 direct relationships.
 

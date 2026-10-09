@@ -1,6 +1,6 @@
 # ran-qiu-asks-zhongni
 
-Main site page: [/stories/ran-qiu-asks-zhongni/](https://dao-7g5.pages.dev/stories/ran-qiu-asks-zhongni/)
+Main site page: [/stories/ran-qiu-asks-zhongni/](https://daoismhub.com/stories/ran-qiu-asks-zhongni/)
 
 Graph entity ID: `ran-qiu-asks-zhongni` - 10 direct relationships.
 

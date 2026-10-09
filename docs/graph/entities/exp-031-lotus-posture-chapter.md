@@ -1,6 +1,6 @@
 # exp-031-lotus-posture-chapter
 
-Main site page: [/experiences/exp-031-lotus-posture-chapter/](https://dao-7g5.pages.dev/experiences/exp-031-lotus-posture-chapter/)
+Main site page: [/experiences/exp-031-lotus-posture-chapter/](https://daoismhub.com/experiences/exp-031-lotus-posture-chapter/)
 
 Graph entity ID: `exp-031-lotus-posture-chapter` - 13 direct relationships.
 

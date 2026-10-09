@@ -1,6 +1,6 @@
 # jing-qi-shen
 
-Main site page: [/glossary/jing-qi-shen/](https://dao-7g5.pages.dev/glossary/jing-qi-shen/)
+Main site page: [/glossary/jing-qi-shen/](https://daoismhub.com/glossary/jing-qi-shen/)
 
 Graph entity ID: `jing-qi-shen` - 10 direct relationships.
 

@@ -1,6 +1,6 @@
 # butterfly-dream
 
-Main site page: [/stories/butterfly-dream/](https://dao-7g5.pages.dev/stories/butterfly-dream/)
+Main site page: [/stories/butterfly-dream/](https://daoismhub.com/stories/butterfly-dream/)
 
 Graph entity ID: `butterfly-dream` - 12 direct relationships.
 

@@ -1,6 +1,6 @@
 # does-daoism-believe-in-a-creator
 
-Main site page: [/questions/does-daoism-believe-in-a-creator/](https://dao-7g5.pages.dev/questions/does-daoism-believe-in-a-creator/)
+Main site page: [/questions/does-daoism-believe-in-a-creator/](https://daoismhub.com/questions/does-daoism-believe-in-a-creator/)
 
 Graph entity ID: `does-daoism-believe-in-a-creator` - 12 direct relationships.
 

@@ -1,6 +1,6 @@
 # ji-ren
 
-Main site page: [/glossary/ji-ren/](https://dao-7g5.pages.dev/glossary/ji-ren/)
+Main site page: [/glossary/ji-ren/](https://daoismhub.com/glossary/ji-ren/)
 
 Graph entity ID: `ji-ren` - 4 direct relationships.
 

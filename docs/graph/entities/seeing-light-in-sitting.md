@@ -1,6 +1,6 @@
 # seeing-light-in-sitting
 
-Main site page: [/problems/seeing-light-in-sitting/](https://dao-7g5.pages.dev/problems/seeing-light-in-sitting/)
+Main site page: [/problems/seeing-light-in-sitting/](https://daoismhub.com/problems/seeing-light-in-sitting/)
 
 Graph entity ID: `seeing-light-in-sitting` - 10 direct relationships.
 

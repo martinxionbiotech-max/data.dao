@@ -1,6 +1,6 @@
 # zhuangzi
 
-Main site page: [/texts/zhuangzi/](https://dao-7g5.pages.dev/texts/zhuangzi/)
+Main site page: [/texts/zhuangzi/](https://daoismhub.com/texts/zhuangzi/)
 
 Graph entity ID: `zhuangzi` - 123 direct relationships.
 

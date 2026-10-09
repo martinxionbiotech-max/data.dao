@@ -1,6 +1,6 @@
 # exp-019-one-remedy-body
 
-Main site page: [/experiences/exp-019-one-remedy-body/](https://dao-7g5.pages.dev/experiences/exp-019-one-remedy-body/)
+Main site page: [/experiences/exp-019-one-remedy-body/](https://daoismhub.com/experiences/exp-019-one-remedy-body/)
 
 Graph entity ID: `exp-019-one-remedy-body` - 7 direct relationships.
 

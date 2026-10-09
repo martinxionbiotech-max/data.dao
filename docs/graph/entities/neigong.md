@@ -1,6 +1,6 @@
 # neigong
 
-Main site page: [/glossary/neigong/](https://dao-7g5.pages.dev/glossary/neigong/)
+Main site page: [/glossary/neigong/](https://daoismhub.com/glossary/neigong/)
 
 Graph entity ID: `neigong` - 3 direct relationships.
 

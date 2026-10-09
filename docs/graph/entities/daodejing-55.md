@@ -1,6 +1,6 @@
 # daodejing-55
 
-Main site page: [/translations/daodejing-55/](https://dao-7g5.pages.dev/translations/daodejing-55/)
+Main site page: [/translations/daodejing-55/](https://daoismhub.com/translations/daodejing-55/)
 
 Graph entity ID: `daodejing-55` - 7 direct relationships.
 

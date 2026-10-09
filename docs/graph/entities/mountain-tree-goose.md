@@ -1,6 +1,6 @@
 # mountain-tree-goose
 
-Main site page: [/stories/mountain-tree-goose/](https://dao-7g5.pages.dev/stories/mountain-tree-goose/)
+Main site page: [/stories/mountain-tree-goose/](https://daoismhub.com/stories/mountain-tree-goose/)
 
 Graph entity ID: `mountain-tree-goose` - 13 direct relationships.
 

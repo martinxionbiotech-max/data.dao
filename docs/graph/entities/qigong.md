@@ -1,6 +1,6 @@
 # qigong
 
-Main site page: [/glossary/qigong/](https://dao-7g5.pages.dev/glossary/qigong/)
+Main site page: [/glossary/qigong/](https://daoismhub.com/glossary/qigong/)
 
 Graph entity ID: `qigong` - 1 direct relationships.
 

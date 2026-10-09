@@ -1,6 +1,6 @@
 # daoist-vs-buddhist-meditation
 
-Main site page: [/comparisons/daoist-vs-buddhist-meditation/](https://dao-7g5.pages.dev/comparisons/daoist-vs-buddhist-meditation/)
+Main site page: [/comparisons/daoist-vs-buddhist-meditation/](https://daoismhub.com/comparisons/daoist-vs-buddhist-meditation/)
 
 Graph entity ID: `daoist-vs-buddhist-meditation` - 4 direct relationships.
 

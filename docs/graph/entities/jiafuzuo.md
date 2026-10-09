@@ -1,6 +1,6 @@
 # jiafuzuo
 
-Main site page: [/glossary/jiafuzuo/](https://dao-7g5.pages.dev/glossary/jiafuzuo/)
+Main site page: [/glossary/jiafuzuo/](https://daoismhub.com/glossary/jiafuzuo/)
 
 Graph entity ID: `jiafuzuo` - 4 direct relationships.
 

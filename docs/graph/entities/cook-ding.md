@@ -1,6 +1,6 @@
 # cook-ding
 
-Main site page: [/stories/cook-ding/](https://dao-7g5.pages.dev/stories/cook-ding/)
+Main site page: [/stories/cook-ding/](https://daoismhub.com/stories/cook-ding/)
 
 Graph entity ID: `cook-ding` - 6 direct relationships.
 

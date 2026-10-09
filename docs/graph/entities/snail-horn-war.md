@@ -1,6 +1,6 @@
 # snail-horn-war
 
-Main site page: [/stories/snail-horn-war/](https://dao-7g5.pages.dev/stories/snail-horn-war/)
+Main site page: [/stories/snail-horn-war/](https://daoismhub.com/stories/snail-horn-war/)
 
 Graph entity ID: `snail-horn-war` - 4 direct relationships.
 

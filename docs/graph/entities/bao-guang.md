@@ -1,6 +1,6 @@
 # bao-guang
 
-Main site page: [/glossary/bao-guang/](https://dao-7g5.pages.dev/glossary/bao-guang/)
+Main site page: [/glossary/bao-guang/](https://daoismhub.com/glossary/bao-guang/)
 
 Graph entity ID: `bao-guang` - 13 direct relationships.
 

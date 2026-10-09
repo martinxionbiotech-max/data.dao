@@ -1,6 +1,6 @@
 # ji-xin
 
-Main site page: [/glossary/ji-xin/](https://dao-7g5.pages.dev/glossary/ji-xin/)
+Main site page: [/glossary/ji-xin/](https://daoismhub.com/glossary/ji-xin/)
 
 Graph entity ID: `ji-xin` - 6 direct relationships.
 

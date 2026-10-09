@@ -1,6 +1,6 @@
 # map-of-chinese-contemplative-traditions
 
-Main site page: [/guides/map-of-chinese-contemplative-traditions/](https://dao-7g5.pages.dev/guides/map-of-chinese-contemplative-traditions/)
+Main site page: [/guides/map-of-chinese-contemplative-traditions/](https://daoismhub.com/guides/map-of-chinese-contemplative-traditions/)
 
 Graph entity ID: `map-of-chinese-contemplative-traditions` - 6 direct relationships.
 

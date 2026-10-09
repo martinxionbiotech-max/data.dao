@@ -1,6 +1,6 @@
 # xinzhai
 
-Main site page: [/glossary/xinzhai/](https://dao-7g5.pages.dev/glossary/xinzhai/)
+Main site page: [/glossary/xinzhai/](https://daoismhub.com/glossary/xinzhai/)
 
 Graph entity ID: `xinzhai` - 23 direct relationships.
 

@@ -1,6 +1,6 @@
 # yun-jin-cheng-feng
 
-Main site page: [/stories/yun-jin-cheng-feng/](https://dao-7g5.pages.dev/stories/yun-jin-cheng-feng/)
+Main site page: [/stories/yun-jin-cheng-feng/](https://daoismhub.com/stories/yun-jin-cheng-feng/)
 
 Graph entity ID: `yun-jin-cheng-feng` - 7 direct relationships.
 

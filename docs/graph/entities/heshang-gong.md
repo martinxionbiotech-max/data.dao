@@ -1,6 +1,6 @@
 # heshang-gong
 
-Main site page: [/people/heshang-gong/](https://dao-7g5.pages.dev/people/heshang-gong/)
+Main site page: [/people/heshang-gong/](https://daoismhub.com/people/heshang-gong/)
 
 Graph entity ID: `heshang-gong` - 10 direct relationships.
 

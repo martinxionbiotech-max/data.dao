@@ -1,6 +1,6 @@
 # is-one-style-enough
 
-Main site page: [/questions/is-one-style-enough/](https://dao-7g5.pages.dev/questions/is-one-style-enough/)
+Main site page: [/questions/is-one-style-enough/](https://daoismhub.com/questions/is-one-style-enough/)
 
 Graph entity ID: `is-one-style-enough` - 8 direct relationships.
 

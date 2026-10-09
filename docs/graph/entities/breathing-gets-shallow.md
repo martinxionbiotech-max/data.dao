@@ -1,6 +1,6 @@
 # breathing-gets-shallow
 
-Main site page: [/problems/breathing-gets-shallow/](https://dao-7g5.pages.dev/problems/breathing-gets-shallow/)
+Main site page: [/problems/breathing-gets-shallow/](https://daoismhub.com/problems/breathing-gets-shallow/)
 
 Graph entity ID: `breathing-gets-shallow` - 3 direct relationships.
 

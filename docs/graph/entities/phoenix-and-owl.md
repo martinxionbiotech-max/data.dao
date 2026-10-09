@@ -1,6 +1,6 @@
 # phoenix-and-owl
 
-Main site page: [/stories/phoenix-and-owl/](https://dao-7g5.pages.dev/stories/phoenix-and-owl/)
+Main site page: [/stories/phoenix-and-owl/](https://daoismhub.com/stories/phoenix-and-owl/)
 
 Graph entity ID: `phoenix-and-owl` - 11 direct relationships.
 

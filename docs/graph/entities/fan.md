@@ -1,6 +1,6 @@
 # fan
 
-Main site page: [/concepts/fan/](https://dao-7g5.pages.dev/concepts/fan/)
+Main site page: [/concepts/fan/](https://daoismhub.com/concepts/fan/)
 
 Graph entity ID: `fan` - 11 direct relationships.
 

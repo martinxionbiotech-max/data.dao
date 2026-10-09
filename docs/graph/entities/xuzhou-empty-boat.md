@@ -1,6 +1,6 @@
 # xuzhou-empty-boat
 
-Main site page: [/stories/xuzhou-empty-boat/](https://dao-7g5.pages.dev/stories/xuzhou-empty-boat/)
+Main site page: [/stories/xuzhou-empty-boat/](https://daoismhub.com/stories/xuzhou-empty-boat/)
 
 Graph entity ID: `xuzhou-empty-boat` - 15 direct relationships.
 

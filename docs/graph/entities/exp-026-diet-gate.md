@@ -1,6 +1,6 @@
 # exp-026-diet-gate
 
-Main site page: [/experiences/exp-026-diet-gate/](https://dao-7g5.pages.dev/experiences/exp-026-diet-gate/)
+Main site page: [/experiences/exp-026-diet-gate/](https://daoismhub.com/experiences/exp-026-diet-gate/)
 
 Graph entity ID: `exp-026-diet-gate` - 10 direct relationships.
 

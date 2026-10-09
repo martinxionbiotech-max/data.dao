@@ -1,6 +1,6 @@
 # xu
 
-Main site page: [/concepts/xu/](https://dao-7g5.pages.dev/concepts/xu/)
+Main site page: [/concepts/xu/](https://daoismhub.com/concepts/xu/)
 
 Graph entity ID: `xu` - 39 direct relationships.
 

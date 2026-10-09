@@ -1,6 +1,6 @@
 # virtual-room-passage
 
-Main site page: [/translations/virtual-room-passage/](https://dao-7g5.pages.dev/translations/virtual-room-passage/)
+Main site page: [/translations/virtual-room-passage/](https://daoismhub.com/translations/virtual-room-passage/)
 
 Graph entity ID: `virtual-room-passage` - 4 direct relationships.
 

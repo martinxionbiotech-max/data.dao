@@ -1,6 +1,6 @@
 # shangqing-revelations
 
-Main site page: [/timeline/shangqing-revelations/](https://dao-7g5.pages.dev/timeline/shangqing-revelations/)
+Main site page: [/timeline/shangqing-revelations/](https://daoismhub.com/timeline/shangqing-revelations/)
 
 Graph entity ID: `shangqing-revelations` - 8 direct relationships.
 

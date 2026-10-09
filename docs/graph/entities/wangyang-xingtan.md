@@ -1,6 +1,6 @@
 # wangyang-xingtan
 
-Main site page: [/stories/wangyang-xingtan/](https://dao-7g5.pages.dev/stories/wangyang-xingtan/)
+Main site page: [/stories/wangyang-xingtan/](https://daoismhub.com/stories/wangyang-xingtan/)
 
 Graph entity ID: `wangyang-xingtan` - 6 direct relationships.
 

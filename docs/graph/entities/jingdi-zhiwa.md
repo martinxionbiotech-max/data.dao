@@ -1,6 +1,6 @@
 # jingdi-zhiwa
 
-Main site page: [/stories/jingdi-zhiwa/](https://dao-7g5.pages.dev/stories/jingdi-zhiwa/)
+Main site page: [/stories/jingdi-zhiwa/](https://daoismhub.com/stories/jingdi-zhiwa/)
 
 Graph entity ID: `jingdi-zhiwa` - 7 direct relationships.
 

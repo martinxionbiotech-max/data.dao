@@ -1,6 +1,6 @@
 # zuowang
 
-Main site page: [/glossary/zuowang/](https://dao-7g5.pages.dev/glossary/zuowang/)
+Main site page: [/glossary/zuowang/](https://daoismhub.com/glossary/zuowang/)
 
 Graph entity ID: `zuowang` - 61 direct relationships.
 

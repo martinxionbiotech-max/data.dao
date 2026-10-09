@@ -1,6 +1,6 @@
 # four-friends
 
-Main site page: [/stories/four-friends/](https://dao-7g5.pages.dev/stories/four-friends/)
+Main site page: [/stories/four-friends/](https://daoismhub.com/stories/four-friends/)
 
 Graph entity ID: `four-friends` - 13 direct relationships.
 

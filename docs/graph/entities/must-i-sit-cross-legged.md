@@ -1,6 +1,6 @@
 # must-i-sit-cross-legged
 
-Main site page: [/questions/must-i-sit-cross-legged/](https://dao-7g5.pages.dev/questions/must-i-sit-cross-legged/)
+Main site page: [/questions/must-i-sit-cross-legged/](https://daoismhub.com/questions/must-i-sit-cross-legged/)
 
 Graph entity ID: `must-i-sit-cross-legged` - 14 direct relationships.
 

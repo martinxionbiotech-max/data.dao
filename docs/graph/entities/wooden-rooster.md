@@ -1,6 +1,6 @@
 # wooden-rooster
 
-Main site page: [/stories/wooden-rooster/](https://dao-7g5.pages.dev/stories/wooden-rooster/)
+Main site page: [/stories/wooden-rooster/](https://daoismhub.com/stories/wooden-rooster/)
 
 Graph entity ID: `wooden-rooster` - 6 direct relationships.
 

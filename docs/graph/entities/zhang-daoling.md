@@ -1,6 +1,6 @@
 # zhang-daoling
 
-Main site page: [/people/zhang-daoling/](https://dao-7g5.pages.dev/people/zhang-daoling/)
+Main site page: [/people/zhang-daoling/](https://daoismhub.com/people/zhang-daoling/)
 
 Graph entity ID: `zhang-daoling` - 12 direct relationships.
 

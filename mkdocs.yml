@@ -1,6 +1,6 @@
 site_name: Dao Data
 site_description: Structured data hub for the Dao knowledge base — entities, relationships, sources and schemas
-site_url: https://data-dao.pages.dev/
+site_url: https://data.daoismhub.com/
 theme:
   name: material
   features:

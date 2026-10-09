@@ -1,6 +1,6 @@
 # breath-retention-daoist
 
-Main site page: [/problems/breath-retention-daoist/](https://dao-7g5.pages.dev/problems/breath-retention-daoist/)
+Main site page: [/problems/breath-retention-daoist/](https://daoismhub.com/problems/breath-retention-daoist/)
 
 Graph entity ID: `breath-retention-daoist` - 1 direct relationships.
 

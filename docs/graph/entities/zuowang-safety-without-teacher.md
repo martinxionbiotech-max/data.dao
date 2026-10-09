@@ -1,6 +1,6 @@
 # zuowang-safety-without-teacher
 
-Main site page: [/questions/zuowang-safety-without-teacher/](https://dao-7g5.pages.dev/questions/zuowang-safety-without-teacher/)
+Main site page: [/questions/zuowang-safety-without-teacher/](https://daoismhub.com/questions/zuowang-safety-without-teacher/)
 
 Graph entity ID: `zuowang-safety-without-teacher` - 4 direct relationships.
 

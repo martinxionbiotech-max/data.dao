@@ -1,6 +1,6 @@
 # wandering-mind-in-sitting
 
-Main site page: [/problems/wandering-mind-in-sitting/](https://dao-7g5.pages.dev/problems/wandering-mind-in-sitting/)
+Main site page: [/problems/wandering-mind-in-sitting/](https://daoismhub.com/problems/wandering-mind-in-sitting/)
 
 Graph entity ID: `wandering-mind-in-sitting` - 3 direct relationships.
 

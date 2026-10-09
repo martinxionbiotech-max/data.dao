@@ -1,6 +1,6 @@
 # huangting-jing
 
-Main site page: [/texts/huangting-jing/](https://dao-7g5.pages.dev/texts/huangting-jing/)
+Main site page: [/texts/huangting-jing/](https://daoismhub.com/texts/huangting-jing/)
 
 Graph entity ID: `huangting-jing` - 6 direct relationships.
 

@@ -1,6 +1,6 @@
 # tiaoxi
 
-Main site page: [/glossary/tiaoxi/](https://dao-7g5.pages.dev/glossary/tiaoxi/)
+Main site page: [/glossary/tiaoxi/](https://daoismhub.com/glossary/tiaoxi/)
 
 Graph entity ID: `tiaoxi` - 27 direct relationships.
 

@@ -1,6 +1,6 @@
 # fish-in-the-dry-spring
 
-Main site page: [/stories/fish-in-the-dry-spring/](https://dao-7g5.pages.dev/stories/fish-in-the-dry-spring/)
+Main site page: [/stories/fish-in-the-dry-spring/](https://daoismhub.com/stories/fish-in-the-dry-spring/)
 
 Graph entity ID: `fish-in-the-dry-spring` - 8 direct relationships.
 

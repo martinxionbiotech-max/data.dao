@@ -1,6 +1,6 @@
 # how-do-i-know-my-posture-is-right
 
-Main site page: [/questions/how-do-i-know-my-posture-is-right/](https://dao-7g5.pages.dev/questions/how-do-i-know-my-posture-is-right/)
+Main site page: [/questions/how-do-i-know-my-posture-is-right/](https://daoismhub.com/questions/how-do-i-know-my-posture-is-right/)
 
 Graph entity ID: `how-do-i-know-my-posture-is-right` - 6 direct relationships.
 

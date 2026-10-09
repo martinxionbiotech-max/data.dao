@@ -1,6 +1,6 @@
 # leg-numbness-pain
 
-Main site page: [/patterns/leg-numbness-pain/](https://dao-7g5.pages.dev/patterns/leg-numbness-pain/)
+Main site page: [/patterns/leg-numbness-pain/](https://daoismhub.com/patterns/leg-numbness-pain/)
 
 Graph entity ID: `leg-numbness-pain` - 4 direct relationships.
 

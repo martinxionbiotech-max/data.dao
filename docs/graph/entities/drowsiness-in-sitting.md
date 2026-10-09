@@ -1,6 +1,6 @@
 # drowsiness-in-sitting
 
-Main site page: [/problems/drowsiness-in-sitting/](https://dao-7g5.pages.dev/problems/drowsiness-in-sitting/)
+Main site page: [/problems/drowsiness-in-sitting/](https://daoismhub.com/problems/drowsiness-in-sitting/)
 
 Graph entity ID: `drowsiness-in-sitting` - 9 direct relationships.
 

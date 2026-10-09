@@ -1,6 +1,6 @@
 # tao-hongjing
 
-Main site page: [/people/tao-hongjing/](https://dao-7g5.pages.dev/people/tao-hongjing/)
+Main site page: [/people/tao-hongjing/](https://daoismhub.com/people/tao-hongjing/)
 
 Graph entity ID: `tao-hongjing` - 7 direct relationships.
 

@@ -1,6 +1,6 @@
 # fu-yi
 
-Main site page: [/people/fu-yi/](https://dao-7g5.pages.dev/people/fu-yi/)
+Main site page: [/people/fu-yi/](https://daoismhub.com/people/fu-yi/)
 
 Graph entity ID: `fu-yi` - 6 direct relationships.
 

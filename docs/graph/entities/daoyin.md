@@ -1,6 +1,6 @@
 # daoyin
 
-Main site page: [/glossary/daoyin/](https://dao-7g5.pages.dev/glossary/daoyin/)
+Main site page: [/glossary/daoyin/](https://daoismhub.com/glossary/daoyin/)
 
 Graph entity ID: `daoyin` - 3 direct relationships.
 

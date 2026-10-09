@@ -1,6 +1,6 @@
 # cunsi
 
-Main site page: [/practices/cunsi/](https://dao-7g5.pages.dev/practices/cunsi/)
+Main site page: [/practices/cunsi/](https://daoismhub.com/practices/cunsi/)
 
 Graph entity ID: `cunsi` - 11 direct relationships.
 

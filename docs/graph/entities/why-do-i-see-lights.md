@@ -1,6 +1,6 @@
 # why-do-i-see-lights
 
-Main site page: [/questions/why-do-i-see-lights/](https://dao-7g5.pages.dev/questions/why-do-i-see-lights/)
+Main site page: [/questions/why-do-i-see-lights/](https://daoismhub.com/questions/why-do-i-see-lights/)
 
 Graph entity ID: `why-do-i-see-lights` - 7 direct relationships.
 

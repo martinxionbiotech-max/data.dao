@@ -1,6 +1,6 @@
 # tuoyue
 
-Main site page: [/glossary/tuoyue/](https://dao-7g5.pages.dev/glossary/tuoyue/)
+Main site page: [/glossary/tuoyue/](https://daoismhub.com/glossary/tuoyue/)
 
 Graph entity ID: `tuoyue` - 6 direct relationships.
 

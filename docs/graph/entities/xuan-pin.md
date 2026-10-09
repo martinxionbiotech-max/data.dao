@@ -1,6 +1,6 @@
 # xuan-pin
 
-Main site page: [/glossary/xuan-pin/](https://dao-7g5.pages.dev/glossary/xuan-pin/)
+Main site page: [/glossary/xuan-pin/](https://daoismhub.com/glossary/xuan-pin/)
 
 Graph entity ID: `xuan-pin` - 6 direct relationships.
 

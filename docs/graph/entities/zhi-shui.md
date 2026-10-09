@@ -1,6 +1,6 @@
 # zhi-shui
 
-Main site page: [/glossary/zhi-shui/](https://dao-7g5.pages.dev/glossary/zhi-shui/)
+Main site page: [/glossary/zhi-shui/](https://daoismhub.com/glossary/zhi-shui/)
 
 Graph entity ID: `zhi-shui` - 12 direct relationships.
 

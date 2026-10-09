@@ -1,6 +1,6 @@
 # zhang-sanfeng
 
-Main site page: [/people/zhang-sanfeng/](https://dao-7g5.pages.dev/people/zhang-sanfeng/)
+Main site page: [/people/zhang-sanfeng/](https://daoismhub.com/people/zhang-sanfeng/)
 
 Graph entity ID: `zhang-sanfeng` - 4 direct relationships.
 

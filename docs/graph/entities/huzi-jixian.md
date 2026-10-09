@@ -1,6 +1,6 @@
 # huzi-jixian
 
-Main site page: [/stories/huzi-jixian/](https://dao-7g5.pages.dev/stories/huzi-jixian/)
+Main site page: [/stories/huzi-jixian/](https://daoismhub.com/stories/huzi-jixian/)
 
 Graph entity ID: `huzi-jixian` - 9 direct relationships.
 

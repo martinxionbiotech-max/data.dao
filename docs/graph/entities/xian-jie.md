@@ -1,6 +1,6 @@
 # xian-jie
 
-Main site page: [/glossary/xian-jie/](https://dao-7g5.pages.dev/glossary/xian-jie/)
+Main site page: [/glossary/xian-jie/](https://daoismhub.com/glossary/xian-jie/)
 
 Graph entity ID: `xian-jie` - 5 direct relationships.
 

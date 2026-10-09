@@ -1,6 +1,6 @@
 # exp-023-breath-is-the-key
 
-Main site page: [/experiences/exp-023-breath-is-the-key/](https://dao-7g5.pages.dev/experiences/exp-023-breath-is-the-key/)
+Main site page: [/experiences/exp-023-breath-is-the-key/](https://daoismhub.com/experiences/exp-023-breath-is-the-key/)
 
 Graph entity ID: `exp-023-breath-is-the-key` - 14 direct relationships.
 

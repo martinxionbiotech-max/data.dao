@@ -1,6 +1,6 @@
 # sima-chengzhen
 
-Main site page: [/people/sima-chengzhen/](https://dao-7g5.pages.dev/people/sima-chengzhen/)
+Main site page: [/people/sima-chengzhen/](https://daoismhub.com/people/sima-chengzhen/)
 
 Graph entity ID: `sima-chengzhen` - 4 direct relationships.
 

@@ -1,6 +1,6 @@
 # can-i-sit-in-bed
 
-Main site page: [/questions/can-i-sit-in-bed/](https://dao-7g5.pages.dev/questions/can-i-sit-in-bed/)
+Main site page: [/questions/can-i-sit-in-bed/](https://daoismhub.com/questions/can-i-sit-in-bed/)
 
 Graph entity ID: `can-i-sit-in-bed` - 13 direct relationships.
 

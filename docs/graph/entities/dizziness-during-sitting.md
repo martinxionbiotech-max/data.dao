@@ -1,6 +1,6 @@
 # dizziness-during-sitting
 
-Main site page: [/problems/dizziness-during-sitting/](https://dao-7g5.pages.dev/problems/dizziness-during-sitting/)
+Main site page: [/problems/dizziness-during-sitting/](https://daoismhub.com/problems/dizziness-during-sitting/)
 
 Graph entity ID: `dizziness-during-sitting` - 3 direct relationships.
 

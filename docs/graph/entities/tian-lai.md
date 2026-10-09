@@ -1,6 +1,6 @@
 # tian-lai
 
-Main site page: [/glossary/tian-lai/](https://dao-7g5.pages.dev/glossary/tian-lai/)
+Main site page: [/glossary/tian-lai/](https://daoismhub.com/glossary/tian-lai/)
 
 Graph entity ID: `tian-lai` - 11 direct relationships.
 

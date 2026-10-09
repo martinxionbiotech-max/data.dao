@@ -1,6 +1,6 @@
 # neiguan-jing
 
-Main site page: [/texts/neiguan-jing/](https://dao-7g5.pages.dev/texts/neiguan-jing/)
+Main site page: [/texts/neiguan-jing/](https://daoismhub.com/texts/neiguan-jing/)
 
 Graph entity ID: `neiguan-jing` - 6 direct relationships.
 

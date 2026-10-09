@@ -1,6 +1,6 @@
 # ge-hong
 
-Main site page: [/people/ge-hong/](https://dao-7g5.pages.dev/people/ge-hong/)
+Main site page: [/people/ge-hong/](https://daoismhub.com/people/ge-hong/)
 
 Graph entity ID: `ge-hong` - 3 direct relationships.
 

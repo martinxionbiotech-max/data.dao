@@ -1,6 +1,6 @@
 # ren-gongzi-fishing
 
-Main site page: [/stories/ren-gongzi-fishing/](https://dao-7g5.pages.dev/stories/ren-gongzi-fishing/)
+Main site page: [/stories/ren-gongzi-fishing/](https://daoismhub.com/stories/ren-gongzi-fishing/)
 
 Graph entity ID: `ren-gongzi-fishing` - 13 direct relationships.
 

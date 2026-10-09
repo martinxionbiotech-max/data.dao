@@ -1,6 +1,6 @@
 # xushi-sheng-bai
 
-Main site page: [/glossary/xushi-sheng-bai/](https://dao-7g5.pages.dev/glossary/xushi-sheng-bai/)
+Main site page: [/glossary/xushi-sheng-bai/](https://daoismhub.com/glossary/xushi-sheng-bai/)
 
 Graph entity ID: `xushi-sheng-bai` - 11 direct relationships.
 

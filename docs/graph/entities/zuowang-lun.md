@@ -1,6 +1,6 @@
 # zuowang-lun
 
-Main site page: [/texts/zuowang-lun/](https://dao-7g5.pages.dev/texts/zuowang-lun/)
+Main site page: [/texts/zuowang-lun/](https://daoismhub.com/texts/zuowang-lun/)
 
 Graph entity ID: `zuowang-lun` - 5 direct relationships.
 

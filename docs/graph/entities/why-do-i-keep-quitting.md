@@ -1,6 +1,6 @@
 # why-do-i-keep-quitting
 
-Main site page: [/questions/why-do-i-keep-quitting/](https://dao-7g5.pages.dev/questions/why-do-i-keep-quitting/)
+Main site page: [/questions/why-do-i-keep-quitting/](https://daoismhub.com/questions/why-do-i-keep-quitting/)
 
 Graph entity ID: `why-do-i-keep-quitting` - 12 direct relationships.
 

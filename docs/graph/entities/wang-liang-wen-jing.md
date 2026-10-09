@@ -1,6 +1,6 @@
 # wang-liang-wen-jing
 
-Main site page: [/stories/wang-liang-wen-jing/](https://dao-7g5.pages.dev/stories/wang-liang-wen-jing/)
+Main site page: [/stories/wang-liang-wen-jing/](https://daoismhub.com/stories/wang-liang-wen-jing/)
 
 Graph entity ID: `wang-liang-wen-jing` - 7 direct relationships.
 

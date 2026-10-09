@@ -1,6 +1,6 @@
 # bole-horses
 
-Main site page: [/stories/bole-horses/](https://dao-7g5.pages.dev/stories/bole-horses/)
+Main site page: [/stories/bole-horses/](https://daoismhub.com/stories/bole-horses/)
 
 Graph entity ID: `bole-horses` - 11 direct relationships.
 

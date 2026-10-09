@@ -1,6 +1,6 @@
 # daoshu-neiguan-zuowang
 
-Main site page: [/timeline/daoshu-neiguan-zuowang/](https://dao-7g5.pages.dev/timeline/daoshu-neiguan-zuowang/)
+Main site page: [/timeline/daoshu-neiguan-zuowang/](https://daoismhub.com/timeline/daoshu-neiguan-zuowang/)
 
 Graph entity ID: `daoshu-neiguan-zuowang` - 5 direct relationships.
 

@@ -1,6 +1,6 @@
 # three-in-the-morning
 
-Main site page: [/stories/three-in-the-morning/](https://dao-7g5.pages.dev/stories/three-in-the-morning/)
+Main site page: [/stories/three-in-the-morning/](https://daoismhub.com/stories/three-in-the-morning/)
 
 Graph entity ID: `three-in-the-morning` - 12 direct relationships.
 

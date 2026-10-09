@@ -1,6 +1,6 @@
 # lindahl-2017
 
-Main site page: [/research/lindahl-2017/](https://dao-7g5.pages.dev/research/lindahl-2017/)
+Main site page: [/research/lindahl-2017/](https://daoismhub.com/research/lindahl-2017/)
 
 Graph entity ID: `lindahl-2017` - 6 direct relationships.
 

@@ -1,6 +1,6 @@
 # xinzhai-vs-mindfulness
 
-Main site page: [/comparisons/xinzhai-vs-mindfulness/](https://dao-7g5.pages.dev/comparisons/xinzhai-vs-mindfulness/)
+Main site page: [/comparisons/xinzhai-vs-mindfulness/](https://daoismhub.com/comparisons/xinzhai-vs-mindfulness/)
 
 Graph entity ID: `xinzhai-vs-mindfulness` - 1 direct relationships.
 

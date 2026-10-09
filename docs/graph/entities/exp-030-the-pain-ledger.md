@@ -1,6 +1,6 @@
 # exp-030-the-pain-ledger
 
-Main site page: [/experiences/exp-030-the-pain-ledger/](https://dao-7g5.pages.dev/experiences/exp-030-the-pain-ledger/)
+Main site page: [/experiences/exp-030-the-pain-ledger/](https://daoismhub.com/experiences/exp-030-the-pain-ledger/)
 
 Graph entity ID: `exp-030-the-pain-ledger` - 11 direct relationships.
 

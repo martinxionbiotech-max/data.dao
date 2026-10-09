@@ -1,6 +1,6 @@
 # exp-032-from-zero-to-desire-realm
 
-Main site page: [/experiences/exp-032-from-zero-to-desire-realm/](https://dao-7g5.pages.dev/experiences/exp-032-from-zero-to-desire-realm/)
+Main site page: [/experiences/exp-032-from-zero-to-desire-realm/](https://daoismhub.com/experiences/exp-032-from-zero-to-desire-realm/)
 
 Graph entity ID: `exp-032-from-zero-to-desire-realm` - 11 direct relationships.
 

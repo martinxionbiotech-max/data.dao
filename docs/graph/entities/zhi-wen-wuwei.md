@@ -1,6 +1,6 @@
 # zhi-wen-wuwei
 
-Main site page: [/stories/zhi-wen-wuwei/](https://dao-7g5.pages.dev/stories/zhi-wen-wuwei/)
+Main site page: [/stories/zhi-wen-wuwei/](https://daoismhub.com/stories/zhi-wen-wuwei/)
 
 Graph entity ID: `zhi-wen-wuwei` - 15 direct relationships.
 

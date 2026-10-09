@@ -1,6 +1,6 @@
 # ma-yu
 
-Main site page: [/people/ma-yu/](https://dao-7g5.pages.dev/people/ma-yu/)
+Main site page: [/people/ma-yu/](https://daoismhub.com/people/ma-yu/)
 
 Graph entity ID: `ma-yu` - 9 direct relationships.
 

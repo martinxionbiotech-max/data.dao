@@ -1,6 +1,6 @@
 # cunsi-or-zuowang
 
-Main site page: [/questions/cunsi-or-zuowang/](https://dao-7g5.pages.dev/questions/cunsi-or-zuowang/)
+Main site page: [/questions/cunsi-or-zuowang/](https://daoismhub.com/questions/cunsi-or-zuowang/)
 
 Graph entity ID: `cunsi-or-zuowang` - 4 direct relationships.
 

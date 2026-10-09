@@ -1,6 +1,6 @@
 # combine-zuowang-mindfulness
 
-Main site page: [/questions/combine-zuowang-mindfulness/](https://dao-7g5.pages.dev/questions/combine-zuowang-mindfulness/)
+Main site page: [/questions/combine-zuowang-mindfulness/](https://daoismhub.com/questions/combine-zuowang-mindfulness/)
 
 Graph entity ID: `combine-zuowang-mindfulness` - 5 direct relationships.
 

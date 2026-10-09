@@ -1,6 +1,6 @@
 # warmth-and-qi-sensations
 
-Main site page: [/patterns/warmth-and-qi-sensations/](https://dao-7g5.pages.dev/patterns/warmth-and-qi-sensations/)
+Main site page: [/patterns/warmth-and-qi-sensations/](https://daoismhub.com/patterns/warmth-and-qi-sensations/)
 
 Graph entity ID: `warmth-and-qi-sensations` - 3 direct relationships.
 

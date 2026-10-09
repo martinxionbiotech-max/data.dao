@@ -1,6 +1,6 @@
 # baopuzi
 
-Main site page: [/texts/baopuzi/](https://dao-7g5.pages.dev/texts/baopuzi/)
+Main site page: [/texts/baopuzi/](https://daoismhub.com/texts/baopuzi/)
 
 Graph entity ID: `baopuzi` - 8 direct relationships.
 

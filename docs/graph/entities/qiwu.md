@@ -1,6 +1,6 @@
 # qiwu
 
-Main site page: [/glossary/qiwu/](https://dao-7g5.pages.dev/glossary/qiwu/)
+Main site page: [/glossary/qiwu/](https://daoismhub.com/glossary/qiwu/)
 
 Graph entity ID: `qiwu` - 23 direct relationships.
 

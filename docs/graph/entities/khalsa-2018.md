@@ -1,6 +1,6 @@
 # khalsa-2018
 
-Main site page: [/research/khalsa-2018/](https://dao-7g5.pages.dev/research/khalsa-2018/)
+Main site page: [/research/khalsa-2018/](https://daoismhub.com/research/khalsa-2018/)
 
 Graph entity ID: `khalsa-2018` - 2 direct relationships.
 

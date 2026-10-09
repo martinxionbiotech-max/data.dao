@@ -1,6 +1,6 @@
 # liezi-compilation
 
-Main site page: [/timeline/liezi-compilation/](https://dao-7g5.pages.dev/timeline/liezi-compilation/)
+Main site page: [/timeline/liezi-compilation/](https://daoismhub.com/timeline/liezi-compilation/)
 
 Graph entity ID: `liezi-compilation` - 2 direct relationships.
 

@@ -1,6 +1,6 @@
 # sun-buer
 
-Main site page: [/people/sun-buer/](https://dao-7g5.pages.dev/people/sun-buer/)
+Main site page: [/people/sun-buer/](https://daoismhub.com/people/sun-buer/)
 
 Graph entity ID: `sun-buer` - 3 direct relationships.
 

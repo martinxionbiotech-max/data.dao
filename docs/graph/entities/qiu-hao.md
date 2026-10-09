@@ -1,6 +1,6 @@
 # qiu-hao
 
-Main site page: [/stories/qiu-hao/](https://dao-7g5.pages.dev/stories/qiu-hao/)
+Main site page: [/stories/qiu-hao/](https://daoismhub.com/stories/qiu-hao/)
 
 Graph entity ID: `qiu-hao` - 10 direct relationships.
 

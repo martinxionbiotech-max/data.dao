@@ -1,6 +1,6 @@
 # shen
 
-Main site page: [/glossary/shen/](https://dao-7g5.pages.dev/glossary/shen/)
+Main site page: [/glossary/shen/](https://daoismhub.com/glossary/shen/)
 
 Graph entity ID: `shen` - 2 direct relationships.
 

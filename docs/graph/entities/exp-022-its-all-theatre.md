@@ -1,6 +1,6 @@
 # exp-022-its-all-theatre
 
-Main site page: [/experiences/exp-022-its-all-theatre/](https://dao-7g5.pages.dev/experiences/exp-022-its-all-theatre/)
+Main site page: [/experiences/exp-022-its-all-theatre/](https://daoismhub.com/experiences/exp-022-its-all-theatre/)
 
 Graph entity ID: `exp-022-its-all-theatre` - 7 direct relationships.
 

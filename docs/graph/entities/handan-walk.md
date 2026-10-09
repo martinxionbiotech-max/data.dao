@@ -1,6 +1,6 @@
 # handan-walk
 
-Main site page: [/stories/handan-walk/](https://dao-7g5.pages.dev/stories/handan-walk/)
+Main site page: [/stories/handan-walk/](https://daoismhub.com/stories/handan-walk/)
 
 Graph entity ID: `handan-walk` - 7 direct relationships.
 

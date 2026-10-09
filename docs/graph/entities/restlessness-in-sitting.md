@@ -1,6 +1,6 @@
 # restlessness-in-sitting
 
-Main site page: [/problems/restlessness-in-sitting/](https://dao-7g5.pages.dev/problems/restlessness-in-sitting/)
+Main site page: [/problems/restlessness-in-sitting/](https://daoismhub.com/problems/restlessness-in-sitting/)
 
 Graph entity ID: `restlessness-in-sitting` - 3 direct relationships.
 

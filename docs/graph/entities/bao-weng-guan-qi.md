@@ -1,6 +1,6 @@
 # bao-weng-guan-qi
 
-Main site page: [/stories/bao-weng-guan-qi/](https://dao-7g5.pages.dev/stories/bao-weng-guan-qi/)
+Main site page: [/stories/bao-weng-guan-qi/](https://daoismhub.com/stories/bao-weng-guan-qi/)
 
 Graph entity ID: `bao-weng-guan-qi` - 8 direct relationships.
 

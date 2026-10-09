@@ -1,6 +1,6 @@
 # yang-xi
 
-Main site page: [/people/yang-xi/](https://dao-7g5.pages.dev/people/yang-xi/)
+Main site page: [/people/yang-xi/](https://daoismhub.com/people/yang-xi/)
 
 Graph entity ID: `yang-xi` - 8 direct relationships.
 

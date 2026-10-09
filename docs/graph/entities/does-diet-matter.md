@@ -1,6 +1,6 @@
 # does-diet-matter
 
-Main site page: [/questions/does-diet-matter/](https://dao-7g5.pages.dev/questions/does-diet-matter/)
+Main site page: [/questions/does-diet-matter/](https://daoismhub.com/questions/does-diet-matter/)
 
 Graph entity ID: `does-diet-matter` - 12 direct relationships.
 
