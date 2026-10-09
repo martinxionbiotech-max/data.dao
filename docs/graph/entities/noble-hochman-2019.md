@@ -8,11 +8,11 @@ Graph entity ID: `noble-hochman-2019` - 3 direct relationships.
 
 | to | relation |
 |---|---|
-| tiaoxi | investigates |
+| tiaoxi | informs |
 
 ## Incoming (2)
 
 | from | relation |
 |---|---|
 | breathing-gets-shallow | references |
-| zaccaro-2018 | associated_with |
+| zaccaro-2018 | references |

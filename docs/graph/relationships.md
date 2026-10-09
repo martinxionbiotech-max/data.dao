@@ -25,17 +25,16 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 
 | relation | count |
 |---|---|
-| associated_with | 542 |
+| associated_with | 539 |
 | authored | 3 |
-| concerns | 354 |
+| concerns | 355 |
 | contrasts_with | 6 |
-| derived_from | 12 |
+| derived_from | 9 |
 | described_in | 153 |
-| discusses | 61 |
-| informs | 1 |
-| investigates | 7 |
-| references | 90 |
-| related_to | 300 |
+| discusses | 62 |
+| informs | 6 |
+| references | 100 |
+| related_to | 296 |
 | translated_as | 24 |
 
 ## All edges
@@ -113,10 +112,10 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | breathing-gets-shallow | noble-hochman-2019 | references |
 | breathing-gets-shallow | tiaoxi | concerns |
 | breathing-gets-shallow | zaccaro-2018 | references |
-| britton-2021 | farias-adverse-events-2020 | associated_with |
-| britton-2021 | jingzuo | investigates |
-| britton-2021 | lindahl-2017 | associated_with |
-| britton-2021 | zuowang | investigates |
+| britton-2021 | farias-adverse-events-2020 | references |
+| britton-2021 | jingzuo | informs |
+| britton-2021 | lindahl-2017 | references |
+| britton-2021 | zuowang | informs |
 | butterfly-dream | zhuang-zhou | associated_with |
 | butterfly-dream | zhuangzi | described_in |
 | can-i-sit-in-bed | does-practice-need-faith | associated_with |
@@ -136,7 +135,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | can-meditation-cure-illness | farias-adverse-events-2020 | references |
 | can-meditation-cure-illness | mindfulness-meta-analysis-2014 | references |
 | can-meditation-cure-illness | taiping-jing | related_to |
-| can-sitting-go-wrong | farias-adverse-events-2020 | derived_from |
+| can-sitting-go-wrong | farias-adverse-events-2020 | references |
 | can-sitting-go-wrong | jingzuo | concerns |
 | cao-shang | hezhe-zhi-fu | associated_with |
 | cao-shang | luhou-yang-niao | associated_with |
@@ -523,7 +522,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | dongshi-frowning | handan-walk | associated_with |
 | dongshi-frowning | zhuangzi | described_in |
 | dongshi-frowning | ziran | concerns |
-| drowsiness-in-sitting | drowsiness-vs-stillness | derived_from |
+| drowsiness-in-sitting | drowsiness-vs-stillness | concerns |
 | drowsiness-in-sitting | falling-asleep-during-meditation | related_to |
 | drowsiness-in-sitting | jingzuo | concerns |
 | drowsiness-in-sitting | zuowang | concerns |
@@ -690,7 +689,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | exp-032-from-zero-to-desire-realm | how-long-until-results | concerns |
 | exp-032-from-zero-to-desire-realm | jingzuo | related_to |
 | exp-032-from-zero-to-desire-realm | what-counts-as-progress | concerns |
-| falling-asleep-during-meditation | drowsiness-vs-stillness | derived_from |
+| falling-asleep-during-meditation | drowsiness-vs-stillness | discusses |
 | falling-asleep-during-meditation | jingzuo | concerns |
 | falling-asleep-during-sitting | jingzuo | concerns |
 | falling-asleep-during-sitting | zuowang | concerns |
@@ -698,7 +697,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | fan | jing | associated_with |
 | fan | wu-you | associated_with |
 | fan | yin-yang | associated_with |
-| farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | related_to |
+| farias-adverse-events-2020 | mindfulness-meta-analysis-2014 | references |
 | fish-happiness | guan | concerns |
 | fish-happiness | jing | concerns |
 | fish-happiness | zhuangzi | described_in |
@@ -883,8 +882,8 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | jingdi-zhiwa | zhuangzi | described_in |
 | jingdi-zhiwa | ziran | concerns |
 | jingzuo | cheng-men-li-xue | described_in |
-| jingzuo | farias-adverse-events-2020 | investigates |
-| jingzuo | mindfulness-meta-analysis-2014 | investigates |
+| jingzuo | farias-adverse-events-2020 | references |
+| jingzuo | mindfulness-meta-analysis-2014 | references |
 | jingzuo | shouyi | related_to |
 | jingzuo | xinzhai | related_to |
 | jingzuo | zhuzi-yulei-jingzuo | described_in |
@@ -893,7 +892,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | jingzuo-vs-zazen | jingzuo | discusses |
 | jingzuo-vs-zuowang | jingzuo | discusses |
 | jingzuo-vs-zuowang | zuowang | discusses |
-| khalsa-2018 | qi | investigates |
+| khalsa-2018 | qi | informs |
 | kou-qianzhi | kou-qianzhi-reform | associated_with |
 | kou-qianzhi-reform | kou-qianzhi | associated_with |
 | kui-xian-chain | peng-bird | associated_with |
@@ -945,7 +944,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | lin-hui-qi-bi | yi-dai-niao | associated_with |
 | lin-hui-qi-bi | zhuangzi | described_in |
 | lindahl-2017 | can-sitting-go-wrong | informs |
-| lindahl-2017 | farias-adverse-events-2020 | related_to |
+| lindahl-2017 | farias-adverse-events-2020 | references |
 | liu-chuxuan | hao-datong | associated_with |
 | liu-chuxuan | ma-yu | associated_with |
 | liu-chuxuan | qiu-chuji | associated_with |
@@ -1023,7 +1022,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | neiguan | zuowang | associated_with |
 | neiguan-jing | qingjing-jing | related_to |
 | neiguan-vs-vipassana | neiguan | discusses |
-| noble-hochman-2019 | tiaoxi | investigates |
+| noble-hochman-2019 | tiaoxi | informs |
 | painter-unrobed | artisan-qing | associated_with |
 | painter-unrobed | jing | concerns |
 | painter-unrobed | zhuangzi | described_in |
@@ -1104,8 +1103,8 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | sanghu-friends | qinshi-mourning | associated_with |
 | sanghu-friends | zhuangzi | described_in |
 | sanghu-friends | zuowang-passage | references |
-| schlosser-2019 | farias-adverse-events-2020 | related_to |
-| schlosser-2019 | lindahl-2017 | related_to |
+| schlosser-2019 | farias-adverse-events-2020 | references |
+| schlosser-2019 | lindahl-2017 | references |
 | seeing-light-in-sitting | jingzuo | concerns |
 | seeing-light-in-sitting | xu | concerns |
 | seeing-light-in-sitting | zhuangzi | described_in |
@@ -1186,7 +1185,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | tan-chuduan | qiu-chuji | associated_with |
 | tan-chuduan | wang-chongyang | associated_with |
 | tan-chuduan | wang-chuyi | associated_with |
-| tang-2015 | mindfulness-meta-analysis-2014 | related_to |
+| tang-2015 | mindfulness-meta-analysis-2014 | references |
 | tao-hongjing | shangqing-revelations | associated_with |
 | tao-hongjing | yang-xi | associated_with |
 | tao-hongjing | zhiyi | associated_with |
@@ -1503,8 +1502,8 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | yun-jin-cheng-feng | useless-gourd | associated_with |
 | yun-jin-cheng-feng | zhi-shui | concerns |
 | yun-jin-cheng-feng | zhuangzi | described_in |
-| zaccaro-2018 | noble-hochman-2019 | associated_with |
-| zaccaro-2018 | tiaoxi | investigates |
+| zaccaro-2018 | noble-hochman-2019 | references |
+| zaccaro-2018 | tiaoxi | informs |
 | zhang-boduan | daoshu-neiguan-zuowang | related_to |
 | zhang-boduan | jing-qi-shen | related_to |
 | zhang-boduan | lu-xiujing | associated_with |
@@ -1588,7 +1587,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | zuowang | zuowang-lun | described_in |
 | zuowang | zuowang-passage | translated_as |
 | zuowang | zuowang-safety-without-teacher | concerns |
-| zuowang-for-modern-practitioner | farias-adverse-events-2020 | references |
+| zuowang-for-modern-practitioner | farias-adverse-events-2020 | related_to |
 | zuowang-for-modern-practitioner | zuowang | concerns |
 | zuowang-lun | neiguan-jing | derived_from |
 | zuowang-lun | qingjing-jing | derived_from |

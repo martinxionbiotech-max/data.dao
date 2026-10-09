@@ -28,7 +28,7 @@ Graph entity ID: `qi` - 28 direct relationships.
 | exp-029-the-human-body | related_to |
 | head-pressure-during-sitting | concerns |
 | huzi-jixian | concerns |
-| khalsa-2018 | investigates |
+| khalsa-2018 | informs |
 | map-of-chinese-contemplative-traditions | discusses |
 | qi-vs-prana | discusses |
 | shouyi | associated_with |

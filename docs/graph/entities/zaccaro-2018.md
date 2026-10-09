@@ -8,8 +8,8 @@ Graph entity ID: `zaccaro-2018` - 4 direct relationships.
 
 | to | relation |
 |---|---|
-| noble-hochman-2019 | associated_with |
-| tiaoxi | investigates |
+| noble-hochman-2019 | references |
+| tiaoxi | informs |
 
 ## Incoming (2)
 

@@ -27,7 +27,7 @@ term records from the glossary content collection — 55 records.
 | mo-ruo-yi-ming | Moruo Yiming (莫若以明) | 莫若以明 | mòruò yǐ míng |  |  |
 | neigong | Neigong (内功): Internal Work | 内功 | nèigōng | internal work | neigong, untranslated |
 | neiguan | Neiguan (内观) | 内观 | nèiguān | inner contemplation; inner vision | 'inner contemplation' — 'inner observation' for contexts emphasizing the inspecting function; avoid 'inner visualization' unless the source explicitly describes images |
-| qi | Qi | 气 | qì | vapor, breath, vital substrate | keep romanized as qi with a gloss; use 'breath' only in breathing contexts, 'energy' only with qualification |
+| qi | Qi (气): Translating the Term | 气 | qì | vapor, breath, vital substrate | keep romanized as qi with a gloss; use 'breath' only in breathing contexts, 'energy' only with qualification |
 | qigong | Qigong (气功): The Modern Umbrella | 气功 | qìgōng | qi-work | qigong, untranslated |
 | qiwu | Qiwu (齐物) | 齐物 | qíwù |  |  |
 | shen | Shen | 神 | shén | spirit; numen; the luminous-animating aspect of the mind | spirit (with 'luminous-animating mind' glossed where the context is meditative) |

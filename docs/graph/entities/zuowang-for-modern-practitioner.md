@@ -8,7 +8,7 @@ Graph entity ID: `zuowang-for-modern-practitioner` - 2 direct relationships.
 
 | to | relation |
 |---|---|
-| farias-adverse-events-2020 | references |
+| farias-adverse-events-2020 | related_to |
 | zuowang | concerns |
 
 ## Incoming (0)

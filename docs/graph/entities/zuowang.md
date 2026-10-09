@@ -28,7 +28,7 @@ Graph entity ID: `zuowang` - 61 direct relationships.
 | bao-weng-guan-qi | concerns |
 | boatman | concerns |
 | body-feels-very-large | concerns |
-| britton-2021 | investigates |
+| britton-2021 | informs |
 | can-i-sit-in-bed | related_to |
 | chinese-meditation-explained | discusses |
 | chinese-meditation-terms-explained | discusses |

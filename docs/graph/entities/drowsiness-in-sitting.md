@@ -8,7 +8,7 @@ Graph entity ID: `drowsiness-in-sitting` - 9 direct relationships.
 
 | to | relation |
 |---|---|
-| drowsiness-vs-stillness | derived_from |
+| drowsiness-vs-stillness | concerns |
 | falling-asleep-during-meditation | related_to |
 | jingzuo | concerns |
 | zuowang | concerns |

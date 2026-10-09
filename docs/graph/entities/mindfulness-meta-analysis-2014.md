@@ -17,11 +17,11 @@ Graph entity ID: `mindfulness-meta-analysis-2014` - 11 direct relationships.
 | can-meditation-cure-illness | references |
 | combine-zuowang-mindfulness | references |
 | does-practice-need-faith | references |
-| farias-adverse-events-2020 | related_to |
+| farias-adverse-events-2020 | references |
 | how-long-until-results | references |
 | is-sitting-religious | references |
-| jingzuo | investigates |
+| jingzuo | references |
 | should-i-meditate-when-sick | references |
-| tang-2015 | related_to |
+| tang-2015 | references |
 | what-counts-as-progress | references |
 | what-modern-research-can-and-cannot-tell-us | references |

@@ -8,7 +8,7 @@ Graph entity ID: `can-sitting-go-wrong` - 3 direct relationships.
 
 | to | relation |
 |---|---|
-| farias-adverse-events-2020 | derived_from |
+| farias-adverse-events-2020 | references |
 | jingzuo | concerns |
 
 ## Incoming (1)

@@ -32,11 +32,11 @@ Graph entity ID: `tiaoxi` - 27 direct relationships.
 | head-pressure-during-sitting | concerns |
 | how-do-i-know-my-posture-is-right | related_to |
 | neigong | associated_with |
-| noble-hochman-2019 | investigates |
+| noble-hochman-2019 | informs |
 | taixi | concerns |
 | what-counts-as-progress | related_to |
 | xi | concerns |
 | xiao-zhiguan | concerns |
 | xiao-zhiguan-five-adjustments | concerns |
 | yi | concerns |
-| zaccaro-2018 | investigates |
+| zaccaro-2018 | informs |

@@ -9,8 +9,8 @@ Graph entity ID: `jingzuo` - 62 direct relationships.
 | to | relation |
 |---|---|
 | cheng-men-li-xue | described_in |
-| farias-adverse-events-2020 | investigates |
-| mindfulness-meta-analysis-2014 | investigates |
+| farias-adverse-events-2020 | references |
+| mindfulness-meta-analysis-2014 | references |
 | shouyi | related_to |
 | xinzhai | related_to |
 | zhuzi-yulei-jingzuo | described_in |
@@ -21,7 +21,7 @@ Graph entity ID: `jingzuo` - 62 direct relationships.
 
 | from | relation |
 |---|---|
-| britton-2021 | investigates |
+| britton-2021 | informs |
 | can-i-sit-in-bed | related_to |
 | can-sitting-go-wrong | concerns |
 | chinese-meditation-explained | discusses |

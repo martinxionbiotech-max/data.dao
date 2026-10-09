@@ -8,10 +8,10 @@ Graph entity ID: `britton-2021` - 5 direct relationships.
 
 | to | relation |
 |---|---|
-| farias-adverse-events-2020 | associated_with |
-| jingzuo | investigates |
-| lindahl-2017 | associated_with |
-| zuowang | investigates |
+| farias-adverse-events-2020 | references |
+| jingzuo | informs |
+| lindahl-2017 | references |
+| zuowang | informs |
 
 ## Incoming (1)
 

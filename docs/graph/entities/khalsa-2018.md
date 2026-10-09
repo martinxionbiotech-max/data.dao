@@ -8,7 +8,7 @@ Graph entity ID: `khalsa-2018` - 2 direct relationships.
 
 | to | relation |
 |---|---|
-| qi | investigates |
+| qi | informs |
 
 ## Incoming (1)
 

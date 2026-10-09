@@ -8,7 +8,7 @@ Graph entity ID: `falling-asleep-during-meditation` - 6 direct relationships.
 
 | to | relation |
 |---|---|
-| drowsiness-vs-stillness | derived_from |
+| drowsiness-vs-stillness | discusses |
 | jingzuo | concerns |
 
 ## Incoming (4)

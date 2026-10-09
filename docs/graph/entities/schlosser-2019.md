@@ -8,8 +8,8 @@ Graph entity ID: `schlosser-2019` - 4 direct relationships.
 
 | to | relation |
 |---|---|
-| farias-adverse-events-2020 | related_to |
-| lindahl-2017 | related_to |
+| farias-adverse-events-2020 | references |
+| lindahl-2017 | references |
 
 ## Incoming (2)
 

@@ -9,13 +9,13 @@ Graph entity ID: `lindahl-2017` - 6 direct relationships.
 | to | relation |
 |---|---|
 | can-sitting-go-wrong | informs |
-| farias-adverse-events-2020 | related_to |
+| farias-adverse-events-2020 | references |
 
 ## Incoming (4)
 
 | from | relation |
 |---|---|
-| britton-2021 | associated_with |
+| britton-2021 | references |
 | exp-016-nine-dhyanas-map | references |
 | exp-017-why-he-began | references |
-| schlosser-2019 | related_to |
+| schlosser-2019 | references |
