@@ -11,7 +11,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 |---|---|---|
 | [cunsi](cunsi.md) | concerns | [cunsi ↗](https://daoismhub.com/practices/cunsi/) |
 | [huangting-jing](huangting-jing.md) | concerns | [huangting-jing ↗](https://daoismhub.com/texts/huangting-jing/) |
-| [kou-qianzhi-reform](kou-qianzhi-reform.md) | related_to | [kou-qianzhi-reform ↗](https://daoismhub.com/timeline/kou-qianzhi-reform/) |
+| [kou-qianzhi-reform](kou-qianzhi-reform.md) | associated_with | [kou-qianzhi-reform ↗](https://daoismhub.com/timeline/kou-qianzhi-reform/) |
 | [yang-xi](yang-xi.md) | associated_with | [yang-xi ↗](https://daoismhub.com/people/yang-xi/) |
 
 ## Incoming (4)

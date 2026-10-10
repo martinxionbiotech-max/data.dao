@@ -17,5 +17,5 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 |---|---|---|
 | [kou-qianzhi](kou-qianzhi.md) | associated_with | [kou-qianzhi ↗](https://daoismhub.com/people/kou-qianzhi/) |
 | [lu-xiujing](lu-xiujing.md) | related_to | [lu-xiujing ↗](https://daoismhub.com/people/lu-xiujing/) |
-| [shangqing-revelations](shangqing-revelations.md) | related_to | [shangqing-revelations ↗](https://daoismhub.com/timeline/shangqing-revelations/) |
+| [shangqing-revelations](shangqing-revelations.md) | associated_with | [shangqing-revelations ↗](https://daoismhub.com/timeline/shangqing-revelations/) |
 | [zhang-daoling](zhang-daoling.md) | related_to | [zhang-daoling ↗](https://daoismhub.com/people/zhang-daoling/) |

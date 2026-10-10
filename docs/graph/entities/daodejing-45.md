@@ -2,17 +2,16 @@
 
 Main site page: [/translations/daodejing-45/](https://daoismhub.com/translations/daodejing-45/)
 
-Graph entity ID: `daodejing-45` - 19 direct relationships.
+Graph entity ID: `daodejing-45` - 18 direct relationships.
 Entity names in the tables link to their own entity pages; the "main site" column links to the full article on daoismhub.com.
 
-## Outgoing (17)
+## Outgoing (16)
 
 | to | relation | main site |
 |---|---|---|
 | [artisan-qing](artisan-qing.md) | related_to | [artisan-qing ↗](https://daoismhub.com/stories/artisan-qing/) |
 | [bei-gong-she](bei-gong-she.md) | related_to | [bei-gong-she ↗](https://daoismhub.com/stories/bei-gong-she/) |
 | [daodejing](daodejing.md) | translated_as | [daodejing ↗](https://daoismhub.com/texts/daodejing/) |
-| [daodejing](daodejing.md) | described_in | [daodejing ↗](https://daoismhub.com/texts/daodejing/) |
 | [daodejing-11](daodejing-11.md) | associated_with | [daodejing-11 ↗](https://daoismhub.com/translations/daodejing-11/) |
 | [daodejing-14](daodejing-14.md) | associated_with | [daodejing-14 ↗](https://daoismhub.com/translations/daodejing-14/) |
 | [daodejing-16](daodejing-16.md) | associated_with | [daodejing-16 ↗](https://daoismhub.com/translations/daodejing-16/) |
@@ -22,7 +21,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [daodejing-55](daodejing-55.md) | associated_with | [daodejing-55 ↗](https://daoismhub.com/translations/daodejing-55/) |
 | [hui-shi-wu-che](hui-shi-wu-che.md) | related_to | [hui-shi-wu-che ↗](https://daoismhub.com/stories/hui-shi-wu-che/) |
 | [qingjing-jing](qingjing-jing.md) | related_to | [qingjing-jing ↗](https://daoismhub.com/texts/qingjing-jing/) |
-| [wuwei](wuwei.md) | related_to | [wuwei ↗](https://daoismhub.com/glossary/wuwei/) |
+| [wuwei](wuwei.md) | concerns | [wuwei ↗](https://daoismhub.com/glossary/wuwei/) |
 | [xu](xu.md) | concerns | [xu ↗](https://daoismhub.com/concepts/xu/) |
 | [yun-jin-cheng-feng](yun-jin-cheng-feng.md) | related_to | [yun-jin-cheng-feng ↗](https://daoismhub.com/stories/yun-jin-cheng-feng/) |
 | [ziran](ziran.md) | concerns | [ziran ↗](https://daoismhub.com/concepts/ziran/) |

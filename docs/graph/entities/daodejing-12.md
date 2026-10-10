@@ -12,7 +12,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [can-i-sit-in-bed](can-i-sit-in-bed.md) | related_to | [can-i-sit-in-bed ↗](https://daoismhub.com/experiences/questions/can-i-sit-in-bed/) |
 | [daodejing](daodejing.md) | described_in | [daodejing ↗](https://daoismhub.com/texts/daodejing/) |
 | [daodejing-02](daodejing-02.md) | associated_with | [daodejing-02 ↗](https://daoismhub.com/translations/daodejing-02/) |
-| [tiaoxi](tiaoxi.md) | related_to | [tiaoxi ↗](https://daoismhub.com/glossary/tiaoxi/) |
+| [tiaoxi](tiaoxi.md) | concerns | [tiaoxi ↗](https://daoismhub.com/glossary/tiaoxi/) |
 | [xiao-zhiguan](xiao-zhiguan.md) | related_to | [xiao-zhiguan ↗](https://daoismhub.com/texts/xiao-zhiguan/) |
 | [xinzhai-passage](xinzhai-passage.md) | associated_with | [xinzhai-passage ↗](https://daoismhub.com/translations/xinzhai-passage/) |
 | [xu](xu.md) | concerns | [xu ↗](https://daoismhub.com/concepts/xu/) |

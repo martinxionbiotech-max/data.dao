@@ -19,4 +19,4 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [daodejing-06](daodejing-06.md) | related_to | [daodejing-06 ↗](https://daoismhub.com/translations/daodejing-06/) |
+| [daodejing-06](daodejing-06.md) | concerns | [daodejing-06 ↗](https://daoismhub.com/translations/daodejing-06/) |

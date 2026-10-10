@@ -17,6 +17,6 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [daodejing-05](daodejing-05.md) | related_to | [daodejing-05 ↗](https://daoismhub.com/translations/daodejing-05/) |
-| [daodejing-06](daodejing-06.md) | related_to | [daodejing-06 ↗](https://daoismhub.com/translations/daodejing-06/) |
+| [daodejing-05](daodejing-05.md) | concerns | [daodejing-05 ↗](https://daoismhub.com/translations/daodejing-05/) |
+| [daodejing-06](daodejing-06.md) | concerns | [daodejing-06 ↗](https://daoismhub.com/translations/daodejing-06/) |
 | [xuan-pin](xuan-pin.md) | associated_with | [xuan-pin ↗](https://daoismhub.com/glossary/xuan-pin/) |

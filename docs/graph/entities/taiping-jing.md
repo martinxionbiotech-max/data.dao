@@ -21,4 +21,4 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [can-meditation-cure-illness](can-meditation-cure-illness.md) | related_to | [can-meditation-cure-illness ↗](https://daoismhub.com/experiences/questions/can-meditation-cure-illness/) |
 | [should-i-meditate-when-sick](should-i-meditate-when-sick.md) | related_to | [should-i-meditate-when-sick ↗](https://daoismhub.com/experiences/questions/should-i-meditate-when-sick/) |
 | [shouyi](shouyi.md) | described_in | [shouyi ↗](https://daoismhub.com/glossary/shouyi/) |
-| [zhang-daoling](zhang-daoling.md) | related_to | [zhang-daoling ↗](https://daoismhub.com/people/zhang-daoling/) |
+| [zhang-daoling](zhang-daoling.md) | associated_with | [zhang-daoling ↗](https://daoismhub.com/people/zhang-daoling/) |

@@ -10,7 +10,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | to | relation | main site |
 |---|---|---|
 | [liezi](liezi.md) | concerns | [liezi ↗](https://daoismhub.com/texts/liezi/) |
-| [zhuangzi-compilation](zhuangzi-compilation.md) | related_to | [zhuangzi-compilation ↗](https://daoismhub.com/timeline/zhuangzi-compilation/) |
+| [zhuangzi-compilation](zhuangzi-compilation.md) | associated_with | [zhuangzi-compilation ↗](https://daoismhub.com/timeline/zhuangzi-compilation/) |
 
 ## Incoming (0)
 

@@ -10,8 +10,8 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | to | relation | main site |
 |---|---|---|
 | [breath-stopping-anxiety](breath-stopping-anxiety.md) | concerns | [breath-stopping-anxiety ↗](https://daoismhub.com/problems/breath-stopping-anxiety/) |
-| [jingzuo](jingzuo.md) | related_to | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
-| [qi](qi.md) | related_to | [qi ↗](https://daoismhub.com/glossary/qi/) |
+| [jingzuo](jingzuo.md) | associated_with | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
+| [qi](qi.md) | associated_with | [qi ↗](https://daoismhub.com/glossary/qi/) |
 | [taixi](taixi.md) | concerns | [taixi ↗](https://daoismhub.com/practices/taixi/) |
 | [xiao-zhiguan](xiao-zhiguan.md) | described_in | [xiao-zhiguan ↗](https://daoismhub.com/texts/xiao-zhiguan/) |
 
@@ -23,13 +23,13 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [breathing-gets-shallow](breathing-gets-shallow.md) | concerns | [breathing-gets-shallow ↗](https://daoismhub.com/problems/breathing-gets-shallow/) |
 | [chinese-meditation-explained](chinese-meditation-explained.md) | discusses | [chinese-meditation-explained ↗](https://daoismhub.com/guides/chinese-meditation-explained/) |
 | [chinese-meditation-terms-explained](chinese-meditation-terms-explained.md) | discusses | [chinese-meditation-terms-explained ↗](https://daoismhub.com/guides/chinese-meditation-terms-explained/) |
-| [daodejing-12](daodejing-12.md) | related_to | [daodejing-12 ↗](https://daoismhub.com/translations/daodejing-12/) |
+| [daodejing-12](daodejing-12.md) | concerns | [daodejing-12 ↗](https://daoismhub.com/translations/daodejing-12/) |
 | [dizziness-during-sitting](dizziness-during-sitting.md) | concerns | [dizziness-during-sitting ↗](https://daoismhub.com/problems/dizziness-during-sitting/) |
-| [exp-019-one-remedy-body](exp-019-one-remedy-body.md) | related_to | [exp-019-one-remedy-body ↗](https://daoismhub.com/experiences/notes/exp-019-one-remedy-body/) |
+| [exp-019-one-remedy-body](exp-019-one-remedy-body.md) | concerns | [exp-019-one-remedy-body ↗](https://daoismhub.com/experiences/notes/exp-019-one-remedy-body/) |
 | [exp-023-breath-is-the-key](exp-023-breath-is-the-key.md) | concerns | [exp-023-breath-is-the-key ↗](https://daoismhub.com/experiences/notes/exp-023-breath-is-the-key/) |
 | [exp-024-standing-and-sitting](exp-024-standing-and-sitting.md) | concerns | [exp-024-standing-and-sitting ↗](https://daoismhub.com/experiences/notes/exp-024-standing-and-sitting/) |
-| [exp-028-abdominal-breathing](exp-028-abdominal-breathing.md) | related_to | [exp-028-abdominal-breathing ↗](https://daoismhub.com/experiences/notes/exp-028-abdominal-breathing/) |
-| [exp-029-the-human-body](exp-029-the-human-body.md) | related_to | [exp-029-the-human-body ↗](https://daoismhub.com/experiences/notes/exp-029-the-human-body/) |
+| [exp-028-abdominal-breathing](exp-028-abdominal-breathing.md) | concerns | [exp-028-abdominal-breathing ↗](https://daoismhub.com/experiences/notes/exp-028-abdominal-breathing/) |
+| [exp-029-the-human-body](exp-029-the-human-body.md) | concerns | [exp-029-the-human-body ↗](https://daoismhub.com/experiences/notes/exp-029-the-human-body/) |
 | [head-pressure-during-sitting](head-pressure-during-sitting.md) | concerns | [head-pressure-during-sitting ↗](https://daoismhub.com/problems/head-pressure-during-sitting/) |
 | [how-do-i-know-my-posture-is-right](how-do-i-know-my-posture-is-right.md) | related_to | [how-do-i-know-my-posture-is-right ↗](https://daoismhub.com/experiences/questions/how-do-i-know-my-posture-is-right/) |
 | [neigong](neigong.md) | associated_with | [neigong ↗](https://daoismhub.com/glossary/neigong/) |

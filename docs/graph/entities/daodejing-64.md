@@ -21,6 +21,6 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [how-long-until-results](how-long-until-results.md) | related_to | [how-long-until-results ↗](https://daoismhub.com/experiences/questions/how-long-until-results/) |
+| [how-long-until-results](how-long-until-results.md) | references | [how-long-until-results ↗](https://daoismhub.com/experiences/questions/how-long-until-results/) |
 | [should-i-meditate-when-sick](should-i-meditate-when-sick.md) | references | [should-i-meditate-when-sick ↗](https://daoismhub.com/experiences/questions/should-i-meditate-when-sick/) |
 | [why-do-i-keep-quitting](why-do-i-keep-quitting.md) | references | [why-do-i-keep-quitting ↗](https://daoismhub.com/experiences/questions/why-do-i-keep-quitting/) |

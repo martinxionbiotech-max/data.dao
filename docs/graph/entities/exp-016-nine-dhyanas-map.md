@@ -19,7 +19,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [does-practice-need-faith](does-practice-need-faith.md) | related_to | [does-practice-need-faith ↗](https://daoismhub.com/experiences/questions/does-practice-need-faith/) |
+| [does-practice-need-faith](does-practice-need-faith.md) | references | [does-practice-need-faith ↗](https://daoismhub.com/experiences/questions/does-practice-need-faith/) |
 | [exp-020-false-first-dhyana](exp-020-false-first-dhyana.md) | associated_with | [exp-020-false-first-dhyana ↗](https://daoismhub.com/experiences/notes/exp-020-false-first-dhyana/) |
 | [exp-021-prostrations-channel-circuit](exp-021-prostrations-channel-circuit.md) | associated_with | [exp-021-prostrations-channel-circuit ↗](https://daoismhub.com/experiences/notes/exp-021-prostrations-channel-circuit/) |
 | [exp-022-its-all-theatre](exp-022-its-all-theatre.md) | associated_with | [exp-022-its-all-theatre ↗](https://daoismhub.com/experiences/notes/exp-022-its-all-theatre/) |

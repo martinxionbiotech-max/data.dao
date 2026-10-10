@@ -18,7 +18,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [exp-030-the-pain-ledger](exp-030-the-pain-ledger.md) | associated_with | [exp-030-the-pain-ledger ↗](https://daoismhub.com/experiences/notes/exp-030-the-pain-ledger/) |
 | [exp-031-lotus-posture-chapter](exp-031-lotus-posture-chapter.md) | associated_with | [exp-031-lotus-posture-chapter ↗](https://daoismhub.com/experiences/notes/exp-031-lotus-posture-chapter/) |
 | [how-long-until-results](how-long-until-results.md) | concerns | [how-long-until-results ↗](https://daoismhub.com/experiences/questions/how-long-until-results/) |
-| [jingzuo](jingzuo.md) | related_to | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
+| [jingzuo](jingzuo.md) | concerns | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
 | [what-counts-as-progress](what-counts-as-progress.md) | concerns | [what-counts-as-progress ↗](https://daoismhub.com/experiences/questions/what-counts-as-progress/) |
 
 ## Incoming (0)

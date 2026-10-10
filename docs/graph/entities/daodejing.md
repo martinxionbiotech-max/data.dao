@@ -2,7 +2,7 @@
 
 Main site page: [/texts/daodejing/](https://daoismhub.com/texts/daodejing/)
 
-Graph entity ID: `daodejing` - 59 direct relationships.
+Graph entity ID: `daodejing` - 57 direct relationships.
 Entity names in the tables link to their own entity pages; the "main site" column links to the full article on daoismhub.com.
 
 ## Outgoing (1)
@@ -11,14 +11,14 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 |---|---|---|
 | [guodian-daodejing](guodian-daodejing.md) | described_in | [guodian-daodejing ↗](https://daoismhub.com/timeline/guodian-daodejing/) |
 
-## Incoming (58)
+## Incoming (56)
 
 | from | relation | main site |
 |---|---|---|
-| [bai-yuchan](bai-yuchan.md) | related_to | [bai-yuchan ↗](https://daoismhub.com/people/bai-yuchan/) |
+| [bai-yuchan](bai-yuchan.md) | associated_with | [bai-yuchan ↗](https://daoismhub.com/people/bai-yuchan/) |
 | [baoyi](baoyi.md) | described_in | [baoyi ↗](https://daoismhub.com/glossary/baoyi/) |
 | [chen-tuan](chen-tuan.md) | associated_with | [chen-tuan ↗](https://daoismhub.com/people/chen-tuan/) |
-| [cheng-xuanying](cheng-xuanying.md) | related_to | [cheng-xuanying ↗](https://daoismhub.com/people/cheng-xuanying/) |
+| [cheng-xuanying](cheng-xuanying.md) | associated_with | [cheng-xuanying ↗](https://daoismhub.com/people/cheng-xuanying/) |
 | [dao](dao.md) | described_in | [dao ↗](https://daoismhub.com/glossary/dao/) |
 | [daodejing-01](daodejing-01.md) | translated_as | [daodejing-01 ↗](https://daoismhub.com/translations/daodejing-01/) |
 | [daodejing-02](daodejing-02.md) | described_in | [daodejing-02 ↗](https://daoismhub.com/translations/daodejing-02/) |
@@ -40,9 +40,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [daodejing-37](daodejing-37.md) | translated_as | [daodejing-37 ↗](https://daoismhub.com/translations/daodejing-37/) |
 | [daodejing-40](daodejing-40.md) | described_in | [daodejing-40 ↗](https://daoismhub.com/translations/daodejing-40/) |
 | [daodejing-42](daodejing-42.md) | translated_as | [daodejing-42 ↗](https://daoismhub.com/translations/daodejing-42/) |
-| [daodejing-42](daodejing-42.md) | described_in | [daodejing-42 ↗](https://daoismhub.com/translations/daodejing-42/) |
 | [daodejing-45](daodejing-45.md) | translated_as | [daodejing-45 ↗](https://daoismhub.com/translations/daodejing-45/) |
-| [daodejing-45](daodejing-45.md) | described_in | [daodejing-45 ↗](https://daoismhub.com/translations/daodejing-45/) |
 | [daodejing-46](daodejing-46.md) | described_in | [daodejing-46 ↗](https://daoismhub.com/translations/daodejing-46/) |
 | [daodejing-48](daodejing-48.md) | translated_as | [daodejing-48 ↗](https://daoismhub.com/translations/daodejing-48/) |
 | [daodejing-51](daodejing-51.md) | related_to | [daodejing-51 ↗](https://daoismhub.com/translations/daodejing-51/) |
@@ -58,10 +56,10 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [heshang-gong-commentary](heshang-gong-commentary.md) | associated_with | [heshang-gong-commentary ↗](https://daoismhub.com/timeline/heshang-gong-commentary/) |
 | [jing](jing.md) | described_in | [jing ↗](https://daoismhub.com/concepts/jing/) |
 | [laozi](laozi.md) | associated_with | [laozi ↗](https://daoismhub.com/people/laozi/) |
-| [liezi](liezi.md) | related_to | [liezi ↗](https://daoismhub.com/texts/liezi/) |
+| [liezi](liezi.md) | associated_with | [liezi ↗](https://daoismhub.com/texts/liezi/) |
 | [pu](pu.md) | described_in | [pu ↗](https://daoismhub.com/concepts/pu/) |
 | [qi](qi.md) | described_in | [qi ↗](https://daoismhub.com/glossary/qi/) |
-| [qiu-chuji](qiu-chuji.md) | related_to | [qiu-chuji ↗](https://daoismhub.com/people/qiu-chuji/) |
+| [qiu-chuji](qiu-chuji.md) | associated_with | [qiu-chuji ↗](https://daoismhub.com/people/qiu-chuji/) |
 | [shouyi](shouyi.md) | described_in | [shouyi ↗](https://daoismhub.com/glossary/shouyi/) |
 | [tuoyue](tuoyue.md) | described_in | [tuoyue ↗](https://daoismhub.com/glossary/tuoyue/) |
 | [wang-bi](wang-bi.md) | associated_with | [wang-bi ↗](https://daoismhub.com/people/wang-bi/) |

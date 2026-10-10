@@ -11,7 +11,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 |---|---|---|
 | [bao-guang](bao-guang.md) | associated_with | [bao-guang ↗](https://daoismhub.com/glossary/bao-guang/) |
 | [butterfly-dream](butterfly-dream.md) | related_to | [butterfly-dream ↗](https://daoismhub.com/stories/butterfly-dream/) |
-| [dao](dao.md) | related_to | [dao ↗](https://daoismhub.com/glossary/dao/) |
+| [dao](dao.md) | associated_with | [dao ↗](https://daoismhub.com/glossary/dao/) |
 | [huzi-jixian](huzi-jixian.md) | related_to | [huzi-jixian ↗](https://daoismhub.com/stories/huzi-jixian/) |
 | [qiwulun-wu-sang-wo](qiwulun-wu-sang-wo.md) | related_to | [qiwulun-wu-sang-wo ↗](https://daoismhub.com/translations/qiwulun-wu-sang-wo/) |
 | [three-in-the-morning](three-in-the-morning.md) | related_to | [three-in-the-morning ↗](https://daoismhub.com/stories/three-in-the-morning/) |

@@ -9,7 +9,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | to | relation | main site |
 |---|---|---|
-| [bao-guang](bao-guang.md) | related_to | [bao-guang ↗](https://daoismhub.com/glossary/bao-guang/) |
+| [bao-guang](bao-guang.md) | concerns | [bao-guang ↗](https://daoismhub.com/glossary/bao-guang/) |
 | [dao-yi-you-dao](dao-yi-you-dao.md) | related_to | [dao-yi-you-dao ↗](https://daoismhub.com/stories/dao-yi-you-dao/) |
 | [daodejing](daodejing.md) | described_in | [daodejing ↗](https://daoismhub.com/texts/daodejing/) |
 | [daodejing-02](daodejing-02.md) | associated_with | [daodejing-02 ↗](https://daoismhub.com/translations/daodejing-02/) |

@@ -11,7 +11,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 |---|---|---|
 | [baopuzi](baopuzi.md) | related_to | [baopuzi ↗](https://daoismhub.com/texts/baopuzi/) |
 | [breath-stopping-anxiety](breath-stopping-anxiety.md) | concerns | [breath-stopping-anxiety ↗](https://daoismhub.com/problems/breath-stopping-anxiety/) |
-| [exp-014-double-lotus-doctrine](exp-014-double-lotus-doctrine.md) | related_to | [exp-014-double-lotus-doctrine ↗](https://daoismhub.com/experiences/notes/exp-014-double-lotus-doctrine/) |
+| [exp-014-double-lotus-doctrine](exp-014-double-lotus-doctrine.md) | references | [exp-014-double-lotus-doctrine ↗](https://daoismhub.com/experiences/notes/exp-014-double-lotus-doctrine/) |
 | [exp-019-one-remedy-body](exp-019-one-remedy-body.md) | references | [exp-019-one-remedy-body ↗](https://daoismhub.com/experiences/notes/exp-019-one-remedy-body/) |
 | [farias-adverse-events-2020](farias-adverse-events-2020.md) | references | [farias-adverse-events-2020 ↗](https://daoismhub.com/research/farias-adverse-events-2020/) |
 | [mindfulness-meta-analysis-2014](mindfulness-meta-analysis-2014.md) | references | [mindfulness-meta-analysis-2014 ↗](https://daoismhub.com/research/mindfulness-meta-analysis-2014/) |

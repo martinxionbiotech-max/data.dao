@@ -15,7 +15,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [exp-018-halflotus-to-full-lotus](exp-018-halflotus-to-full-lotus.md) | associated_with | [exp-018-halflotus-to-full-lotus ↗](https://daoismhub.com/experiences/notes/exp-018-halflotus-to-full-lotus/) |
 | [exp-029-the-human-body](exp-029-the-human-body.md) | associated_with | [exp-029-the-human-body ↗](https://daoismhub.com/experiences/notes/exp-029-the-human-body/) |
 | [how-long-should-i-sit](how-long-should-i-sit.md) | concerns | [how-long-should-i-sit ↗](https://daoismhub.com/experiences/questions/how-long-should-i-sit/) |
-| [jingzuo](jingzuo.md) | related_to | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
+| [jingzuo](jingzuo.md) | concerns | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
 | [must-i-sit-cross-legged](must-i-sit-cross-legged.md) | concerns | [must-i-sit-cross-legged ↗](https://daoismhub.com/experiences/questions/must-i-sit-cross-legged/) |
 | [what-counts-as-progress](what-counts-as-progress.md) | concerns | [what-counts-as-progress ↗](https://daoismhub.com/experiences/questions/what-counts-as-progress/) |
 

@@ -12,7 +12,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [artisan-qing-passage](artisan-qing-passage.md) | references | [artisan-qing-passage ↗](https://daoismhub.com/translations/artisan-qing-passage/) |
 | [can-meditation-cure-illness](can-meditation-cure-illness.md) | associated_with | [can-meditation-cure-illness ↗](https://daoismhub.com/experiences/questions/can-meditation-cure-illness/) |
 | [daodejing-33](daodejing-33.md) | references | [daodejing-33 ↗](https://daoismhub.com/translations/daodejing-33/) |
-| [daodejing-64](daodejing-64.md) | related_to | [daodejing-64 ↗](https://daoismhub.com/translations/daodejing-64/) |
+| [daodejing-64](daodejing-64.md) | references | [daodejing-64 ↗](https://daoismhub.com/translations/daodejing-64/) |
 | [exp-009-dissolving-void](exp-009-dissolving-void.md) | references | [exp-009-dissolving-void ↗](https://daoismhub.com/experiences/notes/exp-009-dissolving-void/) |
 | [exp-010-lotus-pain](exp-010-lotus-pain.md) | references | [exp-010-lotus-pain ↗](https://daoismhub.com/experiences/notes/exp-010-lotus-pain/) |
 | [exp-016-nine-dhyanas-map](exp-016-nine-dhyanas-map.md) | references | [exp-016-nine-dhyanas-map ↗](https://daoismhub.com/experiences/notes/exp-016-nine-dhyanas-map/) |

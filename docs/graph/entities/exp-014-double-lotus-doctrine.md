@@ -17,7 +17,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [can-meditation-cure-illness](can-meditation-cure-illness.md) | related_to | [can-meditation-cure-illness ↗](https://daoismhub.com/experiences/questions/can-meditation-cure-illness/) |
+| [can-meditation-cure-illness](can-meditation-cure-illness.md) | references | [can-meditation-cure-illness ↗](https://daoismhub.com/experiences/questions/can-meditation-cure-illness/) |
 | [exp-015-heat-sweat-qi](exp-015-heat-sweat-qi.md) | associated_with | [exp-015-heat-sweat-qi ↗](https://daoismhub.com/experiences/notes/exp-015-heat-sweat-qi/) |
 | [exp-016-nine-dhyanas-map](exp-016-nine-dhyanas-map.md) | associated_with | [exp-016-nine-dhyanas-map ↗](https://daoismhub.com/experiences/notes/exp-016-nine-dhyanas-map/) |
 | [exp-017-why-he-began](exp-017-why-he-began.md) | associated_with | [exp-017-why-he-began ↗](https://daoismhub.com/experiences/notes/exp-017-why-he-began/) |

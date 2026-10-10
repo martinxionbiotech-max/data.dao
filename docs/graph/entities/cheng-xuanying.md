@@ -10,14 +10,14 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | to | relation | main site |
 |---|---|---|
 | [bao-guang](bao-guang.md) | related_to | [bao-guang ↗](https://daoismhub.com/glossary/bao-guang/) |
-| [daodejing](daodejing.md) | related_to | [daodejing ↗](https://daoismhub.com/texts/daodejing/) |
+| [daodejing](daodejing.md) | associated_with | [daodejing ↗](https://daoismhub.com/texts/daodejing/) |
 | [daodejing-01](daodejing-01.md) | related_to | [daodejing-01 ↗](https://daoismhub.com/translations/daodejing-01/) |
 | [daodejing-02](daodejing-02.md) | related_to | [daodejing-02 ↗](https://daoismhub.com/translations/daodejing-02/) |
 | [guo-xiang](guo-xiang.md) | associated_with | [guo-xiang ↗](https://daoismhub.com/people/guo-xiang/) |
 | [tao-hongjing](tao-hongjing.md) | associated_with | [tao-hongjing ↗](https://daoismhub.com/people/tao-hongjing/) |
 | [wang-bi](wang-bi.md) | associated_with | [wang-bi ↗](https://daoismhub.com/people/wang-bi/) |
 | [xuan](xuan.md) | related_to | [xuan ↗](https://daoismhub.com/glossary/xuan/) |
-| [zhuangzi](zhuangzi.md) | related_to | [zhuangzi ↗](https://daoismhub.com/texts/zhuangzi/) |
+| [zhuangzi](zhuangzi.md) | associated_with | [zhuangzi ↗](https://daoismhub.com/texts/zhuangzi/) |
 
 ## Incoming (0)
 

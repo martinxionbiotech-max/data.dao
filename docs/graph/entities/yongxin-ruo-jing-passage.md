@@ -11,7 +11,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 |---|---|---|
 | [jing](jing.md) | concerns | [jing ↗](https://daoismhub.com/concepts/jing/) |
 | [virtual-room-passage](virtual-room-passage.md) | associated_with | [virtual-room-passage ↗](https://daoismhub.com/translations/virtual-room-passage/) |
-| [zhi-shui](zhi-shui.md) | related_to | [zhi-shui ↗](https://daoismhub.com/glossary/zhi-shui/) |
+| [zhi-shui](zhi-shui.md) | concerns | [zhi-shui ↗](https://daoismhub.com/glossary/zhi-shui/) |
 | [zhuangzi](zhuangzi.md) | translated_as | [zhuangzi ↗](https://daoismhub.com/texts/zhuangzi/) |
 
 ## Incoming (3)

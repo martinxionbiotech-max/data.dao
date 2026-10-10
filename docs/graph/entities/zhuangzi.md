@@ -27,7 +27,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [cao-shang](cao-shang.md) | described_in | [cao-shang ↗](https://daoismhub.com/stories/cao-shang/) |
 | [carpenter-shi](carpenter-shi.md) | described_in | [carpenter-shi ↗](https://daoismhub.com/stories/carpenter-shi/) |
 | [chen-tuan](chen-tuan.md) | associated_with | [chen-tuan ↗](https://daoismhub.com/people/chen-tuan/) |
-| [cheng-xuanying](cheng-xuanying.md) | related_to | [cheng-xuanying ↗](https://daoismhub.com/people/cheng-xuanying/) |
+| [cheng-xuanying](cheng-xuanying.md) | associated_with | [cheng-xuanying ↗](https://daoismhub.com/people/cheng-xuanying/) |
 | [chui-gou-zhe](chui-gou-zhe.md) | described_in | [chui-gou-zhe ↗](https://daoismhub.com/stories/chui-gou-zhe/) |
 | [cicada-catcher](cicada-catcher.md) | described_in | [cicada-catcher ↗](https://daoismhub.com/stories/cicada-catcher/) |
 | [cook-ding](cook-ding.md) | described_in | [cook-ding ↗](https://daoismhub.com/stories/cook-ding/) |
@@ -107,10 +107,10 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [wheelwright-bian](wheelwright-bian.md) | described_in | [wheelwright-bian ↗](https://daoismhub.com/stories/wheelwright-bian/) |
 | [wooden-rooster](wooden-rooster.md) | described_in | [wooden-rooster ↗](https://daoismhub.com/stories/wooden-rooster/) |
 | [wooden-rooster-passage](wooden-rooster-passage.md) | described_in | [wooden-rooster-passage ↗](https://daoismhub.com/translations/wooden-rooster-passage/) |
-| [wu-he-you-zhi-xiang](wu-he-you-zhi-xiang.md) | related_to | [wu-he-you-zhi-xiang ↗](https://daoismhub.com/glossary/wu-he-you-zhi-xiang/) |
+| [wu-he-you-zhi-xiang](wu-he-you-zhi-xiang.md) | described_in | [wu-he-you-zhi-xiang ↗](https://daoismhub.com/glossary/wu-he-you-zhi-xiang/) |
 | [wu-hua](wu-hua.md) | described_in | [wu-hua ↗](https://daoismhub.com/glossary/wu-hua/) |
 | [wu-sang-wo](wu-sang-wo.md) | described_in | [wu-sang-wo ↗](https://daoismhub.com/glossary/wu-sang-wo/) |
-| [wu-shi-wu-zhong](wu-shi-wu-zhong.md) | related_to | [wu-shi-wu-zhong ↗](https://daoismhub.com/glossary/wu-shi-wu-zhong/) |
+| [wu-shi-wu-zhong](wu-shi-wu-zhong.md) | described_in | [wu-shi-wu-zhong ↗](https://daoismhub.com/glossary/wu-shi-wu-zhong/) |
 | [wu-you](wu-you.md) | described_in | [wu-you ↗](https://daoismhub.com/concepts/wu-you/) |
 | [xian-jie](xian-jie.md) | described_in | [xian-jie ↗](https://daoismhub.com/glossary/xian-jie/) |
 | [xiaoyao](xiaoyao.md) | described_in | [xiaoyao ↗](https://daoismhub.com/glossary/xiaoyao/) |

@@ -9,7 +9,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | to | relation | main site |
 |---|---|---|
-| [qingjing-jing](qingjing-jing.md) | related_to | [qingjing-jing ↗](https://daoismhub.com/texts/qingjing-jing/) |
+| [qingjing-jing](qingjing-jing.md) | described_in | [qingjing-jing ↗](https://daoismhub.com/texts/qingjing-jing/) |
 | [xinzhai-passage](xinzhai-passage.md) | translated_as | [xinzhai-passage ↗](https://daoismhub.com/translations/xinzhai-passage/) |
 | [xu](xu.md) | derived_from | [xu ↗](https://daoismhub.com/concepts/xu/) |
 | [zhuangzi](zhuangzi.md) | described_in | [zhuangzi ↗](https://daoismhub.com/texts/zhuangzi/) |
@@ -25,14 +25,14 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [daoist-vs-buddhist-meditation](daoist-vs-buddhist-meditation.md) | discusses | [daoist-vs-buddhist-meditation ↗](https://daoismhub.com/comparisons/daoist-vs-buddhist-meditation/) |
 | [does-practice-need-faith](does-practice-need-faith.md) | related_to | [does-practice-need-faith ↗](https://daoismhub.com/experiences/questions/does-practice-need-faith/) |
 | [ji-xin](ji-xin.md) | concerns | [ji-xin ↗](https://daoismhub.com/glossary/ji-xin/) |
-| [jingzuo](jingzuo.md) | related_to | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
+| [jingzuo](jingzuo.md) | associated_with | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
 | [map-of-chinese-contemplative-traditions](map-of-chinese-contemplative-traditions.md) | discusses | [map-of-chinese-contemplative-traditions ↗](https://daoismhub.com/guides/map-of-chinese-contemplative-traditions/) |
 | [neiguan](neiguan.md) | associated_with | [neiguan ↗](https://daoismhub.com/glossary/neiguan/) |
 | [thoughts-become-stronger](thoughts-become-stronger.md) | concerns | [thoughts-become-stronger ↗](https://daoismhub.com/problems/thoughts-become-stronger/) |
 | [virtual-room-passage](virtual-room-passage.md) | concerns | [virtual-room-passage ↗](https://daoismhub.com/translations/virtual-room-passage/) |
 | [wandering-mind-in-sitting](wandering-mind-in-sitting.md) | concerns | [wandering-mind-in-sitting ↗](https://daoismhub.com/problems/wandering-mind-in-sitting/) |
 | [why-do-i-see-lights](why-do-i-see-lights.md) | discusses | [why-do-i-see-lights ↗](https://daoismhub.com/experiences/questions/why-do-i-see-lights/) |
-| [wu-sang-wo](wu-sang-wo.md) | related_to | [wu-sang-wo ↗](https://daoismhub.com/glossary/wu-sang-wo/) |
+| [wu-sang-wo](wu-sang-wo.md) | associated_with | [wu-sang-wo ↗](https://daoismhub.com/glossary/wu-sang-wo/) |
 | [xinzhai-vs-mindfulness](xinzhai-vs-mindfulness.md) | discusses | [xinzhai-vs-mindfulness ↗](https://daoismhub.com/comparisons/xinzhai-vs-mindfulness/) |
 | [xu](xu.md) | related_to | [xu ↗](https://daoismhub.com/concepts/xu/) |
 | [xushi-sheng-bai](xushi-sheng-bai.md) | concerns | [xushi-sheng-bai ↗](https://daoismhub.com/glossary/xushi-sheng-bai/) |

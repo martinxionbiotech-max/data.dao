@@ -20,7 +20,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [exp-022-its-all-theatre](exp-022-its-all-theatre.md) | associated_with | [exp-022-its-all-theatre ↗](https://daoismhub.com/experiences/notes/exp-022-its-all-theatre/) |
 | [exp-023-breath-is-the-key](exp-023-breath-is-the-key.md) | associated_with | [exp-023-breath-is-the-key ↗](https://daoismhub.com/experiences/notes/exp-023-breath-is-the-key/) |
 | [farias-adverse-events-2020](farias-adverse-events-2020.md) | references | [farias-adverse-events-2020 ↗](https://daoismhub.com/research/farias-adverse-events-2020/) |
-| [jingzuo](jingzuo.md) | related_to | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
+| [jingzuo](jingzuo.md) | concerns | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
 | [what-counts-as-progress](what-counts-as-progress.md) | concerns | [what-counts-as-progress ↗](https://daoismhub.com/experiences/questions/what-counts-as-progress/) |
 
 ## Incoming (3)

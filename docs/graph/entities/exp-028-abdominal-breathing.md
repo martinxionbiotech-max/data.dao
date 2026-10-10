@@ -14,9 +14,9 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [exp-020-false-first-dhyana](exp-020-false-first-dhyana.md) | associated_with | [exp-020-false-first-dhyana ↗](https://daoismhub.com/experiences/notes/exp-020-false-first-dhyana/) |
 | [exp-021-prostrations-channel-circuit](exp-021-prostrations-channel-circuit.md) | associated_with | [exp-021-prostrations-channel-circuit ↗](https://daoismhub.com/experiences/notes/exp-021-prostrations-channel-circuit/) |
 | [exp-023-breath-is-the-key](exp-023-breath-is-the-key.md) | associated_with | [exp-023-breath-is-the-key ↗](https://daoismhub.com/experiences/notes/exp-023-breath-is-the-key/) |
-| [jingzuo](jingzuo.md) | related_to | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
+| [jingzuo](jingzuo.md) | concerns | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
 | [taixi](taixi.md) | related_to | [taixi ↗](https://daoismhub.com/practices/taixi/) |
-| [tiaoxi](tiaoxi.md) | related_to | [tiaoxi ↗](https://daoismhub.com/glossary/tiaoxi/) |
+| [tiaoxi](tiaoxi.md) | concerns | [tiaoxi ↗](https://daoismhub.com/glossary/tiaoxi/) |
 | [what-counts-as-progress](what-counts-as-progress.md) | concerns | [what-counts-as-progress ↗](https://daoismhub.com/experiences/questions/what-counts-as-progress/) |
 
 ## Incoming (3)

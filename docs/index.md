@@ -33,7 +33,7 @@ published), graph edges in `relationships.json`, source records in `sources.json
 | Guides | 9 |
 | Tools | 3 |
 | Blog posts | 4 |
-| Knowledge-graph edges | 1553 |
+| Knowledge-graph edges | 1550 |
 | Sources | 200 |
 
 - **Experience system**: 32 anonymized experiences, 3 patterns,

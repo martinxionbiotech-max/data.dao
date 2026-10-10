@@ -14,7 +14,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [kou-qianzhi-reform](kou-qianzhi-reform.md) | related_to | [kou-qianzhi-reform ↗](https://daoismhub.com/timeline/kou-qianzhi-reform/) |
 | [shangqing-revelations](shangqing-revelations.md) | related_to | [shangqing-revelations ↗](https://daoismhub.com/timeline/shangqing-revelations/) |
 | [shouyi](shouyi.md) | concerns | [shouyi ↗](https://daoismhub.com/glossary/shouyi/) |
-| [taiping-jing](taiping-jing.md) | related_to | [taiping-jing ↗](https://daoismhub.com/texts/taiping-jing/) |
+| [taiping-jing](taiping-jing.md) | associated_with | [taiping-jing ↗](https://daoismhub.com/texts/taiping-jing/) |
 | [tao-hongjing](tao-hongjing.md) | associated_with | [tao-hongjing ↗](https://daoismhub.com/people/tao-hongjing/) |
 | [wei-huacun](wei-huacun.md) | associated_with | [wei-huacun ↗](https://daoismhub.com/people/wei-huacun/) |
 

@@ -24,4 +24,4 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [exp-027-finding-a-teacher](exp-027-finding-a-teacher.md) | associated_with | [exp-027-finding-a-teacher ↗](https://daoismhub.com/experiences/notes/exp-027-finding-a-teacher/) |
 | [exp-028-abdominal-breathing](exp-028-abdominal-breathing.md) | associated_with | [exp-028-abdominal-breathing ↗](https://daoismhub.com/experiences/notes/exp-028-abdominal-breathing/) |
 | [should-i-meditate-when-sick](should-i-meditate-when-sick.md) | references | [should-i-meditate-when-sick ↗](https://daoismhub.com/experiences/questions/should-i-meditate-when-sick/) |
-| [what-counts-as-progress](what-counts-as-progress.md) | related_to | [what-counts-as-progress ↗](https://daoismhub.com/experiences/questions/what-counts-as-progress/) |
+| [what-counts-as-progress](what-counts-as-progress.md) | references | [what-counts-as-progress ↗](https://daoismhub.com/experiences/questions/what-counts-as-progress/) |

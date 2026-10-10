@@ -9,7 +9,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | to | relation | main site |
 |---|---|---|
-| [qingjing-jing](qingjing-jing.md) | related_to | [qingjing-jing ↗](https://daoismhub.com/texts/qingjing-jing/) |
+| [qingjing-jing](qingjing-jing.md) | associated_with | [qingjing-jing ↗](https://daoismhub.com/texts/qingjing-jing/) |
 
 ## Incoming (5)
 
@@ -17,6 +17,6 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 |---|---|---|
 | [neiguan](neiguan.md) | described_in | [neiguan ↗](https://daoismhub.com/glossary/neiguan/) |
 | [qingjing-neiguan-jing](qingjing-neiguan-jing.md) | references | [qingjing-neiguan-jing ↗](https://daoismhub.com/timeline/qingjing-neiguan-jing/) |
-| [shouyi](shouyi.md) | related_to | [shouyi ↗](https://daoismhub.com/glossary/shouyi/) |
+| [shouyi](shouyi.md) | described_in | [shouyi ↗](https://daoismhub.com/glossary/shouyi/) |
 | [what-is-neiguan](what-is-neiguan.md) | references | [what-is-neiguan ↗](https://daoismhub.com/guides/what-is-neiguan/) |
 | [zuowang-lun](zuowang-lun.md) | derived_from | [zuowang-lun ↗](https://daoismhub.com/texts/zuowang-lun/) |

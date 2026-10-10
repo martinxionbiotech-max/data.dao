@@ -22,8 +22,8 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | from | relation | main site |
 |---|---|---|
 | [cheng-xuanying](cheng-xuanying.md) | related_to | [cheng-xuanying ↗](https://daoismhub.com/people/cheng-xuanying/) |
-| [daodejing-11](daodejing-11.md) | related_to | [daodejing-11 ↗](https://daoismhub.com/translations/daodejing-11/) |
-| [daodejing-36](daodejing-36.md) | related_to | [daodejing-36 ↗](https://daoismhub.com/translations/daodejing-36/) |
-| [daodejing-40](daodejing-40.md) | related_to | [daodejing-40 ↗](https://daoismhub.com/translations/daodejing-40/) |
+| [daodejing-11](daodejing-11.md) | concerns | [daodejing-11 ↗](https://daoismhub.com/translations/daodejing-11/) |
+| [daodejing-36](daodejing-36.md) | concerns | [daodejing-36 ↗](https://daoismhub.com/translations/daodejing-36/) |
+| [daodejing-40](daodejing-40.md) | concerns | [daodejing-40 ↗](https://daoismhub.com/translations/daodejing-40/) |
 | [qiwu](qiwu.md) | associated_with | [qiwu ↗](https://daoismhub.com/glossary/qiwu/) |
 | [zhi-yan](zhi-yan.md) | concerns | [zhi-yan ↗](https://daoismhub.com/stories/zhi-yan/) |

@@ -2,10 +2,10 @@
 
 Main site page: [/glossary/zhao-che/](https://daoismhub.com/glossary/zhao-che/)
 
-Graph entity ID: `zhao-che` - 10 direct relationships.
+Graph entity ID: `zhao-che` - 9 direct relationships.
 Entity names in the tables link to their own entity pages; the "main site" column links to the full article on daoismhub.com.
 
-## Outgoing (8)
+## Outgoing (7)
 
 | to | relation | main site |
 |---|---|---|
@@ -14,7 +14,6 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [jing](jing.md) | concerns | [jing ↗](https://daoismhub.com/concepts/jing/) |
 | [seeing-light-in-sitting](seeing-light-in-sitting.md) | related_to | [seeing-light-in-sitting ↗](https://daoismhub.com/problems/seeing-light-in-sitting/) |
 | [yingning](yingning.md) | concerns | [yingning ↗](https://daoismhub.com/glossary/yingning/) |
-| [yingning](yingning.md) | associated_with | [yingning ↗](https://daoismhub.com/glossary/yingning/) |
 | [yingning-passage](yingning-passage.md) | related_to | [yingning-passage ↗](https://daoismhub.com/translations/yingning-passage/) |
 | [zhuangzi](zhuangzi.md) | described_in | [zhuangzi ↗](https://daoismhub.com/texts/zhuangzi/) |
 

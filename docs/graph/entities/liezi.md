@@ -9,7 +9,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | to | relation | main site |
 |---|---|---|
-| [daodejing](daodejing.md) | related_to | [daodejing ↗](https://daoismhub.com/texts/daodejing/) |
+| [daodejing](daodejing.md) | associated_with | [daodejing ↗](https://daoismhub.com/texts/daodejing/) |
 | [xu](xu.md) | concerns | [xu ↗](https://daoismhub.com/concepts/xu/) |
 | [zhuangzi](zhuangzi.md) | references | [zhuangzi ↗](https://daoismhub.com/texts/zhuangzi/) |
 

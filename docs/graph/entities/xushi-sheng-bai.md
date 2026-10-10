@@ -14,7 +14,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [xu](xu.md) | concerns | [xu ↗](https://daoismhub.com/concepts/xu/) |
 | [zhuangzi](zhuangzi.md) | described_in | [zhuangzi ↗](https://daoismhub.com/texts/zhuangzi/) |
 | [zuochi](zuochi.md) | associated_with | [zuochi ↗](https://daoismhub.com/glossary/zuochi/) |
-| [zuowang](zuowang.md) | related_to | [zuowang ↗](https://daoismhub.com/glossary/zuowang/) |
+| [zuowang](zuowang.md) | associated_with | [zuowang ↗](https://daoismhub.com/glossary/zuowang/) |
 
 ## Incoming (5)
 

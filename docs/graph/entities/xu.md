@@ -21,12 +21,12 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [dao](dao.md) | associated_with | [dao ↗](https://daoismhub.com/glossary/dao/) |
 | [daodejing-01](daodejing-01.md) | concerns | [daodejing-01 ↗](https://daoismhub.com/translations/daodejing-01/) |
 | [daodejing-05](daodejing-05.md) | concerns | [daodejing-05 ↗](https://daoismhub.com/translations/daodejing-05/) |
-| [daodejing-11](daodejing-11.md) | related_to | [daodejing-11 ↗](https://daoismhub.com/translations/daodejing-11/) |
+| [daodejing-11](daodejing-11.md) | concerns | [daodejing-11 ↗](https://daoismhub.com/translations/daodejing-11/) |
 | [daodejing-12](daodejing-12.md) | concerns | [daodejing-12 ↗](https://daoismhub.com/translations/daodejing-12/) |
 | [daodejing-16](daodejing-16.md) | concerns | [daodejing-16 ↗](https://daoismhub.com/translations/daodejing-16/) |
 | [daodejing-22](daodejing-22.md) | concerns | [daodejing-22 ↗](https://daoismhub.com/translations/daodejing-22/) |
 | [daodejing-33](daodejing-33.md) | concerns | [daodejing-33 ↗](https://daoismhub.com/translations/daodejing-33/) |
-| [daodejing-42](daodejing-42.md) | related_to | [daodejing-42 ↗](https://daoismhub.com/translations/daodejing-42/) |
+| [daodejing-42](daodejing-42.md) | concerns | [daodejing-42 ↗](https://daoismhub.com/translations/daodejing-42/) |
 | [daodejing-45](daodejing-45.md) | concerns | [daodejing-45 ↗](https://daoismhub.com/translations/daodejing-45/) |
 | [daoist-meditation-explained](daoist-meditation-explained.md) | discusses | [daoist-meditation-explained ↗](https://daoismhub.com/guides/daoist-meditation-explained/) |
 | [dongguo-zi-asks](dongguo-zi-asks.md) | concerns | [dongguo-zi-asks ↗](https://daoismhub.com/stories/dongguo-zi-asks/) |

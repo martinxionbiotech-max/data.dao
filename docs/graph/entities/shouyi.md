@@ -13,10 +13,10 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [baopuzi-shouyi](baopuzi-shouyi.md) | described_in | [baopuzi-shouyi ↗](https://daoismhub.com/timeline/baopuzi-shouyi/) |
 | [daodejing](daodejing.md) | described_in | [daodejing ↗](https://daoismhub.com/texts/daodejing/) |
 | [daodejing-10-shouyi](daodejing-10-shouyi.md) | translated_as | [daodejing-10-shouyi ↗](https://daoismhub.com/translations/daodejing-10-shouyi/) |
-| [neiguan-jing](neiguan-jing.md) | related_to | [neiguan-jing ↗](https://daoismhub.com/texts/neiguan-jing/) |
+| [neiguan-jing](neiguan-jing.md) | described_in | [neiguan-jing ↗](https://daoismhub.com/texts/neiguan-jing/) |
 | [qi](qi.md) | associated_with | [qi ↗](https://daoismhub.com/glossary/qi/) |
 | [taiping-jing](taiping-jing.md) | described_in | [taiping-jing ↗](https://daoismhub.com/texts/taiping-jing/) |
-| [wuwei](wuwei.md) | related_to | [wuwei ↗](https://daoismhub.com/glossary/wuwei/) |
+| [wuwei](wuwei.md) | associated_with | [wuwei ↗](https://daoismhub.com/glossary/wuwei/) |
 | [zuowang](zuowang.md) | contrasts_with | [zuowang ↗](https://daoismhub.com/glossary/zuowang/) |
 
 ## Incoming (22)
@@ -28,12 +28,12 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [cicada-catcher](cicada-catcher.md) | concerns | [cicada-catcher ↗](https://daoismhub.com/stories/cicada-catcher/) |
 | [cunsi](cunsi.md) | contrasts_with | [cunsi ↗](https://daoismhub.com/practices/cunsi/) |
 | [cunsi-or-zuowang](cunsi-or-zuowang.md) | concerns | [cunsi-or-zuowang ↗](https://daoismhub.com/experiences/questions/cunsi-or-zuowang/) |
-| [dantian](dantian.md) | related_to | [dantian ↗](https://daoismhub.com/glossary/dantian/) |
+| [dantian](dantian.md) | associated_with | [dantian ↗](https://daoismhub.com/glossary/dantian/) |
 | [daoist-meditation-explained](daoist-meditation-explained.md) | discusses | [daoist-meditation-explained ↗](https://daoismhub.com/guides/daoist-meditation-explained/) |
 | [daoist-vs-buddhist-meditation](daoist-vs-buddhist-meditation.md) | discusses | [daoist-vs-buddhist-meditation ↗](https://daoismhub.com/comparisons/daoist-vs-buddhist-meditation/) |
 | [guangchengzi](guangchengzi.md) | concerns | [guangchengzi ↗](https://daoismhub.com/stories/guangchengzi/) |
 | [is-one-style-enough](is-one-style-enough.md) | discusses | [is-one-style-enough ↗](https://daoismhub.com/experiences/questions/is-one-style-enough/) |
-| [jingzuo](jingzuo.md) | related_to | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
+| [jingzuo](jingzuo.md) | associated_with | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
 | [map-of-chinese-contemplative-traditions](map-of-chinese-contemplative-traditions.md) | discusses | [map-of-chinese-contemplative-traditions ↗](https://daoismhub.com/guides/map-of-chinese-contemplative-traditions/) |
 | [neiguan](neiguan.md) | associated_with | [neiguan ↗](https://daoismhub.com/glossary/neiguan/) |
 | [qiu-chuji](qiu-chuji.md) | related_to | [qiu-chuji ↗](https://daoismhub.com/people/qiu-chuji/) |

@@ -17,7 +17,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [swimmer-lvliang](swimmer-lvliang.md) | related_to | [swimmer-lvliang ↗](https://daoismhub.com/stories/swimmer-lvliang/) |
 | [wuwei](wuwei.md) | concerns | [wuwei ↗](https://daoismhub.com/glossary/wuwei/) |
 | [xuzhou-empty-boat](xuzhou-empty-boat.md) | related_to | [xuzhou-empty-boat ↗](https://daoismhub.com/stories/xuzhou-empty-boat/) |
-| [zhi-shui](zhi-shui.md) | related_to | [zhi-shui ↗](https://daoismhub.com/glossary/zhi-shui/) |
+| [zhi-shui](zhi-shui.md) | concerns | [zhi-shui ↗](https://daoismhub.com/glossary/zhi-shui/) |
 | [ziran](ziran.md) | concerns | [ziran ↗](https://daoismhub.com/concepts/ziran/) |
 
 ## Incoming (3)

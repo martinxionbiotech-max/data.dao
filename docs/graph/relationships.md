@@ -1,6 +1,6 @@
 # Relationship Registry
 
-Knowledge-graph edges — 1553 total. Top-level key: `items` in
+Knowledge-graph edges — 1550 total. Top-level key: `items` in
 `site/src/data/relationships.json`.
 
 ## Relation type definitions
@@ -25,16 +25,16 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 
 | relation | count |
 |---|---|
-| associated_with | 539 |
+| associated_with | 566 |
 | authored | 3 |
-| concerns | 355 |
+| concerns | 401 |
 | contrasts_with | 6 |
 | derived_from | 9 |
-| described_in | 153 |
+| described_in | 155 |
 | discusses | 62 |
 | informs | 6 |
-| references | 100 |
-| related_to | 296 |
+| references | 106 |
+| related_to | 212 |
 | translated_as | 24 |
 
 ## All edges
@@ -47,7 +47,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [artisan-qing](entities/artisan-qing.md) | [zuowang](entities/zuowang.md) | concerns |
 | [artisan-qing-passage](entities/artisan-qing-passage.md) | [zhuangzi](entities/zhuangzi.md) | translated_as |
 | [artisan-qing-passage](entities/artisan-qing-passage.md) | [zuowang](entities/zuowang.md) | concerns |
-| [bai-yuchan](entities/bai-yuchan.md) | [daodejing](entities/daodejing.md) | related_to |
+| [bai-yuchan](entities/bai-yuchan.md) | [daodejing](entities/daodejing.md) | associated_with |
 | [bai-yuchan](entities/bai-yuchan.md) | [exp-021-prostrations-channel-circuit](entities/exp-021-prostrations-channel-circuit.md) | related_to |
 | [bai-yuchan](entities/bai-yuchan.md) | [jing-qi-shen](entities/jing-qi-shen.md) | related_to |
 | [bai-yuchan](entities/bai-yuchan.md) | [qiu-chuji](entities/qiu-chuji.md) | associated_with |
@@ -130,7 +130,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [can-i-sit-in-bed](entities/can-i-sit-in-bed.md) | [zuowang](entities/zuowang.md) | related_to |
 | [can-meditation-cure-illness](entities/can-meditation-cure-illness.md) | [baopuzi](entities/baopuzi.md) | related_to |
 | [can-meditation-cure-illness](entities/can-meditation-cure-illness.md) | [breath-stopping-anxiety](entities/breath-stopping-anxiety.md) | concerns |
-| [can-meditation-cure-illness](entities/can-meditation-cure-illness.md) | [exp-014-double-lotus-doctrine](entities/exp-014-double-lotus-doctrine.md) | related_to |
+| [can-meditation-cure-illness](entities/can-meditation-cure-illness.md) | [exp-014-double-lotus-doctrine](entities/exp-014-double-lotus-doctrine.md) | references |
 | [can-meditation-cure-illness](entities/can-meditation-cure-illness.md) | [exp-019-one-remedy-body](entities/exp-019-one-remedy-body.md) | references |
 | [can-meditation-cure-illness](entities/can-meditation-cure-illness.md) | [farias-adverse-events-2020](entities/farias-adverse-events-2020.md) | references |
 | [can-meditation-cure-illness](entities/can-meditation-cure-illness.md) | [mindfulness-meta-analysis-2014](entities/mindfulness-meta-analysis-2014.md) | references |
@@ -162,14 +162,14 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [chen-tuan](entities/chen-tuan.md) | [zhuang-zhou](entities/zhuang-zhou.md) | associated_with |
 | [chen-tuan](entities/chen-tuan.md) | [zhuangzi](entities/zhuangzi.md) | associated_with |
 | [cheng-xuanying](entities/cheng-xuanying.md) | [bao-guang](entities/bao-guang.md) | related_to |
-| [cheng-xuanying](entities/cheng-xuanying.md) | [daodejing](entities/daodejing.md) | related_to |
+| [cheng-xuanying](entities/cheng-xuanying.md) | [daodejing](entities/daodejing.md) | associated_with |
 | [cheng-xuanying](entities/cheng-xuanying.md) | [daodejing-01](entities/daodejing-01.md) | related_to |
 | [cheng-xuanying](entities/cheng-xuanying.md) | [daodejing-02](entities/daodejing-02.md) | related_to |
 | [cheng-xuanying](entities/cheng-xuanying.md) | [guo-xiang](entities/guo-xiang.md) | associated_with |
 | [cheng-xuanying](entities/cheng-xuanying.md) | [tao-hongjing](entities/tao-hongjing.md) | associated_with |
 | [cheng-xuanying](entities/cheng-xuanying.md) | [wang-bi](entities/wang-bi.md) | associated_with |
 | [cheng-xuanying](entities/cheng-xuanying.md) | [xuan](entities/xuan.md) | related_to |
-| [cheng-xuanying](entities/cheng-xuanying.md) | [zhuangzi](entities/zhuangzi.md) | related_to |
+| [cheng-xuanying](entities/cheng-xuanying.md) | [zhuangzi](entities/zhuangzi.md) | associated_with |
 | [chinese-meditation-explained](entities/chinese-meditation-explained.md) | [jingzuo](entities/jingzuo.md) | discusses |
 | [chinese-meditation-explained](entities/chinese-meditation-explained.md) | [tiaoxi](entities/tiaoxi.md) | discusses |
 | [chinese-meditation-explained](entities/chinese-meditation-explained.md) | [xinzhai](entities/xinzhai.md) | discusses |
@@ -209,8 +209,8 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [da-kuai](entities/da-kuai.md) | [zhuangzi](entities/zhuangzi.md) | described_in |
 | [da-kuai](entities/da-kuai.md) | [ziran](entities/ziran.md) | concerns |
 | [dantian](entities/dantian.md) | [jing-qi-shen](entities/jing-qi-shen.md) | associated_with |
-| [dantian](entities/dantian.md) | [qi](entities/qi.md) | related_to |
-| [dantian](entities/dantian.md) | [shouyi](entities/shouyi.md) | related_to |
+| [dantian](entities/dantian.md) | [qi](entities/qi.md) | associated_with |
+| [dantian](entities/dantian.md) | [shouyi](entities/shouyi.md) | associated_with |
 | [dao](entities/dao.md) | [daodejing](entities/daodejing.md) | described_in |
 | [dao](entities/dao.md) | [de](entities/de.md) | associated_with |
 | [dao](entities/dao.md) | [fan](entities/fan.md) | associated_with |
@@ -253,15 +253,15 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [daodejing-02](entities/daodejing-02.md) | [ziran](entities/ziran.md) | concerns |
 | [daodejing-05](entities/daodejing-05.md) | [daodejing](entities/daodejing.md) | translated_as |
 | [daodejing-05](entities/daodejing-05.md) | [daodejing-25](entities/daodejing-25.md) | associated_with |
-| [daodejing-05](entities/daodejing-05.md) | [tuoyue](entities/tuoyue.md) | related_to |
+| [daodejing-05](entities/daodejing-05.md) | [tuoyue](entities/tuoyue.md) | concerns |
 | [daodejing-05](entities/daodejing-05.md) | [xu](entities/xu.md) | concerns |
 | [daodejing-06](entities/daodejing-06.md) | [daodejing](entities/daodejing.md) | translated_as |
 | [daodejing-06](entities/daodejing-06.md) | [daodejing-01](entities/daodejing-01.md) | associated_with |
 | [daodejing-06](entities/daodejing-06.md) | [daodejing-22](entities/daodejing-22.md) | associated_with |
 | [daodejing-06](entities/daodejing-06.md) | [does-daoism-believe-in-a-creator](entities/does-daoism-believe-in-a-creator.md) | related_to |
 | [daodejing-06](entities/daodejing-06.md) | [i-feel-nothing-when-i-sit](entities/i-feel-nothing-when-i-sit.md) | related_to |
-| [daodejing-06](entities/daodejing-06.md) | [tuoyue](entities/tuoyue.md) | related_to |
-| [daodejing-06](entities/daodejing-06.md) | [xuan-pin](entities/xuan-pin.md) | related_to |
+| [daodejing-06](entities/daodejing-06.md) | [tuoyue](entities/tuoyue.md) | concerns |
+| [daodejing-06](entities/daodejing-06.md) | [xuan-pin](entities/xuan-pin.md) | concerns |
 | [daodejing-06](entities/daodejing-06.md) | [yingning-passage](entities/yingning-passage.md) | associated_with |
 | [daodejing-07](entities/daodejing-07.md) | [daodejing](entities/daodejing.md) | described_in |
 | [daodejing-07](entities/daodejing-07.md) | [daodejing-02](entities/daodejing-02.md) | associated_with |
@@ -269,7 +269,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [daodejing-07](entities/daodejing-07.md) | [daodejing-22](entities/daodejing-22.md) | associated_with |
 | [daodejing-07](entities/daodejing-07.md) | [what-counts-as-progress](entities/what-counts-as-progress.md) | related_to |
 | [daodejing-07](entities/daodejing-07.md) | [wuwei](entities/wuwei.md) | concerns |
-| [daodejing-07](entities/daodejing-07.md) | [ziran](entities/ziran.md) | related_to |
+| [daodejing-07](entities/daodejing-07.md) | [ziran](entities/ziran.md) | concerns |
 | [daodejing-08](entities/daodejing-08.md) | [daodejing](entities/daodejing.md) | described_in |
 | [daodejing-08](entities/daodejing-08.md) | [does-daoism-believe-in-a-creator](entities/does-daoism-believe-in-a-creator.md) | related_to |
 | [daodejing-08](entities/daodejing-08.md) | [fish-happiness](entities/fish-happiness.md) | related_to |
@@ -278,9 +278,9 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [daodejing-08](entities/daodejing-08.md) | [swimmer-lvliang](entities/swimmer-lvliang.md) | related_to |
 | [daodejing-08](entities/daodejing-08.md) | [wuwei](entities/wuwei.md) | concerns |
 | [daodejing-08](entities/daodejing-08.md) | [xuzhou-empty-boat](entities/xuzhou-empty-boat.md) | related_to |
-| [daodejing-08](entities/daodejing-08.md) | [zhi-shui](entities/zhi-shui.md) | related_to |
+| [daodejing-08](entities/daodejing-08.md) | [zhi-shui](entities/zhi-shui.md) | concerns |
 | [daodejing-08](entities/daodejing-08.md) | [ziran](entities/ziran.md) | concerns |
-| [daodejing-11](entities/daodejing-11.md) | [bao-guang](entities/bao-guang.md) | related_to |
+| [daodejing-11](entities/daodejing-11.md) | [bao-guang](entities/bao-guang.md) | concerns |
 | [daodejing-11](entities/daodejing-11.md) | [dao-yi-you-dao](entities/dao-yi-you-dao.md) | related_to |
 | [daodejing-11](entities/daodejing-11.md) | [daodejing](entities/daodejing.md) | described_in |
 | [daodejing-11](entities/daodejing-11.md) | [daodejing-02](entities/daodejing-02.md) | associated_with |
@@ -288,21 +288,21 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [daodejing-11](entities/daodejing-11.md) | [useless-gourd](entities/useless-gourd.md) | related_to |
 | [daodejing-11](entities/daodejing-11.md) | [wu-you](entities/wu-you.md) | concerns |
 | [daodejing-11](entities/daodejing-11.md) | [wuwei](entities/wuwei.md) | concerns |
-| [daodejing-11](entities/daodejing-11.md) | [xu](entities/xu.md) | related_to |
-| [daodejing-11](entities/daodejing-11.md) | [zhi-shui](entities/zhi-shui.md) | related_to |
+| [daodejing-11](entities/daodejing-11.md) | [xu](entities/xu.md) | concerns |
+| [daodejing-11](entities/daodejing-11.md) | [zhi-shui](entities/zhi-shui.md) | concerns |
 | [daodejing-12](entities/daodejing-12.md) | [can-i-sit-in-bed](entities/can-i-sit-in-bed.md) | related_to |
 | [daodejing-12](entities/daodejing-12.md) | [daodejing](entities/daodejing.md) | described_in |
 | [daodejing-12](entities/daodejing-12.md) | [daodejing-02](entities/daodejing-02.md) | associated_with |
-| [daodejing-12](entities/daodejing-12.md) | [tiaoxi](entities/tiaoxi.md) | related_to |
+| [daodejing-12](entities/daodejing-12.md) | [tiaoxi](entities/tiaoxi.md) | concerns |
 | [daodejing-12](entities/daodejing-12.md) | [xiao-zhiguan](entities/xiao-zhiguan.md) | related_to |
 | [daodejing-12](entities/daodejing-12.md) | [xinzhai-passage](entities/xinzhai-passage.md) | associated_with |
 | [daodejing-12](entities/daodejing-12.md) | [xu](entities/xu.md) | concerns |
 | [daodejing-13](entities/daodejing-13.md) | [daodejing](entities/daodejing.md) | described_in |
 | [daodejing-13](entities/daodejing-13.md) | [daodejing-02](entities/daodejing-02.md) | associated_with |
 | [daodejing-13](entities/daodejing-13.md) | [daodejing-07](entities/daodejing-07.md) | associated_with |
-| [daodejing-13](entities/daodejing-13.md) | [jing](entities/jing.md) | related_to |
+| [daodejing-13](entities/daodejing-13.md) | [jing](entities/jing.md) | concerns |
 | [daodejing-13](entities/daodejing-13.md) | [should-i-meditate-when-sick](entities/should-i-meditate-when-sick.md) | related_to |
-| [daodejing-13](entities/daodejing-13.md) | [wu-sang-wo](entities/wu-sang-wo.md) | related_to |
+| [daodejing-13](entities/daodejing-13.md) | [wu-sang-wo](entities/wu-sang-wo.md) | concerns |
 | [daodejing-14](entities/daodejing-14.md) | [chen-tuan](entities/chen-tuan.md) | related_to |
 | [daodejing-14](entities/daodejing-14.md) | [dao](entities/dao.md) | concerns |
 | [daodejing-14](entities/daodejing-14.md) | [daodejing](entities/daodejing.md) | translated_as |
@@ -332,18 +332,18 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [daodejing-32](entities/daodejing-32.md) | [daodejing-25](entities/daodejing-25.md) | associated_with |
 | [daodejing-32](entities/daodejing-32.md) | [daodejing-37](entities/daodejing-37.md) | associated_with |
 | [daodejing-32](entities/daodejing-32.md) | [pu](entities/pu.md) | concerns |
-| [daodejing-32](entities/daodejing-32.md) | [wuwei](entities/wuwei.md) | related_to |
-| [daodejing-32](entities/daodejing-32.md) | [zhi-shui](entities/zhi-shui.md) | related_to |
-| [daodejing-32](entities/daodejing-32.md) | [ziran](entities/ziran.md) | related_to |
+| [daodejing-32](entities/daodejing-32.md) | [wuwei](entities/wuwei.md) | concerns |
+| [daodejing-32](entities/daodejing-32.md) | [zhi-shui](entities/zhi-shui.md) | concerns |
+| [daodejing-32](entities/daodejing-32.md) | [ziran](entities/ziran.md) | concerns |
 | [daodejing-33](entities/daodejing-33.md) | [daodejing](entities/daodejing.md) | described_in |
 | [daodejing-33](entities/daodejing-33.md) | [daodejing-22](entities/daodejing-22.md) | associated_with |
 | [daodejing-33](entities/daodejing-33.md) | [daodejing-45](entities/daodejing-45.md) | associated_with |
 | [daodejing-33](entities/daodejing-33.md) | [guan](entities/guan.md) | concerns |
 | [daodejing-33](entities/daodejing-33.md) | [how-long-until-results](entities/how-long-until-results.md) | related_to |
-| [daodejing-33](entities/daodejing-33.md) | [jian-du](entities/jian-du.md) | related_to |
+| [daodejing-33](entities/daodejing-33.md) | [jian-du](entities/jian-du.md) | concerns |
 | [daodejing-33](entities/daodejing-33.md) | [what-is-stillness](entities/what-is-stillness.md) | related_to |
 | [daodejing-33](entities/daodejing-33.md) | [xu](entities/xu.md) | concerns |
-| [daodejing-36](entities/daodejing-36.md) | [bao-guang](entities/bao-guang.md) | related_to |
+| [daodejing-36](entities/daodejing-36.md) | [bao-guang](entities/bao-guang.md) | concerns |
 | [daodejing-36](entities/daodejing-36.md) | [dao-yi-you-dao](entities/dao-yi-you-dao.md) | related_to |
 | [daodejing-36](entities/daodejing-36.md) | [daodejing](entities/daodejing.md) | described_in |
 | [daodejing-36](entities/daodejing-36.md) | [daodejing-02](entities/daodejing-02.md) | associated_with |
@@ -360,7 +360,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [daodejing-37](entities/daodejing-37.md) | [pu](entities/pu.md) | concerns |
 | [daodejing-37](entities/daodejing-37.md) | [wuwei](entities/wuwei.md) | concerns |
 | [daodejing-37](entities/daodejing-37.md) | [ziran](entities/ziran.md) | concerns |
-| [daodejing-40](entities/daodejing-40.md) | [bao-guang](entities/bao-guang.md) | related_to |
+| [daodejing-40](entities/daodejing-40.md) | [bao-guang](entities/bao-guang.md) | concerns |
 | [daodejing-40](entities/daodejing-40.md) | [daodejing](entities/daodejing.md) | described_in |
 | [daodejing-40](entities/daodejing-40.md) | [daodejing-02](entities/daodejing-02.md) | associated_with |
 | [daodejing-40](entities/daodejing-40.md) | [daodejing-11](entities/daodejing-11.md) | associated_with |
@@ -369,21 +369,19 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [daodejing-40](entities/daodejing-40.md) | [fan](entities/fan.md) | concerns |
 | [daodejing-40](entities/daodejing-40.md) | [wu-you](entities/wu-you.md) | concerns |
 | [daodejing-40](entities/daodejing-40.md) | [wuwei](entities/wuwei.md) | concerns |
-| [daodejing-42](entities/daodejing-42.md) | [dao](entities/dao.md) | related_to |
+| [daodejing-42](entities/daodejing-42.md) | [dao](entities/dao.md) | concerns |
 | [daodejing-42](entities/daodejing-42.md) | [daodejing](entities/daodejing.md) | translated_as |
-| [daodejing-42](entities/daodejing-42.md) | [daodejing](entities/daodejing.md) | described_in |
 | [daodejing-42](entities/daodejing-42.md) | [daodejing-22](entities/daodejing-22.md) | associated_with |
 | [daodejing-42](entities/daodejing-42.md) | [daodejing-25](entities/daodejing-25.md) | associated_with |
 | [daodejing-42](entities/daodejing-42.md) | [daodejing-40](entities/daodejing-40.md) | associated_with |
 | [daodejing-42](entities/daodejing-42.md) | [daodejing-45](entities/daodejing-45.md) | associated_with |
-| [daodejing-42](entities/daodejing-42.md) | [qi](entities/qi.md) | related_to |
-| [daodejing-42](entities/daodejing-42.md) | [xu](entities/xu.md) | related_to |
+| [daodejing-42](entities/daodejing-42.md) | [qi](entities/qi.md) | concerns |
+| [daodejing-42](entities/daodejing-42.md) | [xu](entities/xu.md) | concerns |
 | [daodejing-42](entities/daodejing-42.md) | [yin-yang](entities/yin-yang.md) | concerns |
-| [daodejing-42](entities/daodejing-42.md) | [ziran](entities/ziran.md) | related_to |
+| [daodejing-42](entities/daodejing-42.md) | [ziran](entities/ziran.md) | concerns |
 | [daodejing-45](entities/daodejing-45.md) | [artisan-qing](entities/artisan-qing.md) | related_to |
 | [daodejing-45](entities/daodejing-45.md) | [bei-gong-she](entities/bei-gong-she.md) | related_to |
 | [daodejing-45](entities/daodejing-45.md) | [daodejing](entities/daodejing.md) | translated_as |
-| [daodejing-45](entities/daodejing-45.md) | [daodejing](entities/daodejing.md) | described_in |
 | [daodejing-45](entities/daodejing-45.md) | [daodejing-11](entities/daodejing-11.md) | associated_with |
 | [daodejing-45](entities/daodejing-45.md) | [daodejing-14](entities/daodejing-14.md) | associated_with |
 | [daodejing-45](entities/daodejing-45.md) | [daodejing-16](entities/daodejing-16.md) | associated_with |
@@ -393,7 +391,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [daodejing-45](entities/daodejing-45.md) | [daodejing-55](entities/daodejing-55.md) | associated_with |
 | [daodejing-45](entities/daodejing-45.md) | [hui-shi-wu-che](entities/hui-shi-wu-che.md) | related_to |
 | [daodejing-45](entities/daodejing-45.md) | [qingjing-jing](entities/qingjing-jing.md) | related_to |
-| [daodejing-45](entities/daodejing-45.md) | [wuwei](entities/wuwei.md) | related_to |
+| [daodejing-45](entities/daodejing-45.md) | [wuwei](entities/wuwei.md) | concerns |
 | [daodejing-45](entities/daodejing-45.md) | [xu](entities/xu.md) | concerns |
 | [daodejing-45](entities/daodejing-45.md) | [yun-jin-cheng-feng](entities/yun-jin-cheng-feng.md) | related_to |
 | [daodejing-45](entities/daodejing-45.md) | [ziran](entities/ziran.md) | concerns |
@@ -401,24 +399,24 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [daodejing-46](entities/daodejing-46.md) | [daodejing-12](entities/daodejing-12.md) | associated_with |
 | [daodejing-46](entities/daodejing-46.md) | [daodejing-32](entities/daodejing-32.md) | associated_with |
 | [daodejing-46](entities/daodejing-46.md) | [daodejing-33](entities/daodejing-33.md) | associated_with |
-| [daodejing-46](entities/daodejing-46.md) | [zhi-shui](entities/zhi-shui.md) | related_to |
+| [daodejing-46](entities/daodejing-46.md) | [zhi-shui](entities/zhi-shui.md) | concerns |
 | [daodejing-48](entities/daodejing-48.md) | [daodejing](entities/daodejing.md) | translated_as |
 | [daodejing-48](entities/daodejing-48.md) | [three-craftsmen-dazheng](entities/three-craftsmen-dazheng.md) | related_to |
 | [daodejing-48](entities/daodejing-48.md) | [wuwei](entities/wuwei.md) | concerns |
 | [daodejing-48](entities/daodejing-48.md) | [zuowang](entities/zuowang.md) | concerns |
-| [daodejing-51](entities/daodejing-51.md) | [dao](entities/dao.md) | related_to |
+| [daodejing-51](entities/daodejing-51.md) | [dao](entities/dao.md) | concerns |
 | [daodejing-51](entities/daodejing-51.md) | [daodejing](entities/daodejing.md) | related_to |
 | [daodejing-51](entities/daodejing-51.md) | [daodejing-02](entities/daodejing-02.md) | associated_with |
 | [daodejing-51](entities/daodejing-51.md) | [daodejing-10-shouyi](entities/daodejing-10-shouyi.md) | associated_with |
 | [daodejing-51](entities/daodejing-51.md) | [daodejing-42](entities/daodejing-42.md) | associated_with |
-| [daodejing-51](entities/daodejing-51.md) | [de](entities/de.md) | related_to |
-| [daodejing-51](entities/daodejing-51.md) | [ziran](entities/ziran.md) | related_to |
+| [daodejing-51](entities/daodejing-51.md) | [de](entities/de.md) | concerns |
+| [daodejing-51](entities/daodejing-51.md) | [ziran](entities/ziran.md) | concerns |
 | [daodejing-55](entities/daodejing-55.md) | [daodejing](entities/daodejing.md) | described_in |
 | [daodejing-55](entities/daodejing-55.md) | [daodejing-10-shouyi](entities/daodejing-10-shouyi.md) | associated_with |
 | [daodejing-55](entities/daodejing-55.md) | [daodejing-16](entities/daodejing-16.md) | associated_with |
 | [daodejing-55](entities/daodejing-55.md) | [daodejing-40](entities/daodejing-40.md) | associated_with |
-| [daodejing-55](entities/daodejing-55.md) | [jing-qi-shen](entities/jing-qi-shen.md) | related_to |
-| [daodejing-55](entities/daodejing-55.md) | [qi](entities/qi.md) | related_to |
+| [daodejing-55](entities/daodejing-55.md) | [jing-qi-shen](entities/jing-qi-shen.md) | concerns |
+| [daodejing-55](entities/daodejing-55.md) | [qi](entities/qi.md) | concerns |
 | [daodejing-63](entities/daodejing-63.md) | [daodejing](entities/daodejing.md) | translated_as |
 | [daodejing-63](entities/daodejing-63.md) | [daodejing-17](entities/daodejing-17.md) | associated_with |
 | [daodejing-63](entities/daodejing-63.md) | [daodejing-22](entities/daodejing-22.md) | associated_with |
@@ -433,8 +431,8 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [daodejing-64](entities/daodejing-64.md) | [ziran](entities/ziran.md) | concerns |
 | [daodejing-78](entities/daodejing-78.md) | [daodejing](entities/daodejing.md) | related_to |
 | [daodejing-78](entities/daodejing-78.md) | [fan](entities/fan.md) | concerns |
-| [daodejing-78](entities/daodejing-78.md) | [wuwei](entities/wuwei.md) | related_to |
-| [daodejing-78](entities/daodejing-78.md) | [ziran](entities/ziran.md) | related_to |
+| [daodejing-78](entities/daodejing-78.md) | [wuwei](entities/wuwei.md) | concerns |
+| [daodejing-78](entities/daodejing-78.md) | [ziran](entities/ziran.md) | concerns |
 | [daoist-meditation-explained](entities/daoist-meditation-explained.md) | [cunsi](entities/cunsi.md) | discusses |
 | [daoist-meditation-explained](entities/daoist-meditation-explained.md) | [jingzuo](entities/jingzuo.md) | discusses |
 | [daoist-meditation-explained](entities/daoist-meditation-explained.md) | [neiguan](entities/neiguan.md) | discusses |
@@ -473,7 +471,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [dizziness-during-sitting](entities/dizziness-during-sitting.md) | [qi](entities/qi.md) | concerns |
 | [dizziness-during-sitting](entities/dizziness-during-sitting.md) | [tiaoxi](entities/tiaoxi.md) | concerns |
 | [do-i-need-a-teacher](entities/do-i-need-a-teacher.md) | [does-practice-need-faith](entities/does-practice-need-faith.md) | associated_with |
-| [do-i-need-a-teacher](entities/do-i-need-a-teacher.md) | [exp-017-why-he-began](entities/exp-017-why-he-began.md) | related_to |
+| [do-i-need-a-teacher](entities/do-i-need-a-teacher.md) | [exp-017-why-he-began](entities/exp-017-why-he-began.md) | references |
 | [do-i-need-a-teacher](entities/do-i-need-a-teacher.md) | [exp-025-lying-down-innovation](entities/exp-025-lying-down-innovation.md) | references |
 | [do-i-need-a-teacher](entities/do-i-need-a-teacher.md) | [exp-027-finding-a-teacher](entities/exp-027-finding-a-teacher.md) | references |
 | [do-i-need-a-teacher](entities/do-i-need-a-teacher.md) | [is-sitting-religious](entities/is-sitting-religious.md) | associated_with |
@@ -498,7 +496,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [does-diet-matter](entities/does-diet-matter.md) | [xinzhai-passage](entities/xinzhai-passage.md) | references |
 | [does-diet-matter](entities/does-diet-matter.md) | [zuowang](entities/zuowang.md) | related_to |
 | [does-practice-need-faith](entities/does-practice-need-faith.md) | [dao](entities/dao.md) | discusses |
-| [does-practice-need-faith](entities/does-practice-need-faith.md) | [exp-016-nine-dhyanas-map](entities/exp-016-nine-dhyanas-map.md) | related_to |
+| [does-practice-need-faith](entities/does-practice-need-faith.md) | [exp-016-nine-dhyanas-map](entities/exp-016-nine-dhyanas-map.md) | references |
 | [does-practice-need-faith](entities/does-practice-need-faith.md) | [is-sitting-religious](entities/is-sitting-religious.md) | associated_with |
 | [does-practice-need-faith](entities/does-practice-need-faith.md) | [jing-qi-shen](entities/jing-qi-shen.md) | discusses |
 | [does-practice-need-faith](entities/does-practice-need-faith.md) | [jingzuo](entities/jingzuo.md) | related_to |
@@ -510,7 +508,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [does-practice-need-faith](entities/does-practice-need-faith.md) | [xinzhai-passage](entities/xinzhai-passage.md) | references |
 | [does-practice-need-faith](entities/does-practice-need-faith.md) | [zhang-boduan](entities/zhang-boduan.md) | related_to |
 | [does-practice-need-faith](entities/does-practice-need-faith.md) | [zuowang](entities/zuowang.md) | discusses |
-| [does-practice-need-faith](entities/does-practice-need-faith.md) | [zuowang-passage](entities/zuowang-passage.md) | related_to |
+| [does-practice-need-faith](entities/does-practice-need-faith.md) | [zuowang-passage](entities/zuowang-passage.md) | references |
 | [dongguo-zi-asks](entities/dongguo-zi-asks.md) | [dao](entities/dao.md) | concerns |
 | [dongguo-zi-asks](entities/dongguo-zi-asks.md) | [qiwu](entities/qiwu.md) | concerns |
 | [dongguo-zi-asks](entities/dongguo-zi-asks.md) | [tushan-shuo](entities/tushan-shuo.md) | associated_with |
@@ -580,7 +578,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [exp-018-halflotus-to-full-lotus](entities/exp-018-halflotus-to-full-lotus.md) | [must-i-sit-cross-legged](entities/must-i-sit-cross-legged.md) | concerns |
 | [exp-019-one-remedy-body](entities/exp-019-one-remedy-body.md) | [exp-013-buddhist-daoist-boundary](entities/exp-013-buddhist-daoist-boundary.md) | associated_with |
 | [exp-019-one-remedy-body](entities/exp-019-one-remedy-body.md) | [exp-018-halflotus-to-full-lotus](entities/exp-018-halflotus-to-full-lotus.md) | associated_with |
-| [exp-019-one-remedy-body](entities/exp-019-one-remedy-body.md) | [tiaoxi](entities/tiaoxi.md) | related_to |
+| [exp-019-one-remedy-body](entities/exp-019-one-remedy-body.md) | [tiaoxi](entities/tiaoxi.md) | concerns |
 | [exp-020-false-first-dhyana](entities/exp-020-false-first-dhyana.md) | [exp-014-double-lotus-doctrine](entities/exp-014-double-lotus-doctrine.md) | associated_with |
 | [exp-020-false-first-dhyana](entities/exp-020-false-first-dhyana.md) | [exp-016-nine-dhyanas-map](entities/exp-016-nine-dhyanas-map.md) | associated_with |
 | [exp-020-false-first-dhyana](entities/exp-020-false-first-dhyana.md) | [farias-adverse-events-2020](entities/farias-adverse-events-2020.md) | references |
@@ -620,7 +618,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [exp-025-lying-down-innovation](entities/exp-025-lying-down-innovation.md) | [exp-022-its-all-theatre](entities/exp-022-its-all-theatre.md) | associated_with |
 | [exp-025-lying-down-innovation](entities/exp-025-lying-down-innovation.md) | [exp-023-breath-is-the-key](entities/exp-023-breath-is-the-key.md) | associated_with |
 | [exp-025-lying-down-innovation](entities/exp-025-lying-down-innovation.md) | [farias-adverse-events-2020](entities/farias-adverse-events-2020.md) | references |
-| [exp-025-lying-down-innovation](entities/exp-025-lying-down-innovation.md) | [jingzuo](entities/jingzuo.md) | related_to |
+| [exp-025-lying-down-innovation](entities/exp-025-lying-down-innovation.md) | [jingzuo](entities/jingzuo.md) | concerns |
 | [exp-025-lying-down-innovation](entities/exp-025-lying-down-innovation.md) | [what-counts-as-progress](entities/what-counts-as-progress.md) | concerns |
 | [exp-026-diet-gate](entities/exp-026-diet-gate.md) | [does-diet-matter](entities/does-diet-matter.md) | concerns |
 | [exp-026-diet-gate](entities/exp-026-diet-gate.md) | [does-practice-need-faith](entities/does-practice-need-faith.md) | concerns |
@@ -634,27 +632,27 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [exp-027-finding-a-teacher](entities/exp-027-finding-a-teacher.md) | [exp-017-why-he-began](entities/exp-017-why-he-began.md) | associated_with |
 | [exp-027-finding-a-teacher](entities/exp-027-finding-a-teacher.md) | [exp-021-prostrations-channel-circuit](entities/exp-021-prostrations-channel-circuit.md) | associated_with |
 | [exp-027-finding-a-teacher](entities/exp-027-finding-a-teacher.md) | [exp-025-lying-down-innovation](entities/exp-025-lying-down-innovation.md) | associated_with |
-| [exp-027-finding-a-teacher](entities/exp-027-finding-a-teacher.md) | [jingzuo](entities/jingzuo.md) | related_to |
+| [exp-027-finding-a-teacher](entities/exp-027-finding-a-teacher.md) | [jingzuo](entities/jingzuo.md) | concerns |
 | [exp-027-finding-a-teacher](entities/exp-027-finding-a-teacher.md) | [zuowang-safety-without-teacher](entities/zuowang-safety-without-teacher.md) | concerns |
 | [exp-028-abdominal-breathing](entities/exp-028-abdominal-breathing.md) | [can-meditation-cure-illness](entities/can-meditation-cure-illness.md) | concerns |
 | [exp-028-abdominal-breathing](entities/exp-028-abdominal-breathing.md) | [exp-008-breath-stopping](entities/exp-008-breath-stopping.md) | associated_with |
 | [exp-028-abdominal-breathing](entities/exp-028-abdominal-breathing.md) | [exp-020-false-first-dhyana](entities/exp-020-false-first-dhyana.md) | associated_with |
 | [exp-028-abdominal-breathing](entities/exp-028-abdominal-breathing.md) | [exp-021-prostrations-channel-circuit](entities/exp-021-prostrations-channel-circuit.md) | associated_with |
 | [exp-028-abdominal-breathing](entities/exp-028-abdominal-breathing.md) | [exp-023-breath-is-the-key](entities/exp-023-breath-is-the-key.md) | associated_with |
-| [exp-028-abdominal-breathing](entities/exp-028-abdominal-breathing.md) | [jingzuo](entities/jingzuo.md) | related_to |
+| [exp-028-abdominal-breathing](entities/exp-028-abdominal-breathing.md) | [jingzuo](entities/jingzuo.md) | concerns |
 | [exp-028-abdominal-breathing](entities/exp-028-abdominal-breathing.md) | [taixi](entities/taixi.md) | related_to |
-| [exp-028-abdominal-breathing](entities/exp-028-abdominal-breathing.md) | [tiaoxi](entities/tiaoxi.md) | related_to |
+| [exp-028-abdominal-breathing](entities/exp-028-abdominal-breathing.md) | [tiaoxi](entities/tiaoxi.md) | concerns |
 | [exp-028-abdominal-breathing](entities/exp-028-abdominal-breathing.md) | [what-counts-as-progress](entities/what-counts-as-progress.md) | concerns |
 | [exp-029-the-human-body](entities/exp-029-the-human-body.md) | [can-meditation-cure-illness](entities/can-meditation-cure-illness.md) | concerns |
-| [exp-029-the-human-body](entities/exp-029-the-human-body.md) | [dantian](entities/dantian.md) | related_to |
+| [exp-029-the-human-body](entities/exp-029-the-human-body.md) | [dantian](entities/dantian.md) | concerns |
 | [exp-029-the-human-body](entities/exp-029-the-human-body.md) | [exp-008-breath-stopping](entities/exp-008-breath-stopping.md) | associated_with |
 | [exp-029-the-human-body](entities/exp-029-the-human-body.md) | [exp-015-heat-sweat-qi](entities/exp-015-heat-sweat-qi.md) | associated_with |
 | [exp-029-the-human-body](entities/exp-029-the-human-body.md) | [exp-016-nine-dhyanas-map](entities/exp-016-nine-dhyanas-map.md) | associated_with |
 | [exp-029-the-human-body](entities/exp-029-the-human-body.md) | [exp-023-breath-is-the-key](entities/exp-023-breath-is-the-key.md) | associated_with |
 | [exp-029-the-human-body](entities/exp-029-the-human-body.md) | [exp-028-abdominal-breathing](entities/exp-028-abdominal-breathing.md) | associated_with |
-| [exp-029-the-human-body](entities/exp-029-the-human-body.md) | [jingzuo](entities/jingzuo.md) | related_to |
-| [exp-029-the-human-body](entities/exp-029-the-human-body.md) | [qi](entities/qi.md) | related_to |
-| [exp-029-the-human-body](entities/exp-029-the-human-body.md) | [tiaoxi](entities/tiaoxi.md) | related_to |
+| [exp-029-the-human-body](entities/exp-029-the-human-body.md) | [jingzuo](entities/jingzuo.md) | concerns |
+| [exp-029-the-human-body](entities/exp-029-the-human-body.md) | [qi](entities/qi.md) | concerns |
+| [exp-029-the-human-body](entities/exp-029-the-human-body.md) | [tiaoxi](entities/tiaoxi.md) | concerns |
 | [exp-029-the-human-body](entities/exp-029-the-human-body.md) | [what-counts-as-progress](entities/what-counts-as-progress.md) | concerns |
 | [exp-029-the-human-body](entities/exp-029-the-human-body.md) | [why-am-i-so-sleepy](entities/why-am-i-so-sleepy.md) | concerns |
 | [exp-030-the-pain-ledger](entities/exp-030-the-pain-ledger.md) | [exp-003-leg-pain-filling](entities/exp-003-leg-pain-filling.md) | associated_with |
@@ -663,7 +661,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [exp-030-the-pain-ledger](entities/exp-030-the-pain-ledger.md) | [exp-018-halflotus-to-full-lotus](entities/exp-018-halflotus-to-full-lotus.md) | associated_with |
 | [exp-030-the-pain-ledger](entities/exp-030-the-pain-ledger.md) | [exp-029-the-human-body](entities/exp-029-the-human-body.md) | associated_with |
 | [exp-030-the-pain-ledger](entities/exp-030-the-pain-ledger.md) | [how-long-should-i-sit](entities/how-long-should-i-sit.md) | concerns |
-| [exp-030-the-pain-ledger](entities/exp-030-the-pain-ledger.md) | [jingzuo](entities/jingzuo.md) | related_to |
+| [exp-030-the-pain-ledger](entities/exp-030-the-pain-ledger.md) | [jingzuo](entities/jingzuo.md) | concerns |
 | [exp-030-the-pain-ledger](entities/exp-030-the-pain-ledger.md) | [must-i-sit-cross-legged](entities/must-i-sit-cross-legged.md) | concerns |
 | [exp-030-the-pain-ledger](entities/exp-030-the-pain-ledger.md) | [what-counts-as-progress](entities/what-counts-as-progress.md) | concerns |
 | [exp-031-lotus-posture-chapter](entities/exp-031-lotus-posture-chapter.md) | [can-meditation-cure-illness](entities/can-meditation-cure-illness.md) | concerns |
@@ -675,7 +673,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [exp-031-lotus-posture-chapter](entities/exp-031-lotus-posture-chapter.md) | [exp-029-the-human-body](entities/exp-029-the-human-body.md) | associated_with |
 | [exp-031-lotus-posture-chapter](entities/exp-031-lotus-posture-chapter.md) | [exp-030-the-pain-ledger](entities/exp-030-the-pain-ledger.md) | associated_with |
 | [exp-031-lotus-posture-chapter](entities/exp-031-lotus-posture-chapter.md) | [how-long-should-i-sit](entities/how-long-should-i-sit.md) | concerns |
-| [exp-031-lotus-posture-chapter](entities/exp-031-lotus-posture-chapter.md) | [jingzuo](entities/jingzuo.md) | related_to |
+| [exp-031-lotus-posture-chapter](entities/exp-031-lotus-posture-chapter.md) | [jingzuo](entities/jingzuo.md) | concerns |
 | [exp-031-lotus-posture-chapter](entities/exp-031-lotus-posture-chapter.md) | [must-i-sit-cross-legged](entities/must-i-sit-cross-legged.md) | concerns |
 | [exp-031-lotus-posture-chapter](entities/exp-031-lotus-posture-chapter.md) | [should-i-use-timers](entities/should-i-use-timers.md) | concerns |
 | [exp-032-from-zero-to-desire-realm](entities/exp-032-from-zero-to-desire-realm.md) | [does-practice-need-faith](entities/does-practice-need-faith.md) | concerns |
@@ -687,7 +685,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [exp-032-from-zero-to-desire-realm](entities/exp-032-from-zero-to-desire-realm.md) | [exp-030-the-pain-ledger](entities/exp-030-the-pain-ledger.md) | associated_with |
 | [exp-032-from-zero-to-desire-realm](entities/exp-032-from-zero-to-desire-realm.md) | [exp-031-lotus-posture-chapter](entities/exp-031-lotus-posture-chapter.md) | associated_with |
 | [exp-032-from-zero-to-desire-realm](entities/exp-032-from-zero-to-desire-realm.md) | [how-long-until-results](entities/how-long-until-results.md) | concerns |
-| [exp-032-from-zero-to-desire-realm](entities/exp-032-from-zero-to-desire-realm.md) | [jingzuo](entities/jingzuo.md) | related_to |
+| [exp-032-from-zero-to-desire-realm](entities/exp-032-from-zero-to-desire-realm.md) | [jingzuo](entities/jingzuo.md) | concerns |
 | [exp-032-from-zero-to-desire-realm](entities/exp-032-from-zero-to-desire-realm.md) | [what-counts-as-progress](entities/what-counts-as-progress.md) | concerns |
 | [falling-asleep-during-meditation](entities/falling-asleep-during-meditation.md) | [drowsiness-vs-stillness](entities/drowsiness-vs-stillness.md) | discusses |
 | [falling-asleep-during-meditation](entities/falling-asleep-during-meditation.md) | [jingzuo](entities/jingzuo.md) | concerns |
@@ -774,7 +772,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [how-long-until-results](entities/how-long-until-results.md) | [artisan-qing-passage](entities/artisan-qing-passage.md) | references |
 | [how-long-until-results](entities/how-long-until-results.md) | [can-meditation-cure-illness](entities/can-meditation-cure-illness.md) | associated_with |
 | [how-long-until-results](entities/how-long-until-results.md) | [daodejing-33](entities/daodejing-33.md) | references |
-| [how-long-until-results](entities/how-long-until-results.md) | [daodejing-64](entities/daodejing-64.md) | related_to |
+| [how-long-until-results](entities/how-long-until-results.md) | [daodejing-64](entities/daodejing-64.md) | references |
 | [how-long-until-results](entities/how-long-until-results.md) | [exp-009-dissolving-void](entities/exp-009-dissolving-void.md) | references |
 | [how-long-until-results](entities/how-long-until-results.md) | [exp-010-lotus-pain](entities/exp-010-lotus-pain.md) | references |
 | [how-long-until-results](entities/how-long-until-results.md) | [exp-016-nine-dhyanas-map](entities/exp-016-nine-dhyanas-map.md) | references |
@@ -884,8 +882,8 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [jingzuo](entities/jingzuo.md) | [cheng-men-li-xue](entities/cheng-men-li-xue.md) | described_in |
 | [jingzuo](entities/jingzuo.md) | [farias-adverse-events-2020](entities/farias-adverse-events-2020.md) | references |
 | [jingzuo](entities/jingzuo.md) | [mindfulness-meta-analysis-2014](entities/mindfulness-meta-analysis-2014.md) | references |
-| [jingzuo](entities/jingzuo.md) | [shouyi](entities/shouyi.md) | related_to |
-| [jingzuo](entities/jingzuo.md) | [xinzhai](entities/xinzhai.md) | related_to |
+| [jingzuo](entities/jingzuo.md) | [shouyi](entities/shouyi.md) | associated_with |
+| [jingzuo](entities/jingzuo.md) | [xinzhai](entities/xinzhai.md) | associated_with |
 | [jingzuo](entities/jingzuo.md) | [zhuzi-yulei-jingzuo](entities/zhuzi-yulei-jingzuo.md) | described_in |
 | [jingzuo](entities/jingzuo.md) | [zuowang](entities/zuowang.md) | contrasts_with |
 | [jingzuo](entities/jingzuo.md) | [zuowang-vs-jingzuo](entities/zuowang-vs-jingzuo.md) | concerns |
@@ -907,7 +905,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [li-ao](entities/li-ao.md) | [exp-013-buddhist-daoist-boundary](entities/exp-013-buddhist-daoist-boundary.md) | related_to |
 | [li-ao](entities/li-ao.md) | [fu-yi](entities/fu-yi.md) | associated_with |
 | [li-ao](entities/li-ao.md) | [jingzuo](entities/jingzuo.md) | concerns |
-| [li-ao](entities/li-ao.md) | [qingjing-jing](entities/qingjing-jing.md) | related_to |
+| [li-ao](entities/li-ao.md) | [qingjing-jing](entities/qingjing-jing.md) | associated_with |
 | [li-ao](entities/li-ao.md) | [zhiyi](entities/zhiyi.md) | associated_with |
 | [li-ao](entities/li-ao.md) | [zhuzi-yulei-jingzuo](entities/zhuzi-yulei-jingzuo.md) | related_to |
 | [li-ao](entities/li-ao.md) | [ziran](entities/ziran.md) | concerns |
@@ -923,11 +921,11 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [liang-xing](entities/liang-xing.md) | [zhen-zai](entities/zhen-zai.md) | associated_with |
 | [liang-xing](entities/liang-xing.md) | [zhi-yan](entities/zhi-yan.md) | related_to |
 | [liang-xing](entities/liang-xing.md) | [zhuangzi](entities/zhuangzi.md) | described_in |
-| [liezi](entities/liezi.md) | [daodejing](entities/daodejing.md) | related_to |
+| [liezi](entities/liezi.md) | [daodejing](entities/daodejing.md) | associated_with |
 | [liezi](entities/liezi.md) | [xu](entities/xu.md) | concerns |
 | [liezi](entities/liezi.md) | [zhuangzi](entities/zhuangzi.md) | references |
 | [liezi-compilation](entities/liezi-compilation.md) | [liezi](entities/liezi.md) | concerns |
-| [liezi-compilation](entities/liezi-compilation.md) | [zhuangzi-compilation](entities/zhuangzi-compilation.md) | related_to |
+| [liezi-compilation](entities/liezi-compilation.md) | [zhuangzi-compilation](entities/zhuangzi-compilation.md) | associated_with |
 | [light-brightness-asks-nothingness](entities/light-brightness-asks-nothingness.md) | [dao](entities/dao.md) | concerns |
 | [light-brightness-asks-nothingness](entities/light-brightness-asks-nothingness.md) | [dongguo-zi-asks](entities/dongguo-zi-asks.md) | associated_with |
 | [light-brightness-asks-nothingness](entities/light-brightness-asks-nothingness.md) | [wu-sang-wo](entities/wu-sang-wo.md) | concerns |
@@ -1020,7 +1018,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [neiguan](entities/neiguan.md) | [xinzhai](entities/xinzhai.md) | associated_with |
 | [neiguan](entities/neiguan.md) | [xu](entities/xu.md) | associated_with |
 | [neiguan](entities/neiguan.md) | [zuowang](entities/zuowang.md) | associated_with |
-| [neiguan-jing](entities/neiguan-jing.md) | [qingjing-jing](entities/qingjing-jing.md) | related_to |
+| [neiguan-jing](entities/neiguan-jing.md) | [qingjing-jing](entities/qingjing-jing.md) | associated_with |
 | [neiguan-vs-vipassana](entities/neiguan-vs-vipassana.md) | [neiguan](entities/neiguan.md) | discusses |
 | [noble-hochman-2019](entities/noble-hochman-2019.md) | [tiaoxi](entities/tiaoxi.md) | informs |
 | [painter-unrobed](entities/painter-unrobed.md) | [artisan-qing](entities/artisan-qing.md) | associated_with |
@@ -1051,7 +1049,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [qinshi-mourning](entities/qinshi-mourning.md) | [four-friends](entities/four-friends.md) | associated_with |
 | [qinshi-mourning](entities/qinshi-mourning.md) | [laozi](entities/laozi.md) | related_to |
 | [qinshi-mourning](entities/qinshi-mourning.md) | [zhuangzi](entities/zhuangzi.md) | described_in |
-| [qiu-chuji](entities/qiu-chuji.md) | [daodejing](entities/daodejing.md) | related_to |
+| [qiu-chuji](entities/qiu-chuji.md) | [daodejing](entities/daodejing.md) | associated_with |
 | [qiu-chuji](entities/qiu-chuji.md) | [kou-qianzhi](entities/kou-qianzhi.md) | associated_with |
 | [qiu-chuji](entities/qiu-chuji.md) | [shouyi](entities/shouyi.md) | related_to |
 | [qiu-chuji](entities/qiu-chuji.md) | [sima-chengzhen](entities/sima-chengzhen.md) | associated_with |
@@ -1069,7 +1067,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [qiu-hao](entities/qiu-hao.md) | [zhuangzi](entities/zhuangzi.md) | described_in |
 | [qiwu](entities/qiwu.md) | [bao-guang](entities/bao-guang.md) | associated_with |
 | [qiwu](entities/qiwu.md) | [butterfly-dream](entities/butterfly-dream.md) | related_to |
-| [qiwu](entities/qiwu.md) | [dao](entities/dao.md) | related_to |
+| [qiwu](entities/qiwu.md) | [dao](entities/dao.md) | associated_with |
 | [qiwu](entities/qiwu.md) | [huzi-jixian](entities/huzi-jixian.md) | related_to |
 | [qiwu](entities/qiwu.md) | [qiwulun-wu-sang-wo](entities/qiwulun-wu-sang-wo.md) | related_to |
 | [qiwu](entities/qiwu.md) | [three-in-the-morning](entities/three-in-the-morning.md) | related_to |
@@ -1116,7 +1114,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [shanbao-zhangyi](entities/shanbao-zhangyi.md) | [ziran](entities/ziran.md) | concerns |
 | [shangqing-revelations](entities/shangqing-revelations.md) | [cunsi](entities/cunsi.md) | concerns |
 | [shangqing-revelations](entities/shangqing-revelations.md) | [huangting-jing](entities/huangting-jing.md) | concerns |
-| [shangqing-revelations](entities/shangqing-revelations.md) | [kou-qianzhi-reform](entities/kou-qianzhi-reform.md) | related_to |
+| [shangqing-revelations](entities/shangqing-revelations.md) | [kou-qianzhi-reform](entities/kou-qianzhi-reform.md) | associated_with |
 | [shangqing-revelations](entities/shangqing-revelations.md) | [yang-xi](entities/yang-xi.md) | associated_with |
 | [shen](entities/shen.md) | [jing-qi-shen](entities/jing-qi-shen.md) | concerns |
 | [shinan-yiliao](entities/shinan-yiliao.md) | [daodejing-02](entities/daodejing-02.md) | references |
@@ -1145,10 +1143,10 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [shouyi](entities/shouyi.md) | [baopuzi-shouyi](entities/baopuzi-shouyi.md) | described_in |
 | [shouyi](entities/shouyi.md) | [daodejing](entities/daodejing.md) | described_in |
 | [shouyi](entities/shouyi.md) | [daodejing-10-shouyi](entities/daodejing-10-shouyi.md) | translated_as |
-| [shouyi](entities/shouyi.md) | [neiguan-jing](entities/neiguan-jing.md) | related_to |
+| [shouyi](entities/shouyi.md) | [neiguan-jing](entities/neiguan-jing.md) | described_in |
 | [shouyi](entities/shouyi.md) | [qi](entities/qi.md) | associated_with |
 | [shouyi](entities/shouyi.md) | [taiping-jing](entities/taiping-jing.md) | described_in |
-| [shouyi](entities/shouyi.md) | [wuwei](entities/wuwei.md) | related_to |
+| [shouyi](entities/shouyi.md) | [wuwei](entities/wuwei.md) | associated_with |
 | [shouyi](entities/shouyi.md) | [zuowang](entities/zuowang.md) | contrasts_with |
 | [shouyi-vs-concentration](entities/shouyi-vs-concentration.md) | [shouyi](entities/shouyi.md) | discusses |
 | [sima-chengzhen](entities/sima-chengzhen.md) | [zuowang-lun](entities/zuowang-lun.md) | authored |
@@ -1206,7 +1204,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [tian-jun](entities/tian-jun.md) | [xu](entities/xu.md) | concerns |
 | [tian-jun](entities/tian-jun.md) | [zhuangzi](entities/zhuangzi.md) | described_in |
 | [tian-lai](entities/tian-lai.md) | [da-kuai](entities/da-kuai.md) | associated_with |
-| [tian-lai](entities/tian-lai.md) | [does-daoism-believe-in-a-creator](entities/does-daoism-believe-in-a-creator.md) | related_to |
+| [tian-lai](entities/tian-lai.md) | [does-daoism-believe-in-a-creator](entities/does-daoism-believe-in-a-creator.md) | concerns |
 | [tian-lai](entities/tian-lai.md) | [kui-xian-chain](entities/kui-xian-chain.md) | related_to |
 | [tian-lai](entities/tian-lai.md) | [qiwulun-wu-sang-wo](entities/qiwulun-wu-sang-wo.md) | related_to |
 | [tian-lai](entities/tian-lai.md) | [tian-ji](entities/tian-ji.md) | associated_with |
@@ -1214,8 +1212,8 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [tian-lai](entities/tian-lai.md) | [zhuangzi](entities/zhuangzi.md) | described_in |
 | [tian-lai](entities/tian-lai.md) | [ziran](entities/ziran.md) | concerns |
 | [tiaoxi](entities/tiaoxi.md) | [breath-stopping-anxiety](entities/breath-stopping-anxiety.md) | concerns |
-| [tiaoxi](entities/tiaoxi.md) | [jingzuo](entities/jingzuo.md) | related_to |
-| [tiaoxi](entities/tiaoxi.md) | [qi](entities/qi.md) | related_to |
+| [tiaoxi](entities/tiaoxi.md) | [jingzuo](entities/jingzuo.md) | associated_with |
+| [tiaoxi](entities/tiaoxi.md) | [qi](entities/qi.md) | associated_with |
 | [tiaoxi](entities/tiaoxi.md) | [taixi](entities/taixi.md) | concerns |
 | [tiaoxi](entities/tiaoxi.md) | [xiao-zhiguan](entities/xiao-zhiguan.md) | described_in |
 | [translation-policy](entities/translation-policy.md) | [wuwei](entities/wuwei.md) | concerns |
@@ -1277,7 +1275,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [wangbi-laozi-commentary](entities/wangbi-laozi-commentary.md) | [daodejing-01](entities/daodejing-01.md) | related_to |
 | [wangbi-laozi-commentary](entities/wangbi-laozi-commentary.md) | [daodejing-37](entities/daodejing-37.md) | related_to |
 | [wangbi-laozi-commentary](entities/wangbi-laozi-commentary.md) | [heshang-gong](entities/heshang-gong.md) | associated_with |
-| [wangbi-laozi-commentary](entities/wangbi-laozi-commentary.md) | [heshang-gong-commentary](entities/heshang-gong-commentary.md) | related_to |
+| [wangbi-laozi-commentary](entities/wangbi-laozi-commentary.md) | [heshang-gong-commentary](entities/heshang-gong-commentary.md) | associated_with |
 | [wangbi-laozi-commentary](entities/wangbi-laozi-commentary.md) | [wang-bi](entities/wang-bi.md) | associated_with |
 | [wangyang-xingtan](entities/wangyang-xingtan.md) | [guan](entities/guan.md) | concerns |
 | [wangyang-xingtan](entities/wangyang-xingtan.md) | [jingdi-zhiwa](entities/jingdi-zhiwa.md) | associated_with |
@@ -1296,7 +1294,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [what-counts-as-progress](entities/what-counts-as-progress.md) | [exp-016-nine-dhyanas-map](entities/exp-016-nine-dhyanas-map.md) | references |
 | [what-counts-as-progress](entities/what-counts-as-progress.md) | [exp-018-halflotus-to-full-lotus](entities/exp-018-halflotus-to-full-lotus.md) | references |
 | [what-counts-as-progress](entities/what-counts-as-progress.md) | [exp-020-false-first-dhyana](entities/exp-020-false-first-dhyana.md) | references |
-| [what-counts-as-progress](entities/what-counts-as-progress.md) | [exp-021-prostrations-channel-circuit](entities/exp-021-prostrations-channel-circuit.md) | related_to |
+| [what-counts-as-progress](entities/what-counts-as-progress.md) | [exp-021-prostrations-channel-circuit](entities/exp-021-prostrations-channel-circuit.md) | references |
 | [what-counts-as-progress](entities/what-counts-as-progress.md) | [exp-022-its-all-theatre](entities/exp-022-its-all-theatre.md) | references |
 | [what-counts-as-progress](entities/what-counts-as-progress.md) | [exp-023-breath-is-the-key](entities/exp-023-breath-is-the-key.md) | references |
 | [what-counts-as-progress](entities/what-counts-as-progress.md) | [exp-024-standing-and-sitting](entities/exp-024-standing-and-sitting.md) | references |
@@ -1353,9 +1351,9 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [wu-he-you-zhi-xiang](entities/wu-he-you-zhi-xiang.md) | [huzi-jixian](entities/huzi-jixian.md) | related_to |
 | [wu-he-you-zhi-xiang](entities/wu-he-you-zhi-xiang.md) | [peng-bird](entities/peng-bird.md) | related_to |
 | [wu-he-you-zhi-xiang](entities/wu-he-you-zhi-xiang.md) | [useless-gourd](entities/useless-gourd.md) | related_to |
-| [wu-he-you-zhi-xiang](entities/wu-he-you-zhi-xiang.md) | [wuwei](entities/wuwei.md) | related_to |
+| [wu-he-you-zhi-xiang](entities/wu-he-you-zhi-xiang.md) | [wuwei](entities/wuwei.md) | associated_with |
 | [wu-he-you-zhi-xiang](entities/wu-he-you-zhi-xiang.md) | [xu](entities/xu.md) | associated_with |
-| [wu-he-you-zhi-xiang](entities/wu-he-you-zhi-xiang.md) | [zhuangzi](entities/zhuangzi.md) | related_to |
+| [wu-he-you-zhi-xiang](entities/wu-he-you-zhi-xiang.md) | [zhuangzi](entities/zhuangzi.md) | described_in |
 | [wu-he-you-zhi-xiang](entities/wu-he-you-zhi-xiang.md) | [ziran](entities/ziran.md) | associated_with |
 | [wu-hua](entities/wu-hua.md) | [butterfly-dream](entities/butterfly-dream.md) | related_to |
 | [wu-hua](entities/wu-hua.md) | [da-kuai](entities/da-kuai.md) | associated_with |
@@ -1368,20 +1366,20 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [wu-sang-wo](entities/wu-sang-wo.md) | [butterfly-dream](entities/butterfly-dream.md) | related_to |
 | [wu-sang-wo](entities/wu-sang-wo.md) | [qiwulun-wu-sang-wo](entities/qiwulun-wu-sang-wo.md) | related_to |
 | [wu-sang-wo](entities/wu-sang-wo.md) | [tian-lai](entities/tian-lai.md) | associated_with |
-| [wu-sang-wo](entities/wu-sang-wo.md) | [xinzhai](entities/xinzhai.md) | related_to |
+| [wu-sang-wo](entities/wu-sang-wo.md) | [xinzhai](entities/xinzhai.md) | associated_with |
 | [wu-sang-wo](entities/wu-sang-wo.md) | [xu](entities/xu.md) | concerns |
 | [wu-sang-wo](entities/wu-sang-wo.md) | [xushi-sheng-bai](entities/xushi-sheng-bai.md) | associated_with |
 | [wu-sang-wo](entities/wu-sang-wo.md) | [zhuangzi](entities/zhuangzi.md) | described_in |
-| [wu-sang-wo](entities/wu-sang-wo.md) | [zuowang](entities/zuowang.md) | related_to |
+| [wu-sang-wo](entities/wu-sang-wo.md) | [zuowang](entities/zuowang.md) | associated_with |
 | [wu-sang-wo](entities/wu-sang-wo.md) | [zuowang-passage](entities/zuowang-passage.md) | related_to |
-| [wu-shi-wu-zhong](entities/wu-shi-wu-zhong.md) | [dao](entities/dao.md) | related_to |
+| [wu-shi-wu-zhong](entities/wu-shi-wu-zhong.md) | [dao](entities/dao.md) | associated_with |
 | [wu-shi-wu-zhong](entities/wu-shi-wu-zhong.md) | [four-friends](entities/four-friends.md) | related_to |
 | [wu-shi-wu-zhong](entities/wu-shi-wu-zhong.md) | [hua](entities/hua.md) | associated_with |
 | [wu-shi-wu-zhong](entities/wu-shi-wu-zhong.md) | [ran-qiu-asks-zhongni](entities/ran-qiu-asks-zhongni.md) | related_to |
 | [wu-shi-wu-zhong](entities/wu-shi-wu-zhong.md) | [tian-ji](entities/tian-ji.md) | associated_with |
 | [wu-shi-wu-zhong](entities/wu-shi-wu-zhong.md) | [xu](entities/xu.md) | associated_with |
 | [wu-shi-wu-zhong](entities/wu-shi-wu-zhong.md) | [zhi-wen-wuwei](entities/zhi-wen-wuwei.md) | related_to |
-| [wu-shi-wu-zhong](entities/wu-shi-wu-zhong.md) | [zhuangzi](entities/zhuangzi.md) | related_to |
+| [wu-shi-wu-zhong](entities/wu-shi-wu-zhong.md) | [zhuangzi](entities/zhuangzi.md) | described_in |
 | [wu-shi-wu-zhong](entities/wu-shi-wu-zhong.md) | [ziran](entities/ziran.md) | associated_with |
 | [wu-you](entities/wu-you.md) | [daodejing](entities/daodejing.md) | described_in |
 | [wu-you](entities/wu-you.md) | [fan](entities/fan.md) | associated_with |
@@ -1406,8 +1404,8 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [xiaoyao](entities/xiaoyao.md) | [handan-walk](entities/handan-walk.md) | related_to |
 | [xiaoyao](entities/xiaoyao.md) | [peng-bird](entities/peng-bird.md) | related_to |
 | [xiaoyao](entities/xiaoyao.md) | [useless-gourd](entities/useless-gourd.md) | related_to |
-| [xiaoyao](entities/xiaoyao.md) | [what-is-stillness](entities/what-is-stillness.md) | related_to |
-| [xiaoyao](entities/xiaoyao.md) | [wuwei](entities/wuwei.md) | related_to |
+| [xiaoyao](entities/xiaoyao.md) | [what-is-stillness](entities/what-is-stillness.md) | concerns |
+| [xiaoyao](entities/xiaoyao.md) | [wuwei](entities/wuwei.md) | associated_with |
 | [xiaoyao](entities/xiaoyao.md) | [zhili-shu](entities/zhili-shu.md) | related_to |
 | [xiaoyao](entities/xiaoyao.md) | [zhuangzi](entities/zhuangzi.md) | described_in |
 | [xiaoyao](entities/xiaoyao.md) | [ziran](entities/ziran.md) | concerns |
@@ -1415,7 +1413,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [xing](entities/xing.md) | [ming](entities/ming.md) | associated_with |
 | [xing](entities/xing.md) | [zhuangzi](entities/zhuangzi.md) | described_in |
 | [xing](entities/xing.md) | [ziran](entities/ziran.md) | associated_with |
-| [xinzhai](entities/xinzhai.md) | [qingjing-jing](entities/qingjing-jing.md) | related_to |
+| [xinzhai](entities/xinzhai.md) | [qingjing-jing](entities/qingjing-jing.md) | described_in |
 | [xinzhai](entities/xinzhai.md) | [xinzhai-passage](entities/xinzhai-passage.md) | translated_as |
 | [xinzhai](entities/xinzhai.md) | [xu](entities/xu.md) | derived_from |
 | [xinzhai](entities/xinzhai.md) | [zhuangzi](entities/zhuangzi.md) | described_in |
@@ -1435,7 +1433,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [xushi-sheng-bai](entities/xushi-sheng-bai.md) | [xu](entities/xu.md) | concerns |
 | [xushi-sheng-bai](entities/xushi-sheng-bai.md) | [zhuangzi](entities/zhuangzi.md) | described_in |
 | [xushi-sheng-bai](entities/xushi-sheng-bai.md) | [zuochi](entities/zuochi.md) | associated_with |
-| [xushi-sheng-bai](entities/xushi-sheng-bai.md) | [zuowang](entities/zuowang.md) | related_to |
+| [xushi-sheng-bai](entities/xushi-sheng-bai.md) | [zuowang](entities/zuowang.md) | associated_with |
 | [xuzhou-empty-boat](entities/xuzhou-empty-boat.md) | [mountain-tree-goose](entities/mountain-tree-goose.md) | associated_with |
 | [xuzhou-empty-boat](entities/xuzhou-empty-boat.md) | [swimmer-lvliang](entities/swimmer-lvliang.md) | associated_with |
 | [xuzhou-empty-boat](entities/xuzhou-empty-boat.md) | [xu](entities/xu.md) | concerns |
@@ -1489,11 +1487,11 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [yingning-passage](entities/yingning-passage.md) | [zhuangzi](entities/zhuangzi.md) | translated_as |
 | [yongxin-ruo-jing-passage](entities/yongxin-ruo-jing-passage.md) | [jing](entities/jing.md) | concerns |
 | [yongxin-ruo-jing-passage](entities/yongxin-ruo-jing-passage.md) | [virtual-room-passage](entities/virtual-room-passage.md) | associated_with |
-| [yongxin-ruo-jing-passage](entities/yongxin-ruo-jing-passage.md) | [zhi-shui](entities/zhi-shui.md) | related_to |
+| [yongxin-ruo-jing-passage](entities/yongxin-ruo-jing-passage.md) | [zhi-shui](entities/zhi-shui.md) | concerns |
 | [yongxin-ruo-jing-passage](entities/yongxin-ruo-jing-passage.md) | [zhuangzi](entities/zhuangzi.md) | translated_as |
 | [yuan-du-yi-wei-jing](entities/yuan-du-yi-wei-jing.md) | [cook-ding](entities/cook-ding.md) | related_to |
-| [yuan-du-yi-wei-jing](entities/yuan-du-yi-wei-jing.md) | [dao](entities/dao.md) | related_to |
-| [yuan-du-yi-wei-jing](entities/yuan-du-yi-wei-jing.md) | [jingzuo](entities/jingzuo.md) | related_to |
+| [yuan-du-yi-wei-jing](entities/yuan-du-yi-wei-jing.md) | [dao](entities/dao.md) | associated_with |
+| [yuan-du-yi-wei-jing](entities/yuan-du-yi-wei-jing.md) | [jingzuo](entities/jingzuo.md) | associated_with |
 | [yuan-du-yi-wei-jing](entities/yuan-du-yi-wei-jing.md) | [xu](entities/xu.md) | associated_with |
 | [yuan-du-yi-wei-jing](entities/yuan-du-yi-wei-jing.md) | [zhuangzi](entities/zhuangzi.md) | described_in |
 | [yuan-du-yi-wei-jing](entities/yuan-du-yi-wei-jing.md) | [ziran](entities/ziran.md) | associated_with |
@@ -1514,7 +1512,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [zhang-daoling](entities/zhang-daoling.md) | [kou-qianzhi-reform](entities/kou-qianzhi-reform.md) | related_to |
 | [zhang-daoling](entities/zhang-daoling.md) | [shangqing-revelations](entities/shangqing-revelations.md) | related_to |
 | [zhang-daoling](entities/zhang-daoling.md) | [shouyi](entities/shouyi.md) | concerns |
-| [zhang-daoling](entities/zhang-daoling.md) | [taiping-jing](entities/taiping-jing.md) | related_to |
+| [zhang-daoling](entities/zhang-daoling.md) | [taiping-jing](entities/taiping-jing.md) | associated_with |
 | [zhang-daoling](entities/zhang-daoling.md) | [tao-hongjing](entities/tao-hongjing.md) | associated_with |
 | [zhang-daoling](entities/zhang-daoling.md) | [wei-huacun](entities/wei-huacun.md) | associated_with |
 | [zhang-sanfeng](entities/zhang-sanfeng.md) | [chen-tuan](entities/chen-tuan.md) | associated_with |
@@ -1526,11 +1524,10 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [zhao-che](entities/zhao-che.md) | [jing](entities/jing.md) | concerns |
 | [zhao-che](entities/zhao-che.md) | [seeing-light-in-sitting](entities/seeing-light-in-sitting.md) | related_to |
 | [zhao-che](entities/zhao-che.md) | [yingning](entities/yingning.md) | concerns |
-| [zhao-che](entities/zhao-che.md) | [yingning](entities/yingning.md) | associated_with |
 | [zhao-che](entities/zhao-che.md) | [yingning-passage](entities/yingning-passage.md) | related_to |
 | [zhao-che](entities/zhao-che.md) | [zhuangzi](entities/zhuangzi.md) | described_in |
 | [zhen-zai](entities/zhen-zai.md) | [da-kuai](entities/da-kuai.md) | associated_with |
-| [zhen-zai](entities/zhen-zai.md) | [does-daoism-believe-in-a-creator](entities/does-daoism-believe-in-a-creator.md) | related_to |
+| [zhen-zai](entities/zhen-zai.md) | [does-daoism-believe-in-a-creator](entities/does-daoism-believe-in-a-creator.md) | concerns |
 | [zhen-zai](entities/zhen-zai.md) | [hundun](entities/hundun.md) | related_to |
 | [zhen-zai](entities/zhen-zai.md) | [tian-ji](entities/tian-ji.md) | associated_with |
 | [zhen-zai](entities/zhen-zai.md) | [wang-liang-wen-jing](entities/wang-liang-wen-jing.md) | related_to |
@@ -1577,7 +1574,7 @@ Knowledge-graph edges — 1553 total. Top-level key: `items` in
 | [ziran](entities/ziran.md) | [xu](entities/xu.md) | associated_with |
 | [zuochi](entities/zuochi.md) | [jing](entities/jing.md) | concerns |
 | [zuochi](entities/zuochi.md) | [zhuangzi](entities/zhuangzi.md) | described_in |
-| [zuochi](entities/zuochi.md) | [zuowang](entities/zuowang.md) | related_to |
+| [zuochi](entities/zuochi.md) | [zuowang](entities/zuowang.md) | associated_with |
 | [zuowang](entities/zuowang.md) | [qi](entities/qi.md) | associated_with |
 | [zuowang](entities/zuowang.md) | [reading-order](entities/reading-order.md) | described_in |
 | [zuowang](entities/zuowang.md) | [sitting-protocol](entities/sitting-protocol.md) | described_in |

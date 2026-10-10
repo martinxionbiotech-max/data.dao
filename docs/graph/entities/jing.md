@@ -20,7 +20,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | from | relation | main site |
 |---|---|---|
 | [daodejing-08](daodejing-08.md) | concerns | [daodejing-08 ↗](https://daoismhub.com/translations/daodejing-08/) |
-| [daodejing-13](daodejing-13.md) | related_to | [daodejing-13 ↗](https://daoismhub.com/translations/daodejing-13/) |
+| [daodejing-13](daodejing-13.md) | concerns | [daodejing-13 ↗](https://daoismhub.com/translations/daodejing-13/) |
 | [daodejing-37](daodejing-37.md) | concerns | [daodejing-37 ↗](https://daoismhub.com/translations/daodejing-37/) |
 | [fan](fan.md) | associated_with | [fan ↗](https://daoismhub.com/concepts/fan/) |
 | [fish-happiness](fish-happiness.md) | concerns | [fish-happiness ↗](https://daoismhub.com/stories/fish-happiness/) |

@@ -23,6 +23,6 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [daodejing-08](daodejing-08.md) | related_to | [daodejing-08 ↗](https://daoismhub.com/translations/daodejing-08/) |
 | [guo-xiang](guo-xiang.md) | related_to | [guo-xiang ↗](https://daoismhub.com/people/guo-xiang/) |
 | [is-sitting-religious](is-sitting-religious.md) | associated_with | [is-sitting-religious ↗](https://daoismhub.com/experiences/questions/is-sitting-religious/) |
-| [tian-lai](tian-lai.md) | related_to | [tian-lai ↗](https://daoismhub.com/glossary/tian-lai/) |
-| [zhen-zai](zhen-zai.md) | related_to | [zhen-zai ↗](https://daoismhub.com/glossary/zhen-zai/) |
+| [tian-lai](tian-lai.md) | concerns | [tian-lai ↗](https://daoismhub.com/glossary/tian-lai/) |
+| [zhen-zai](zhen-zai.md) | concerns | [zhen-zai ↗](https://daoismhub.com/glossary/zhen-zai/) |
 | [zhuangzi-skeleton](zhuangzi-skeleton.md) | related_to | [zhuangzi-skeleton ↗](https://daoismhub.com/stories/zhuangzi-skeleton/) |

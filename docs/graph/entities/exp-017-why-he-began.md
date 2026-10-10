@@ -18,5 +18,5 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [do-i-need-a-teacher](do-i-need-a-teacher.md) | related_to | [do-i-need-a-teacher ↗](https://daoismhub.com/experiences/questions/do-i-need-a-teacher/) |
+| [do-i-need-a-teacher](do-i-need-a-teacher.md) | references | [do-i-need-a-teacher ↗](https://daoismhub.com/experiences/questions/do-i-need-a-teacher/) |
 | [exp-027-finding-a-teacher](exp-027-finding-a-teacher.md) | associated_with | [exp-027-finding-a-teacher ↗](https://daoismhub.com/experiences/notes/exp-027-finding-a-teacher/) |

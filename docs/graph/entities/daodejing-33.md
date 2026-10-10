@@ -14,7 +14,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [daodejing-45](daodejing-45.md) | associated_with | [daodejing-45 ↗](https://daoismhub.com/translations/daodejing-45/) |
 | [guan](guan.md) | concerns | [guan ↗](https://daoismhub.com/glossary/guan/) |
 | [how-long-until-results](how-long-until-results.md) | related_to | [how-long-until-results ↗](https://daoismhub.com/experiences/questions/how-long-until-results/) |
-| [jian-du](jian-du.md) | related_to | [jian-du ↗](https://daoismhub.com/glossary/jian-du/) |
+| [jian-du](jian-du.md) | concerns | [jian-du ↗](https://daoismhub.com/glossary/jian-du/) |
 | [what-is-stillness](what-is-stillness.md) | related_to | [what-is-stillness ↗](https://daoismhub.com/experiences/questions/what-is-stillness/) |
 | [xu](xu.md) | concerns | [xu ↗](https://daoismhub.com/concepts/xu/) |
 

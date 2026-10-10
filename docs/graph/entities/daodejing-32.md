@@ -14,9 +14,9 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [daodejing-25](daodejing-25.md) | associated_with | [daodejing-25 ↗](https://daoismhub.com/translations/daodejing-25/) |
 | [daodejing-37](daodejing-37.md) | associated_with | [daodejing-37 ↗](https://daoismhub.com/translations/daodejing-37/) |
 | [pu](pu.md) | concerns | [pu ↗](https://daoismhub.com/concepts/pu/) |
-| [wuwei](wuwei.md) | related_to | [wuwei ↗](https://daoismhub.com/glossary/wuwei/) |
-| [zhi-shui](zhi-shui.md) | related_to | [zhi-shui ↗](https://daoismhub.com/glossary/zhi-shui/) |
-| [ziran](ziran.md) | related_to | [ziran ↗](https://daoismhub.com/concepts/ziran/) |
+| [wuwei](wuwei.md) | concerns | [wuwei ↗](https://daoismhub.com/glossary/wuwei/) |
+| [zhi-shui](zhi-shui.md) | concerns | [zhi-shui ↗](https://daoismhub.com/glossary/zhi-shui/) |
+| [ziran](ziran.md) | concerns | [ziran ↗](https://daoismhub.com/concepts/ziran/) |
 
 ## Incoming (2)
 

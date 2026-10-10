@@ -14,7 +14,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [exp-016-nine-dhyanas-map](exp-016-nine-dhyanas-map.md) | references | [exp-016-nine-dhyanas-map ↗](https://daoismhub.com/experiences/notes/exp-016-nine-dhyanas-map/) |
 | [exp-018-halflotus-to-full-lotus](exp-018-halflotus-to-full-lotus.md) | references | [exp-018-halflotus-to-full-lotus ↗](https://daoismhub.com/experiences/notes/exp-018-halflotus-to-full-lotus/) |
 | [exp-020-false-first-dhyana](exp-020-false-first-dhyana.md) | references | [exp-020-false-first-dhyana ↗](https://daoismhub.com/experiences/notes/exp-020-false-first-dhyana/) |
-| [exp-021-prostrations-channel-circuit](exp-021-prostrations-channel-circuit.md) | related_to | [exp-021-prostrations-channel-circuit ↗](https://daoismhub.com/experiences/notes/exp-021-prostrations-channel-circuit/) |
+| [exp-021-prostrations-channel-circuit](exp-021-prostrations-channel-circuit.md) | references | [exp-021-prostrations-channel-circuit ↗](https://daoismhub.com/experiences/notes/exp-021-prostrations-channel-circuit/) |
 | [exp-022-its-all-theatre](exp-022-its-all-theatre.md) | references | [exp-022-its-all-theatre ↗](https://daoismhub.com/experiences/notes/exp-022-its-all-theatre/) |
 | [exp-023-breath-is-the-key](exp-023-breath-is-the-key.md) | references | [exp-023-breath-is-the-key ↗](https://daoismhub.com/experiences/notes/exp-023-breath-is-the-key/) |
 | [exp-024-standing-and-sitting](exp-024-standing-and-sitting.md) | references | [exp-024-standing-and-sitting ↗](https://daoismhub.com/experiences/notes/exp-024-standing-and-sitting/) |

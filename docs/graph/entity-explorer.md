@@ -48,7 +48,7 @@
 | [dao](entities/dao.md) | 25 | [/glossary/dao/](https://daoismhub.com/glossary/dao/) |
 | [dao-shu](entities/dao-shu.md) | 8 | [/glossary/dao-shu/](https://daoismhub.com/glossary/dao-shu/) |
 | [dao-yi-you-dao](entities/dao-yi-you-dao.md) | 9 | [/stories/dao-yi-you-dao/](https://daoismhub.com/stories/dao-yi-you-dao/) |
-| [daodejing](entities/daodejing.md) | 59 | [/texts/daodejing/](https://daoismhub.com/texts/daodejing/) |
+| [daodejing](entities/daodejing.md) | 57 | [/texts/daodejing/](https://daoismhub.com/texts/daodejing/) |
 | [daodejing-01](entities/daodejing-01.md) | 16 | [/translations/daodejing-01/](https://daoismhub.com/translations/daodejing-01/) |
 | [daodejing-02](entities/daodejing-02.md) | 22 | [/translations/daodejing-02/](https://daoismhub.com/translations/daodejing-02/) |
 | [daodejing-05](entities/daodejing-05.md) | 7 | [/translations/daodejing-05/](https://daoismhub.com/translations/daodejing-05/) |
@@ -69,8 +69,8 @@
 | [daodejing-36](entities/daodejing-36.md) | 10 | [/translations/daodejing-36/](https://daoismhub.com/translations/daodejing-36/) |
 | [daodejing-37](entities/daodejing-37.md) | 14 | [/translations/daodejing-37/](https://daoismhub.com/translations/daodejing-37/) |
 | [daodejing-40](entities/daodejing-40.md) | 13 | [/translations/daodejing-40/](https://daoismhub.com/translations/daodejing-40/) |
-| [daodejing-42](entities/daodejing-42.md) | 12 | [/translations/daodejing-42/](https://daoismhub.com/translations/daodejing-42/) |
-| [daodejing-45](entities/daodejing-45.md) | 19 | [/translations/daodejing-45/](https://daoismhub.com/translations/daodejing-45/) |
+| [daodejing-42](entities/daodejing-42.md) | 11 | [/translations/daodejing-42/](https://daoismhub.com/translations/daodejing-42/) |
+| [daodejing-45](entities/daodejing-45.md) | 18 | [/translations/daodejing-45/](https://daoismhub.com/translations/daodejing-45/) |
 | [daodejing-46](entities/daodejing-46.md) | 5 | [/translations/daodejing-46/](https://daoismhub.com/translations/daodejing-46/) |
 | [daodejing-48](entities/daodejing-48.md) | 9 | [/translations/daodejing-48/](https://daoismhub.com/translations/daodejing-48/) |
 | [daodejing-51](entities/daodejing-51.md) | 7 | [/translations/daodejing-51/](https://daoismhub.com/translations/daodejing-51/) |
@@ -320,7 +320,7 @@
 | [yi](entities/yi.md) | 5 | [/glossary/yi/](https://daoismhub.com/glossary/yi/) |
 | [yi-dai-niao](entities/yi-dai-niao.md) | 12 | [/stories/yi-dai-niao/](https://daoismhub.com/stories/yi-dai-niao/) |
 | [yin-yang](entities/yin-yang.md) | 6 | [/concepts/yin-yang/](https://daoismhub.com/concepts/yin-yang/) |
-| [yingning](entities/yingning.md) | 8 | [/glossary/yingning/](https://daoismhub.com/glossary/yingning/) |
+| [yingning](entities/yingning.md) | 7 | [/glossary/yingning/](https://daoismhub.com/glossary/yingning/) |
 | [yingning-passage](entities/yingning-passage.md) | 8 | [/translations/yingning-passage/](https://daoismhub.com/translations/yingning-passage/) |
 | [yongxin-ruo-jing-passage](entities/yongxin-ruo-jing-passage.md) | 7 | [/translations/yongxin-ruo-jing-passage/](https://daoismhub.com/translations/yongxin-ruo-jing-passage/) |
 | [yuan-du-yi-wei-jing](entities/yuan-du-yi-wei-jing.md) | 6 | [/glossary/yuan-du-yi-wei-jing/](https://daoismhub.com/glossary/yuan-du-yi-wei-jing/) |
@@ -329,7 +329,7 @@
 | [zhang-boduan](entities/zhang-boduan.md) | 10 | [/people/zhang-boduan/](https://daoismhub.com/people/zhang-boduan/) |
 | [zhang-daoling](entities/zhang-daoling.md) | 12 | [/people/zhang-daoling/](https://daoismhub.com/people/zhang-daoling/) |
 | [zhang-sanfeng](entities/zhang-sanfeng.md) | 4 | [/people/zhang-sanfeng/](https://daoismhub.com/people/zhang-sanfeng/) |
-| [zhao-che](entities/zhao-che.md) | 10 | [/glossary/zhao-che/](https://daoismhub.com/glossary/zhao-che/) |
+| [zhao-che](entities/zhao-che.md) | 9 | [/glossary/zhao-che/](https://daoismhub.com/glossary/zhao-che/) |
 | [zhen-zai](entities/zhen-zai.md) | 13 | [/glossary/zhen-zai/](https://daoismhub.com/glossary/zhen-zai/) |
 | [zhi-shui](entities/zhi-shui.md) | 12 | [/glossary/zhi-shui/](https://daoismhub.com/glossary/zhi-shui/) |
 | [zhi-wen-wuwei](entities/zhi-wen-wuwei.md) | 15 | [/stories/zhi-wen-wuwei/](https://daoismhub.com/stories/zhi-wen-wuwei/) |

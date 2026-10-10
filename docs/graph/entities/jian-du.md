@@ -18,5 +18,5 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [daodejing-33](daodejing-33.md) | related_to | [daodejing-33 ↗](https://daoismhub.com/translations/daodejing-33/) |
+| [daodejing-33](daodejing-33.md) | concerns | [daodejing-33 ↗](https://daoismhub.com/translations/daodejing-33/) |
 | [zhao-che](zhao-che.md) | associated_with | [zhao-che ↗](https://daoismhub.com/glossary/zhao-che/) |

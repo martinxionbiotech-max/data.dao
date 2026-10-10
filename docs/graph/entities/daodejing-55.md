@@ -13,8 +13,8 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [daodejing-10-shouyi](daodejing-10-shouyi.md) | associated_with | [daodejing-10-shouyi ↗](https://daoismhub.com/translations/daodejing-10-shouyi/) |
 | [daodejing-16](daodejing-16.md) | associated_with | [daodejing-16 ↗](https://daoismhub.com/translations/daodejing-16/) |
 | [daodejing-40](daodejing-40.md) | associated_with | [daodejing-40 ↗](https://daoismhub.com/translations/daodejing-40/) |
-| [jing-qi-shen](jing-qi-shen.md) | related_to | [jing-qi-shen ↗](https://daoismhub.com/glossary/jing-qi-shen/) |
-| [qi](qi.md) | related_to | [qi ↗](https://daoismhub.com/glossary/qi/) |
+| [jing-qi-shen](jing-qi-shen.md) | concerns | [jing-qi-shen ↗](https://daoismhub.com/glossary/jing-qi-shen/) |
+| [qi](qi.md) | concerns | [qi ↗](https://daoismhub.com/glossary/qi/) |
 
 ## Incoming (1)
 

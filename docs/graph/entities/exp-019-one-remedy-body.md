@@ -11,7 +11,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 |---|---|---|
 | [exp-013-buddhist-daoist-boundary](exp-013-buddhist-daoist-boundary.md) | associated_with | [exp-013-buddhist-daoist-boundary ↗](https://daoismhub.com/experiences/notes/exp-013-buddhist-daoist-boundary/) |
 | [exp-018-halflotus-to-full-lotus](exp-018-halflotus-to-full-lotus.md) | associated_with | [exp-018-halflotus-to-full-lotus ↗](https://daoismhub.com/experiences/notes/exp-018-halflotus-to-full-lotus/) |
-| [tiaoxi](tiaoxi.md) | related_to | [tiaoxi ↗](https://daoismhub.com/glossary/tiaoxi/) |
+| [tiaoxi](tiaoxi.md) | concerns | [tiaoxi ↗](https://daoismhub.com/glossary/tiaoxi/) |
 
 ## Incoming (4)
 

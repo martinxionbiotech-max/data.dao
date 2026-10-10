@@ -13,7 +13,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [exp-017-why-he-began](exp-017-why-he-began.md) | associated_with | [exp-017-why-he-began ↗](https://daoismhub.com/experiences/notes/exp-017-why-he-began/) |
 | [exp-021-prostrations-channel-circuit](exp-021-prostrations-channel-circuit.md) | associated_with | [exp-021-prostrations-channel-circuit ↗](https://daoismhub.com/experiences/notes/exp-021-prostrations-channel-circuit/) |
 | [exp-025-lying-down-innovation](exp-025-lying-down-innovation.md) | associated_with | [exp-025-lying-down-innovation ↗](https://daoismhub.com/experiences/notes/exp-025-lying-down-innovation/) |
-| [jingzuo](jingzuo.md) | related_to | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
+| [jingzuo](jingzuo.md) | concerns | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
 | [zuowang-safety-without-teacher](zuowang-safety-without-teacher.md) | concerns | [zuowang-safety-without-teacher ↗](https://daoismhub.com/experiences/questions/zuowang-safety-without-teacher/) |
 
 ## Incoming (2)

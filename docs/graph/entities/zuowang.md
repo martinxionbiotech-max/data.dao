@@ -65,13 +65,13 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [wandering-mind-in-sitting](wandering-mind-in-sitting.md) | concerns | [wandering-mind-in-sitting ↗](https://daoismhub.com/problems/wandering-mind-in-sitting/) |
 | [what-counts-as-progress](what-counts-as-progress.md) | related_to | [what-counts-as-progress ↗](https://daoismhub.com/experiences/questions/what-counts-as-progress/) |
 | [what-is-zuowang](what-is-zuowang.md) | discusses | [what-is-zuowang ↗](https://daoismhub.com/guides/what-is-zuowang/) |
-| [wu-sang-wo](wu-sang-wo.md) | related_to | [wu-sang-wo ↗](https://daoismhub.com/glossary/wu-sang-wo/) |
+| [wu-sang-wo](wu-sang-wo.md) | associated_with | [wu-sang-wo ↗](https://daoismhub.com/glossary/wu-sang-wo/) |
 | [wuwei](wuwei.md) | associated_with | [wuwei ↗](https://daoismhub.com/glossary/wuwei/) |
 | [xian-jie](xian-jie.md) | concerns | [xian-jie ↗](https://daoismhub.com/glossary/xian-jie/) |
 | [xu](xu.md) | concerns | [xu ↗](https://daoismhub.com/concepts/xu/) |
-| [xushi-sheng-bai](xushi-sheng-bai.md) | related_to | [xushi-sheng-bai ↗](https://daoismhub.com/glossary/xushi-sheng-bai/) |
+| [xushi-sheng-bai](xushi-sheng-bai.md) | associated_with | [xushi-sheng-bai ↗](https://daoismhub.com/glossary/xushi-sheng-bai/) |
 | [zhili-shu](zhili-shu.md) | concerns | [zhili-shu ↗](https://daoismhub.com/stories/zhili-shu/) |
-| [zuochi](zuochi.md) | related_to | [zuochi ↗](https://daoismhub.com/glossary/zuochi/) |
+| [zuochi](zuochi.md) | associated_with | [zuochi ↗](https://daoismhub.com/glossary/zuochi/) |
 | [zuowang-for-modern-practitioner](zuowang-for-modern-practitioner.md) | concerns | [zuowang-for-modern-practitioner ↗](https://daoismhub.com/blog/zuowang-for-modern-practitioner/) |
 | [zuowang-vs-mindfulness](zuowang-vs-mindfulness.md) | discusses | [zuowang-vs-mindfulness ↗](https://daoismhub.com/comparisons/zuowang-vs-mindfulness/) |
 | [zuowang-vs-shouyi](zuowang-vs-shouyi.md) | contrasts_with | [zuowang-vs-shouyi ↗](https://daoismhub.com/comparisons/zuowang-vs-shouyi/) |

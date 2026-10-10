@@ -16,4 +16,4 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [liezi-compilation](liezi-compilation.md) | related_to | [liezi-compilation ↗](https://daoismhub.com/timeline/liezi-compilation/) |
+| [liezi-compilation](liezi-compilation.md) | associated_with | [liezi-compilation ↗](https://daoismhub.com/timeline/liezi-compilation/) |

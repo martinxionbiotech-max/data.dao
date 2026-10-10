@@ -15,7 +15,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [does-practice-need-faith](does-practice-need-faith.md) | related_to | [does-practice-need-faith ↗](https://daoismhub.com/experiences/questions/does-practice-need-faith/) |
+| [does-practice-need-faith](does-practice-need-faith.md) | references | [does-practice-need-faith ↗](https://daoismhub.com/experiences/questions/does-practice-need-faith/) |
 | [sanghu-friends](sanghu-friends.md) | references | [sanghu-friends ↗](https://daoismhub.com/stories/sanghu-friends/) |
 | [wu-sang-wo](wu-sang-wo.md) | related_to | [wu-sang-wo ↗](https://daoismhub.com/glossary/wu-sang-wo/) |
 | [zuowang](zuowang.md) | translated_as | [zuowang ↗](https://daoismhub.com/glossary/zuowang/) |

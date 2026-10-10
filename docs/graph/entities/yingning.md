@@ -2,7 +2,7 @@
 
 Main site page: [/glossary/yingning/](https://daoismhub.com/glossary/yingning/)
 
-Graph entity ID: `yingning` - 8 direct relationships.
+Graph entity ID: `yingning` - 7 direct relationships.
 Entity names in the tables link to their own entity pages; the "main site" column links to the full article on daoismhub.com.
 
 ## Outgoing (5)
@@ -15,10 +15,9 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [zhuangzi](zhuangzi.md) | described_in | [zhuangzi ↗](https://daoismhub.com/texts/zhuangzi/) |
 | [zuochi](zuochi.md) | associated_with | [zuochi ↗](https://daoismhub.com/glossary/zuochi/) |
 
-## Incoming (3)
+## Incoming (2)
 
 | from | relation | main site |
 |---|---|---|
 | [yingning-passage](yingning-passage.md) | concerns | [yingning-passage ↗](https://daoismhub.com/translations/yingning-passage/) |
 | [zhao-che](zhao-che.md) | concerns | [zhao-che ↗](https://daoismhub.com/glossary/zhao-che/) |
-| [zhao-che](zhao-che.md) | associated_with | [zhao-che ↗](https://daoismhub.com/glossary/zhao-che/) |

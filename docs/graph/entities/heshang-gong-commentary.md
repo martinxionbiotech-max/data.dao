@@ -21,4 +21,4 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | from | relation | main site |
 |---|---|---|
 | [wang-bi](wang-bi.md) | related_to | [wang-bi ↗](https://daoismhub.com/people/wang-bi/) |
-| [wangbi-laozi-commentary](wangbi-laozi-commentary.md) | related_to | [wangbi-laozi-commentary ↗](https://daoismhub.com/timeline/wangbi-laozi-commentary/) |
+| [wangbi-laozi-commentary](wangbi-laozi-commentary.md) | associated_with | [wangbi-laozi-commentary ↗](https://daoismhub.com/timeline/wangbi-laozi-commentary/) |

@@ -10,7 +10,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | to | relation | main site |
 |---|---|---|
 | [dao](dao.md) | discusses | [dao ↗](https://daoismhub.com/glossary/dao/) |
-| [exp-016-nine-dhyanas-map](exp-016-nine-dhyanas-map.md) | related_to | [exp-016-nine-dhyanas-map ↗](https://daoismhub.com/experiences/notes/exp-016-nine-dhyanas-map/) |
+| [exp-016-nine-dhyanas-map](exp-016-nine-dhyanas-map.md) | references | [exp-016-nine-dhyanas-map ↗](https://daoismhub.com/experiences/notes/exp-016-nine-dhyanas-map/) |
 | [is-sitting-religious](is-sitting-religious.md) | associated_with | [is-sitting-religious ↗](https://daoismhub.com/experiences/questions/is-sitting-religious/) |
 | [jing-qi-shen](jing-qi-shen.md) | discusses | [jing-qi-shen ↗](https://daoismhub.com/glossary/jing-qi-shen/) |
 | [jingzuo](jingzuo.md) | related_to | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
@@ -22,7 +22,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [xinzhai-passage](xinzhai-passage.md) | references | [xinzhai-passage ↗](https://daoismhub.com/translations/xinzhai-passage/) |
 | [zhang-boduan](zhang-boduan.md) | related_to | [zhang-boduan ↗](https://daoismhub.com/people/zhang-boduan/) |
 | [zuowang](zuowang.md) | discusses | [zuowang ↗](https://daoismhub.com/glossary/zuowang/) |
-| [zuowang-passage](zuowang-passage.md) | related_to | [zuowang-passage ↗](https://daoismhub.com/translations/zuowang-passage/) |
+| [zuowang-passage](zuowang-passage.md) | references | [zuowang-passage ↗](https://daoismhub.com/translations/zuowang-passage/) |
 
 ## Incoming (6)
 

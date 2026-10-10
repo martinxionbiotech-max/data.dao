@@ -18,4 +18,4 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 |---|---|---|
 | [daodejing-33](daodejing-33.md) | related_to | [daodejing-33 ↗](https://daoismhub.com/translations/daodejing-33/) |
 | [why-am-i-so-sleepy](why-am-i-so-sleepy.md) | associated_with | [why-am-i-so-sleepy ↗](https://daoismhub.com/experiences/questions/why-am-i-so-sleepy/) |
-| [xiaoyao](xiaoyao.md) | related_to | [xiaoyao ↗](https://daoismhub.com/glossary/xiaoyao/) |
+| [xiaoyao](xiaoyao.md) | concerns | [xiaoyao ↗](https://daoismhub.com/glossary/xiaoyao/) |

@@ -11,7 +11,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 |---|---|---|
 | [daodejing](daodejing.md) | translated_as | [daodejing ↗](https://daoismhub.com/texts/daodejing/) |
 | [daodejing-25](daodejing-25.md) | associated_with | [daodejing-25 ↗](https://daoismhub.com/translations/daodejing-25/) |
-| [tuoyue](tuoyue.md) | related_to | [tuoyue ↗](https://daoismhub.com/glossary/tuoyue/) |
+| [tuoyue](tuoyue.md) | concerns | [tuoyue ↗](https://daoismhub.com/glossary/tuoyue/) |
 | [xu](xu.md) | concerns | [xu ↗](https://daoismhub.com/concepts/xu/) |
 
 ## Incoming (3)

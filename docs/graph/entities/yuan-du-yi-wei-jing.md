@@ -10,8 +10,8 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | to | relation | main site |
 |---|---|---|
 | [cook-ding](cook-ding.md) | related_to | [cook-ding ↗](https://daoismhub.com/stories/cook-ding/) |
-| [dao](dao.md) | related_to | [dao ↗](https://daoismhub.com/glossary/dao/) |
-| [jingzuo](jingzuo.md) | related_to | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
+| [dao](dao.md) | associated_with | [dao ↗](https://daoismhub.com/glossary/dao/) |
+| [jingzuo](jingzuo.md) | associated_with | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
 | [xu](xu.md) | associated_with | [xu ↗](https://daoismhub.com/concepts/xu/) |
 | [zhuangzi](zhuangzi.md) | described_in | [zhuangzi ↗](https://daoismhub.com/texts/zhuangzi/) |
 | [ziran](ziran.md) | associated_with | [ziran ↗](https://daoismhub.com/concepts/ziran/) |
