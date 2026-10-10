@@ -16,4 +16,4 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [how-long-until-results](how-long-until-results.md) | references | [how-long-until-results ↗](https://daoismhub.com/questions/how-long-until-results/) |
+| [how-long-until-results](how-long-until-results.md) | references | [how-long-until-results ↗](https://daoismhub.com/experiences/questions/how-long-until-results/) |

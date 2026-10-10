@@ -15,7 +15,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [daodejing-02](daodejing-02.md) | associated_with | [daodejing-02 ↗](https://daoismhub.com/translations/daodejing-02/) |
 | [daodejing-11](daodejing-11.md) | associated_with | [daodejing-11 ↗](https://daoismhub.com/translations/daodejing-11/) |
 | [daodejing-22](daodejing-22.md) | associated_with | [daodejing-22 ↗](https://daoismhub.com/translations/daodejing-22/) |
-| [exp-021-prostrations-channel-circuit](exp-021-prostrations-channel-circuit.md) | related_to | [exp-021-prostrations-channel-circuit ↗](https://daoismhub.com/experiences/exp-021-prostrations-channel-circuit/) |
+| [exp-021-prostrations-channel-circuit](exp-021-prostrations-channel-circuit.md) | related_to | [exp-021-prostrations-channel-circuit ↗](https://daoismhub.com/experiences/notes/exp-021-prostrations-channel-circuit/) |
 | [fish-in-the-dry-spring](fish-in-the-dry-spring.md) | related_to | [fish-in-the-dry-spring ↗](https://daoismhub.com/stories/fish-in-the-dry-spring/) |
 | [wuwei](wuwei.md) | concerns | [wuwei ↗](https://daoismhub.com/glossary/wuwei/) |
 

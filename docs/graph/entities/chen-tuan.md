@@ -11,7 +11,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 |---|---|---|
 | [daodejing](daodejing.md) | associated_with | [daodejing ↗](https://daoismhub.com/texts/daodejing/) |
 | [daodejing-17](daodejing-17.md) | related_to | [daodejing-17 ↗](https://daoismhub.com/translations/daodejing-17/) |
-| [falling-asleep-during-meditation](falling-asleep-during-meditation.md) | related_to | [falling-asleep-during-meditation ↗](https://daoismhub.com/questions/falling-asleep-during-meditation/) |
+| [falling-asleep-during-meditation](falling-asleep-during-meditation.md) | related_to | [falling-asleep-during-meditation ↗](https://daoismhub.com/experiences/questions/falling-asleep-during-meditation/) |
 | [laozi](laozi.md) | associated_with | [laozi ↗](https://daoismhub.com/people/laozi/) |
 | [peng-bird](peng-bird.md) | related_to | [peng-bird ↗](https://daoismhub.com/stories/peng-bird/) |
 | [zhuang-zhou](zhuang-zhou.md) | associated_with | [zhuang-zhou ↗](https://daoismhub.com/people/zhuang-zhou/) |

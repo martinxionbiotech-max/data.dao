@@ -9,7 +9,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | to | relation | main site |
 |---|---|---|
-| [exp-008-breath-stopping](exp-008-breath-stopping.md) | concerns | [exp-008-breath-stopping ↗](https://daoismhub.com/experiences/exp-008-breath-stopping/) |
+| [exp-008-breath-stopping](exp-008-breath-stopping.md) | concerns | [exp-008-breath-stopping ↗](https://daoismhub.com/experiences/notes/exp-008-breath-stopping/) |
 | [taixi](taixi.md) | concerns | [taixi ↗](https://daoismhub.com/practices/taixi/) |
 | [tiaoxi](tiaoxi.md) | concerns | [tiaoxi ↗](https://daoismhub.com/glossary/tiaoxi/) |
 
@@ -17,8 +17,8 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [can-meditation-cure-illness](can-meditation-cure-illness.md) | concerns | [can-meditation-cure-illness ↗](https://daoismhub.com/questions/can-meditation-cure-illness/) |
-| [exp-011-shougong-protocol](exp-011-shougong-protocol.md) | related_to | [exp-011-shougong-protocol ↗](https://daoismhub.com/experiences/exp-011-shougong-protocol/) |
-| [exp-022-its-all-theatre](exp-022-its-all-theatre.md) | related_to | [exp-022-its-all-theatre ↗](https://daoismhub.com/experiences/exp-022-its-all-theatre/) |
-| [exp-025-lying-down-innovation](exp-025-lying-down-innovation.md) | related_to | [exp-025-lying-down-innovation ↗](https://daoismhub.com/experiences/exp-025-lying-down-innovation/) |
+| [can-meditation-cure-illness](can-meditation-cure-illness.md) | concerns | [can-meditation-cure-illness ↗](https://daoismhub.com/experiences/questions/can-meditation-cure-illness/) |
+| [exp-011-shougong-protocol](exp-011-shougong-protocol.md) | related_to | [exp-011-shougong-protocol ↗](https://daoismhub.com/experiences/notes/exp-011-shougong-protocol/) |
+| [exp-022-its-all-theatre](exp-022-its-all-theatre.md) | related_to | [exp-022-its-all-theatre ↗](https://daoismhub.com/experiences/notes/exp-022-its-all-theatre/) |
+| [exp-025-lying-down-innovation](exp-025-lying-down-innovation.md) | related_to | [exp-025-lying-down-innovation ↗](https://daoismhub.com/experiences/notes/exp-025-lying-down-innovation/) |
 | [tiaoxi](tiaoxi.md) | concerns | [tiaoxi ↗](https://daoismhub.com/glossary/tiaoxi/) |

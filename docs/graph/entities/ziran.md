@@ -40,7 +40,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [daye-zhu-jin](daye-zhu-jin.md) | concerns | [daye-zhu-jin ↗](https://daoismhub.com/stories/daye-zhu-jin/) |
 | [de](de.md) | associated_with | [de ↗](https://daoismhub.com/glossary/de/) |
 | [diao-ling-yi-que](diao-ling-yi-que.md) | concerns | [diao-ling-yi-que ↗](https://daoismhub.com/stories/diao-ling-yi-que/) |
-| [does-daoism-believe-in-a-creator](does-daoism-believe-in-a-creator.md) | concerns | [does-daoism-believe-in-a-creator ↗](https://daoismhub.com/questions/does-daoism-believe-in-a-creator/) |
+| [does-daoism-believe-in-a-creator](does-daoism-believe-in-a-creator.md) | concerns | [does-daoism-believe-in-a-creator ↗](https://daoismhub.com/experiences/questions/does-daoism-believe-in-a-creator/) |
 | [dongguo-zi-asks](dongguo-zi-asks.md) | concerns | [dongguo-zi-asks ↗](https://daoismhub.com/stories/dongguo-zi-asks/) |
 | [dongshi-frowning](dongshi-frowning.md) | concerns | [dongshi-frowning ↗](https://daoismhub.com/stories/dongshi-frowning/) |
 | [fish-in-the-dry-spring](fish-in-the-dry-spring.md) | concerns | [fish-in-the-dry-spring ↗](https://daoismhub.com/stories/fish-in-the-dry-spring/) |

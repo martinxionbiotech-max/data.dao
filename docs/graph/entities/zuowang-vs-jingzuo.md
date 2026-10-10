@@ -1,6 +1,6 @@
 # zuowang-vs-jingzuo
 
-Main site page: [/questions/zuowang-vs-jingzuo/](https://daoismhub.com/questions/zuowang-vs-jingzuo/)
+Main site page: [/experiences/questions/zuowang-vs-jingzuo/](https://daoismhub.com/experiences/questions/zuowang-vs-jingzuo/)
 
 Graph entity ID: `zuowang-vs-jingzuo` - 1 direct relationships.
 Entity names in the tables link to their own entity pages; the "main site" column links to the full article on daoismhub.com.

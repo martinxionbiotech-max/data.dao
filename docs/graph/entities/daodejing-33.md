@@ -13,9 +13,9 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [daodejing-22](daodejing-22.md) | associated_with | [daodejing-22 ↗](https://daoismhub.com/translations/daodejing-22/) |
 | [daodejing-45](daodejing-45.md) | associated_with | [daodejing-45 ↗](https://daoismhub.com/translations/daodejing-45/) |
 | [guan](guan.md) | concerns | [guan ↗](https://daoismhub.com/glossary/guan/) |
-| [how-long-until-results](how-long-until-results.md) | related_to | [how-long-until-results ↗](https://daoismhub.com/questions/how-long-until-results/) |
+| [how-long-until-results](how-long-until-results.md) | related_to | [how-long-until-results ↗](https://daoismhub.com/experiences/questions/how-long-until-results/) |
 | [jian-du](jian-du.md) | related_to | [jian-du ↗](https://daoismhub.com/glossary/jian-du/) |
-| [what-is-stillness](what-is-stillness.md) | related_to | [what-is-stillness ↗](https://daoismhub.com/questions/what-is-stillness/) |
+| [what-is-stillness](what-is-stillness.md) | related_to | [what-is-stillness ↗](https://daoismhub.com/experiences/questions/what-is-stillness/) |
 | [xu](xu.md) | concerns | [xu ↗](https://daoismhub.com/concepts/xu/) |
 
 ## Incoming (2)
@@ -23,4 +23,4 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | from | relation | main site |
 |---|---|---|
 | [daodejing-46](daodejing-46.md) | associated_with | [daodejing-46 ↗](https://daoismhub.com/translations/daodejing-46/) |
-| [how-long-until-results](how-long-until-results.md) | references | [how-long-until-results ↗](https://daoismhub.com/questions/how-long-until-results/) |
+| [how-long-until-results](how-long-until-results.md) | references | [how-long-until-results ↗](https://daoismhub.com/experiences/questions/how-long-until-results/) |

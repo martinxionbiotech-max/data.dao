@@ -9,7 +9,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | to | relation | main site |
 |---|---|---|
-| [combine-zuowang-mindfulness](combine-zuowang-mindfulness.md) | concerns | [combine-zuowang-mindfulness ↗](https://daoismhub.com/questions/combine-zuowang-mindfulness/) |
+| [combine-zuowang-mindfulness](combine-zuowang-mindfulness.md) | concerns | [combine-zuowang-mindfulness ↗](https://daoismhub.com/experiences/questions/combine-zuowang-mindfulness/) |
 | [fish-happiness](fish-happiness.md) | associated_with | [fish-happiness ↗](https://daoismhub.com/stories/fish-happiness/) |
 | [zhuangzi](zhuangzi.md) | described_in | [zhuangzi ↗](https://daoismhub.com/texts/zhuangzi/) |
 | [ziran](ziran.md) | concerns | [ziran ↗](https://daoismhub.com/concepts/ziran/) |

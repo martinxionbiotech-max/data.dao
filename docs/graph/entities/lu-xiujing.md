@@ -21,6 +21,6 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [does-practice-need-faith](does-practice-need-faith.md) | related_to | [does-practice-need-faith ↗](https://daoismhub.com/questions/does-practice-need-faith/) |
+| [does-practice-need-faith](does-practice-need-faith.md) | related_to | [does-practice-need-faith ↗](https://daoismhub.com/experiences/questions/does-practice-need-faith/) |
 | [wang-chongyang](wang-chongyang.md) | associated_with | [wang-chongyang ↗](https://daoismhub.com/people/wang-chongyang/) |
 | [zhang-boduan](zhang-boduan.md) | associated_with | [zhang-boduan ↗](https://daoismhub.com/people/zhang-boduan/) |

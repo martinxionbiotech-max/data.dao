@@ -1,6 +1,6 @@
 # exp-005-night-qi-movement
 
-Main site page: [/experiences/exp-005-night-qi-movement/](https://daoismhub.com/experiences/exp-005-night-qi-movement/)
+Main site page: [/experiences/notes/exp-005-night-qi-movement/](https://daoismhub.com/experiences/notes/exp-005-night-qi-movement/)
 
 Graph entity ID: `exp-005-night-qi-movement` - 2 direct relationships.
 Entity names in the tables link to their own entity pages; the "main site" column links to the full article on daoismhub.com.

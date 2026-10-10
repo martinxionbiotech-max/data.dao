@@ -21,6 +21,6 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 |---|---|---|
 | [bai-yuchan](bai-yuchan.md) | associated_with | [bai-yuchan ↗](https://daoismhub.com/people/bai-yuchan/) |
 | [chen-nan](chen-nan.md) | associated_with | [chen-nan ↗](https://daoismhub.com/people/chen-nan/) |
-| [does-practice-need-faith](does-practice-need-faith.md) | related_to | [does-practice-need-faith ↗](https://daoismhub.com/questions/does-practice-need-faith/) |
+| [does-practice-need-faith](does-practice-need-faith.md) | related_to | [does-practice-need-faith ↗](https://daoismhub.com/experiences/questions/does-practice-need-faith/) |
 | [wang-chongyang](wang-chongyang.md) | associated_with | [wang-chongyang ↗](https://daoismhub.com/people/wang-chongyang/) |
 | [zhang-sanfeng](zhang-sanfeng.md) | associated_with | [zhang-sanfeng ↗](https://daoismhub.com/people/zhang-sanfeng/) |

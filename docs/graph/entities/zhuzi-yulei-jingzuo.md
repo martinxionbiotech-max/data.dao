@@ -15,6 +15,6 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [is-sitting-religious](is-sitting-religious.md) | related_to | [is-sitting-religious ↗](https://daoismhub.com/questions/is-sitting-religious/) |
+| [is-sitting-religious](is-sitting-religious.md) | related_to | [is-sitting-religious ↗](https://daoismhub.com/experiences/questions/is-sitting-religious/) |
 | [jingzuo](jingzuo.md) | described_in | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
 | [li-ao](li-ao.md) | related_to | [li-ao ↗](https://daoismhub.com/people/li-ao/) |

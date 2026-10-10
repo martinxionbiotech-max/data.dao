@@ -22,5 +22,5 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [cao-shang](cao-shang.md) | associated_with | [cao-shang ↗](https://daoismhub.com/stories/cao-shang/) |
 | [luhou-yang-niao](luhou-yang-niao.md) | associated_with | [luhou-yang-niao ↗](https://daoismhub.com/stories/luhou-yang-niao/) |
 | [shinan-yiliao](shinan-yiliao.md) | associated_with | [shinan-yiliao ↗](https://daoismhub.com/stories/shinan-yiliao/) |
-| [why-do-i-keep-quitting](why-do-i-keep-quitting.md) | related_to | [why-do-i-keep-quitting ↗](https://daoismhub.com/questions/why-do-i-keep-quitting/) |
+| [why-do-i-keep-quitting](why-do-i-keep-quitting.md) | related_to | [why-do-i-keep-quitting ↗](https://daoismhub.com/experiences/questions/why-do-i-keep-quitting/) |
 | [yi-dai-niao](yi-dai-niao.md) | associated_with | [yi-dai-niao ↗](https://daoismhub.com/stories/yi-dai-niao/) |

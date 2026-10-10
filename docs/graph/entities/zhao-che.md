@@ -22,5 +22,5 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [do-i-need-a-teacher](do-i-need-a-teacher.md) | discusses | [do-i-need-a-teacher ↗](https://daoismhub.com/questions/do-i-need-a-teacher/) |
+| [do-i-need-a-teacher](do-i-need-a-teacher.md) | discusses | [do-i-need-a-teacher ↗](https://daoismhub.com/experiences/questions/do-i-need-a-teacher/) |
 | [qiwu](qiwu.md) | associated_with | [qiwu ↗](https://daoismhub.com/glossary/qiwu/) |

@@ -12,7 +12,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [chui-gou-zhe](chui-gou-zhe.md) | associated_with | [chui-gou-zhe ↗](https://daoismhub.com/stories/chui-gou-zhe/) |
 | [ren-gongzi-fishing](ren-gongzi-fishing.md) | associated_with | [ren-gongzi-fishing ↗](https://daoismhub.com/stories/ren-gongzi-fishing/) |
 | [useless-gourd](useless-gourd.md) | associated_with | [useless-gourd ↗](https://daoismhub.com/stories/useless-gourd/) |
-| [what-counts-as-progress](what-counts-as-progress.md) | related_to | [what-counts-as-progress ↗](https://daoismhub.com/questions/what-counts-as-progress/) |
+| [what-counts-as-progress](what-counts-as-progress.md) | related_to | [what-counts-as-progress ↗](https://daoismhub.com/experiences/questions/what-counts-as-progress/) |
 | [wuwei](wuwei.md) | concerns | [wuwei ↗](https://daoismhub.com/glossary/wuwei/) |
 | [zhili-shu](zhili-shu.md) | associated_with | [zhili-shu ↗](https://daoismhub.com/stories/zhili-shu/) |
 | [zhuangzi](zhuangzi.md) | described_in | [zhuangzi ↗](https://daoismhub.com/texts/zhuangzi/) |
@@ -21,4 +21,4 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [why-do-i-keep-quitting](why-do-i-keep-quitting.md) | related_to | [why-do-i-keep-quitting ↗](https://daoismhub.com/questions/why-do-i-keep-quitting/) |
+| [why-do-i-keep-quitting](why-do-i-keep-quitting.md) | related_to | [why-do-i-keep-quitting ↗](https://daoismhub.com/experiences/questions/why-do-i-keep-quitting/) |

@@ -10,8 +10,8 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | to | relation | main site |
 |---|---|---|
 | [butterfly-dream](butterfly-dream.md) | associated_with | [butterfly-dream ↗](https://daoismhub.com/stories/butterfly-dream/) |
-| [can-meditation-cure-illness](can-meditation-cure-illness.md) | related_to | [can-meditation-cure-illness ↗](https://daoismhub.com/questions/can-meditation-cure-illness/) |
-| [does-daoism-believe-in-a-creator](does-daoism-believe-in-a-creator.md) | related_to | [does-daoism-believe-in-a-creator ↗](https://daoismhub.com/questions/does-daoism-believe-in-a-creator/) |
+| [can-meditation-cure-illness](can-meditation-cure-illness.md) | related_to | [can-meditation-cure-illness ↗](https://daoismhub.com/experiences/questions/can-meditation-cure-illness/) |
+| [does-daoism-believe-in-a-creator](does-daoism-believe-in-a-creator.md) | related_to | [does-daoism-believe-in-a-creator ↗](https://daoismhub.com/experiences/questions/does-daoism-believe-in-a-creator/) |
 | [drumming-basin](drumming-basin.md) | associated_with | [drumming-basin ↗](https://daoismhub.com/stories/drumming-basin/) |
 | [sanghu-friends](sanghu-friends.md) | associated_with | [sanghu-friends ↗](https://daoismhub.com/stories/sanghu-friends/) |
 | [zhuangzi](zhuangzi.md) | described_in | [zhuangzi ↗](https://daoismhub.com/texts/zhuangzi/) |

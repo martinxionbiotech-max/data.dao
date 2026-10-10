@@ -16,4 +16,4 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [exp-009-dissolving-void](exp-009-dissolving-void.md) | related_to | [exp-009-dissolving-void ↗](https://daoismhub.com/experiences/exp-009-dissolving-void/) |
+| [exp-009-dissolving-void](exp-009-dissolving-void.md) | related_to | [exp-009-dissolving-void ↗](https://daoismhub.com/experiences/notes/exp-009-dissolving-void/) |

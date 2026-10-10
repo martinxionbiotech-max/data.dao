@@ -10,7 +10,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | to | relation | main site |
 |---|---|---|
 | [daodejing](daodejing.md) | described_in | [daodejing ↗](https://daoismhub.com/texts/daodejing/) |
-| [does-daoism-believe-in-a-creator](does-daoism-believe-in-a-creator.md) | related_to | [does-daoism-believe-in-a-creator ↗](https://daoismhub.com/questions/does-daoism-believe-in-a-creator/) |
+| [does-daoism-believe-in-a-creator](does-daoism-believe-in-a-creator.md) | related_to | [does-daoism-believe-in-a-creator ↗](https://daoismhub.com/experiences/questions/does-daoism-believe-in-a-creator/) |
 | [fish-happiness](fish-happiness.md) | related_to | [fish-happiness ↗](https://daoismhub.com/stories/fish-happiness/) |
 | [fish-in-the-dry-spring](fish-in-the-dry-spring.md) | related_to | [fish-in-the-dry-spring ↗](https://daoismhub.com/stories/fish-in-the-dry-spring/) |
 | [jing](jing.md) | concerns | [jing ↗](https://daoismhub.com/concepts/jing/) |

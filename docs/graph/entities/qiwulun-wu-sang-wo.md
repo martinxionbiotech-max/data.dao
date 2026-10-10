@@ -20,7 +20,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [daodejing-02](daodejing-02.md) | associated_with | [daodejing-02 ↗](https://daoismhub.com/translations/daodejing-02/) |
 | [drumming-basin-passage](drumming-basin-passage.md) | associated_with | [drumming-basin-passage ↗](https://daoismhub.com/translations/drumming-basin-passage/) |
 | [huan-zhong](huan-zhong.md) | related_to | [huan-zhong ↗](https://daoismhub.com/glossary/huan-zhong/) |
-| [is-sitting-religious](is-sitting-religious.md) | references | [is-sitting-religious ↗](https://daoismhub.com/questions/is-sitting-religious/) |
+| [is-sitting-religious](is-sitting-religious.md) | references | [is-sitting-religious ↗](https://daoismhub.com/experiences/questions/is-sitting-religious/) |
 | [qiwu](qiwu.md) | related_to | [qiwu ↗](https://daoismhub.com/glossary/qiwu/) |
 | [tian-jun](tian-jun.md) | related_to | [tian-jun ↗](https://daoismhub.com/glossary/tian-jun/) |
 | [tian-lai](tian-lai.md) | related_to | [tian-lai ↗](https://daoismhub.com/glossary/tian-lai/) |

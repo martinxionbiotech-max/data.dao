@@ -13,7 +13,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [handan-walk](handan-walk.md) | related_to | [handan-walk ↗](https://daoismhub.com/stories/handan-walk/) |
 | [peng-bird](peng-bird.md) | related_to | [peng-bird ↗](https://daoismhub.com/stories/peng-bird/) |
 | [useless-gourd](useless-gourd.md) | related_to | [useless-gourd ↗](https://daoismhub.com/stories/useless-gourd/) |
-| [what-is-stillness](what-is-stillness.md) | related_to | [what-is-stillness ↗](https://daoismhub.com/questions/what-is-stillness/) |
+| [what-is-stillness](what-is-stillness.md) | related_to | [what-is-stillness ↗](https://daoismhub.com/experiences/questions/what-is-stillness/) |
 | [wuwei](wuwei.md) | related_to | [wuwei ↗](https://daoismhub.com/glossary/wuwei/) |
 | [zhili-shu](zhili-shu.md) | related_to | [zhili-shu ↗](https://daoismhub.com/stories/zhili-shu/) |
 | [zhuangzi](zhuangzi.md) | described_in | [zhuangzi ↗](https://daoismhub.com/texts/zhuangzi/) |

@@ -10,7 +10,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | to | relation | main site |
 |---|---|---|
 | [daodejing](daodejing.md) | described_in | [daodejing ↗](https://daoismhub.com/texts/daodejing/) |
-| [qi-belief-necessary](qi-belief-necessary.md) | concerns | [qi-belief-necessary ↗](https://daoismhub.com/questions/qi-belief-necessary/) |
+| [qi-belief-necessary](qi-belief-necessary.md) | concerns | [qi-belief-necessary ↗](https://daoismhub.com/experiences/questions/qi-belief-necessary/) |
 | [zhuangzi](zhuangzi.md) | described_in | [zhuangzi ↗](https://daoismhub.com/texts/zhuangzi/) |
 
 ## Incoming (25)
@@ -25,8 +25,8 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [daodejing-55](daodejing-55.md) | related_to | [daodejing-55 ↗](https://daoismhub.com/translations/daodejing-55/) |
 | [dizziness-during-sitting](dizziness-during-sitting.md) | concerns | [dizziness-during-sitting ↗](https://daoismhub.com/problems/dizziness-during-sitting/) |
 | [drumming-basin](drumming-basin.md) | concerns | [drumming-basin ↗](https://daoismhub.com/stories/drumming-basin/) |
-| [exp-005-night-qi-movement](exp-005-night-qi-movement.md) | concerns | [exp-005-night-qi-movement ↗](https://daoismhub.com/experiences/exp-005-night-qi-movement/) |
-| [exp-029-the-human-body](exp-029-the-human-body.md) | related_to | [exp-029-the-human-body ↗](https://daoismhub.com/experiences/exp-029-the-human-body/) |
+| [exp-005-night-qi-movement](exp-005-night-qi-movement.md) | concerns | [exp-005-night-qi-movement ↗](https://daoismhub.com/experiences/notes/exp-005-night-qi-movement/) |
+| [exp-029-the-human-body](exp-029-the-human-body.md) | related_to | [exp-029-the-human-body ↗](https://daoismhub.com/experiences/notes/exp-029-the-human-body/) |
 | [head-pressure-during-sitting](head-pressure-during-sitting.md) | concerns | [head-pressure-during-sitting ↗](https://daoismhub.com/problems/head-pressure-during-sitting/) |
 | [huzi-jixian](huzi-jixian.md) | concerns | [huzi-jixian ↗](https://daoismhub.com/stories/huzi-jixian/) |
 | [khalsa-2018](khalsa-2018.md) | informs | [khalsa-2018 ↗](https://daoismhub.com/research/khalsa-2018/) |
@@ -38,7 +38,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [three-languages](three-languages.md) | concerns | [three-languages ↗](https://daoismhub.com/blog/three-languages/) |
 | [tiaoxi](tiaoxi.md) | related_to | [tiaoxi ↗](https://daoismhub.com/glossary/tiaoxi/) |
 | [vibrations-during-sitting](vibrations-during-sitting.md) | concerns | [vibrations-during-sitting ↗](https://daoismhub.com/problems/vibrations-during-sitting/) |
-| [warmth-tingling-when-sitting](warmth-tingling-when-sitting.md) | concerns | [warmth-tingling-when-sitting ↗](https://daoismhub.com/questions/warmth-tingling-when-sitting/) |
+| [warmth-tingling-when-sitting](warmth-tingling-when-sitting.md) | concerns | [warmth-tingling-when-sitting ↗](https://daoismhub.com/experiences/questions/warmth-tingling-when-sitting/) |
 | [yin-yang](yin-yang.md) | associated_with | [yin-yang ↗](https://daoismhub.com/concepts/yin-yang/) |
 | [zhi-wen-wuwei](zhi-wen-wuwei.md) | concerns | [zhi-wen-wuwei ↗](https://daoismhub.com/stories/zhi-wen-wuwei/) |
 | [zuowang](zuowang.md) | associated_with | [zuowang ↗](https://daoismhub.com/glossary/zuowang/) |

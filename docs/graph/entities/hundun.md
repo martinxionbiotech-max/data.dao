@@ -19,7 +19,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 |---|---|---|
 | [bao-weng-guan-qi](bao-weng-guan-qi.md) | associated_with | [bao-weng-guan-qi ↗](https://daoismhub.com/stories/bao-weng-guan-qi/) |
 | [bole-horses](bole-horses.md) | associated_with | [bole-horses ↗](https://daoismhub.com/stories/bole-horses/) |
-| [does-daoism-believe-in-a-creator](does-daoism-believe-in-a-creator.md) | related_to | [does-daoism-believe-in-a-creator ↗](https://daoismhub.com/questions/does-daoism-believe-in-a-creator/) |
+| [does-daoism-believe-in-a-creator](does-daoism-believe-in-a-creator.md) | related_to | [does-daoism-believe-in-a-creator ↗](https://daoismhub.com/experiences/questions/does-daoism-believe-in-a-creator/) |
 | [luhou-yang-niao](luhou-yang-niao.md) | associated_with | [luhou-yang-niao ↗](https://daoismhub.com/stories/luhou-yang-niao/) |
 | [mantis-and-chariot](mantis-and-chariot.md) | associated_with | [mantis-and-chariot ↗](https://daoismhub.com/stories/mantis-and-chariot/) |
 | [zhen-zai](zhen-zai.md) | related_to | [zhen-zai ↗](https://daoismhub.com/glossary/zhen-zai/) |

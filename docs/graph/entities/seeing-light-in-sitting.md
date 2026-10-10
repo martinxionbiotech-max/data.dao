@@ -18,8 +18,8 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | from | relation | main site |
 |---|---|---|
 | [bao-guang](bao-guang.md) | related_to | [bao-guang ↗](https://daoismhub.com/glossary/bao-guang/) |
-| [exp-020-false-first-dhyana](exp-020-false-first-dhyana.md) | related_to | [exp-020-false-first-dhyana ↗](https://daoismhub.com/experiences/exp-020-false-first-dhyana/) |
-| [exp-023-breath-is-the-key](exp-023-breath-is-the-key.md) | related_to | [exp-023-breath-is-the-key ↗](https://daoismhub.com/experiences/exp-023-breath-is-the-key/) |
+| [exp-020-false-first-dhyana](exp-020-false-first-dhyana.md) | related_to | [exp-020-false-first-dhyana ↗](https://daoismhub.com/experiences/notes/exp-020-false-first-dhyana/) |
+| [exp-023-breath-is-the-key](exp-023-breath-is-the-key.md) | related_to | [exp-023-breath-is-the-key ↗](https://daoismhub.com/experiences/notes/exp-023-breath-is-the-key/) |
 | [huan-gong-jian-gui](huan-gong-jian-gui.md) | related_to | [huan-gong-jian-gui ↗](https://daoismhub.com/stories/huan-gong-jian-gui/) |
 | [virtual-room-passage](virtual-room-passage.md) | concerns | [virtual-room-passage ↗](https://daoismhub.com/translations/virtual-room-passage/) |
 | [xushi-sheng-bai](xushi-sheng-bai.md) | related_to | [xushi-sheng-bai ↗](https://daoismhub.com/glossary/xushi-sheng-bai/) |

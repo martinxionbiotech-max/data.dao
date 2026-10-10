@@ -1,6 +1,6 @@
 # cunsi-or-zuowang
 
-Main site page: [/questions/cunsi-or-zuowang/](https://daoismhub.com/questions/cunsi-or-zuowang/)
+Main site page: [/experiences/questions/cunsi-or-zuowang/](https://daoismhub.com/experiences/questions/cunsi-or-zuowang/)
 
 Graph entity ID: `cunsi-or-zuowang` - 4 direct relationships.
 Entity names in the tables link to their own entity pages; the "main site" column links to the full article on daoismhub.com.
@@ -17,4 +17,4 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [is-one-style-enough](is-one-style-enough.md) | associated_with | [is-one-style-enough ↗](https://daoismhub.com/questions/is-one-style-enough/) |
+| [is-one-style-enough](is-one-style-enough.md) | associated_with | [is-one-style-enough ↗](https://daoismhub.com/experiences/questions/is-one-style-enough/) |

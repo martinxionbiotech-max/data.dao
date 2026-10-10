@@ -15,4 +15,4 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [is-sitting-religious](is-sitting-religious.md) | discusses | [is-sitting-religious ↗](https://daoismhub.com/questions/is-sitting-religious/) |
+| [is-sitting-religious](is-sitting-religious.md) | discusses | [is-sitting-religious ↗](https://daoismhub.com/experiences/questions/is-sitting-religious/) |

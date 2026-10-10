@@ -17,7 +17,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [zhuangzi](zhuangzi.md) | described_in | [zhuangzi ↗](https://daoismhub.com/texts/zhuangzi/) |
 | [zuowang-lun](zuowang-lun.md) | described_in | [zuowang-lun ↗](https://daoismhub.com/texts/zuowang-lun/) |
 | [zuowang-passage](zuowang-passage.md) | translated_as | [zuowang-passage ↗](https://daoismhub.com/translations/zuowang-passage/) |
-| [zuowang-safety-without-teacher](zuowang-safety-without-teacher.md) | concerns | [zuowang-safety-without-teacher ↗](https://daoismhub.com/questions/zuowang-safety-without-teacher/) |
+| [zuowang-safety-without-teacher](zuowang-safety-without-teacher.md) | concerns | [zuowang-safety-without-teacher ↗](https://daoismhub.com/experiences/questions/zuowang-safety-without-teacher/) |
 
 ## Incoming (52)
 
@@ -30,25 +30,25 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [boatman](boatman.md) | concerns | [boatman ↗](https://daoismhub.com/stories/boatman/) |
 | [body-feels-very-large](body-feels-very-large.md) | concerns | [body-feels-very-large ↗](https://daoismhub.com/problems/body-feels-very-large/) |
 | [britton-2021](britton-2021.md) | informs | [britton-2021 ↗](https://daoismhub.com/research/britton-2021/) |
-| [can-i-sit-in-bed](can-i-sit-in-bed.md) | related_to | [can-i-sit-in-bed ↗](https://daoismhub.com/questions/can-i-sit-in-bed/) |
+| [can-i-sit-in-bed](can-i-sit-in-bed.md) | related_to | [can-i-sit-in-bed ↗](https://daoismhub.com/experiences/questions/can-i-sit-in-bed/) |
 | [chinese-meditation-explained](chinese-meditation-explained.md) | discusses | [chinese-meditation-explained ↗](https://daoismhub.com/guides/chinese-meditation-explained/) |
 | [chinese-meditation-terms-explained](chinese-meditation-terms-explained.md) | discusses | [chinese-meditation-terms-explained ↗](https://daoismhub.com/guides/chinese-meditation-terms-explained/) |
-| [combine-zuowang-mindfulness](combine-zuowang-mindfulness.md) | concerns | [combine-zuowang-mindfulness ↗](https://daoismhub.com/questions/combine-zuowang-mindfulness/) |
-| [cunsi-or-zuowang](cunsi-or-zuowang.md) | concerns | [cunsi-or-zuowang ↗](https://daoismhub.com/questions/cunsi-or-zuowang/) |
+| [combine-zuowang-mindfulness](combine-zuowang-mindfulness.md) | concerns | [combine-zuowang-mindfulness ↗](https://daoismhub.com/experiences/questions/combine-zuowang-mindfulness/) |
+| [cunsi-or-zuowang](cunsi-or-zuowang.md) | concerns | [cunsi-or-zuowang ↗](https://daoismhub.com/experiences/questions/cunsi-or-zuowang/) |
 | [cunsi-vs-zuowang](cunsi-vs-zuowang.md) | discusses | [cunsi-vs-zuowang ↗](https://daoismhub.com/comparisons/cunsi-vs-zuowang/) |
 | [daodejing-48](daodejing-48.md) | concerns | [daodejing-48 ↗](https://daoismhub.com/translations/daodejing-48/) |
 | [daoist-meditation-explained](daoist-meditation-explained.md) | discusses | [daoist-meditation-explained ↗](https://daoismhub.com/guides/daoist-meditation-explained/) |
 | [daoist-vs-buddhist-meditation](daoist-vs-buddhist-meditation.md) | discusses | [daoist-vs-buddhist-meditation ↗](https://daoismhub.com/comparisons/daoist-vs-buddhist-meditation/) |
 | [daoshu-neiguan-zuowang](daoshu-neiguan-zuowang.md) | concerns | [daoshu-neiguan-zuowang ↗](https://daoismhub.com/timeline/daoshu-neiguan-zuowang/) |
-| [do-i-need-a-teacher](do-i-need-a-teacher.md) | discusses | [do-i-need-a-teacher ↗](https://daoismhub.com/questions/do-i-need-a-teacher/) |
-| [does-diet-matter](does-diet-matter.md) | related_to | [does-diet-matter ↗](https://daoismhub.com/questions/does-diet-matter/) |
-| [does-practice-need-faith](does-practice-need-faith.md) | discusses | [does-practice-need-faith ↗](https://daoismhub.com/questions/does-practice-need-faith/) |
+| [do-i-need-a-teacher](do-i-need-a-teacher.md) | discusses | [do-i-need-a-teacher ↗](https://daoismhub.com/experiences/questions/do-i-need-a-teacher/) |
+| [does-diet-matter](does-diet-matter.md) | related_to | [does-diet-matter ↗](https://daoismhub.com/experiences/questions/does-diet-matter/) |
+| [does-practice-need-faith](does-practice-need-faith.md) | discusses | [does-practice-need-faith ↗](https://daoismhub.com/experiences/questions/does-practice-need-faith/) |
 | [drowsiness-in-sitting](drowsiness-in-sitting.md) | concerns | [drowsiness-in-sitting ↗](https://daoismhub.com/problems/drowsiness-in-sitting/) |
 | [falling-asleep-during-sitting](falling-asleep-during-sitting.md) | concerns | [falling-asleep-during-sitting ↗](https://daoismhub.com/problems/falling-asleep-during-sitting/) |
 | [forgetting-the-body-daoist-texts](forgetting-the-body-daoist-texts.md) | concerns | [forgetting-the-body-daoist-texts ↗](https://daoismhub.com/problems/forgetting-the-body-daoist-texts/) |
 | [hundun](hundun.md) | concerns | [hundun ↗](https://daoismhub.com/stories/hundun/) |
 | [huzi-jixian](huzi-jixian.md) | concerns | [huzi-jixian ↗](https://daoismhub.com/stories/huzi-jixian/) |
-| [is-sitting-religious](is-sitting-religious.md) | related_to | [is-sitting-religious ↗](https://daoismhub.com/questions/is-sitting-religious/) |
+| [is-sitting-religious](is-sitting-religious.md) | related_to | [is-sitting-religious ↗](https://daoismhub.com/experiences/questions/is-sitting-religious/) |
 | [jing](jing.md) | concerns | [jing ↗](https://daoismhub.com/concepts/jing/) |
 | [jingzuo](jingzuo.md) | contrasts_with | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
 | [jingzuo-vs-zuowang](jingzuo-vs-zuowang.md) | discusses | [jingzuo-vs-zuowang ↗](https://daoismhub.com/comparisons/jingzuo-vs-zuowang/) |
@@ -59,11 +59,11 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [neiguan](neiguan.md) | associated_with | [neiguan ↗](https://daoismhub.com/glossary/neiguan/) |
 | [qiu-chuji](qiu-chuji.md) | related_to | [qiu-chuji ↗](https://daoismhub.com/people/qiu-chuji/) |
 | [qiwulun-wu-sang-wo](qiwulun-wu-sang-wo.md) | concerns | [qiwulun-wu-sang-wo ↗](https://daoismhub.com/translations/qiwulun-wu-sang-wo/) |
-| [should-i-use-timers](should-i-use-timers.md) | related_to | [should-i-use-timers ↗](https://daoismhub.com/questions/should-i-use-timers/) |
+| [should-i-use-timers](should-i-use-timers.md) | related_to | [should-i-use-timers ↗](https://daoismhub.com/experiences/questions/should-i-use-timers/) |
 | [shouyi](shouyi.md) | contrasts_with | [shouyi ↗](https://daoismhub.com/glossary/shouyi/) |
 | [swimmer-lvliang](swimmer-lvliang.md) | concerns | [swimmer-lvliang ↗](https://daoismhub.com/stories/swimmer-lvliang/) |
 | [wandering-mind-in-sitting](wandering-mind-in-sitting.md) | concerns | [wandering-mind-in-sitting ↗](https://daoismhub.com/problems/wandering-mind-in-sitting/) |
-| [what-counts-as-progress](what-counts-as-progress.md) | related_to | [what-counts-as-progress ↗](https://daoismhub.com/questions/what-counts-as-progress/) |
+| [what-counts-as-progress](what-counts-as-progress.md) | related_to | [what-counts-as-progress ↗](https://daoismhub.com/experiences/questions/what-counts-as-progress/) |
 | [what-is-zuowang](what-is-zuowang.md) | discusses | [what-is-zuowang ↗](https://daoismhub.com/guides/what-is-zuowang/) |
 | [wu-sang-wo](wu-sang-wo.md) | related_to | [wu-sang-wo ↗](https://daoismhub.com/glossary/wu-sang-wo/) |
 | [wuwei](wuwei.md) | associated_with | [wuwei ↗](https://daoismhub.com/glossary/wuwei/) |

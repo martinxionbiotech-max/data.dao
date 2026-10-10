@@ -22,7 +22,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [is-sitting-religious](is-sitting-religious.md) | related_to | [is-sitting-religious ↗](https://daoismhub.com/questions/is-sitting-religious/) |
+| [is-sitting-religious](is-sitting-religious.md) | related_to | [is-sitting-religious ↗](https://daoismhub.com/experiences/questions/is-sitting-religious/) |
 | [lu-xiujing](lu-xiujing.md) | associated_with | [lu-xiujing ↗](https://daoismhub.com/people/lu-xiujing/) |
 | [qiu-chuji](qiu-chuji.md) | associated_with | [qiu-chuji ↗](https://daoismhub.com/people/qiu-chuji/) |
 | [wang-chongyang](wang-chongyang.md) | associated_with | [wang-chongyang ↗](https://daoismhub.com/people/wang-chongyang/) |

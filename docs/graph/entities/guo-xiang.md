@@ -10,7 +10,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | to | relation | main site |
 |---|---|---|
 | [da-kuai](da-kuai.md) | related_to | [da-kuai ↗](https://daoismhub.com/glossary/da-kuai/) |
-| [does-daoism-believe-in-a-creator](does-daoism-believe-in-a-creator.md) | related_to | [does-daoism-believe-in-a-creator ↗](https://daoismhub.com/questions/does-daoism-believe-in-a-creator/) |
+| [does-daoism-believe-in-a-creator](does-daoism-believe-in-a-creator.md) | related_to | [does-daoism-believe-in-a-creator ↗](https://daoismhub.com/experiences/questions/does-daoism-believe-in-a-creator/) |
 | [wang-bi](wang-bi.md) | associated_with | [wang-bi ↗](https://daoismhub.com/people/wang-bi/) |
 | [wu-you](wu-you.md) | discusses | [wu-you ↗](https://daoismhub.com/concepts/wu-you/) |
 | [zhen-zai](zhen-zai.md) | related_to | [zhen-zai ↗](https://daoismhub.com/glossary/zhen-zai/) |

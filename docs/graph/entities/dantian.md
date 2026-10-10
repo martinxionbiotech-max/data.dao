@@ -18,7 +18,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | from | relation | main site |
 |---|---|---|
 | [cunsi](cunsi.md) | concerns | [cunsi ↗](https://daoismhub.com/practices/cunsi/) |
-| [exp-029-the-human-body](exp-029-the-human-body.md) | related_to | [exp-029-the-human-body ↗](https://daoismhub.com/experiences/exp-029-the-human-body/) |
+| [exp-029-the-human-body](exp-029-the-human-body.md) | related_to | [exp-029-the-human-body ↗](https://daoismhub.com/experiences/notes/exp-029-the-human-body/) |
 | [huangting-jing](huangting-jing.md) | concerns | [huangting-jing ↗](https://daoismhub.com/texts/huangting-jing/) |
 | [huangting-jing-dantian](huangting-jing-dantian.md) | concerns | [huangting-jing-dantian ↗](https://daoismhub.com/timeline/huangting-jing-dantian/) |
-| [warmth-tingling-when-sitting](warmth-tingling-when-sitting.md) | concerns | [warmth-tingling-when-sitting ↗](https://daoismhub.com/questions/warmth-tingling-when-sitting/) |
+| [warmth-tingling-when-sitting](warmth-tingling-when-sitting.md) | concerns | [warmth-tingling-when-sitting ↗](https://daoismhub.com/experiences/questions/warmth-tingling-when-sitting/) |

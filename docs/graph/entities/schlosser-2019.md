@@ -16,5 +16,5 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [exp-016-nine-dhyanas-map](exp-016-nine-dhyanas-map.md) | references | [exp-016-nine-dhyanas-map ↗](https://daoismhub.com/experiences/exp-016-nine-dhyanas-map/) |
-| [warmth-tingling-when-sitting](warmth-tingling-when-sitting.md) | references | [warmth-tingling-when-sitting ↗](https://daoismhub.com/questions/warmth-tingling-when-sitting/) |
+| [exp-016-nine-dhyanas-map](exp-016-nine-dhyanas-map.md) | references | [exp-016-nine-dhyanas-map ↗](https://daoismhub.com/experiences/notes/exp-016-nine-dhyanas-map/) |
+| [warmth-tingling-when-sitting](warmth-tingling-when-sitting.md) | references | [warmth-tingling-when-sitting ↗](https://daoismhub.com/experiences/questions/warmth-tingling-when-sitting/) |

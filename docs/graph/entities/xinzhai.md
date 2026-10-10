@@ -23,7 +23,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [chinese-meditation-explained](chinese-meditation-explained.md) | discusses | [chinese-meditation-explained ↗](https://daoismhub.com/guides/chinese-meditation-explained/) |
 | [daoist-meditation-explained](daoist-meditation-explained.md) | discusses | [daoist-meditation-explained ↗](https://daoismhub.com/guides/daoist-meditation-explained/) |
 | [daoist-vs-buddhist-meditation](daoist-vs-buddhist-meditation.md) | discusses | [daoist-vs-buddhist-meditation ↗](https://daoismhub.com/comparisons/daoist-vs-buddhist-meditation/) |
-| [does-practice-need-faith](does-practice-need-faith.md) | related_to | [does-practice-need-faith ↗](https://daoismhub.com/questions/does-practice-need-faith/) |
+| [does-practice-need-faith](does-practice-need-faith.md) | related_to | [does-practice-need-faith ↗](https://daoismhub.com/experiences/questions/does-practice-need-faith/) |
 | [ji-xin](ji-xin.md) | concerns | [ji-xin ↗](https://daoismhub.com/glossary/ji-xin/) |
 | [jingzuo](jingzuo.md) | related_to | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
 | [map-of-chinese-contemplative-traditions](map-of-chinese-contemplative-traditions.md) | discusses | [map-of-chinese-contemplative-traditions ↗](https://daoismhub.com/guides/map-of-chinese-contemplative-traditions/) |
@@ -31,7 +31,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [thoughts-become-stronger](thoughts-become-stronger.md) | concerns | [thoughts-become-stronger ↗](https://daoismhub.com/problems/thoughts-become-stronger/) |
 | [virtual-room-passage](virtual-room-passage.md) | concerns | [virtual-room-passage ↗](https://daoismhub.com/translations/virtual-room-passage/) |
 | [wandering-mind-in-sitting](wandering-mind-in-sitting.md) | concerns | [wandering-mind-in-sitting ↗](https://daoismhub.com/problems/wandering-mind-in-sitting/) |
-| [why-do-i-see-lights](why-do-i-see-lights.md) | discusses | [why-do-i-see-lights ↗](https://daoismhub.com/questions/why-do-i-see-lights/) |
+| [why-do-i-see-lights](why-do-i-see-lights.md) | discusses | [why-do-i-see-lights ↗](https://daoismhub.com/experiences/questions/why-do-i-see-lights/) |
 | [wu-sang-wo](wu-sang-wo.md) | related_to | [wu-sang-wo ↗](https://daoismhub.com/glossary/wu-sang-wo/) |
 | [xinzhai-vs-mindfulness](xinzhai-vs-mindfulness.md) | discusses | [xinzhai-vs-mindfulness ↗](https://daoismhub.com/comparisons/xinzhai-vs-mindfulness/) |
 | [xu](xu.md) | related_to | [xu ↗](https://daoismhub.com/concepts/xu/) |

@@ -10,7 +10,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | to | relation | main site |
 |---|---|---|
 | [da-kuai](da-kuai.md) | associated_with | [da-kuai ↗](https://daoismhub.com/glossary/da-kuai/) |
-| [does-daoism-believe-in-a-creator](does-daoism-believe-in-a-creator.md) | related_to | [does-daoism-believe-in-a-creator ↗](https://daoismhub.com/questions/does-daoism-believe-in-a-creator/) |
+| [does-daoism-believe-in-a-creator](does-daoism-believe-in-a-creator.md) | related_to | [does-daoism-believe-in-a-creator ↗](https://daoismhub.com/experiences/questions/does-daoism-believe-in-a-creator/) |
 | [hundun](hundun.md) | related_to | [hundun ↗](https://daoismhub.com/stories/hundun/) |
 | [tian-ji](tian-ji.md) | associated_with | [tian-ji ↗](https://daoismhub.com/glossary/tian-ji/) |
 | [wang-liang-wen-jing](wang-liang-wen-jing.md) | related_to | [wang-liang-wen-jing ↗](https://daoismhub.com/stories/wang-liang-wen-jing/) |
@@ -22,7 +22,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | from | relation | main site |
 |---|---|---|
 | [dao-shu](dao-shu.md) | associated_with | [dao-shu ↗](https://daoismhub.com/glossary/dao-shu/) |
-| [does-daoism-believe-in-a-creator](does-daoism-believe-in-a-creator.md) | discusses | [does-daoism-believe-in-a-creator ↗](https://daoismhub.com/questions/does-daoism-believe-in-a-creator/) |
+| [does-daoism-believe-in-a-creator](does-daoism-believe-in-a-creator.md) | discusses | [does-daoism-believe-in-a-creator ↗](https://daoismhub.com/experiences/questions/does-daoism-believe-in-a-creator/) |
 | [guo-xiang](guo-xiang.md) | related_to | [guo-xiang ↗](https://daoismhub.com/people/guo-xiang/) |
 | [huan-zhong](huan-zhong.md) | associated_with | [huan-zhong ↗](https://daoismhub.com/glossary/huan-zhong/) |
 | [liang-xing](liang-xing.md) | associated_with | [liang-xing ↗](https://daoismhub.com/glossary/liang-xing/) |

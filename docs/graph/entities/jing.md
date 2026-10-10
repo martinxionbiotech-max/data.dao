@@ -28,7 +28,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [painter-unrobed](painter-unrobed.md) | concerns | [painter-unrobed ↗](https://daoismhub.com/stories/painter-unrobed/) |
 | [three-in-the-morning](three-in-the-morning.md) | concerns | [three-in-the-morning ↗](https://daoismhub.com/stories/three-in-the-morning/) |
 | [tuoyue](tuoyue.md) | concerns | [tuoyue ↗](https://daoismhub.com/glossary/tuoyue/) |
-| [what-is-stillness](what-is-stillness.md) | concerns | [what-is-stillness ↗](https://daoismhub.com/questions/what-is-stillness/) |
+| [what-is-stillness](what-is-stillness.md) | concerns | [what-is-stillness ↗](https://daoismhub.com/experiences/questions/what-is-stillness/) |
 | [yin-yang](yin-yang.md) | associated_with | [yin-yang ↗](https://daoismhub.com/concepts/yin-yang/) |
 | [yingning](yingning.md) | concerns | [yingning ↗](https://daoismhub.com/glossary/yingning/) |
 | [yongxin-ruo-jing-passage](yongxin-ruo-jing-passage.md) | concerns | [yongxin-ruo-jing-passage ↗](https://daoismhub.com/translations/yongxin-ruo-jing-passage/) |

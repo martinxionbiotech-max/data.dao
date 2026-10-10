@@ -11,7 +11,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 |---|---|---|
 | [fish-happiness](fish-happiness.md) | associated_with | [fish-happiness ↗](https://daoismhub.com/stories/fish-happiness/) |
 | [zhuangzi](zhuangzi.md) | described_in | [zhuangzi ↗](https://daoismhub.com/texts/zhuangzi/) |
-| [zuowang-safety-without-teacher](zuowang-safety-without-teacher.md) | concerns | [zuowang-safety-without-teacher ↗](https://daoismhub.com/questions/zuowang-safety-without-teacher/) |
+| [zuowang-safety-without-teacher](zuowang-safety-without-teacher.md) | concerns | [zuowang-safety-without-teacher ↗](https://daoismhub.com/experiences/questions/zuowang-safety-without-teacher/) |
 
 ## Incoming (2)
 

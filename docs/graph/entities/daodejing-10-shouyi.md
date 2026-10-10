@@ -20,5 +20,5 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [daodejing-37](daodejing-37.md) | associated_with | [daodejing-37 ↗](https://daoismhub.com/translations/daodejing-37/) |
 | [daodejing-51](daodejing-51.md) | associated_with | [daodejing-51 ↗](https://daoismhub.com/translations/daodejing-51/) |
 | [daodejing-55](daodejing-55.md) | associated_with | [daodejing-55 ↗](https://daoismhub.com/translations/daodejing-55/) |
-| [is-one-style-enough](is-one-style-enough.md) | references | [is-one-style-enough ↗](https://daoismhub.com/questions/is-one-style-enough/) |
+| [is-one-style-enough](is-one-style-enough.md) | references | [is-one-style-enough ↗](https://daoismhub.com/experiences/questions/is-one-style-enough/) |
 | [shouyi](shouyi.md) | translated_as | [shouyi ↗](https://daoismhub.com/glossary/shouyi/) |

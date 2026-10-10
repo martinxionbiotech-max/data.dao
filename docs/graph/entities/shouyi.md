@@ -27,12 +27,12 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [baoyi](baoyi.md) | concerns | [baoyi ↗](https://daoismhub.com/glossary/baoyi/) |
 | [cicada-catcher](cicada-catcher.md) | concerns | [cicada-catcher ↗](https://daoismhub.com/stories/cicada-catcher/) |
 | [cunsi](cunsi.md) | contrasts_with | [cunsi ↗](https://daoismhub.com/practices/cunsi/) |
-| [cunsi-or-zuowang](cunsi-or-zuowang.md) | concerns | [cunsi-or-zuowang ↗](https://daoismhub.com/questions/cunsi-or-zuowang/) |
+| [cunsi-or-zuowang](cunsi-or-zuowang.md) | concerns | [cunsi-or-zuowang ↗](https://daoismhub.com/experiences/questions/cunsi-or-zuowang/) |
 | [dantian](dantian.md) | related_to | [dantian ↗](https://daoismhub.com/glossary/dantian/) |
 | [daoist-meditation-explained](daoist-meditation-explained.md) | discusses | [daoist-meditation-explained ↗](https://daoismhub.com/guides/daoist-meditation-explained/) |
 | [daoist-vs-buddhist-meditation](daoist-vs-buddhist-meditation.md) | discusses | [daoist-vs-buddhist-meditation ↗](https://daoismhub.com/comparisons/daoist-vs-buddhist-meditation/) |
 | [guangchengzi](guangchengzi.md) | concerns | [guangchengzi ↗](https://daoismhub.com/stories/guangchengzi/) |
-| [is-one-style-enough](is-one-style-enough.md) | discusses | [is-one-style-enough ↗](https://daoismhub.com/questions/is-one-style-enough/) |
+| [is-one-style-enough](is-one-style-enough.md) | discusses | [is-one-style-enough ↗](https://daoismhub.com/experiences/questions/is-one-style-enough/) |
 | [jingzuo](jingzuo.md) | related_to | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
 | [map-of-chinese-contemplative-traditions](map-of-chinese-contemplative-traditions.md) | discusses | [map-of-chinese-contemplative-traditions ↗](https://daoismhub.com/guides/map-of-chinese-contemplative-traditions/) |
 | [neiguan](neiguan.md) | associated_with | [neiguan ↗](https://daoismhub.com/glossary/neiguan/) |

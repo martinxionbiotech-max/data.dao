@@ -1,6 +1,6 @@
 # combine-zuowang-mindfulness
 
-Main site page: [/questions/combine-zuowang-mindfulness/](https://daoismhub.com/questions/combine-zuowang-mindfulness/)
+Main site page: [/experiences/questions/combine-zuowang-mindfulness/](https://daoismhub.com/experiences/questions/combine-zuowang-mindfulness/)
 
 Graph entity ID: `combine-zuowang-mindfulness` - 5 direct relationships.
 Entity names in the tables link to their own entity pages; the "main site" column links to the full article on daoismhub.com.
@@ -16,6 +16,6 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [exp-013-buddhist-daoist-boundary](exp-013-buddhist-daoist-boundary.md) | concerns | [exp-013-buddhist-daoist-boundary ↗](https://daoismhub.com/experiences/exp-013-buddhist-daoist-boundary/) |
+| [exp-013-buddhist-daoist-boundary](exp-013-buddhist-daoist-boundary.md) | concerns | [exp-013-buddhist-daoist-boundary ↗](https://daoismhub.com/experiences/notes/exp-013-buddhist-daoist-boundary/) |
 | [handan-walk](handan-walk.md) | concerns | [handan-walk ↗](https://daoismhub.com/stories/handan-walk/) |
-| [is-one-style-enough](is-one-style-enough.md) | associated_with | [is-one-style-enough ↗](https://daoismhub.com/questions/is-one-style-enough/) |
+| [is-one-style-enough](is-one-style-enough.md) | associated_with | [is-one-style-enough ↗](https://daoismhub.com/experiences/questions/is-one-style-enough/) |

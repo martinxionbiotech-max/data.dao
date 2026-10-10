@@ -17,7 +17,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [cunsi-or-zuowang](cunsi-or-zuowang.md) | concerns | [cunsi-or-zuowang ↗](https://daoismhub.com/questions/cunsi-or-zuowang/) |
+| [cunsi-or-zuowang](cunsi-or-zuowang.md) | concerns | [cunsi-or-zuowang ↗](https://daoismhub.com/experiences/questions/cunsi-or-zuowang/) |
 | [cunsi-vs-zuowang](cunsi-vs-zuowang.md) | discusses | [cunsi-vs-zuowang ↗](https://daoismhub.com/comparisons/cunsi-vs-zuowang/) |
 | [daoist-meditation-explained](daoist-meditation-explained.md) | discusses | [daoist-meditation-explained ↗](https://daoismhub.com/guides/daoist-meditation-explained/) |
 | [neiguan](neiguan.md) | contrasts_with | [neiguan ↗](https://daoismhub.com/glossary/neiguan/) |

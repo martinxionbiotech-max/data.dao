@@ -1,6 +1,6 @@
 # is-sitting-religious
 
-Main site page: [/questions/is-sitting-religious/](https://daoismhub.com/questions/is-sitting-religious/)
+Main site page: [/experiences/questions/is-sitting-religious/](https://daoismhub.com/experiences/questions/is-sitting-religious/)
 
 Graph entity ID: `is-sitting-religious` - 14 direct relationships.
 Entity names in the tables link to their own entity pages; the "main site" column links to the full article on daoismhub.com.
@@ -9,10 +9,10 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | to | relation | main site |
 |---|---|---|
-| [does-daoism-believe-in-a-creator](does-daoism-believe-in-a-creator.md) | associated_with | [does-daoism-believe-in-a-creator ↗](https://daoismhub.com/questions/does-daoism-believe-in-a-creator/) |
+| [does-daoism-believe-in-a-creator](does-daoism-believe-in-a-creator.md) | associated_with | [does-daoism-believe-in-a-creator ↗](https://daoismhub.com/experiences/questions/does-daoism-believe-in-a-creator/) |
 | [jingzuo](jingzuo.md) | related_to | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
 | [mindfulness-meta-analysis-2014](mindfulness-meta-analysis-2014.md) | references | [mindfulness-meta-analysis-2014 ↗](https://daoismhub.com/research/mindfulness-meta-analysis-2014/) |
-| [qi-belief-necessary](qi-belief-necessary.md) | associated_with | [qi-belief-necessary ↗](https://daoismhub.com/questions/qi-belief-necessary/) |
+| [qi-belief-necessary](qi-belief-necessary.md) | associated_with | [qi-belief-necessary ↗](https://daoismhub.com/experiences/questions/qi-belief-necessary/) |
 | [qiwulun-wu-sang-wo](qiwulun-wu-sang-wo.md) | references | [qiwulun-wu-sang-wo ↗](https://daoismhub.com/translations/qiwulun-wu-sang-wo/) |
 | [xinzhai-passage](xinzhai-passage.md) | references | [xinzhai-passage ↗](https://daoismhub.com/translations/xinzhai-passage/) |
 | [yang-xi](yang-xi.md) | related_to | [yang-xi ↗](https://daoismhub.com/people/yang-xi/) |
@@ -25,6 +25,6 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [do-i-need-a-teacher](do-i-need-a-teacher.md) | associated_with | [do-i-need-a-teacher ↗](https://daoismhub.com/questions/do-i-need-a-teacher/) |
-| [does-diet-matter](does-diet-matter.md) | associated_with | [does-diet-matter ↗](https://daoismhub.com/questions/does-diet-matter/) |
-| [does-practice-need-faith](does-practice-need-faith.md) | associated_with | [does-practice-need-faith ↗](https://daoismhub.com/questions/does-practice-need-faith/) |
+| [do-i-need-a-teacher](do-i-need-a-teacher.md) | associated_with | [do-i-need-a-teacher ↗](https://daoismhub.com/experiences/questions/do-i-need-a-teacher/) |
+| [does-diet-matter](does-diet-matter.md) | associated_with | [does-diet-matter ↗](https://daoismhub.com/experiences/questions/does-diet-matter/) |
+| [does-practice-need-faith](does-practice-need-faith.md) | associated_with | [does-practice-need-faith ↗](https://daoismhub.com/experiences/questions/does-practice-need-faith/) |

@@ -9,7 +9,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | to | relation | main site |
 |---|---|---|
-| [exp-013-buddhist-daoist-boundary](exp-013-buddhist-daoist-boundary.md) | related_to | [exp-013-buddhist-daoist-boundary ↗](https://daoismhub.com/experiences/exp-013-buddhist-daoist-boundary/) |
+| [exp-013-buddhist-daoist-boundary](exp-013-buddhist-daoist-boundary.md) | related_to | [exp-013-buddhist-daoist-boundary ↗](https://daoismhub.com/experiences/notes/exp-013-buddhist-daoist-boundary/) |
 | [fu-yi](fu-yi.md) | associated_with | [fu-yi ↗](https://daoismhub.com/people/fu-yi/) |
 | [jingzuo](jingzuo.md) | concerns | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
 | [qingjing-jing](qingjing-jing.md) | related_to | [qingjing-jing ↗](https://daoismhub.com/texts/qingjing-jing/) |

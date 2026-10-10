@@ -17,7 +17,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 |---|---|---|
 | [boatman](boatman.md) | references | [boatman ↗](https://daoismhub.com/stories/boatman/) |
 | [daodejing-12](daodejing-12.md) | associated_with | [daodejing-12 ↗](https://daoismhub.com/translations/daodejing-12/) |
-| [does-diet-matter](does-diet-matter.md) | references | [does-diet-matter ↗](https://daoismhub.com/questions/does-diet-matter/) |
-| [does-practice-need-faith](does-practice-need-faith.md) | references | [does-practice-need-faith ↗](https://daoismhub.com/questions/does-practice-need-faith/) |
-| [is-sitting-religious](is-sitting-religious.md) | references | [is-sitting-religious ↗](https://daoismhub.com/questions/is-sitting-religious/) |
+| [does-diet-matter](does-diet-matter.md) | references | [does-diet-matter ↗](https://daoismhub.com/experiences/questions/does-diet-matter/) |
+| [does-practice-need-faith](does-practice-need-faith.md) | references | [does-practice-need-faith ↗](https://daoismhub.com/experiences/questions/does-practice-need-faith/) |
+| [is-sitting-religious](is-sitting-religious.md) | references | [is-sitting-religious ↗](https://daoismhub.com/experiences/questions/is-sitting-religious/) |
 | [xinzhai](xinzhai.md) | translated_as | [xinzhai ↗](https://daoismhub.com/glossary/xinzhai/) |

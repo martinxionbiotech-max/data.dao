@@ -19,7 +19,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [does-daoism-believe-in-a-creator](does-daoism-believe-in-a-creator.md) | discusses | [does-daoism-believe-in-a-creator ↗](https://daoismhub.com/questions/does-daoism-believe-in-a-creator/) |
+| [does-daoism-believe-in-a-creator](does-daoism-believe-in-a-creator.md) | discusses | [does-daoism-believe-in-a-creator ↗](https://daoismhub.com/experiences/questions/does-daoism-believe-in-a-creator/) |
 | [guo-xiang](guo-xiang.md) | related_to | [guo-xiang ↗](https://daoismhub.com/people/guo-xiang/) |
 | [hua](hua.md) | associated_with | [hua ↗](https://daoismhub.com/glossary/hua/) |
 | [ren-gongzi-fishing](ren-gongzi-fishing.md) | concerns | [ren-gongzi-fishing ↗](https://daoismhub.com/stories/ren-gongzi-fishing/) |

@@ -19,7 +19,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 |---|---|---|
 | [bao-weng-guan-qi](bao-weng-guan-qi.md) | concerns | [bao-weng-guan-qi ↗](https://daoismhub.com/stories/bao-weng-guan-qi/) |
 | [boshun-archer](boshun-archer.md) | concerns | [boshun-archer ↗](https://daoismhub.com/stories/boshun-archer/) |
-| [exp-009-dissolving-void](exp-009-dissolving-void.md) | concerns | [exp-009-dissolving-void ↗](https://daoismhub.com/experiences/exp-009-dissolving-void/) |
+| [exp-009-dissolving-void](exp-009-dissolving-void.md) | concerns | [exp-009-dissolving-void ↗](https://daoismhub.com/experiences/notes/exp-009-dissolving-void/) |
 | [ji-xin](ji-xin.md) | associated_with | [ji-xin ↗](https://daoismhub.com/glossary/ji-xin/) |
 | [mantis-stalks-cicada](mantis-stalks-cicada.md) | concerns | [mantis-stalks-cicada ↗](https://daoismhub.com/stories/mantis-stalks-cicada/) |
 | [wandering-mind-in-sitting](wandering-mind-in-sitting.md) | concerns | [wandering-mind-in-sitting ↗](https://daoismhub.com/problems/wandering-mind-in-sitting/) |

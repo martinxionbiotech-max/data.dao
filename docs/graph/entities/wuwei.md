@@ -40,7 +40,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [daodejing-78](daodejing-78.md) | related_to | [daodejing-78 ↗](https://daoismhub.com/translations/daodejing-78/) |
 | [de](de.md) | associated_with | [de ↗](https://daoismhub.com/glossary/de/) |
 | [diao-ling-yi-que](diao-ling-yi-que.md) | concerns | [diao-ling-yi-que ↗](https://daoismhub.com/stories/diao-ling-yi-que/) |
-| [does-diet-matter](does-diet-matter.md) | discusses | [does-diet-matter ↗](https://daoismhub.com/questions/does-diet-matter/) |
+| [does-diet-matter](does-diet-matter.md) | discusses | [does-diet-matter ↗](https://daoismhub.com/experiences/questions/does-diet-matter/) |
 | [hook-smith](hook-smith.md) | concerns | [hook-smith ↗](https://daoismhub.com/stories/hook-smith/) |
 | [kui-xian-chain](kui-xian-chain.md) | concerns | [kui-xian-chain ↗](https://daoismhub.com/stories/kui-xian-chain/) |
 | [light-brightness-asks-nothingness](light-brightness-asks-nothingness.md) | concerns | [light-brightness-asks-nothingness ↗](https://daoismhub.com/stories/light-brightness-asks-nothingness/) |

@@ -16,5 +16,5 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [exp-010-lotus-pain](exp-010-lotus-pain.md) | concerns | [exp-010-lotus-pain ↗](https://daoismhub.com/experiences/exp-010-lotus-pain/) |
-| [exp-011-shougong-protocol](exp-011-shougong-protocol.md) | concerns | [exp-011-shougong-protocol ↗](https://daoismhub.com/experiences/exp-011-shougong-protocol/) |
+| [exp-010-lotus-pain](exp-010-lotus-pain.md) | concerns | [exp-010-lotus-pain ↗](https://daoismhub.com/experiences/notes/exp-010-lotus-pain/) |
+| [exp-011-shougong-protocol](exp-011-shougong-protocol.md) | concerns | [exp-011-shougong-protocol ↗](https://daoismhub.com/experiences/notes/exp-011-shougong-protocol/) |

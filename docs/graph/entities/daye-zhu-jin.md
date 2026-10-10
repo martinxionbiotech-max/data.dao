@@ -9,7 +9,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | to | relation | main site |
 |---|---|---|
-| [can-meditation-cure-illness](can-meditation-cure-illness.md) | related_to | [can-meditation-cure-illness ↗](https://daoismhub.com/questions/can-meditation-cure-illness/) |
+| [can-meditation-cure-illness](can-meditation-cure-illness.md) | related_to | [can-meditation-cure-illness ↗](https://daoismhub.com/experiences/questions/can-meditation-cure-illness/) |
 | [four-friends](four-friends.md) | associated_with | [four-friends ↗](https://daoismhub.com/stories/four-friends/) |
 | [qinshi-mourning](qinshi-mourning.md) | associated_with | [qinshi-mourning ↗](https://daoismhub.com/stories/qinshi-mourning/) |
 | [xian-jie](xian-jie.md) | concerns | [xian-jie ↗](https://daoismhub.com/glossary/xian-jie/) |

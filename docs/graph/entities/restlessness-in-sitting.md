@@ -15,6 +15,6 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [exp-012-restless-body](exp-012-restless-body.md) | related_to | [exp-012-restless-body ↗](https://daoismhub.com/experiences/exp-012-restless-body/) |
-| [should-i-use-timers](should-i-use-timers.md) | concerns | [should-i-use-timers ↗](https://daoismhub.com/questions/should-i-use-timers/) |
+| [exp-012-restless-body](exp-012-restless-body.md) | related_to | [exp-012-restless-body ↗](https://daoismhub.com/experiences/notes/exp-012-restless-body/) |
+| [should-i-use-timers](should-i-use-timers.md) | concerns | [should-i-use-timers ↗](https://daoismhub.com/experiences/questions/should-i-use-timers/) |
 | [yingning](yingning.md) | concerns | [yingning ↗](https://daoismhub.com/glossary/yingning/) |

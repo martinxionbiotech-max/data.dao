@@ -30,9 +30,9 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [daodejing-45](daodejing-45.md) | concerns | [daodejing-45 ↗](https://daoismhub.com/translations/daodejing-45/) |
 | [daoist-meditation-explained](daoist-meditation-explained.md) | discusses | [daoist-meditation-explained ↗](https://daoismhub.com/guides/daoist-meditation-explained/) |
 | [dongguo-zi-asks](dongguo-zi-asks.md) | concerns | [dongguo-zi-asks ↗](https://daoismhub.com/stories/dongguo-zi-asks/) |
-| [exp-005-night-qi-movement](exp-005-night-qi-movement.md) | associated_with | [exp-005-night-qi-movement ↗](https://daoismhub.com/experiences/exp-005-night-qi-movement/) |
+| [exp-005-night-qi-movement](exp-005-night-qi-movement.md) | associated_with | [exp-005-night-qi-movement ↗](https://daoismhub.com/experiences/notes/exp-005-night-qi-movement/) |
 | [hook-smith](hook-smith.md) | concerns | [hook-smith ↗](https://daoismhub.com/stories/hook-smith/) |
-| [i-feel-nothing-when-i-sit](i-feel-nothing-when-i-sit.md) | concerns | [i-feel-nothing-when-i-sit ↗](https://daoismhub.com/questions/i-feel-nothing-when-i-sit/) |
+| [i-feel-nothing-when-i-sit](i-feel-nothing-when-i-sit.md) | concerns | [i-feel-nothing-when-i-sit ↗](https://daoismhub.com/experiences/questions/i-feel-nothing-when-i-sit/) |
 | [liezi](liezi.md) | concerns | [liezi ↗](https://daoismhub.com/texts/liezi/) |
 | [light-brightness-asks-nothingness](light-brightness-asks-nothingness.md) | concerns | [light-brightness-asks-nothingness ↗](https://daoismhub.com/stories/light-brightness-asks-nothingness/) |
 | [losing-body-awareness](losing-body-awareness.md) | concerns | [losing-body-awareness ↗](https://daoismhub.com/problems/losing-body-awareness/) |
@@ -42,7 +42,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [taiqing-asks-wuqiong](taiqing-asks-wuqiong.md) | concerns | [taiqing-asks-wuqiong ↗](https://daoismhub.com/stories/taiqing-asks-wuqiong/) |
 | [tian-jun](tian-jun.md) | concerns | [tian-jun ↗](https://daoismhub.com/glossary/tian-jun/) |
 | [tuoyue](tuoyue.md) | concerns | [tuoyue ↗](https://daoismhub.com/glossary/tuoyue/) |
-| [why-do-i-see-lights](why-do-i-see-lights.md) | concerns | [why-do-i-see-lights ↗](https://daoismhub.com/questions/why-do-i-see-lights/) |
+| [why-do-i-see-lights](why-do-i-see-lights.md) | concerns | [why-do-i-see-lights ↗](https://daoismhub.com/experiences/questions/why-do-i-see-lights/) |
 | [wu-he-you-zhi-xiang](wu-he-you-zhi-xiang.md) | associated_with | [wu-he-you-zhi-xiang ↗](https://daoismhub.com/glossary/wu-he-you-zhi-xiang/) |
 | [wu-sang-wo](wu-sang-wo.md) | concerns | [wu-sang-wo ↗](https://daoismhub.com/glossary/wu-sang-wo/) |
 | [wu-shi-wu-zhong](wu-shi-wu-zhong.md) | associated_with | [wu-shi-wu-zhong ↗](https://daoismhub.com/glossary/wu-shi-wu-zhong/) |

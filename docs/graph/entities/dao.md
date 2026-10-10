@@ -28,7 +28,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 | [daodejing-14](daodejing-14.md) | concerns | [daodejing-14 ↗](https://daoismhub.com/translations/daodejing-14/) |
 | [daodejing-42](daodejing-42.md) | related_to | [daodejing-42 ↗](https://daoismhub.com/translations/daodejing-42/) |
 | [daodejing-51](daodejing-51.md) | related_to | [daodejing-51 ↗](https://daoismhub.com/translations/daodejing-51/) |
-| [does-practice-need-faith](does-practice-need-faith.md) | discusses | [does-practice-need-faith ↗](https://daoismhub.com/questions/does-practice-need-faith/) |
+| [does-practice-need-faith](does-practice-need-faith.md) | discusses | [does-practice-need-faith ↗](https://daoismhub.com/experiences/questions/does-practice-need-faith/) |
 | [dongguo-zi-asks](dongguo-zi-asks.md) | concerns | [dongguo-zi-asks ↗](https://daoismhub.com/stories/dongguo-zi-asks/) |
 | [jian-du](jian-du.md) | concerns | [jian-du ↗](https://daoismhub.com/glossary/jian-du/) |
 | [light-brightness-asks-nothingness](light-brightness-asks-nothingness.md) | concerns | [light-brightness-asks-nothingness ↗](https://daoismhub.com/stories/light-brightness-asks-nothingness/) |

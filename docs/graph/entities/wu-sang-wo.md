@@ -23,7 +23,7 @@ Entity names in the tables link to their own entity pages; the "main site" colum
 
 | from | relation | main site |
 |---|---|---|
-| [can-i-sit-in-bed](can-i-sit-in-bed.md) | discusses | [can-i-sit-in-bed ↗](https://daoismhub.com/questions/can-i-sit-in-bed/) |
+| [can-i-sit-in-bed](can-i-sit-in-bed.md) | discusses | [can-i-sit-in-bed ↗](https://daoismhub.com/experiences/questions/can-i-sit-in-bed/) |
 | [daodejing-13](daodejing-13.md) | related_to | [daodejing-13 ↗](https://daoismhub.com/translations/daodejing-13/) |
 | [light-brightness-asks-nothingness](light-brightness-asks-nothingness.md) | concerns | [light-brightness-asks-nothingness ↗](https://daoismhub.com/stories/light-brightness-asks-nothingness/) |
 | [qiu-hao](qiu-hao.md) | concerns | [qiu-hao ↗](https://daoismhub.com/stories/qiu-hao/) |
