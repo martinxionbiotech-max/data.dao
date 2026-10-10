@@ -3,21 +3,22 @@
 Main site page: [/questions/why-am-i-so-sleepy/](https://daoismhub.com/questions/why-am-i-so-sleepy/)
 
 Graph entity ID: `why-am-i-so-sleepy` - 8 direct relationships.
+Entity names in the tables link to their own entity pages; the "main site" column links to the full article on daoismhub.com.
 
 ## Outgoing (7)
 
-| to | relation |
-|---|---|
-| can-i-sit-in-bed | associated_with |
-| drowsiness-in-sitting | concerns |
-| drowsiness-vs-stillness | discusses |
-| exp-001-falling-asleep | references |
-| exp-028-abdominal-breathing | references |
-| how-long-should-i-sit | associated_with |
-| what-is-stillness | associated_with |
+| to | relation | main site |
+|---|---|---|
+| [can-i-sit-in-bed](can-i-sit-in-bed.md) | associated_with | [can-i-sit-in-bed ↗](https://daoismhub.com/questions/can-i-sit-in-bed/) |
+| [drowsiness-in-sitting](drowsiness-in-sitting.md) | concerns | [drowsiness-in-sitting ↗](https://daoismhub.com/problems/drowsiness-in-sitting/) |
+| [drowsiness-vs-stillness](drowsiness-vs-stillness.md) | discusses | [drowsiness-vs-stillness ↗](https://daoismhub.com/patterns/drowsiness-vs-stillness/) |
+| [exp-001-falling-asleep](exp-001-falling-asleep.md) | references | [exp-001-falling-asleep ↗](https://daoismhub.com/experiences/exp-001-falling-asleep/) |
+| [exp-028-abdominal-breathing](exp-028-abdominal-breathing.md) | references | [exp-028-abdominal-breathing ↗](https://daoismhub.com/experiences/exp-028-abdominal-breathing/) |
+| [how-long-should-i-sit](how-long-should-i-sit.md) | associated_with | [how-long-should-i-sit ↗](https://daoismhub.com/questions/how-long-should-i-sit/) |
+| [what-is-stillness](what-is-stillness.md) | associated_with | [what-is-stillness ↗](https://daoismhub.com/questions/what-is-stillness/) |
 
 ## Incoming (1)
 
-| from | relation |
-|---|---|
-| exp-029-the-human-body | concerns |
+| from | relation | main site |
+|---|---|---|
+| [exp-029-the-human-body](exp-029-the-human-body.md) | concerns | [exp-029-the-human-body ↗](https://daoismhub.com/experiences/exp-029-the-human-body/) |

@@ -1,6 +1,7 @@
 site_name: Dao Data
 site_description: Structured data hub for the Dao knowledge base — entities, relationships, sources and schemas
 site_url: https://data.daoismhub.com/
+copyright: 'Contact: Martin.W · Phone / WhatsApp: +86 13323237275 · Email: landengltd@gmail.com'
 theme:
   name: material
   features:
@@ -10,6 +11,7 @@ markdown_extensions:
   - tables
   - admonition
 nav:
+  - DaoismHub (main site): https://daoismhub.com/
   - Home: index.md
   - Entities:
       - Concepts: entities/concepts.md

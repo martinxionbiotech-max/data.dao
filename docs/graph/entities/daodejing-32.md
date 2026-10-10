@@ -3,23 +3,24 @@
 Main site page: [/translations/daodejing-32/](https://daoismhub.com/translations/daodejing-32/)
 
 Graph entity ID: `daodejing-32` - 10 direct relationships.
+Entity names in the tables link to their own entity pages; the "main site" column links to the full article on daoismhub.com.
 
 ## Outgoing (8)
 
-| to | relation |
-|---|---|
-| daodejing | described_in |
-| daodejing-01 | associated_with |
-| daodejing-25 | associated_with |
-| daodejing-37 | associated_with |
-| pu | concerns |
-| wuwei | related_to |
-| zhi-shui | related_to |
-| ziran | related_to |
+| to | relation | main site |
+|---|---|---|
+| [daodejing](daodejing.md) | described_in | [daodejing ↗](https://daoismhub.com/texts/daodejing/) |
+| [daodejing-01](daodejing-01.md) | associated_with | [daodejing-01 ↗](https://daoismhub.com/translations/daodejing-01/) |
+| [daodejing-25](daodejing-25.md) | associated_with | [daodejing-25 ↗](https://daoismhub.com/translations/daodejing-25/) |
+| [daodejing-37](daodejing-37.md) | associated_with | [daodejing-37 ↗](https://daoismhub.com/translations/daodejing-37/) |
+| [pu](pu.md) | concerns | [pu ↗](https://daoismhub.com/concepts/pu/) |
+| [wuwei](wuwei.md) | related_to | [wuwei ↗](https://daoismhub.com/glossary/wuwei/) |
+| [zhi-shui](zhi-shui.md) | related_to | [zhi-shui ↗](https://daoismhub.com/glossary/zhi-shui/) |
+| [ziran](ziran.md) | related_to | [ziran ↗](https://daoismhub.com/concepts/ziran/) |
 
 ## Incoming (2)
 
-| from | relation |
-|---|---|
-| bei-gong-she | references |
-| daodejing-46 | associated_with |
+| from | relation | main site |
+|---|---|---|
+| [bei-gong-she](bei-gong-she.md) | references | [bei-gong-she ↗](https://daoismhub.com/stories/bei-gong-she/) |
+| [daodejing-46](daodejing-46.md) | associated_with | [daodejing-46 ↗](https://daoismhub.com/translations/daodejing-46/) |

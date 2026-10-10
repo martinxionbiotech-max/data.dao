@@ -3,18 +3,19 @@
 Main site page: [/questions/zuowang-safety-without-teacher/](https://daoismhub.com/questions/zuowang-safety-without-teacher/)
 
 Graph entity ID: `zuowang-safety-without-teacher` - 4 direct relationships.
+Entity names in the tables link to their own entity pages; the "main site" column links to the full article on daoismhub.com.
 
 ## Outgoing (0)
 
-| to | relation |
-|---|---|
-| - | - |
+| to | relation | main site |
+|---|---|---|
+| - | - | - |
 
 ## Incoming (4)
 
-| from | relation |
-|---|---|
-| carpenter-shi | concerns |
-| do-i-need-a-teacher | associated_with |
-| exp-027-finding-a-teacher | concerns |
-| zuowang | concerns |
+| from | relation | main site |
+|---|---|---|
+| [carpenter-shi](carpenter-shi.md) | concerns | [carpenter-shi ↗](https://daoismhub.com/stories/carpenter-shi/) |
+| [do-i-need-a-teacher](do-i-need-a-teacher.md) | associated_with | [do-i-need-a-teacher ↗](https://daoismhub.com/questions/do-i-need-a-teacher/) |
+| [exp-027-finding-a-teacher](exp-027-finding-a-teacher.md) | concerns | [exp-027-finding-a-teacher ↗](https://daoismhub.com/experiences/exp-027-finding-a-teacher/) |
+| [zuowang](zuowang.md) | concerns | [zuowang ↗](https://daoismhub.com/glossary/zuowang/) |

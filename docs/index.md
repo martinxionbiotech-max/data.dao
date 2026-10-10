@@ -40,6 +40,18 @@ published), graph edges in `relationships.json`, source records in `sources.json
   28 questions from Chinese community sources (see the source map in the main repo).
 - Main site: see [daoismhub.com](https://daoismhub.com/).
 
+## Explore the main site
+
+Every registry row and every entity page on this site links back to the full
+article on [daoismhub.com](https://daoismhub.com/). Start here:
+
+- [DaoismHub home](https://daoismhub.com/) — the complete knowledge base
+- [Concepts](https://daoismhub.com/concepts/) · [Practices](https://daoismhub.com/practices/) · [Glossary](https://daoismhub.com/glossary/)
+- [Texts](https://daoismhub.com/texts/) · [Translations](https://daoismhub.com/translations/) · [People](https://daoismhub.com/people/)
+- [Research](https://daoismhub.com/research/) · [Comparisons](https://daoismhub.com/comparisons/) · [Problems](https://daoismhub.com/problems/)
+- [Experiences](https://daoismhub.com/experiences/) · [Stories](https://daoismhub.com/stories/) · [Timeline](https://daoismhub.com/timeline/)
+- [Guides](https://daoismhub.com/guides/) · [Tools](https://daoismhub.com/tools/)
+
 ## What is here
 
 - **Entities** — concepts, practices, people, texts, translations, timeline

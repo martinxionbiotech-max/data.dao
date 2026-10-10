@@ -3,26 +3,27 @@
 Main site page: [/experiences/exp-031-lotus-posture-chapter/](https://daoismhub.com/experiences/exp-031-lotus-posture-chapter/)
 
 Graph entity ID: `exp-031-lotus-posture-chapter` - 13 direct relationships.
+Entity names in the tables link to their own entity pages; the "main site" column links to the full article on daoismhub.com.
 
 ## Outgoing (12)
 
-| to | relation |
-|---|---|
-| can-meditation-cure-illness | concerns |
-| exp-003-leg-pain-filling | associated_with |
-| exp-006-leg-numbness | associated_with |
-| exp-010-lotus-pain | associated_with |
-| exp-014-double-lotus-doctrine | associated_with |
-| exp-018-halflotus-to-full-lotus | associated_with |
-| exp-029-the-human-body | associated_with |
-| exp-030-the-pain-ledger | associated_with |
-| how-long-should-i-sit | concerns |
-| jingzuo | related_to |
-| must-i-sit-cross-legged | concerns |
-| should-i-use-timers | concerns |
+| to | relation | main site |
+|---|---|---|
+| [can-meditation-cure-illness](can-meditation-cure-illness.md) | concerns | [can-meditation-cure-illness ↗](https://daoismhub.com/questions/can-meditation-cure-illness/) |
+| [exp-003-leg-pain-filling](exp-003-leg-pain-filling.md) | associated_with | [exp-003-leg-pain-filling ↗](https://daoismhub.com/experiences/exp-003-leg-pain-filling/) |
+| [exp-006-leg-numbness](exp-006-leg-numbness.md) | associated_with | [exp-006-leg-numbness ↗](https://daoismhub.com/experiences/exp-006-leg-numbness/) |
+| [exp-010-lotus-pain](exp-010-lotus-pain.md) | associated_with | [exp-010-lotus-pain ↗](https://daoismhub.com/experiences/exp-010-lotus-pain/) |
+| [exp-014-double-lotus-doctrine](exp-014-double-lotus-doctrine.md) | associated_with | [exp-014-double-lotus-doctrine ↗](https://daoismhub.com/experiences/exp-014-double-lotus-doctrine/) |
+| [exp-018-halflotus-to-full-lotus](exp-018-halflotus-to-full-lotus.md) | associated_with | [exp-018-halflotus-to-full-lotus ↗](https://daoismhub.com/experiences/exp-018-halflotus-to-full-lotus/) |
+| [exp-029-the-human-body](exp-029-the-human-body.md) | associated_with | [exp-029-the-human-body ↗](https://daoismhub.com/experiences/exp-029-the-human-body/) |
+| [exp-030-the-pain-ledger](exp-030-the-pain-ledger.md) | associated_with | [exp-030-the-pain-ledger ↗](https://daoismhub.com/experiences/exp-030-the-pain-ledger/) |
+| [how-long-should-i-sit](how-long-should-i-sit.md) | concerns | [how-long-should-i-sit ↗](https://daoismhub.com/questions/how-long-should-i-sit/) |
+| [jingzuo](jingzuo.md) | related_to | [jingzuo ↗](https://daoismhub.com/glossary/jingzuo/) |
+| [must-i-sit-cross-legged](must-i-sit-cross-legged.md) | concerns | [must-i-sit-cross-legged ↗](https://daoismhub.com/questions/must-i-sit-cross-legged/) |
+| [should-i-use-timers](should-i-use-timers.md) | concerns | [should-i-use-timers ↗](https://daoismhub.com/questions/should-i-use-timers/) |
 
 ## Incoming (1)
 
-| from | relation |
-|---|---|
-| exp-032-from-zero-to-desire-realm | associated_with |
+| from | relation | main site |
+|---|---|---|
+| [exp-032-from-zero-to-desire-realm](exp-032-from-zero-to-desire-realm.md) | associated_with | [exp-032-from-zero-to-desire-realm ↗](https://daoismhub.com/experiences/exp-032-from-zero-to-desire-realm/) |
