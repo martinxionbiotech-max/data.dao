@@ -1,7 +1,7 @@
 site_name: Dao Data
 site_description: Structured data hub for the Dao knowledge base — entities, relationships, sources and schemas
 site_url: https://data.daoismhub.com/
-copyright: 'Contact: Martin.W · Phone / WhatsApp: +86 13323237275 · Email: landengltd@gmail.com'
+copyright: 'Contact: Martin.W · Phone / WhatsApp: +86 13323237275 · Email: landengltd@gmail.com · <a href="https://daoismhub.com/compliance/">Compliance &amp; Terms</a> · <a href="https://daoismhub.com/privacy/">Privacy</a> · <a href="https://daoismhub.com/disclaimer/">Disclaimer</a> · © 2026 DaoismHub'
 theme:
   name: material
   features:
