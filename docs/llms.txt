@@ -1,0 +1,37 @@
+# Dao Data
+
+> Structured data hub for the Dao knowledge base — entities, relationships, sources, and schemas. Contact: Martin.W · Phone / WhatsApp +86 13323237275 · Email landengltd@gmail.com.
+
+## Core Pages
+
+- [Home](https://data.daoismhub.com/): Entry point to the structured data hub.
+- [Entities](https://data.daoismhub.com/entities/): Entity index.
+  - [Concepts](https://data.daoismhub.com/entities/concepts/): Concept entities.
+  - [Practices](https://data.daoismhub.com/entities/practices/): Practice entities.
+  - [People](https://data.daoismhub.com/entities/people/): Person entities.
+  - [Texts](https://data.daoismhub.com/entities/texts/): Text entities.
+  - [Translations](https://data.daoismhub.com/entities/translations/): Translation entities.
+  - [Timeline](https://data.daoismhub.com/entities/timeline/): Timeline entities.
+  - [Glossary](https://data.daoismhub.com/entities/glossary/): Glossary entities.
+  - [Stories](https://data.daoismhub.com/entities/stories/): Story entities.
+  - [Research](https://data.daoismhub.com/entities/research/): Research entities.
+  - [Comparisons](https://data.daoismhub.com/entities/comparisons/): Comparison entities.
+  - [Problems](https://data.daoismhub.com/entities/problems/): Problem entities.
+  - [Tools](https://data.daoismhub.com/entities/tools/): Tool entities.
+- [Experience System](https://data.daoismhub.com/experiences/): Practitioner experience data.
+  - [Patterns](https://data.daoismhub.com/experiences/patterns/): Experience patterns.
+  - [Questions](https://data.daoismhub.com/experiences/questions/): Practitioner questions.
+- [Knowledge Graph](https://data.daoismhub.com/graph/relationships/): Entity relationships.
+  - [Graph Explorer](https://data.daoismhub.com/graph/entity-explorer/): Interactive graph explorer.
+  - [Sources Registry](https://data.daoismhub.com/graph/sources/): Sources registry.
+- [Schemas](https://data.daoismhub.com/schemas/data-schema/): Data schema documentation.
+  - [Evidence System](https://data.daoismhub.com/schemas/evidence-system/): Evidence classification system.
+
+## Main site
+
+- [DaoismHub](https://daoismhub.com/): Main knowledge base.
+
+## Notes
+
+- This is a structured-data sub-site; content is machine-readable reference data organized by entity and relationship.
+- Evidence and sourcing follow the project's explicit evidence classification system (see the Evidence System schema).
